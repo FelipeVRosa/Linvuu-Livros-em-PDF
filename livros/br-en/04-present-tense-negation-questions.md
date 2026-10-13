@@ -46,7 +46,7 @@ English verbs hardly change: *I work, you work, we work, they work*, and only *h
 Every Portuguese verb has an **infinitive**, the "to ___" form, and it always ends in **-ar**, **-er** or **-ir**. Remove the ending and you have the **stem**. Then add the endings of the present tense.
 
 ::: passo 1 Find the group
-Look at the last two letters of the infinitive. {{Falar}} (to speak) is an **-ar** verb; {{comer}} (to eat) is an **-er** verb; {{abrir}} (to open) is an **-ir** verb. Almost nine verbs out of ten in Portuguese are -ar verbs, so that is the group to learn first.
+Look at the last two letters of the infinitive. {{Falar}} (to speak) is an **-ar** verb; {{comer}} (to eat) is an **-er** verb; {{abrir}} (to open) is an **-ir** verb. Most Portuguese verbs are -ar verbs, so that is the group to learn first.
 :::
 
 ::: passo 2 Remove the ending
@@ -81,7 +81,7 @@ Look at the table: the -er and -ir verbs differ in only one place, the {{nós}} 
 
 ### The stress moves in the nós form
 
-The stress sits on the stem in three of the four forms: {{FA-lo}}, {{FA-la}}, {{FA-lam}}. In the {{nós}} form it moves to the ending: {{fa-LA-mos}}. Say it aloud: {{falo}} `FAH-loo`, but {{falamos}} `fah-LAH-mooss`. You already know why: Lesson 1 said that words ending in **-s** are stressed on the second-to-last syllable, but the vowel before **-mos** is stressed in the {{nós}} form; this is a regular exception you can learn as part of the ending.
+The stress sits on the stem in three of the four forms: {{FA-lo}}, {{FA-la}}, {{FA-lam}}. In the {{nós}} form it moves to the ending: {{fa-LA-mos}}. Say it aloud: {{falo}} `FAH-loo`, but {{falamos}} `fah-LAH-mooss`. This needs no new rule. Lesson 1 says that words ending in a vowel or in **-s** are stressed on the second-to-last syllable. In {{falo}} that syllable is the stem; in {{falamos}} the extra syllable **-mos** pushes the stress onto the ending.
 
 The third-person plural ending **-am** is pronounced `ah~oo`, and **-em** is `eh~ee`. Do not say "AM" as in *ham*. Compare {{ele fala}} `EH-lee FAH-lah` and {{eles falam}} `EH-leess FAH-lah~oo`: in speech, the difference between singular and plural is precisely that final nasal sound, so make it clear.
 
@@ -109,7 +109,7 @@ Start with the infinitives below. Each one follows the endings in 4.3.
 | {{ficar}} | `fee-KAR` | to stay, to be located | {{assistir}} | `ah-sees-TCHEER` | to watch |
 | {{viajar}} | `vee-ah-ZHAR` | to travel | {{dividir}} | `djee-vee-DJEER` | to divide, to share |
 
-Two verbs from the scene work with a small word after them. **{{Gostar}}** (to like) and **{{precisar}}** (to need) take **de**: {{Gosto de café}}, {{Preciso de ajuda}} (I need help). Other verbs, like {{esperar}} (to wait), {{pagar}} (to pay) and {{ajudar}} (to help), take no preposition in Portuguese: {{Espero o ônibus}}, {{Pago a conta}}, {{Ajudo a minha mãe}}. You will meet more of these in Lesson 8.
+Two verbs from the scene work with a small word after them. **{{Gostar}}** (to like) and **{{precisar}}** (to need) take **de**: {{Gosto de café}}, {{Preciso de ajuda}} (I need help). Other verbs, like {{esperar}} (to wait), {{pagar}} (to pay) and {{ajudar}} (to help), take no preposition in Portuguese: {{Espero o ônibus}}, {{Pago a conta}}, {{Ajudo o Pedro}}. You will meet more of these in Lesson 8.
 
 Two more useful ones, with a meaning you cannot guess: {{tomar café}} `toh-MAR kah-FEH` (to have coffee; also *to drink*, *to take*) and {{pegar o ônibus}} `peh-GAR oo OH-nee-booss` (to catch the bus). Brazilians say {{tomar}} for drinks and medicines, {{pegar}} for transport, and {{comer}} for food.
 
@@ -155,7 +155,7 @@ To say what you do not do, put **{{não}}** in front of the verb. Nothing else c
 | {{Ele fala alemão.}} | {{Ele não fala alemão.}} |
 | {{Nós comemos carne.}} | {{Nós não comemos carne.}} |
 
-When you answer a yes-or-no question, you can repeat the verb. Brazilian speakers do not usually say a bare *yes* or *no* the way English does:
+When you answer a yes-or-no question, Brazilians often repeat the verb, with or without {{sim}}, instead of giving a bare *yes*:
 
 | Question | Yes | No |
 |---|---|---|
@@ -211,7 +211,7 @@ In Portuguese the question word begins the sentence, and the rest follows in sta
 :::
 
 ::: passo 2 Use "quem" with a singular verb
-{{Quem}} always takes the {{ele/ela}} form of the verb, even when you expect several people: {{Quem fala português aqui?}} (Who here speaks Portuguese?).
+With ordinary verbs, {{quem}} takes the {{ele/ela}} form, even when you expect several people: {{Quem fala português aqui?}} (Who here speaks Portuguese?).
 :::
 
 ::: passo 3 Add "é que" when you want to sound natural
@@ -241,7 +241,24 @@ Look at the pairs {{tem}} and {{têm}}. They sound the same, and the circumflex 
 
 You already use these verbs in the blocks you have learned: {{Tenho trinta anos}}, {{O que você faz?}}, {{Vamos?}} Learn the full picture in the next lessons; for now, notice only that the {{nós}} form always ends in **-mos** and the {{eles}} form in **-m** or a nasal **-ão**.
 
-## 4.9 Read a real text
+## 4.9 A mini-interview: ask, answer, return the question
+
+Real conversation moves in a loop: someone asks, you answer, you ask back. The little word that closes the loop is {{e você?}} (and you?). Read this short interview aloud, then cover the right-hand column and answer for yourself.
+
+| Question | Possible answer |
+|---|---|
+| {{Você mora aqui?}} | {{Moro, sim. E você?}} |
+| {{Onde você trabalha?}} | {{Trabalho num hospital. E você?}} |
+| {{Você fala outras línguas?}} | {{Falo inglês e um pouco de espanhol.}} |
+| {{O que você faz no fim de semana?}} | {{Assisto a filmes e encontro os amigos.}} |
+| {{Você come carne?}} | {{Não, não como. Sou vegetariano.}} |
+| {{Quando você estuda?}} | {{Estudo de manhã, antes do trabalho.}} |
+
+Two things to notice. First, the verb in the answer repeats the verb in the question, but its person changes: {{Você mora}} becomes {{Moro}}. Second, English speakers tend to answer with a full sentence, "I live here". In Portuguese, the short answer is more natural: {{Moro}}, {{Trabalho num hospital}}. The pronoun {{eu}} appears only for contrast: {{Eu moro aqui, mas ela mora em Recife}}.
+
+New words in the table: {{outro / outra}} `OH-troo` (other), {{encontrar}} `eh~-koh~-TRAR` (to meet, to find), {{o filme}} `oo FEE-oo-mee` (the film), {{antes de}} `AH~-tcheess djee` (before), {{vegetariano}} `veh-zheh-tah-ree-AH-noo`, {{o hospital}} `oo ohs-pee-TAH-oo`.
+
+## 4.10 Read a real text
 
 Read the text aloud, first with the guide and then without it.
 
@@ -253,7 +270,7 @@ Translation: *I am Rafael. I live in Salvador and work at a bank. In the morning
 
 Check the verbs: {{moro}}, {{trabalho}}, {{tomo}}, {{pego}}, {{como}}, {{assisto}}, {{ensino}}. All are {{eu}} forms in **-o**. Now rewrite the text about someone else, changing every verb to the {{ele}} form: {{Ele mora em Salvador e trabalha num banco…}}
 
-## 4.10 The mistakes English speakers make
+## 4.11 The mistakes English speakers make
 
 ::: erros
 | Wrong | Right | Why |
@@ -265,15 +282,14 @@ Check the verbs: {{moro}}, {{trabalho}}, {{tomo}}, {{pego}}, {{como}}, {{assisto
 | {{Você faz fala português?}} | {{Você fala português?}} | there is no *do* or *does* |
 | {{Eu não faço falo alemão.}} | {{Eu não falo alemão.}} | the negative is {{não}} plus the verb |
 | {{Eu falo não alemão.}} | {{Eu não falo alemão.}} | {{não}} goes in front of the verb |
-| {{Eu não tenho nada.}} / {{Eu tenho nada.}} | {{Eu não tenho nada.}} | after the verb, {{nada}} needs {{não}} before the verb |
-| {{Onde mora você?}} (in speech) | {{Onde você mora?}} | in speech the subject stays before the verb |
-| {{Você é mora aqui?}} | {{Você mora aqui?}} | do not add *ser* to the verb; {{moro}} already says "I live" |
+| {{Eu tenho nada.}} | {{Eu não tenho nada.}} | after the verb, {{nada}} needs {{não}} before the verb |
+| {{Eu sou moro em Salvador.}} | {{Moro em Salvador.}} | do not add *ser* to a verb; {{moro}} already says "I live" |
 | {{Eu gosto café.}} | {{Eu gosto de café.}} | {{gostar}} takes **de** |
 | {{Eu preciso um café.}} | {{Eu preciso de um café.}} | {{precisar}} takes **de** |
 | {{Quanto anos você tem?}} | {{Quantos anos você tem?}} | {{quanto}} agrees with {{anos}} |
 :::
 
-## 4.11 Practice
+## 4.12 Practice
 
 ::: exercicio Part A: Conjugate the verb
 Write the correct present-tense form.
@@ -385,7 +401,7 @@ Each sentence has one mistake. Correct it.
 42. A model answer: {{A minha irmã mora em Lisboa. Ela trabalha num hospital. Ela fala três línguas. Ela viaja muito.}} Check that every verb ends in **-a**.
 :::
 
-## 4.12 Return
+## 4.13 Return
 
 These three questions bring back Lessons 1 to 3.
 
@@ -402,7 +418,7 @@ Check: (1) {{as lições}}, {{os hotéis}}, {{os pães}}; (2) {{no}}, {{da}}; (3
 | Day 7 | Ask a friend (or yourself) eight questions with eight different question words. |
 | Day 14 | Tell a short story about someone's routine, using the {{ele/ela}} form only. |
 
-## 4.13 Pocket summary: Lesson 4
+## 4.14 Pocket summary: Lesson 4
 
 ::: resumo
 - **Three groups:** -ar, -er, -ir. Take off the ending and add: **eu -o**; **você/ele/ela/a gente -a** (-ar) or **-e** (-er, -ir); **nós -amos / -emos / -imos**; **vocês/eles/elas -am** (-ar) or **-em** (-er, -ir).
@@ -415,6 +431,6 @@ Check: (1) {{as lições}}, {{os hotéis}}, {{os pães}}; (2) {{no}}, {{da}}; (3
 - **Spelling:** {{dirigir → dirijo}}, {{conhecer → conheço}}; {{têm}} (plural) and {{tem}} (singular) sound alike.
 :::
 
-## 4.14 What comes next
+## 4.15 What comes next
 
 In Lesson 5 you meet the two Portuguese verbs for *to be* side by side. You will learn {{estar}} for states and places, {{ter}} for having and for age, {{tem}} and {{há}} for *there is*, and the great contrast of {{ser}} and {{estar}}: {{ele é chato}} is not {{ele está chato}}.
