@@ -28,7 +28,7 @@ Repare no que o português dispensaria: {{du fromage, du pain}} (em português, 
 
 ## 2. A armadilha do português
 
-O português deixa o substantivo "pelado" quando fala em quantidade indefinida: "Quero pão", "Tem amigos em Lyon", "Bebo água". O francês **não deixa**: {{Je veux du pain}}, {{J'ai des amis à Lyon}}, {{Je bois de l'eau}}. Essa é a armadilha principal do capítulo, e o partitivo ({{du, de la, de l', des}}) não tem nome na escola brasileira: o que se tem é "artigo indefinido" e "artigo definido", e o francês acrescenta uma terceira camada.
+O português deixa o substantivo "pelado" quando fala em quantidade indefinida: "Quero pão", "Tem amigos em Lyon", "Bebo água". O francês **não deixa**: {{Je veux du pain}}, {{J'ai des amis à Lyon}}, {{Je bois de l'eau}}. Essa é a armadilha principal do capítulo. A escola brasileira conhece o artigo definido e o indefinido; o francês tem ainda um terceiro, o **artigo partitivo** ({{du, de la, de l', des}}), que não tem equivalente em português.
 
 A segunda armadilha é o **gênero**. O português e o francês têm só dois gêneros (masculino e feminino), e em muitas palavras eles coincidem, porque as duas línguas vêm do latim. Mas em outras, não:
 
@@ -114,7 +114,7 @@ O {{le/la/les}} aponta algo **conhecido** ou **geral**:
 | línguas e matérias | {{J'apprends le français.}} | Estou aprendendo francês. |
 | hábito semanal | {{Le samedi, je travaille.}} | Aos sábados, trabalho. |
 
-Preste atenção no terceiro: **depois de {{aimer, adorer, détester, préférer}}, o francês usa artigo definido**, e o português não usa artigo nenhum ("gosto de queijo"). Então, ao falar de gosto: {{J'aime le fromage}} (queijo em geral). Ao falar de comer agora: {{Je mange du fromage}} (alguma quantidade).
+Preste atenção na linha "geral": **depois de {{aimer, adorer, détester, préférer}}, o francês usa artigo definido**, e o português não usa artigo nenhum ("gosto de queijo"). Então, ao falar de gosto: {{J'aime le fromage}} (queijo em geral). Ao falar de comer agora: {{Je mange du fromage}} (alguma quantidade).
 
 ### Quando usar o indefinido
 
@@ -165,7 +165,7 @@ Não existe como saber o gênero de todas as palavras. Mas existem **terminaçõ
 | {{-ance}}, {{-ence}} | {{la chance}}, {{la patience}} | {{le silence}} |
 | {{-ie}} | {{la vie}}, {{la boulangerie}} | {{le génie}} |
 | {{-ée}} | {{la journée}}, {{l'année}} | {{le musée}}, {{le lycée}} |
-| {{-ade}}, {{-ude}}, {{-esse}}, {{-ine}}, {{-ise}} | {{la salade}}, {{l'étude}}, {{la politesse}}, {{la cuisine}}, {{la valise}} | poucas |
+| {{-ade}}, {{-ude}}, {{-esse}}, {{-ine}}, {{-ise}} | {{la salade}}, {{l'étude}}, {{la politesse}}, {{la cuisine}}, {{la valise}} | {{le stade}}, {{le magazine}} |
 
 **Terminações masculinas:**
 
@@ -182,8 +182,8 @@ Não existe como saber o gênero de todas as palavras. Mas existem **terminaçõ
 
 **Sinais extras:**
 
-- **Pessoas**: o gênero costuma seguir o sexo: {{un étudiant}} / {{une étudiante}}, {{le frère}} / {{la sœur}}. Profissões como {{le médecin}} e {{le professeur}} são masculinas, mesmo para mulheres ({{Elle est médecin}}).
-- **Dias, meses, línguas, cores, estações** (menos *la saison*): masculinos. {{le lundi}}, {{le français}}, {{le bleu}}.
+- **Pessoas**: o gênero costuma seguir o sexo: {{un étudiant}} / {{une étudiante}}, {{le frère}} / {{la sœur}}. Profissões como {{médecin}} e {{professeur}} são tradicionalmente masculinas, mesmo para mulheres ({{Elle est médecin}}); hoje também se vê {{une médecin}} e {{une professeure}}, e o uso varia.
+- **Dias, meses, línguas, cores e estações do ano:** masculinos. {{le lundi}}, {{le français}}, {{le bleu}}.
 - **Terminação em -eur:** nomes de **quem faz** são masculinos ({{le chanteur}}, {{le serveur}}) e os de **qualidade ou sensação** são femininos ({{la fleur}}, {{la couleur}}, {{la chaleur}}, {{la peur}}, {{la douleur}}). Mas há masculinos: {{le moteur}}, {{le bonheur}}, {{le malheur}}.
 - **Terminação em -son:** {{la maison}}, {{la saison}}, {{la raison}}, {{la chanson}}, {{la leçon}}. Já os outros em -on tendem a ser masculinos: {{le salon}}, {{le bouton}}.
 
@@ -196,7 +196,7 @@ Algumas palavras mudam de sentido conforme o gênero:
 | {{le poste}} (posto, aparelho) | {{la poste}} (correio) |
 | {{le mode}} (modo) | {{la mode}} (moda) |
 
-E há um grupo de falsos pares de tempo, muito úteis: {{un jour}} (um dia, a unidade de tempo) × {{une journée}} (a duração do dia, "o dia todo"), {{un matin}} × {{une matinée}}, {{un soir}} × {{une soirée}}, {{un an}} × {{une année}}. Em geral, a forma em *-ée* destaca o tempo que dura: {{Bonne journée !}} ("Bom dia", a quem se despede e imagina as horas seguintes).
+E há um grupo de pares de tempo, muito úteis: {{un jour}} (um dia, a unidade de tempo) × {{une journée}} (a duração do dia, "o dia todo"), {{un matin}} × {{une matinée}}, {{un soir}} × {{une soirée}}, {{un an}} × {{une année}}. Em geral, a forma em *-ée* destaca o tempo que dura: {{Bonne journée !}} ("Tenha um bom dia", dito ao se despedir).
 
 ### O plural
 
@@ -211,7 +211,7 @@ E há um grupo de falsos pares de tempo, muito úteis: {{un jour}} (um dia, a un
 
 Exceções importantes: {{le bal}} → {{les bals}}, {{le festival}} → {{les festivals}}, {{le carnaval}} → {{les carnavals}} (todos em *-s*); {{le pneu}} → {{les pneus}}; {{le détail}} → {{les détails}}; {{le bijou}} → {{les bijoux}} (sete palavras em *-ou* fazem plural em *-x*: bijou, caillou, chou, genou, hibou, joujou, pou; as demais em *-ou* fazem plural em *-s*, como {{le trou}} → {{les trous}}).
 
-**Na fala, o plural do substantivo é invisível.** {{Le livre}} e {{les livres}} diferem só pelo artigo ("lê"/"lé"). Isso exige atenção ao ouvir: o artigo é a pista. Quando o artigo não ajuda ({{un livre}} × {{des livres}} dá "ẽ" × "dé"), ele ainda mostra o número. E diante de vogal, a liaison do plural aparece: {{les amis}} "lé-za-mi" × {{l'ami}} "la-mi".
+**Na fala, o plural do substantivo é invisível.** {{Le livre}} e {{les livres}} diferem só pelo artigo ("lê"/"lé"). Isso exige atenção ao ouvir: o artigo é a pista. Com {{un}} e {{des}} o contraste continua audível ("ẽ" × "dé"). E diante de vogal, a liaison do plural aparece: {{les amis}} "lé-za-mi" × {{l'ami}} "la-mi".
 
 ### O que muda entre o português e o francês
 
@@ -220,7 +220,6 @@ Exceções importantes: {{le bal}} → {{les bals}}, {{le festival}} → {{les f
 | "Tenho amigos." (sem artigo) | {{J'ai des amis.}} |
 | "Quero queijo." | {{Je veux du fromage.}} |
 | "Gosto de queijo." | {{J'aime le fromage.}} |
-| "Não é bom beber água suja." | {{Ce n'est pas bon de boire de l'eau sale.}} (só para reconhecer; capítulo 5) |
 | "Sou brasileiro." (sem artigo) | {{Je suis brésilien.}} (também sem artigo; exceção) |
 
 ## 6. Frases de ouro
@@ -258,8 +257,8 @@ Exceções importantes: {{le bal}} → {{les bals}}, {{le festival}} → {{les f
 4. Tu veux \_\_\_\_ fraises ? (partitivo)
 5. \_\_\_\_ mer est calme. (definido)
 6. Hugo prépare \_\_\_\_ voyage. (indefinido)
-7. Um journal → des \_\_\_\_
-8. Um bateau → des \_\_\_\_
+7. un journal → des \_\_\_\_
+8. un bateau → des \_\_\_\_
 9. Le nez → les \_\_\_\_
 10. L'œil → les \_\_\_\_
 
@@ -290,7 +289,7 @@ O erro que mais aparece é **deixar o substantivo sem determinante**: ~~Je mange
 |---|---|---|
 | ~~Je mange pain.~~ | {{Je mange du pain.}} | quantidade indefinida pede partitivo |
 | ~~J'ai amis.~~ | {{J'ai des amis.}} | plural indefinido pede {{des}} |
-| ~~Le dent est blanche.~~ | {{La dent}} | ponte falsa: "o dente" é feminino em francês |
+| ~~Le dent~~ | {{La dent}} | ponte falsa: "o dente" é feminino em francês |
 | ~~La voyage~~ | {{Le voyage}} | ponte falsa: "a viagem" é masculino em francês |
 | ~~J'aime du chocolat.~~ | {{J'aime le chocolat.}} | gostar em geral pede definido |
 | ~~Les chevals~~ | {{Les chevaux}} | {{-al}} → {{-aux}} |
@@ -298,7 +297,7 @@ O erro que mais aparece é **deixar o substantivo sem determinante**: ~~Je mange
 
 ## 9. Retorno
 
-**Do capítulo 2.** Conjugue {{avoir}} em todas as pessoas e complete: {{J'\_\_\_\_ un sac}}, {{Elle \_\_\_\_ faim}}.
+**Do capítulo 2.** Conjugue {{avoir}} em todas as pessoas e complete: {{J'}}\_\_\_\_ {{un sac}}, {{Elle}} \_\_\_\_ {{faim}}.
 
 **Do capítulo 2.** Escolha entre {{c'est}} e {{il est}}: \_\_\_\_ boulanger. \_\_\_\_ un boulanger.
 

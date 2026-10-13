@@ -19,14 +19,14 @@ Camila mora em Medellín com Valentina, uma colega colombiana. É manhã de quar
 
 **Camila:** Prefiero la de verduras. Y ya tengo hambre.
 
-**Valentina:** Pues desayuna algo. Yo siempre desayuno fruta y café.
+**Valentina:** Yo siempre desayuno fruta y café. ¿Y tú?
 
-**Camila:** Tienes razón. Hoy no desayuno, solo tomo un café. ¡Mi jefe es muy puntual!
+**Camila:** Hoy no desayuno, solo tomo un café. ¡Mi jefe es muy puntual!
 
-**Valentina:** Todos los jefes son puntuales. Nos vemos en la noche.
+**Valentina:** Tienes razón en no llegar tarde. Nos vemos en la noche.
 :::
 
-Em português: O que você faz hoje, Camila? / Trabalho de casa de manhã. Começo às nove. À tarde vou à academia. / Pode comprar pão? Eu não tenho tempo, saio cedo. / Claro. Quer mais alguma coisa? / Quero. Hoje à noite peço uma pizza, se a gente não cozinhar. O que você prefere? / Prefiro a de verduras. E já estou com fome. / Então tome café da manhã. Eu sempre tomo fruta e café. / Você tem razão. Hoje não tomo café da manhã, só um café. Meu chefe é muito pontual! / Todos os chefes são pontuais. A gente se vê à noite.
+Em português: O que você faz hoje, Camila? / Trabalho de casa de manhã. Começo às nove. À tarde vou à academia. / Pode comprar pão? Eu não tenho tempo, saio cedo. / Claro. Quer mais alguma coisa? / Quero. Hoje à noite peço uma pizza, se a gente não cozinhar. O que você prefere? / Prefiro a de verduras. E já estou com fome. / Eu sempre tomo fruta e café da manhã. E você? / Hoje não tomo café da manhã, só um café. Meu chefe é muito pontual! / Você tem razão em não se atrasar. A gente se vê à noite.
 
 Repare: *empiezo*, *prefiero*, *quieres* e *puedes* têm um ditongo (*ie*, *ue*) que não existe no infinitivo (*empezar, preferir, querer, poder*). E "estou com fome" virou *tengo hambre*, sem *estar*.
 
@@ -59,7 +59,7 @@ O presente do indicativo do espanhol se parece tanto com o português que o erro
 - *pedir* = solicitar algo: *Pido un café.* *Pedimos la cuenta.*
 - *preguntar* = fazer uma pergunta: *Pregunto la hora.* *Le pregunto a mi jefe.*
 
-Quem diz *pregunto un café* está pedindo um café a perguntas; quem diz *pido la hora* soa como se estivesse solicitando que lhe dessem a hora.
+Quem diz *pregunto un café* usa o verbo errado: o que se faz com um café é *pedi-lo*. E *pido la hora* soa como se você estivesse solicitando formalmente a hora, em vez de perguntá-la.
 
 ## 3. Descubra você mesmo
 
@@ -78,7 +78,7 @@ Perguntas:
 
 Em *pensar*, em quais pessoas a vogal da raiz muda de *e* para *ie*? E em *comer*?
 
-Quais pessoas **não** mudam? Elas têm alguma coisa em comum no formato da tabela (se você pintar as formas que mudam, que desenho resulta)?
+Quais pessoas **não** mudam? Se você pintasse na tabela as formas que mudam, que desenho resultaria?
 
 Se você notou que só *yo, tú, él* e *ellos* mudam, e que *nosotros* e *vosotros* ficam com a raiz do infinitivo, descobriu a regra da "bota".
 
@@ -105,7 +105,7 @@ Se você notou que só *yo, tú, él* e *ellos* mudam, e que *nosotros* e *vosot
 | vosotros | habláis | coméis | vivís |
 | ellos, ellas, ustedes | hablan | comen | viven |
 
-**Voseo.** Com *vos* (Argentina, Uruguai e outras regiões), a forma é a do infinitivo sem a letra final, com acento na última sílaba: *vos hablás*, *vos comés*, *vos vivís*. Nos verbos com mudança de vogal, o voseo mantém a raiz: *vos querés*, *vos podés*, *vos pensás*, *vos pedís*.
+**Voseo.** Com *vos* (Argentina, Uruguai e outras regiões), troca-se o *-r* do infinitivo por *-s*, com acento na última vogal: *hablar → vos hablás*, *comer → vos comés*, *vivir → vos vivís*. Nos verbos com mudança de vogal, o voseo mantém a raiz: *vos querés*, *vos podés*, *vos pensás*, *vos pedís*.
 
 **O pronome sujeito.** O verbo já diz quem faz a ação, então o espanhol costuma omitir o pronome: *Trabajo en un banco*, e não "*Yo trabajo en un banco*". O pronome entra para contrastar ou esclarecer: *Yo trabajo, ella estudia*.
 
@@ -129,7 +129,7 @@ Tabela de três verbos:
 | vosotros | pensáis | podéis | pedís |
 | ellos, ellas, ustedes | piensan | pueden | piden |
 
-O desenho dessas formas, em bloco, é o da bota. Cuidado: *e → ie* com ditongo escreve-se *ie* no início (*empiezo*), e *ue* depois de *g* se escreve *güe* quando necessário. Em *seguir* a mudança é *e → i* e o *yo* perde o *u*: *sigo*, *sigues*.
+As formas que mudam formam, na tabela, o desenho de uma bota; *nosotros* e *vosotros* ficam de fora. Em *seguir* a mudança é *e → i*, e o *yo* perde o *u*: *sigo*, *sigues*.
 
 ::: atencao
 Nem todo verbo com *e* ou *o* na raiz muda. Verbos regulares como *comer*, *beber*, *vender*, *aprender* e *correr* mantêm a vogal: *como*, *bebo*, *vendo*, *aprendo*, *corro*. Para cada verbo novo, aprenda a forma do *yo* junto com o infinitivo.
@@ -173,7 +173,7 @@ Alguns verbos são regulares em todas as pessoas, menos no *yo*.
 | Obrigação | Tengo que trabajar hoy. (*tener que* + infinitivo) |
 | Vontade | Tengo ganas de ir a la playa. |
 
-*Muy* ou *mucho*? Com *hambre*, *sed*, *sueño*, *frío*, *calor*, *miedo* e *prisa*, a intensidade vai com **mucho/mucha**, que concorda: *tengo mucha hambre*, *tengo mucho frío*. (O capítulo 8 volta a *muy* e *mucho*.)
+Intensidade. Com *hambre*, *sed*, *sueño*, *frío*, *calor*, *miedo* e *prisa*, a intensidade vai com **mucho/mucha**, que concorda: *tengo mucha hambre*, *tengo mucho frío*. (O capítulo 8 volta a *muy* e *mucho*.)
 
 ### Saber e conocer
 
@@ -189,7 +189,7 @@ O presente dá conta de:
 
 - **hábitos e rotinas:** *Trabajo de lunes a viernes.*
 - **o que acontece agora:** *¿Qué haces? — Preparo la cena.* Para destacar que a ação está em curso, usa-se *estar* + gerúndio (*estoy preparando la cena*), que se forma com *-ando* (verbos em *-ar*) e *-iendo* (verbos em *-er/-ir*).
-- **verdades gerais:** *El agua hierve a cien grados.*
+- **verdades gerais:** *El sol sale por el este.*
 - **futuro próximo:** *Mañana viajo a Bogotá.* (o capítulo 12 trata do futuro)
 
 ## 6. Frases de ouro
@@ -262,7 +262,7 @@ Reescreva três das suas frases com *vos* no lugar de *tú*.
 
 1. Yo quero un café.
 
-2. Podemos llegar a las ocho.
+2. Puedemos llegar a las ocho.
 
 3. Estoy con hambre.
 
@@ -368,7 +368,7 @@ Distingo *pedir un café* de *preguntar la hora*.
 
 1. Yo quiero un café. (e → ie)
 
-2. Está certa. (*nosotros* de *poder* não ditongam)
+2. Podemos llegar a las ocho. (*nosotros* mantém a raiz *pod-*)
 
 3. Tengo hambre. (sensação com *tener*)
 
@@ -376,11 +376,9 @@ Distingo *pedir un café* de *preguntar la hora*.
 
 5. Ella pide una pizza. (solicitar é *pedir*)
 
-6. Ellos vuelven tarde. (já está certa; veja a observação)
+6. Está certa.
 
 7. Tengo treinta años. (idade com *tener*)
 
-*Observação:* o enunciado do degrau 4 pede "uma delas está certa", mas as frases 2 e 6 estão corretas. Considere as duas como corretas.
-
-**Retorno.** Capítulo 3: la leche, el color, los exámenes. Capítulo 2: es (profissão), están (lugar). Capítulo 1: *está* leva acento porque termina em vogal e a tônica é a última; *piensa* termina em vogal e a tônica é a penúltima (regra normal), então não leva acento. *Hablan* termina em *n*, então a tônica é a penúltima: ha-BLAN? Não: *hablan* tem duas sílabas, ha-blan, e a tônica cai na primeira (HA-blan), que é a penúltima.
+**Retorno.** Capítulo 3: la leche, el color, los exámenes. Capítulo 2: es (profissão), están (lugar). Capítulo 1: *está* leva acento porque termina em vogal e a tônica é a última; *piensa* termina em vogal e a tônica é a penúltima (regra normal), então não leva acento. *Hablan* termina em *n*, então a tônica é a penúltima: HA-blan.
 :::::

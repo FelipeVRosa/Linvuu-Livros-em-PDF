@@ -48,9 +48,9 @@ E mais uma diferença: alguns verbos são reflexivos em francês e não em portu
 | se promener | passear |
 | se dépêcher | apressar-se, correr |
 | se reposer | descansar |
-| se douche | tomar banho |
+| se doucher | tomar banho |
 
-Outros não são reflexivos nas duas línguas: *dormir* (eu durmo), *travailler*, *manger*.
+Outros não são reflexivos em nenhuma das duas línguas: *dormir*, *travailler*, *manger*.
 
 ::: atencao
 Muitos verbos existem **nas duas formas**, com sentidos diferentes: *laver* (lavar algo) × *se laver* (lavar-se); *réveiller* (acordar alguém) × *se réveiller* (acordar); *coucher* (deitar alguém) × *se coucher* (deitar-se). Compare: *Je réveille mon fils à sept heures* × *Je me réveille à sept heures*.
@@ -140,7 +140,7 @@ Os verbos reflexivos usam a conjugação normal, e o pronome vem antes. Os de mu
 | vous vous levez | vous vous promenez | vous vous appelez |
 | ils se lèvent | ils se promènent | ils s'appellent |
 
-Note que a mudança de radical acontece nas formas em que a sílaba final é muda (*je, tu, il, ils*) e **não** acontece em *nous* e *vous*.
+Note que a mudança de radical acontece nas formas em que a terminação não se pronuncia (*je, tu, il, ils*) e **não** acontece em *nous* e *vous*.
 
 ### 5.3 A posição do pronome
 
@@ -183,11 +183,11 @@ Para contar uma rotina, estas palavras ajudam:
 
 **Posição:** *toujours, souvent, parfois* ficam depois do verbo conjugado: *Je me lève toujours tôt. Il se couche souvent tard.* *Ne … jamais* envolve o verbo e o pronome: *Je ne me couche jamais tard.*
 
-*Un exemple de routine:* *D'abord, je me réveille à six heures. Ensuite, je me lève et je me douche. Puis je m'habille et je prends le petit-déjeuner. Enfin, je vais au travail à sept heures.*
+Exemplo de rotina: *D'abord, je me réveille à six heures. Ensuite, je me lève et je me douche. Puis je m'habille et je prends le petit-déjeuner. Enfin, je vais au travail à sept heures.*
 
 ### 5.7 O impératif
 
-O imperativo dá ordem, pedido, conselho. Tem três pessoas: *tu, nous, vous*. O sujeito não aparece.
+O imperativo expressa ordem, pedido, conselho. Tem três pessoas: *tu, nous, vous*. O sujeito não aparece.
 
 **Regulares em -er:** a forma é a do presente **sem o -s** do *tu*:
 
@@ -227,7 +227,7 @@ No **afirmativo**, o pronome vai **depois** do verbo, com hífen, e *te* vira **
 No **negativo**, volta à ordem normal: *ne te lève pas*, *ne nous couchons pas*, *ne vous dépêchez pas*. Antes de vogal: *ne t'inquiète pas* (não se preocupe), *ne vous inquiétez pas*.
 
 ::: atencao
-Não confunda os dois imperativos. Afirmativo: *Dépêche-toi !* Negativo: *Ne te dépêche pas !* Dizer *~~Ne dépêche-toi pas~~* é erro. Outro pedido útil que você já usou: *Asseyez-vous* (sentem-se). Use como bloco: o verbo *s'asseoir* é irregular.
+Não confunda os dois imperativos. Afirmativo: *Dépêche-toi !* Negativo: *Ne te dépêche pas !* Dizer *~~Ne dépêche-toi pas~~* é erro. Outro pedido útil: *Asseyez-vous* (sentem-se). Use como bloco: o verbo *s'asseoir* é irregular.
 :::
 
 ### 5.9 Reflexivo recíproco, num relance
@@ -401,7 +401,7 @@ Dou uma ordem curta com reflexivo: *Dépêche-toi ! Ne t'inquiète pas !*
 ::::: gabarito
 **Degrau 1.** 1 me. 2 te. 3 nous. 4 se (sujeito *elle*). 5 se (*réveillent* começa por consoante: *se*, não *s'*). 6 m' (*habille* começa por h mudo). 7 Lève-toi. 8 Ne vous dépêchez pas.
 
-**Degrau 2.** 1 me réveille. 2 te douches. 3 s'habille. 4 nous promenons (sem acento: *nous*). 5 se couchent. 6 me lève. 7 vous dépêchez. 8 Lève-toi. 9 Ne te couche pas. 10 me lever.
+**Degrau 2.** 1 me réveille. 2 te douches. 3 s'habille. 4 nous promenons (sem mudança de radical). 5 se couchent. 6 me lève. 7 vous dépêchez. 8 Lève-toi. 9 Ne te couche pas. 10 me lever.
 
 **Degrau 3.** Respostas pessoais. Confira: o pronome está presente em todo verbo reflexivo; *ne … pas* envolve pronome + verbo; *toi* no imperativo afirmativo.
 
