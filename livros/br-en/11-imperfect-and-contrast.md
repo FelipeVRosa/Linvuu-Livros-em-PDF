@@ -3,7 +3,7 @@ eyebrow: Lesson 11
 ---
 # The imperfect, and choosing between the two pasts
 
-By the end of this lesson you can describe how things used to be, say what was happening when something else happened, say how you felt at a moment in the past, and choose between {{fui}}-type and {{ia}}-type verbs by asking one question: is this a event in the story, or the background to the story?
+By the end of this lesson you can describe how things used to be, say what was happening when something else happened, say how you felt at a moment in the past, and choose the right past tense by asking one question: is this an event in the story, or the background to the story?
 
 ## 11.1 A scene you will live
 
@@ -18,7 +18,7 @@ Your neighbor Seu Antônio, who is seventy-two, sits in front of the building ev
 
 Translation: *Seu Antônio, what was your childhood like? / Ah, I lived on a farm in Minas. The house was small, but it had an enormous backyard. Every day I woke up at five and helped my father. / And did you like it? / I did! But one day, when I was ten, I fell off the horse and broke my arm. What a scare! / Wow! And were you afraid? / Yes, of course. But the next day I was already on the horse again.*
 
-Count the verbs. Most of them end in {{-ava}}, {{-ia}} or {{-ava}}-like forms: {{morava}}, {{era}}, {{tinha}}, {{acordava}}, {{ajudava}}, {{gostava}}, {{tinha}}, {{estava}}. They describe the **setting**: where he lived, what the house was like, what he did every day, how old he was. Only three verbs are different: {{caí}}, {{quebrei}} and {{foi}}-type events (the fall, the broken arm). Those are the **events** of the story.
+Count the verbs. Most of them end in {{-ava}} or are forms like {{era}} and {{tinha}}: {{morava}}, {{era}}, {{tinha}}, {{acordava}}, {{ajudava}}, {{gostava}}, {{estava}}. They describe the **setting**: where he lived, what the house was like, what he did every day, how old he was. Only two verbs are different: {{caí}} and {{quebrei}}. They are the **events** of the story: the fall and the broken arm.
 
 This is the central idea of the lesson, and the rest follows from it.
 
@@ -26,7 +26,7 @@ New words from the scene:
 
 | Portuguese | Guide | Meaning |
 |---|---|---|
-| {{a infância}} | `ah ee~-FAH~-syah` | childhood |
+| {{a infância}} | `ah ee~-FAH~-see-ah` | childhood |
 | {{a fazenda}} | `ah fah-ZEH~-dah` | farm, ranch |
 | {{o quintal}} | `oo kee~-TAH-oo` | backyard |
 | {{enorme}} | `eh-NOR-mee` | enormous |
@@ -221,7 +221,7 @@ Here the choice is not nuance: it is a different translation. Learn these four p
 |---|---|---|
 | {{saber}} | {{Eu sabia a verdade.}} I knew the truth. | {{Eu soube da notícia ontem.}} I found out the news yesterday. |
 | {{conhecer}} | {{Eu conhecia a Marina.}} I knew Marina. | {{Eu conheci a Marina no Rio.}} I met Marina in Rio. |
-| {{querer}} | {{Eu queria ir.}} I wanted to go. (a wish; maybe I did not) | {{Eu quis ir.}} I tried / insisted on going. {{Eu não quis ir.}} I refused to go. |
+| {{querer}} | {{Eu queria ir.}} I wanted to go. (a wish; maybe I did not) | {{Eu quis ir.}} I made up my mind to go. {{Eu não quis ir.}} I refused to go. |
 | {{poder}} | {{Eu podia ir.}} I was able to go / I could go. (it was possible) | {{Eu pude ir.}} I managed to go. {{Eu não pude ir.}} I could not go (and did not). |
 
 A very common combination is {{Eu queria ir, mas não pude}} (I wanted to go, but I could not): the wish in the imperfect, the result in the simple past.
@@ -283,11 +283,11 @@ New words: {{molhar}} `moh-LYAR` (to wet), {{a roupa}} `ah HOH-pah` (clothes), {
 | Quando eu fui criança, eu... | {{Quando eu era criança, eu...}} | "when I was a child" describes a period of life |
 | Todo verão eu fui à praia. | {{Todo verão eu ia à praia.}} | a repeated habit in the past |
 | Eu estava dez anos. | {{Eu tinha dez anos.}} | age uses {{ter}} |
-| Ele fazia um bolo ontem e saiu. | {{Ele fez um bolo ontem.}} | a completed event needs the simple past |
+| Ele fazia um bolo ontem e saiu. | {{Ele fez um bolo ontem e saiu.}} | completed events in a chain need the simple past |
 | Eu sabi a resposta. | {{Eu sabia a resposta.}} | {{-er}} imperfect ends in {{-ia}} |
 | Nós falavamos. | {{Nós falávamos.}} | the {{nós}} form carries an accent |
-| Eu fui conhecer a Marina há muito tempo e ela era minha amiga. | {{Eu a conheci há muito tempo.}} | "met" is the simple past of {{conhecer}} |
-| Eu não podia ir ontem, então não fui. (meaning I tried and failed) | {{Eu não pude ir ontem.}} | specific attempt, specific result: simple past |
+| Eu conhecia a Marina no Rio. (meaning: I met her there) | {{Eu conheci a Marina no Rio.}} | "met" is the simple past of {{conhecer}} |
+| Eu não podia ir à festa ontem. (meaning: I tried and could not) | {{Eu não pude ir à festa ontem.}} | a specific attempt with a specific result: simple past |
 | Eu estava com medo quando o cachorro latiu. (meaning: I got a fright) | {{Fiquei com medo quando o cachorro latiu.}} | a sudden change is an event |
 | Quando ele chegou, eu cozinhei. (meaning: I was cooking) | {{Quando ele chegou, eu estava cozinhando.}} | something in progress when the other event happened |
 :::
