@@ -1,0 +1,91 @@
+алфавит|alfabeto
+антоним|antônimo
+будущее время|futuro
+вид|aspecto
+винительный падеж|caso acusativo
+возвратный глагол|verbo reflexivo
+вопросительное местоимение|pronome interrogativo
+вопросительный знак|ponto de interrogação
+восклицательный знак|ponto de exclamação
+время|tempo (verbal)
+глагол|verbo
+гласный звук|vogal
+грамматика|gramática
+дательный падеж|caso dativo
+двоеточие|dois-pontos
+деепричастие|gerúndio
+деепричастный оборот|locução gerundiva
+единственное число|singular
+женский род|gênero feminino
+запятая|vírgula
+звук|som
+значение слова|significado da palavra
+именительный падеж|caso nominativo
+императив|imperativo
+интонация|entonação
+инфинитив|infinitivo
+кавычки|aspas
+количественное числительное|numeral cardinal
+корень (слова)|raiz (da palavra)
+краткая форма прилагательного|forma curta do adjetivo
+лексика|léxico
+лингвистика (языкознание)|linguística
+лицо|pessoa (gramatical)
+личное местоимение|pronome pessoal
+местоимение|pronome
+множественное число|plural
+мужской род|gênero masculino
+мягкий согласный звук|consoante branda (palatalizada)
+наклонение|modo
+наречие|advérbio
+настоящее время|presente
+непереходный глагол|verbo intransitivo
+несовершенный вид глагола|aspecto imperfectivo
+окончание|desinência
+основа (слова)|radical
+падеж|caso
+переходный глагол|verbo transitivo
+повелительное наклонение (императив)|modo imperativo
+полная форма прилагательного|forma completa do adjetivo
+порядковое числительное|numeral ordinal
+предлог|preposição
+предложение|oração, frase
+предложный падеж|caso preposicional
+прилагательное|adjetivo
+приставка|prefixo
+притяжательное местоимение|pronome possessivo
+причастие|particípio
+причастный оборот|locução participial
+произношение|pronúncia
+простое предложение|oração simples
+прошедшее время|pretérito
+прямая речь|discurso direto
+прямое значение|sentido próprio
+род|gênero
+родительный падеж|caso genitivo
+синоним|sinônimo
+синтаксис|sintaxe
+склонение|declinação
+слово|palavra
+слог|sílaba
+сложное предложение|oração composta
+совершенный вид|aspecto perfectivo
+согласный звук|consoante
+союз|conjunção
+спряжение|conjugação
+средний род|gênero neutro
+суффикс|sufixo
+твёрдый согласный звук|consoante dura
+творительный падеж|caso instrumental
+термин|termo
+тире|travessão
+точка|ponto final
+ударение|acento tônico
+фонетика|fonética
+фраза|frase
+часть речи|classe gramatical
+чередование|alternância
+числительное|numeral
+число|número
+член предложения|termo da oração
+язык|língua

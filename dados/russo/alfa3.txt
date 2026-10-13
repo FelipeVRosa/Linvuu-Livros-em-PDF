@@ -1,0 +1,282 @@
+к|a, para
+кабинет|consultório, sala
+каждый|cada
+казаться|parecer
+как|como
+какой|qual
+каникулы|férias
+карандаш|lápis
+карта|mapa
+картина|quadro
+картофель|batata
+касса|caixa, bilheteria
+кафе|café
+каша|mingau
+квартира|apartamento
+килограмм|quilograma
+километр|quilômetro
+кино|cinema
+киоск|quiosque
+китаец / китаянка|chinês / chinesa
+китайский|chinês
+класс|classe
+класть / положить|colocar
+клуб|clube
+ключ|chave
+книга|livro
+книжный|de livro
+когда|quando
+колбаса|salsicha
+команда|equipe
+комедия|comédia
+комната|quarto
+композитор|compositor
+компьютер|computador
+конверт|envelope
+конец|fim
+конечно|claro
+конфета|bala
+концерт|concerto
+кончать / кончить|terminar
+кончаться / кончиться|acabar
+копейка|copeque
+корабль|navio
+коридор|corredor
+коричневый|marrom
+короткий|curto
+космический|cósmico
+космонавт|cosmonauta
+космос|espaço
+костюм|terno
+который|que, qual
+кофе|café
+кошка|gata
+красивый|bonito
+красный|vermelho
+кресло|poltrona
+кровать|cama
+круглый|redondo
+ксерокс|copiadora
+кто|quem
+кто-то|alguém
+куда|para onde
+культура|cultura
+купить|comprar
+курить|fumar
+курица|galinha
+курс|curso
+куртка|jaqueta
+кухня|cozinha
+лампа|lâmpada
+левый|esquerdo
+легко|facilmente
+лежать|estar deitado
+лекарство|remédio
+лекция|palestra
+лес|floresta
+лестница|escada
+летать|voar
+лететь|voar
+летний|de verão
+лето|verão
+летом|no verão
+лёгкий|leve, fácil
+лимон|limão
+литература|literatura
+лифт|elevador
+лицо|rosto
+лоб|testa
+ложка|colher
+луна|lua
+лучше|melhor
+лыжи|esquis
+любимый|amado, favorito
+любить|amar, gostar
+любовь|amor
+люди|pessoas
+магазин|loja
+магнитофон|gravador
+май|maio
+маленький|pequeno
+мало|pouco
+мальчик|menino
+мама|mamãe
+марка|selo
+март|março
+масло|manteiga, óleo
+математик|matemático
+математика|matemática
+мать|mãe
+машина|carro, máquina
+медицина|medicina
+медленно|devagar
+медленный|lento
+медсестра|enfermeira
+международный|internacional
+менеджер|gerente
+меньше|menor
+менять / поменять|trocar
+место|lugar
+месяц|mês
+метр|metro
+метро|metrô
+мечта|sonho
+мечтать|sonhar
+милиционер|policial
+миллион|milhão
+минута|minuto
+мир|paz, mundo
+младший|mais jovem
+много|muito
+можно|pode-se
+модный|da moda
+мой|meu
+молодой|jovem
+молодость|juventude
+молчать|calar-se
+море|mar
+мороженое|sorvete
+Москва|Moscou
+москвич / москвичка|moscovita
+московский|moscovita
+мочь / смочь|poder
+муж|marido
+мужской|masculino
+мужчина|homem
+музей|museu
+музыка|música
+музыкальный|musical
+музыкант|músico
+мы|nós
+мыло|sabão
+мыть / вымыть|lavar
+мягкий|macio
+мясо|carne
+мяч|bola
+на|em, sobre, para
+наверное|provavelmente
+надеяться|esperar
+надо|é preciso
+назад|atrás
+называться|chamar-se
+найти|encontrar
+наконец|finalmente
+налево|à esquerda
+написать|escrever
+направо|à direita
+например|por exemplo
+напротив|em frente
+нарисовать|desenhar
+народ|povo
+народный|popular
+наука|ciência
+научиться|aprender
+научный|científico
+находить / найти|encontrar
+находиться|localizar-se
+национальный|nacional
+начало|começo
+начать|começar
+начаться|começar
+начинать|começar
+начинаться|começar
+наш|nosso
+не|não
+небо|céu
+невозможно|impossível
+недавно|recentemente
+недалеко|perto
+неделя|semana
+нельзя|não se pode
+немец / немка|alemão / alemã
+немецкий|alemão
+несколько|alguns
+несчастный|infeliz
+несчастье|infelicidade
+нет|não, não há
+не только..., но и...|não só..., mas também...
+нигде|em nenhum lugar
+никогда|nunca
+никто|ninguém
+никуда|a nenhum lugar
+ничего|nada
+но|mas
+новость|notícia
+новый|novo
+нога|perna, pé
+нож|faca
+ноль|zero
+номер|número
+нормально|normal
+нос|nariz
+носки|meias
+ночь|noite
+ночью|à noite
+ноябрь|novembro
+нравиться / понравиться|gostar
+нужен|necessário
+нужно|é preciso
+о / об|sobre
+обед|almoço
+обедать / пообедать|almoçar
+обещать / пообещать|prometer
+образование|educação
+обувь|calçado
+общежитие|dormitório
+общество|sociedade
+общий|comum
+объявление|anúncio
+объяснять / объяснить|explicar
+обыкновенный|comum
+обычно|normalmente
+обычный|comum
+обязательно|obrigatoriamente
+овощи|legumes
+овощной|de legumes
+огромный|enorme
+одеваться / одеться|vestir-se
+одежда|roupa
+один|um
+одинаковый|igual
+одиннадцать|onze
+однажды|uma vez
+озеро|lago
+оканчивать / окончить|terminar
+окно|janela
+около|perto de
+октябрь|outubro
+он / она / оно / они|ele / ela / isso / eles
+опаздывать / опоздать|atrasar-se
+опасно|perigoso
+опера|ópera
+оптимист|otimista
+опытный|experiente
+опять|de novo
+организовать|organizar
+осенний|outonal
+осень|outono
+осенью|no outono
+осматривать / осмотреть|examinar
+особенно|especialmente
+остановка|parada
+осторожно|com cuidado
+остров|ilha
+ответ|resposta
+ответить|responder
+отвечать|responder
+отдохнуть|descansar
+отдых|descanso
+отдыхать|descansar
+отец|pai
+открывать / открыть|abrir
+открываться / открыться|abrir-se
+открыт|aberto
+открытка|cartão-postal
+откуда|de onde
+отлично|excelente
+отсюда|daqui
+оттуда|de lá
+отчество|patronímico
+очень|muito
+очки|óculos
+ошибка|erro

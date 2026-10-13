@@ -1,0 +1,151 @@
+бедный — богатый|pobre — rico
+без — с|sem — com
+белый — чёрный|branco — preto
+близко — далеко|perto — longe
+болен — здоров|doente — saudável
+больной — здоровый|doente — saudável
+больше — меньше|maior, mais — menor, menos
+большой — маленький|grande — pequeno
+брать / взять — давать / дать|pegar — dar
+будущий — прошлый|futuro — passado
+быстро — медленно|rapidamente — devagar
+быстрый — медленный|rápido — lento
+в — из|em, para — de
+вверх — вниз|para cima — para baixo
+везде — нигде|em todo lugar — em nenhum lugar
+весело — грустно, скучно|alegremente — tristemente, de modo entediante
+весенний — осенний|primaveril — outonal
+весёлый — грустный|alegre — triste
+весна — осень|primavera — outono
+весной — осенью|na primavera — no outono
+вечер — утро|tarde, noite — manhã
+вечером — утром|à tarde, à noite — de manhã
+включать / включить — выключать / выключить|ligar — desligar
+война — мир|guerra — paz
+войти — выйти|entrar — sair
+возможно — невозможно|possível — impossível
+вопрос — ответ|pergunta — resposta
+восток — запад|leste — oeste
+вперёд — назад|para frente — para trás
+враг — друг|inimigo — amigo
+все — никто|todos — ninguém
+всегда, всё время — никогда|sempre, o tempo todo — nunca
+всё — ничто|tudo — nada
+вспоминать / вспомнить — забывать / забыть|lembrar — esquecer
+вставать / встать — садиться / сесть|levantar-se — sentar-se
+вход — выход|entrada — saída
+входить / войти — выходить / выйти|entrar — sair
+вчера — завтра|ontem — amanhã
+высокий — маленький|alto — pequeno, baixo
+выходить / выйти — садиться / сесть|sair — sentar-se, embarcar
+говорить — молчать|falar — calar
+горький — сладкий|amargo — doce
+горячий — холодный|quente — frio
+грязный — чистый|sujo — limpo
+далеко — близко|longe — perto
+день — ночь|dia — noite
+детство — старость|infância — velhice
+дешёвый — дорогой|barato — caro
+дёшево — дорого|barato — caro
+длинный — короткий|longo — curto
+днём — ночью|de dia — à noite
+до — после|antes — depois
+добрый — злой|bondoso — mau
+до свидания — здравствуй(те)|até logo — olá
+друг — враг|amigo — inimigo
+есть — нет|há — não há
+ещё — уже|ainda — já
+женский — мужской|feminino — masculino
+женщина — мужчина|mulher — homem
+жить — умирать|viver — morrer
+за — перед|atrás de — diante de
+завтра — вчера|amanhã — ontem
+завтра — сегодня|amanhã — hoje
+заканчивать / закончить — начинать / начать|terminar — começar
+закрывать / закрыть — открывать / открыть|fechar — abrir
+закрыт — открыт|fechado — aberto
+запад — восток|oeste — leste
+здесь — там|aqui — lá
+земля — небо|terra — céu
+зима — лето|inverno — verão
+зимний — летний|invernal — de verão
+зимой — летом|no inverno — no verão
+идти — стоять|ir — estar de pé
+из — в|de — em, para
+интересно — скучно|interessante — entediante
+конец — начало|fim — começo
+кончать / кончить — начинать / начать|acabar — começar
+кончаться / кончиться — начинаться / начаться|acabar — começar (intransitivo)
+легко — трудно|fácil — difícil
+лето — зима|verão — inverno
+лёгкий — трудный|fácil — difícil
+лёгкий — тяжёлый|leve — pesado
+лучше — хуже|melhor — pior
+маленький — большой|pequeno — grande
+маленький — огромный|pequeno — enorme
+мало — много|pouco — muito
+мешать — помогать|atrapalhar — ajudar
+мёртвый — живой|morto — vivo
+минус — плюс|menos — mais
+мир — война|paz — guerra
+младший — старший|mais novo — mais velho
+можно — нельзя|pode-se — não se pode
+молодой — старый|jovem — velho
+молодость — старость|juventude — velhice
+мужской — женский|masculino — feminino
+мягкий — твёрдый|macio — duro
+на — с|sobre, em — de (a partir de)
+наверх — вниз|para o alto — para baixo
+над — под|sobre — sob
+налево — направо|para a esquerda — para a direita
+начало — конец|começo — fim
+небо — земля|céu — terra
+несчастье — счастье|infelicidade — felicidade
+нигде — везде|em nenhum lugar — em todo lugar
+никогда — всегда|nunca — sempre
+новый — старый|novo — velho
+ночь — день|noite — dia
+одинаковый — разный|igual — diferente
+оканчивать / окончить — начинать / начать|concluir — começar
+осень — весна|outono — primavera
+ответ — вопрос|resposta — pergunta
+отвечать / ответить — спрашивать / спросить|responder — perguntar
+открывать / открыть — закрывать / закрыть|abrir — fechar
+отлично — плохо|excelente — mal
+оттуда — туда|de lá — para lá
+плохо — хорошо|mal — bem
+плюс — минус|mais — menos
+поздно — рано|tarde — cedo
+покупать / купить — продавать / продать|comprar — vender
+после — до|depois — antes
+потом — раньше|depois — antes
+приезжать / приехать — уезжать / уехать|chegar — partir
+разный — одинаковый|diferente — igual
+раньше — теперь|antes — agora
+редко — часто|raramente — frequentemente
+рождение — смерть|nascimento — morte
+родиться — умереть|nascer — morrer
+с — без|com — sem
+светлый — тёмный|claro — escuro
+север — юг|norte — sul
+сегодня — завтра|hoje — amanhã
+скучно — весело|entediante — alegre
+слева — справа|à esquerda — à direita
+старость — детство|velhice — infância
+старший — младший|mais velho — mais novo
+старый — новый|velho — novo
+старый — молодой|velho — jovem
+счастье — несчастье|felicidade — infelicidade
+сюда — туда|para cá — para lá
+там — здесь|lá — aqui
+теперь — тогда|agora — então
+тепло — холодно|calor — frio
+трудно — легко|difícil — fácil
+узкий — широкий|estreito — largo
+умирать / умереть — родиться|morrer — nascer
+утро — вечер|manhã — tarde, noite
+холодно — тепло|frio — calor
+холодный — горячий|frio — quente
+хорошо — плохо|bem — mal
+часто — редко|frequentemente — raramente
+чистый — грязный|limpo — sujo

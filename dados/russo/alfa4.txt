@@ -1,0 +1,357 @@
+палец|dedo
+пальто|casaco
+памятник|monumento
+папа|papai
+парк|parque
+паспорт|passaporte
+певец / певица|cantor / cantora
+пенсионер / пенсионерка|aposentado / aposentada
+пенсия|aposentadoria
+первый|primeiro
+перевести|traduzir
+перевод|tradução
+переводить|traduzir
+переводчик|tradutor
+передавать / передать|transmitir, passar
+передача|transmissão
+перейти|atravessar
+перерыв|intervalo
+переход|passagem
+переходить|atravessar
+песня|canção
+петь / спеть|cantar
+печенье|biscoito
+пешком|a pé
+пианино|piano
+пиво|cerveja
+писатель|escritor
+писать / написать|escrever
+письмо|carta
+пить / выпить|beber
+плавать|nadar
+план|plano
+платить / заплатить|pagar
+платье|vestido
+плащ|capa
+плеер|player
+плохо|mal
+плохой|ruim
+площадь|praça
+плыть|nadar, navegar
+плюс|mais
+по|por, em
+по-английски|em inglês
+победа|vitória
+победить|vencer
+поблагодарить|agradecer
+побывать|visitar
+поверить|acreditar
+повторить|repetir
+повторять|repetir
+погода|tempo (clima)
+подарить|presentear
+подарок|presente
+подождать|esperar
+подруга|amiga
+подумать|pensar
+поезд|trem
+поездка|viagem
+поехать|ir
+пожалуйста|por favor
+позавтракать|tomar café
+позвать|chamar
+позвонить|telefonar
+поздно|tarde
+поздравить|parabenizar
+поздравлять|parabenizar
+познакомиться|conhecer-se
+по-испански|em espanhol
+пойти|ir
+Пока!|Tchau!
+показать|mostrar
+показывать|mostrar
+по-китайски|em chinês
+покупать / купить|comprar
+пол|chão
+поле|campo
+полезный|útil
+поликлиника|policlínica
+политика|política
+политический|político
+полка|prateleira
+половина|metade
+положить|colocar
+полтора|um e meio
+получать / получить|receber
+полюбить|apaixonar-se
+помнить|lembrar
+помогать / помочь|ajudar
+по-моему|na minha opinião
+помочь|ajudar
+понедельник|segunda-feira
+по-немецки|em alemão
+понимать / понять|entender
+понравиться|gostar
+понятно|claro
+понять|entender
+пообедать|almoçar
+попросить|pedir
+популярный|popular
+по-русски|em russo
+послать|enviar
+после|depois
+последний|último
+послушать|escutar
+посмотреть|olhar
+посоветовать|aconselhar
+посольство|embaixada
+поставить|colocar
+построить|construir
+поступать / поступить|ingressar
+посылать|enviar
+потерять|perder
+потом|depois
+потому что|porque
+поужинать|jantar
+по-французски|em francês
+почему|por que
+почта|correio
+почти|quase
+поэзия|poesia
+поэт|poeta
+поэтому|por isso
+появиться|aparecer
+появляться|aparecer
+прав|certo
+правда|verdade
+правильно|corretamente
+правительство|governo
+правый|direito
+праздник|feriado
+предмет|objeto, matéria
+президент|presidente
+прекрасно|excelente
+прекрасный|belo
+преподаватель / преподавательница|professor / professora
+преподавать|ensinar
+привет|olá
+пригласить|convidar
+приглашать|convidar
+приезд|chegada
+приезжать / приехать|chegar
+прийти|vir
+пример|exemplo
+природа|natureza
+приходить|vir
+причина|causa
+приятно|agradável
+проблема|problema
+программа|programa
+продавать / продать|vender
+продавец|vendedor
+продолжить|continuar
+продолжать|continuar
+продолжаться|durar
+продукты|produtos
+пройти|passar
+просить / попросить|pedir
+проспект|avenida
+простой|simples
+профессия|profissão
+профессор|professor
+процент|porcentagem
+прочитать|ler
+прошлый|passado
+прямо|reto
+психолог|psicólogo
+психология|psicologia
+птица|pássaro
+путешествовать|viajar
+пятнадцать|quinze
+пятница|sexta-feira
+пятый|quinto
+пять|cinco
+пятьдесят|cinquenta
+пятьсот|quinhentos
+работа|trabalho
+работать|trabalhar
+рабочий|trabalhador
+рад|contente
+радио|rádio
+радость|alegria
+раз|vez
+разговаривать|conversar
+размер|tamanho
+разный|diferente
+район|bairro, região
+рано|cedo
+раньше|antes
+рассказ|conto
+рассказать|contar
+рассказывать|contar
+расти / вырасти|crescer
+ребёнок|criança
+редко|raramente
+режиссёр|diretor
+результат|resultado
+река|rio
+религия|religião
+ресторан|restaurante
+решать / решить|decidir
+решить|decidir
+рис|arroz
+рисовать / нарисовать|desenhar
+родина|pátria
+родители|pais
+родиться|nascer
+родной|nativo, querido
+рождение|nascimento
+роль|papel
+роман|romance
+российский|russo
+рот|boca
+рубашка|camisa
+рубль|rublo
+рука|mão, braço
+русский|russo
+ручка|caneta
+рыба|peixe
+рынок|mercado
+рядом|ao lado
+с / со|com, de
+сад|jardim
+садиться / сесть|sentar-se
+салат|salada
+сам|mesmo
+самолёт|avião
+самостоятельно|independentemente
+самый|o mais
+сантиметр|centímetro
+сапоги|botas
+сахар|açúcar
+свет|luz
+светлый|claro
+свободный|livre
+свой|próprio
+сдавать / сдать|entregar, alugar
+сделать|fazer
+себя|se, si
+север|norte
+северный|do norte
+сегодня|hoje
+седьмой|sétimo
+сейчас|agora
+секретарь|secretário
+секунда|segundo
+семнадцать|dezessete
+семь|sete
+семьдесят|setenta
+семьсот|setecentos
+семья|família
+сентябрь|setembro
+сердце|coração
+серый|cinza
+серьёзно|seriamente
+серьёзный|sério
+сестра|irmã
+сесть|sentar-se
+сигарета|cigarro
+сидеть|estar sentado
+сильный|forte
+симпатичный|simpático
+синий|azul
+система|sistema
+сказать|dizer
+сказка|conto de fadas
+сколько|quanto
+скоро|logo
+скрипка|violino
+скучно|entediante
+сладкий|doce
+слева|à esquerda
+следующий|seguinte
+словарь|dicionário
+слово|palavra
+случай|caso
+случаться / случиться|acontecer
+слушать / послушать|escutar
+слышать / услышать|ouvir
+смелый|corajoso
+смерть|morte
+смешной|engraçado
+смеяться|rir
+смотреть / посмотреть|olhar, assistir
+смочь|poder
+сначала|no início
+снег|neve
+снова|de novo
+собака|cachorro
+собирать / собрать|coletar
+собор|catedral
+собрание|reunião
+собрать|coletar
+совет|conselho
+советовать / посоветовать|aconselhar
+современный|moderno
+согласен|de acordo
+сок|suco
+солнце|sol
+соль|sal
+сообщать / сообщить|comunicar
+сообщение|mensagem
+сорок|quarenta
+сосед / соседка|vizinho / vizinha
+соседний|vizinho
+спасибо|obrigado
+спать|dormir
+спеть|cantar
+специалист|especialista
+специальность|especialidade
+спокойно|calmamente
+Спокойной ночи!|Boa noite!
+спокойный|calmo
+спорт|esporte
+спортивный|esportivo
+спортсмен|esportista
+справа|à direita
+спрашивать / спросить|perguntar
+спросить|perguntar
+сразу|imediatamente
+среда|quarta-feira
+средний|médio
+стадион|estádio
+стакан|copo
+станция|estação
+старость|velhice
+старший|mais velho
+старый|velho
+стать|tornar-se
+статья|artigo
+стена|parede
+стихи|versos
+сто|cem
+стоить|custar
+стол|mesa
+столица|capital
+столовая|refeitório
+стоять|estar de pé
+страна|país
+страница|página
+строитель|construtor
+строительный|de construção
+строить / построить|construir
+студент / студентка|estudante
+студенческий|estudantil
+стул|cadeira
+суббота|sábado
+сувенир|lembrança
+сумка|bolsa
+суп|sopa
+сутки|24 horas
+счастливый|feliz
+счастье|felicidade
+съесть|comer
+сыграть|jogar, tocar
+сын|filho
+сыр|queijo
+сюда|para cá

@@ -1,0 +1,218 @@
+газета|jornal
+галерея|galeria
+где|onde
+географ|geógrafo
+географический|geográfico
+география|geografia
+герой|herói
+гитара|violão
+главный|principal
+глаз|olho
+глубокий|profundo
+говорить / сказать|falar, dizer
+год|ano
+голова|cabeça
+голос|voz
+голубой|azul-claro
+гора|montanha
+город|cidade
+городской|urbano
+горький|amargo
+горячий|quente
+господин / госпожа|senhor / senhora
+гостиница|hotel
+гость|hóspede, convidado
+государственный|estatal
+государство|Estado
+готов|pronto
+готовить / приготовить|preparar
+градус|grau
+граница|fronteira
+грамм|grama
+грипп|gripe
+громко|alto
+группа|grupo
+грустно|tristemente
+грустный|triste
+грязный|sujo
+гулять|passear
+да|sim
+давай(те)|vamos
+давать / дать|dar
+давно|há muito tempo
+даже|até
+далеко|longe
+далёкий|distante
+дарить / подарить|presentear
+дата|data
+два / две|dois / duas
+двадцать|vinte
+двенадцать|doze
+дверь|porta
+двести|duzentos
+двое|dois
+дворец|palácio
+девочка|menina
+девушка|moça
+девяносто|noventa
+девятнадцать|dezenove
+девятый|nono
+девять|nove
+девятьсот|novecentos
+дедушка|avô
+декабрь|dezembro
+делать / сделать|fazer
+дело|assunto, negócio
+день|dia
+деньги|dinheiro
+депутат|deputado
+деревня|aldeia
+дерево|árvore
+держать|segurar
+десятый|décimo
+десять|dez
+дети|crianças
+детский|infantil
+детство|infância
+дешёвый|barato
+дёшево|barato
+диалог|diálogo
+диван|sofá
+директор|diretor
+длинный|longo
+днём|de dia
+до|até
+добрый|bondoso
+доволен|satisfeito
+доехать|chegar
+дождь|chuva
+доказать / доказывать|provar
+документ|documento
+долго|por muito tempo
+должен|deve
+дом|casa
+дома|em casa
+домашний|doméstico
+домой|para casa
+домохозяйка|dona de casa
+дорога|caminho, estrada
+дорого|caro
+дорогой|caro, querido
+до свидания|até logo
+дочь|filha
+друг|amigo
+дружба|amizade
+друзья|amigos
+думать / подумать|pensar
+душ|chuveiro
+дядя|tio
+Европа|Europa
+еда|comida
+ездить|ir (de transporte)
+есть|comer; haver
+ехать|ir (de transporte)
+ещё|ainda, mais
+жаль|pena
+жарко|calor
+ждать|esperar
+жена|esposa
+женат|casado
+жениться|casar-se
+женский|feminino
+женщина|mulher
+жёлтый|amarelo
+жить|viver
+журнал|revista
+журналист|jornalista
+за|atrás, por
+забывать / забыть|esquecer
+завод|fábrica
+завтра|amanhã
+завтрак|café da manhã
+завтракать / позавтракать|tomar café da manhã
+задавать / задать|fazer (pergunta)
+задание|tarefa
+задача|problema, tarefa
+заказать / заказывать|pedir, encomendar
+заканчивать / закончить|terminar
+закон|lei
+закрывать / закрыть|fechar
+закрыт|fechado
+зал|salão
+замечательный|notável
+замечать / заметить|notar
+замуж — выйти замуж|casar-se (mulher)
+замужем|casada
+заниматься|ocupar-se, estudar
+занят|ocupado
+занятие|ocupação, aula
+запад|oeste
+западный|ocidental
+заплатить|pagar
+запоминать / запомнить|memorizar
+зачем|para quê
+звать|chamar
+звонить / позвонить|telefonar
+звонок|campainha
+звук|som
+здание|edifício
+здесь|aqui
+здоров|saudável
+здоровый|saudável
+здравствуй(те)|olá
+зелёный|verde
+земля|terra
+зеркало|espelho
+зима|inverno
+зимний|invernal
+зимой|no inverno
+злой|mau
+знакомиться / познакомиться|conhecer(-se)
+знаком|conhecido
+знакомый|conhecido
+знать|saber
+значение|significado
+значить|significar
+золото|ouro
+золотой|de ouro
+зонт / зонтик|guarda-chuva
+зоопарк|zoológico
+зуб|dente
+и|e
+игра|jogo
+играть / сыграть|jogar, tocar
+игрушка|brinquedo
+идти|ir (a pé)
+из|de, desde
+известный|famoso
+извини(те)|desculpe
+изменять / изменить|mudar
+изучать / изучить|estudar
+или|ou
+имя|nome
+инженер|engenheiro
+иногда|às vezes
+иностранец / иностранка|estrangeiro / estrangeira
+иностранный|estrangeiro
+институт|instituto
+интересно|interessante
+интересный|interessante
+интересоваться|interessar-se
+Интернет|Internet
+искать|procurar
+искусство|arte
+испанец / испанка|espanhol / espanhola
+испанский|espanhol
+историк|historiador
+исторический|histórico
+история|história
+их|deles, delas
+июль|julho
+июнь|junho
+жив|vivo
+живой|vivo
+живопись|pintura
+животное|animal
+жизнь|vida
+житель|morador
+если|se

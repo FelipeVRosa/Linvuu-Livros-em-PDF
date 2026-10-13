@@ -1,0 +1,232 @@
+так|assim
+так как|já que
+также|também
+такой|tal
+такси|táxi
+талант|talento
+талантливый|talentoso
+там|lá
+танец|dança
+танцевать|dançar
+тарелка|prato
+твёрдый|duro
+твой|teu
+театр|teatro
+текст|texto
+телевизор|televisor
+телеграмма|telegrama
+телефон|telefone
+температура|temperatura
+теннис|tênis
+теперь|agora
+тепло|calor
+тетрадь|caderno
+техника|técnica
+технический|técnico
+тёмный|escuro
+тёплый|quente
+тётя|tia
+тихо|baixo, silenciosamente
+товарищ|companheiro
+тогда|então
+то есть|isto é
+тоже|também
+только|só
+торт|bolo
+тот|aquele
+точка|ponto
+точно|exatamente
+трамвай|bonde
+транспорт|transporte
+тратить|gastar
+третий|terceiro
+три|três
+тридцать|trinta
+тринадцать|treze
+триста|trezentos
+троллейбус|trólebus
+трудно|difícil
+трудный|difícil
+туда|para lá
+турист|turista
+тут|aqui
+туфли|sapatos
+ты|tu
+тысяча|mil
+тяжёлый|pesado
+у|em, junto de
+убивать / убить|matar
+уважать|respeitar
+уважаемый|prezado
+уверен|seguro
+увидеть|ver
+ударение|acento
+удивительный|surpreendente
+удобный|confortável
+удовольствие|prazer
+уезжать / уехать|partir
+уехать|partir
+уже|já
+ужин|jantar
+ужинать / поужинать|jantar
+узкий|estreito
+уйти|ir embora
+улица|rua
+улыбаться / улыбнуться|sorrir
+улыбнуться|sorrir
+умереть|morrer
+уметь / суметь|saber
+умный|inteligente
+универмаг|loja de departamentos
+университет|universidade
+университетский|universitário
+упасть|cair
+упражнение|exercício
+урок|lição
+успех|sucesso
+уставать / устать|cansar-se
+устать|cansar-se
+утро|manhã
+ухо|orelha
+утром|de manhã
+уходить / уйти|ir embora
+участвовать|participar
+учебник|livro didático
+учебный|de estudo
+ученик / ученица|aluno / aluna
+учёный|cientista
+учитель / учительница|professor / professora
+учить / выучить|aprender, ensinar
+учиться|estudar
+фабрика|fábrica
+факс|fax
+факультет|faculdade
+фамилия|sobrenome
+февраль|fevereiro
+фермер|fazendeiro
+физик|físico
+физика|física
+физический|físico
+филолог|filólogo
+филологический|filológico
+филология|filologia
+философ|filósofo
+философия|filosofia
+философский|filosófico
+фильм|filme
+фирма|empresa
+флешка|pen drive
+фонтан|fonte
+фотоаппарат|máquina fotográfica
+фотографировать / сфотографировать|fotografar
+фотография|fotografia
+фраза|frase
+француженка|francesa
+француз|francês
+французский|francês
+французско-русский|francês-russo
+фрукты|frutas
+футбол|futebol
+футболист|jogador de futebol
+характер|caráter
+химик|químico
+химический|químico
+химия|química
+хлеб|pão
+хобби|hobby
+ходить|ir
+хозяин / хозяйка|dono / dona
+хоккей|hóquei
+хоккеист|jogador de hóquei
+холодно|frio
+холодный|frio
+хороший|bom
+хорошо|bem
+хотеть|querer
+художник|pintor
+хуже|pior
+царь|czar
+цвет|cor
+цветной|colorido
+цветы|flores
+целовать / поцеловать|beijar
+целый|inteiro
+цена|preço
+центр|centro
+центральный|central
+цирк|circo
+цифра|algarismo
+чай|chá
+чайник|chaleira
+час|hora
+часто|frequentemente
+часть|parte
+часы|relógio
+чашка|xícara
+чей|de quem
+человек|pessoa
+чем|do que
+чемпион|campeão
+через|através, depois de
+честный|honesto
+четверг|quinta-feira
+четвёртый|quarto
+четыре|quatro
+четыреста|quatrocentos
+четырнадцать|quatorze
+чёрный|preto
+число|número
+чистый|limpo
+читальный|de leitura
+читатель|leitor
+читать / прочитать|ler
+чтение|leitura
+что|o que
+чтобы|para que
+чувствовать|sentir
+шапка|gorro
+шарф|cachecol
+шахматист|enxadrista
+шахматы|xadrez
+шестой|sexto
+шестнадцать|dezesseis
+шесть|seis
+шестьдесят|sessenta
+шестьсот|seiscentos
+широкий|largo
+шкаф|armário
+школа|escola
+школьник / школьница|aluno / aluna
+шоколад|chocolate
+шуметь|fazer barulho
+шутить / пошутить|brincar
+шутка|piada
+щи|sopa de repolho
+экзамен|exame
+экономика|economia
+экономист|economista
+экономический|econômico
+экскурсия|excursão
+экскурсовод|guia
+энергичный|enérgico
+энергия|energia
+этаж|andar
+это|isto
+этот|este
+юбка|saia
+юг|sul
+южный|do sul
+юмор|humor
+юность|juventude
+юноша|jovem
+юридический|jurídico
+юрист|jurista
+я|eu
+яблоко|maçã
+являться|ser, aparecer
+ягода|fruta silvestre
+язык|língua, idioma
+яйцо|ovo
+январь|janeiro
+яркий|brilhante
+ёлка|abeto
