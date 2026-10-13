@@ -32,7 +32,7 @@ body.lv-livro { font-size: 16.5px; line-height: 1.58; color: var(--grafite); bac
 .lv-toc-h1 { font-size: 46px; margin: 0 0 6px; }
 .lv-toc { list-style: none; padding: 0; margin: 12mm 0 0; }
 .lv-toc li a { display: flex; align-items: baseline; gap: 8px; text-decoration: none; color: var(--grafite); }
-.lv-toc-leader { flex: 1; border-bottom: 1px dotted var(--grafite-50); transform: translateY(-3px); }
+.lv-toc-leader { flex: 1; border-bottom: 1px dotted var(--grafite-50); position: relative; top: -3px; }
 .lv-toc-p { font-weight: 600; font-variant-numeric: tabular-nums; }
 .lv-toc-1 { margin-top: 15px; font: 600 23px/1.3 var(--font-display); }
 .lv-toc-1 b { font: 600 14px/1 var(--font-body); letter-spacing: .14em; text-transform: uppercase; color: var(--verde-floresta); margin-right: 8px; }
