@@ -4,3 +4,4 @@ saida/*-corpo*.pdf
 saida/*-rodape*
 saida/*-capa-*.pdf
 saida/*.png
+node_modules
