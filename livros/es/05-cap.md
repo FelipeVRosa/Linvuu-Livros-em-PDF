@@ -9,9 +9,9 @@ Camila, Lucía e Tomás saem do trabalho e discutem onde jantar.
 ::: dialogo
 **Lucía:** ¿Qué tipo de comida les gusta? Hay un restaurante peruano y una taquería.
 
-**Tomás:** A mí me gustan los tacos, pero hoy tengo ganas de algo diferente.
+**Tomás:** A mí me gustan los tacos, y hoy tengo ganas de comer algo rápido.
 
-**Camila:** A mí también me gusta la comida peruana. Me interesa probar el ceviche.
+**Camila:** A mí me gusta la comida peruana. Me interesa probar el ceviche.
 
 **Lucía:** A mí no me gusta el pescado crudo.
 
@@ -26,7 +26,7 @@ Camila, Lucía e Tomás saem do trabalho e discutem onde jantar.
 **Camila:** A mí también me parece perfecto. Vamos.
 :::
 
-Em português: Que tipo de comida vocês gostam? Tem um restaurante peruano e uma taqueria. / Eu gosto de tacos, mas hoje estou com vontade de algo diferente. / Eu também gosto de comida peruana. Tenho interesse em provar o ceviche. / Eu não gosto de peixe cru. / Eu também não. E você, Camila? / Eu gosto, mas não gosto de pimenta. / Então a taqueria. Os tacos de frango não são picantes, e o Tomás adora. / Acho uma boa ideia. / Eu também acho ótimo. Vamos.
+Em português: De que tipo de comida vocês gostam? Tem um restaurante peruano e uma taqueria. / Eu gosto de tacos, e hoje estou com vontade de comer algo rápido. / Eu gosto de comida peruana. Tenho interesse em provar o ceviche. / Eu não gosto de peixe cru. / Eu também não. E você, Camila? / Eu gosto, mas não gosto de pimenta. / Então a taqueria. Os tacos de frango não são picantes, e o Tomás adora. / Acho uma boa ideia. / Eu também acho ótimo. Vamos.
 
 Repare: ninguém disse "eu gosto". Disseram *me gusta*, *me gustan*, *me interesa*, *le encantan*, *me parece*. E as respostas foram *a mí también*, *a mí tampoco*, *a mí sí*, e não "eu também".
 
@@ -103,7 +103,7 @@ Se você viu que o verbo concorda com a coisa, que um infinitivo é sempre singu
 | vosotros | a vosotros | os | gusta / gustan |
 | ellos, ellas, ustedes | a ellos, a ellas, a ustedes | les | gusta / gustan |
 
-**A mí, com acento.** O pronome tônico *mí* leva acento escrito; o possessivo *mi* (meu, minha) não. *A mí me gusta* ≠ *a mi hermano le gusta*. O acento só aparece em *mí*; *ti* nunca leva.
+**A mí, com acento.** O pronome tônico *mí* leva acento escrito; o possessivo *mi* (meu, minha) não. *A mí me gusta* (pronome, com acento) × *A mi hermano le gusta* (possessivo, sem acento). O acento só aparece em *mí*; *ti* nunca leva.
 
 **Ordem das palavras.** O pronome átono vem antes do verbo, e a coisa pode abrir a frase: *El café me gusta*; *Me gusta el café*. Os dois estão certos; o primeiro destaca o café.
 
@@ -130,7 +130,7 @@ Se você viu que o verbo concorda com a coisa, que um infinitivo é sempre singu
 | dois infinitivos | gusta | Me gusta cocinar y comer. |
 | duas coisas singulares | gusta ou gustan | Me gusta el té y el café. / Me gustan el té y el café. |
 
-No último caso, as duas concordâncias são usadas. Se você ficar com o verbo concordando com o substantivo mais próximo ou com o conjunto, ninguém vai estranhar.
+Com duas coisas no singular, os dois verbos aparecem na fala; no A1, o mais simples é concordar com a primeira coisa citada (*Me gusta el té y el café*).
 
 ### Quando o sujeito é uma pessoa
 
@@ -140,7 +140,7 @@ No último caso, as duas concordâncias são usadas. Se você ficar com o verbo 
 |---|---|
 | Me gustas. | Você me atrai. (verbo na 2ª pessoa) |
 | Le gusto a Camila. | Camila se interessa por mim. |
-| Me gusta Ana. | Ana me atrai (ou: gosto do jeito dela). |
+| Me gusta Ana. | Ana me atrai (na maioria dos contextos). |
 | Ana me cae bien. | Gosto da Ana, como pessoa. |
 
 Para dizer que você gosta de uma pessoa como amiga ou colega, o mais natural é *caer bien* (ou *caer mal*, o contrário): *Mi jefe me cae bien. Los vecinos me caen mal.* O verbo concorda com a pessoa. Para amor de família ou de amigos, usa-se *querer*: *Quiero mucho a mi abuela.* (o *a* antes de pessoa é obrigatório quando ela é objeto direto.)
@@ -164,9 +164,9 @@ Os verbos abaixo usam o mesmo molde: pessoa afetada no pronome, coisa como sujei
 
 **Doler** muda a vogal da raiz como *poder*: *me duele, me duelen* (o → ue). **Parecer** é a forma natural de dar opinião: *Me parece que tienes razón* (acho que você tem razão). **Apetecer** é muito usado na Espanha; na América Latina, costuma-se dizer *tengo ganas de* ou *se me antoja* (México).
 
-### Uma educação amável: me gustaría
+### Um pedido educado: me gustaría
 
-Para pedir ou desejar algo de forma educada, use o bloco pronto *me gustaría* + infinitivo ou substantivo: *Me gustaría un café. Me gustaría reservar una mesa.* É um tempo verbal que estudaremos mais tarde; por ora, decore a expressão.
+Para pedir ou desejar algo de forma educada, use o bloco pronto *me gustaría* + infinitivo ou substantivo: *Me gustaría un café. Me gustaría reservar una mesa.* É uma forma que este livro não detalha; por ora, decore a expressão.
 
 ## 6. Frases de ouro
 

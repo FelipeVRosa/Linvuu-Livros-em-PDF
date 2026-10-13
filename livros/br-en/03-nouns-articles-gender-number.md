@@ -70,13 +70,13 @@ Some endings are strong signals. Learn these and you can guess hundreds of nouns
 | **-dade**, **-tade** | feminine | {{a cidade}} `ah see-DAH-djee` (city), {{a verdade}} (truth), {{a liberdade}} |
 | **-agem** | feminine | {{a viagem}} `ah vee-AH-zheh~ee` (trip), {{a mensagem}} (message), {{a garagem}} |
 | **-ice**, **-ez** | feminine | {{a velhice}} (old age), {{a timidez}} (shyness) |
-| **-ema**, **-oma**, **-ama** (Greek origin) | masculine | {{o problema}} `oo proh-BLEH-mah`, {{o sistema}} `oo sees-TEH-mah`, {{o idioma}} `oo ee-djee-OH-mah` (language), {{o tema}} (theme), {{o programa}} |
+| **-ema**, **-oma** (Greek origin) | masculine | {{o problema}} `oo proh-BLEH-mah`, {{o sistema}} `oo sees-TEH-mah`, {{o idioma}} `oo ee-djee-OH-mah` (language), {{o tema}} (theme), {{o diploma}} |
 | **-or**, **-ismo** | masculine | {{o amor}} `oo ah-MOR` (love), {{o computador}}, {{o calor}} (heat), {{o turismo}} |
 | **-l** | mostly masculine | {{o hotel}}, {{o papel}} `oo pah-PEH-oo` (paper), {{o jornal}} `oo zhor-NAH-oo` (newspaper), {{o sal}} (salt) |
 :::
 
 ::: atencao
-Every rule has well-known exceptions. The ones you need most are these. **Masculine words ending in -a:** {{o dia}} (day), {{o mapa}} (map), {{o planeta}} (planet), {{o cinema}}, {{o clima}} (climate), {{o idioma}}. **Feminine words ending in -o:** {{a mão}} (hand), {{a foto}} (photo, short for *fotografia*), {{a moto}} (motorbike). **Feminine words in -or:** {{a flor}} (flower), {{a cor}} (color), {{a dor}} (pain). **Feminine words in -ão** other than -ção and -são: {{a razão}} (reason), {{a união}} (union), {{a opinião}}. Words in -ão can be masculine too: {{o pão}}, {{o avião}} (plane), {{o limão}}, {{o coração}}, {{o irmão}}.
+Every rule has well-known exceptions. The ones you need most are these. **Masculine words ending in -a:** {{o dia}} (day), {{o mapa}} (map), {{o planeta}} (planet), {{o cinema}}, {{o clima}} (climate), {{o programa}}. **Feminine words ending in -o:** {{a mão}} (hand), {{a foto}} (photo, short for *fotografia*), {{a moto}} (motorbike). **Feminine words in -or:** {{a flor}} (flower), {{a cor}} (color), {{a dor}} (pain). **Feminine words in -ão** other than -ção and -são: {{a razão}} (reason), {{a união}} (union), {{a opinião}}. Words in -ão can be masculine too: {{o pão}}, {{o avião}} (plane), {{o limão}}, {{o coração}}, {{o irmão}}.
 :::
 
 ::: passo 3 Look at people and animals
@@ -133,8 +133,8 @@ English drops "the" when we talk about things in general. Portuguese often keeps
 - **Countries and regions:** {{o Brasil}}, {{a Argentina}}, {{os Estados Unidos}}, {{o Canadá}}. A few countries and nearly all cities take none: {{Portugal}}, {{Cuba}}, {{Israel}}, {{São Paulo}}, {{Londres}}. Some cities have an article as part of the name: {{o Rio de Janeiro}}, so Brazilians say {{no Rio}}.
 - **Languages as subject:** {{O português é bonito.}}
 - **Days of the week with a habit:** {{Na segunda eu trabalho em casa.}} (On Mondays I work from home.)
-- **First names, in speech:** {{A Marina é minha colega.}} {{O João chega amanhã.}} This is normal in São Paulo, Rio, Minas and much of Brazil; in some regions, like parts of the Northeast and the North, it is less common. Both are correct. But never use the article when you **address** the person: {{Oi, Marina!}}, not {{Oi, a Marina!}}
-- **Parts of the body and personal items:** English says *my hands*; Portuguese says {{as mãos}} when the owner is clear: {{Lave as mãos.}} (Wash your hands.)
+- **First names, in speech:** {{A Marina é de Recife.}} {{O João chega amanhã.}} This is normal in São Paulo, Rio, Minas and much of Brazil; in some regions, like parts of the Northeast and the North, it is less common. Both are correct. But never use the article when you **address** the person: {{Oi, Marina!}}, not {{Oi, a Marina!}}
+- **Parts of the body and personal items:** English says *my hands*; Portuguese says {{as mãos}} when the owner is clear: {{Lavo as mãos.}} (I wash my hands.)
 
 ### When Portuguese leaves the article out
 
@@ -146,7 +146,7 @@ English drops "the" when we talk about things in general. Portuguese often keeps
 ::: erros
 | Wrong | Right | Why |
 |---|---|---|
-| {{O problema é a mesa.}} (about *a problema*) | {{O problema}} | {{problema}} is masculine despite the -a ending |
+| {{Brasil é grande.}} | {{O Brasil é grande.}} | most country names take the article |
 | {{Sou o professor.}} (meaning only "I am a teacher") | {{Sou professor.}} | no article with a profession |
 | {{Oi, a Marina!}} | {{Oi, Marina!}} | no article when you call someone directly |
 | {{Falo o português.}} | {{Falo português.}} | no article after *falar* + language |
@@ -166,7 +166,7 @@ The **indefinite article** is *a/an* and, in the plural, *some*.
 Where English uses *a*, Portuguese often uses nothing:
 
 - **Professions and nationalities:** {{Sou médica}}.
-- **After {{ter}} and {{querer}} when the amount is not important or the idea is general:** {{Tenho carro}} (I have a car, i.e. I own one), but {{Tenho um carro novo}} (I have a new car, a specific one).
+- **After {{ter}}, when you only say that you own one:** {{Tenho carro}} (I have a car), but {{Tenho um carro novo}} when you describe it.
 - **After {{que}} in exclamations:** {{Que dia lindo!}} (What a beautiful day!), {{Que legal!}}
 - **Before {{cem}} and {{mil}}:** {{cem reais}}, {{mil pessoas}}, not "um cem".
 
@@ -204,7 +204,6 @@ Unstressed -s does not change: {{o ônibus}} `oo OH-nee-booss` → {{os ônibus}
 | {{o hotel}} | {{os hotéis}} | `oh-TEH-eess` |
 | {{o papel}} | {{os papéis}} | `pah-PEH-eess` |
 | {{o azul}} | {{os azuis}} | `ah-ZOO-eess` |
-| {{o fácil}} (easy) → {{fáceis}} | {{os fáceis}} | `FAH-sayss` |
 
 Notice the accents on {{hotéis}} and {{papéis}}: the plural of **-el** is **-éis**. And words in -il change differently depending on stress: stressed {{-il}} gives {{-is}} ({{o funil}} → {{os funis}}), unstressed {{-il}} gives {{-eis}} ({{fácil}} → {{fáceis}}).
 :::
@@ -263,7 +262,7 @@ Pronunciation: {{no}} `noo`, {{na}} `nah`, {{do}} `doo`, {{da}} `dah`, {{pelo}} 
 :::
 
 ::: passo 2 Use "de" for origin, owner and material
-Origin: {{Sou do Brasil}}, {{Sou da Bahia}}, {{Sou de Recife}}. Owner: Portuguese has no apostrophe-s, so it says "the book **of** the Pedro": {{o livro do Pedro}}, {{a casa da Marta}}, {{o carro dos meus pais}}. Material and topic: {{uma mesa de madeira}} `MAH-dyeh-rah`.. wait for it: {{madeira}} `mah-DAY-rah`, wood.
+Origin: {{Sou do Brasil}}, {{Sou da Bahia}}, {{Sou de Recife}}. Owner: Portuguese has no apostrophe-s, so it says "the book **of** the Pedro": {{o livro do Pedro}}, {{a casa da Marta}}, {{o carro dos meus pais}}. Material: {{uma mesa de madeira}} (a wooden table; {{madeira}} is `mah-DAY-rah`).
 :::
 
 ::: passo 3 Use "por" for passing through and for reasons
@@ -288,7 +287,7 @@ You can now build complete phrases. Read each aloud.
 | {{O hotel fica na rua das Flores.}} | The hotel is on Flowers Street. |
 | {{Preciso do passaporte e da passagem.}} | I need the passport and the ticket. |
 | {{Os pães da padaria são ótimos.}} | The bread from the bakery is great. |
-| {{Tem uns amigos meus aqui.}} | Some friends of mine are here. |
+| {{Tem uns amigos aqui.}} | There are some friends here. |
 | {{As crianças gostam do parque.}} | The children like the park. |
 
 Four new things hide in these sentences, all of which you will meet again: {{moro}} and {{preciso}} are present-tense verbs (Lesson 4), {{fica}} and {{tem}} (Lessons 5 and 7) say where things are and what exists. Treat them as blocks for now.

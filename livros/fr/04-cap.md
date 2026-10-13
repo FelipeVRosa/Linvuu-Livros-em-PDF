@@ -89,7 +89,7 @@ Se você viu que **a mudança de {{acheter}} (e ➜ è) acontece em quatro pesso
 
 ### Verbos regulares em -er
 
-Mais de 90% dos verbos franceses são regulares em *-er*. Quando aprender um novo verbo desse tipo, você já sabe conjugá-lo.
+A grande maioria dos verbos franceses é do tipo *-er* regular. Quando aprender um novo verbo desse tipo, você já sabe conjugá-lo.
 
 | Pronome | Terminação | Exemplo: habiter | Exemplo: aimer |
 |---|---|---|---|
@@ -117,14 +117,12 @@ Verbos úteis para o dia a dia:
 | {{cuisiner}} | cozinhar | {{coûter}} | custar |
 | {{commencer}} | começar | {{demander}} | pedir, perguntar |
 
-Atenção a quatro verbos que **não levam preposição** em francês, e levam em português:
+Atenção a dois verbos que **não levam preposição** em francês, embora o português use uma:
 
 | Português | Francês |
 |---|---|
-| ouvir **a** música | {{écouter la musique}} |
 | olhar **para** a TV | {{regarder la télé}} |
 | procurar **por** um plano | {{chercher un plan}} |
-| pedir **a** conta | {{demander l'addition}} |
 
 E dois que se usam com {{à}}: {{habiter à Lyon}} (morar em Lyon), {{rester à l'hôtel}}.
 
@@ -202,7 +200,7 @@ Também há as saudações: {{Ça va ?}} ("tudo bem?") e {{Comment allez-vous ?}
 | preço | {{Ça fait dix euros.}} | Dá dez euros. |
 | atenção | {{Fais attention !}} | Cuidado! |
 
-O *ai* de {{faisons}} soa como o *e* mudo ("fe-zõ"), uma das exceções do capítulo 1.
+O *ai* de {{faisons}} é um caso à parte: soa como o *e* mudo ("fe-zõ"), e não como "é".
 
 ### Prendre
 
@@ -322,7 +320,7 @@ Repare no último: em português dizemos "moro há dois anos", e o francês faz 
 
 ## 8. O erro típico
 
-O erro mais frequente é **conjugar com a terminação errada na escrita**, porque o ouvido não ajuda: ~~je parles~~, ~~il parlent~~. Se na fala "parl" serve para quatro pessoas, na escrita cada pessoa tem a sua terminação. O segundo é **esquecer o *e* de {{nous mangeons}}**. O terceiro é **colocar preposição onde o francês não usa**: ~~écouter à la musique~~, ~~chercher pour un plan~~.
+O erro mais frequente é **conjugar com a terminação errada na escrita**, porque o ouvido não ajuda: ~~je parles~~, ~~il parlent~~. Se na fala "parl" serve para quatro pessoas, na escrita cada pessoa tem a sua terminação. O segundo é **esquecer o *e* de {{nous mangeons}}**. O terceiro é **colocar preposição onde o francês não usa**: ~~regarder à la télé~~, ~~chercher pour un plan~~.
 
 ::: erros
 | Errado | Certo | Por quê |
@@ -332,14 +330,14 @@ O erro mais frequente é **conjugar com a terminação errada na escrita**, porq
 | ~~Nous mangons.~~ | {{Nous mangeons.}} | o *e* mantém o som "j" |
 | ~~Ils prend.~~ | {{Ils prennent.}} | plural com dois *n* |
 | ~~Je vais à manger.~~ | {{Je vais manger.}} | {{aller}} + infinitivo, sem preposição |
-| ~~J'écoute à la musique.~~ | {{J'écoute la musique.}} | {{écouter}} não leva preposição |
+| ~~Je regarde à la télé.~~ | {{Je regarde la télé.}} | {{regarder}} não leva preposição |
 :::
 
 ## 9. Retorno
 
 **Do capítulo 3.** Complete com o artigo certo: {{Je prends \_\_\_\_ café}}, {{Il mange \_\_\_\_ salade}}, {{Tu bois \_\_\_\_ eau}}.
 
-**Do capítulo 2.** Conjugue {{être}} e {{avoir}} em {{nous}} e {{vous}} e diga qual das duas formas tem liaison.
+**Do capítulo 2.** Escreva {{nous}} e {{vous}} com {{être}} e com {{avoir}} e marque onde há liaison.
 
 **Do capítulo 1.** Leia em voz alta {{ils parlent}}, {{il parle}}, {{nous parlons}}. Quais soam iguais?
 
@@ -418,5 +416,5 @@ Digo meus planos com {{Je vais}} + infinitivo.
 6. Está certa.
 7. Je vais manger.
 
-**Retorno.** Capítulo 3: du café, de la salade, de l'eau. Capítulo 2: {{nous sommes, vous êtes}} (vous êtes: liaison em "z"); {{nous avons, vous avez}} (as duas têm liaison). Capítulo 1: {{ils parlent}} e {{il parle}} soam igual ("parl"); {{nous parlons}} termina com nasal "õ".
+**Retorno.** Capítulo 3: du café, de la salade, de l'eau. Capítulo 2: {{nous sommes, vous êtes, nous avons, vous avez}}. Liaison em "z" em {{vous êtes}}, {{nous avons}} e {{vous avez}}; em {{nous sommes}} não há, porque {{sommes}} começa com consoante. Capítulo 1: {{ils parlent}} e {{il parle}} soam igual ("parl"); {{nous parlons}} termina com nasal "õ".
 :::::
