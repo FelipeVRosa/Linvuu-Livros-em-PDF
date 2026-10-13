@@ -48,7 +48,7 @@ Outra armadilha: o português usa quase sempre o pronome ("eu sou", "ele tem"). 
 | A gente é de Curitiba. | {{Siamo di Curitiba.}} |
 | Eles têm uma casa. | {{Hanno una casa.}} |
 
-E uma terceira: o português fala "ele, ela" também para coisas ("ela é bonita" sobre a casa). O italiano **não usa pronome para coisas**: {{È bella.}} sozinho, sem "ela". Veremos isso nas "Frases de ouro".
+E uma terceira: o português usa "ele, ela" também para coisas ("ela é bonita", falando da casa). O italiano **não usa pronome para coisas**: {{È bella.}}, sozinho, sem "ela".
 
 ## 3. Descubra você mesmo
 
@@ -73,7 +73,7 @@ Observe também:
 
 Perguntas:
 
-Quais pessoas têm a mesma forma em *essere*? E em *avere*, qual forma é diferente das outras?
+Em *essere*, quais duas pessoas têm exatamente a mesma forma? Em *avere*, qual letra aparece no começo de quase todas as formas e não soa?
 
 *Essere* aparece em "estou cansada" e "sou de Curitiba". Quantos verbos o português usaria nessas duas frases?
 
@@ -109,7 +109,7 @@ Três pontos importantes.
 
 **Noi** serve também para "a gente": {{Noi andiamo al mare}} = "a gente vai à praia". Em italiano, "a gente" como pronome não existe; o verbo na 1ª pessoa do plural ({{andiamo}}) faz o trabalho.
 
-**Lei, lui, loro** são, a rigor, as formas usadas na fala para "ela, ele, eles". Na escrita formal também aparecem {{egli}}, {{ella}}, {{essi}}, mas você não precisa deles. Os pronomes pessoais referem-se a **pessoas**. Para coisas e animais, deixe o sujeito oculto: {{Il caffè è caldo. È buono.}}, e não "esso è buono".
+**Lui, lei, loro** são as formas da fala para "ele, ela, eles". Na escrita formal aparecem também {{egli}}, {{ella}}, {{essi}}, mas você não precisa deles. Os pronomes pessoais se referem a **pessoas**. Para coisas, deixe o sujeito oculto: {{Il caffè è caldo. È buono.}} ("O café está quente. É bom.")
 
 ### Quando usar o pronome
 
@@ -117,8 +117,8 @@ O verbo italiano diz quem é, então o pronome sujeito só aparece em quatro cas
 
 1. **Contraste**: {{Io sono di Roma, lei è di Torino.}}
 2. **Ênfase**: {{Chi è? Sono io!}} (depois de *essere* o pronome responde à pergunta).
-3. **Clareza**, quando duas formas coincidem: no presente de muitos verbos, o *io* e o *tu* diferem, mas {{lui}} / {{lei}} / {{Lei}} têm o mesmo verbo ({{è}}). Se a situação não deixa claro quem é, diz-se o pronome.
-4. **Depois de *anche*, *neanche*, *solo***: {{Anch'io sono stanco.}} ("Eu também"), {{Solo lui lo sa.}} (isto é de ch. 12; aqui basta o primeiro).
+3. **Clareza**: {{lui}}, {{lei}} e {{Lei}} têm o mesmo verbo ({{è}}), e em vários tempos verbais {{io}}, {{tu}} e {{lui}} coincidem. Se o contexto não deixa claro quem é, diz-se o pronome.
+4. **Com *anche* ("também")**: {{Anch'io sono stanco.}} ("Eu também estou cansado."). Aqui o pronome vem junto, como no capítulo 1.
 
 Em todo o resto, **dispense**. Dizer {{Io sono Marina, io sono brasiliana, io ho venticinque anni}} é possível e soa como quem fala com ênfase demais, ou como um aluno de livro.
 
@@ -153,19 +153,19 @@ Cuidado com a grafia: {{è}} (verbo) leva acento grave; {{e}} é "e". {{Marina �
 
 **Profissão e nacionalidade**: sem artigo. {{Sono dentista}}, {{Mario è medico}}, como em português ("Sou dentista"). Com um adjetivo antes do substantivo, o artigo volta ({{È un bravo medico}}), mas isso é do capítulo 3.
 
-**Essere × stare.** O português separa "ser" de "estar": "sou cansada" não existe, "estou cansada" sim. O italiano usa **essere** nos dois casos: {{Sono stanca}} (estou cansada), {{Sono a Roma}} (estou em Roma), {{Sei pronto?}} (você está pronto?), {{Siamo in ritardo}} (estamos atrasados). A sensação inicial é de que o italiano "mistura", mas a vida fica mais fácil: **na dúvida entre ser e estar, é {{essere}}**. O verbo {{stare}}, que muitos brasileiros acham equivalente a "estar", tem usos mais restritos e aparece no capítulo 4 ({{Come stai? Sto bene.}}, {{Sto a casa}} não é recomendado no começo). Por ora, traduza "estar" por {{essere}}.
+**Essere × stare.** O português separa "ser" de "estar": "sou cansada" não existe, "estou cansada" sim. O italiano usa **essere** nos dois casos: {{Sono stanca}} (estou cansada), {{Sono a Roma}} (estou em Roma), {{Sei pronto?}} (você está pronto?), {{Siamo in ritardo}} (estamos atrasados). A sensação inicial é de que o italiano "mistura", mas a vida fica mais fácil: **na dúvida entre ser e estar, é {{essere}}**. O verbo {{stare}}, que muitos brasileiros acham equivalente a "estar", tem usos bem mais restritos e aparece no capítulo 4 ({{Come stai? Sto bene.}}). Por ora, traduza "estar" por {{essere}}.
 
 ### Avere
 
-{{Avere}} é "ter", mas vale mais que o "ter" português em dois grupos de expressões.
+{{Avere}} é "ter", e o português ajuda: quase tudo que você diz com "ter", o italiano diz com {{avere}}.
 
-**Posse e relação**: {{Ho una sorella.}} ("Tenho uma irmã."), {{Hai la chiave?}}, {{Abbiamo due camere.}} Em português, o "ter" faz o mesmo trabalho.
+**Posse e relação**: {{Ho una sorella.}} ("Tenho uma irmã."), {{Hai la chiave?}}, {{Abbiamo due camere.}}
 
-**Sensações, idade e necessidade**: com {{avere}} o italiano diz literalmente "tenho fome", "tenho trinta anos". Isso é familiar para o brasileiro, porque o português usa "ter" em quase todos esses casos. Mas há uma pegadinha, em duas frentes.
+**Sensações e idade**: o italiano diz "tenho fome", "tenho trinta anos", como o português. A armadilha aparece quando você pensa em "estar com": o brasileiro diz "estou com frio" e "estou com sono", e a tentação é traduzir por {{essere}}. Em italiano, esses estados do corpo vão com {{avere}}.
 
 | Expressão | Significado | Armadilha |
 |---|---|---|
-| {{Ho fame}} / {{Ho sete}} | estou com fome / sede | o português também diz "tenho fome" |
+| {{Ho fame}} / {{Ho sete}} | estou com fome / sede | como em "tenho fome" |
 | {{Ho sonno}} | estou com sono | sem artigo |
 | {{Ho freddo}} / {{Ho caldo}} | estou com frio / calor | {{avere}}, não {{essere}}: ~~sono freddo~~ |
 | {{Ho paura}} | tenho medo | sem artigo |
@@ -173,7 +173,7 @@ Cuidado com a grafia: {{è}} (verbo) leva acento grave; {{e}} é "e". {{Marina �
 | {{Ho ragione}} / {{Ho torto}} | tenho razão / estou errado | |
 | {{Ho vent'anni}} / {{Ho venticinque anni}} | tenho 20 / 25 anos | idade com {{avere}}; {{anni}} sempre aparece |
 
-**Idade.** Diz-se {{Ho trent'anni}} ("Tenho trinta anos"), com elisão em vinte, trinta e quarenta ({{vent'anni}}, {{trent'anni}}, {{quarant'anni}}). Com outros números, {{anni}} aparece como palavra separada: {{ho venticinque anni}}, {{ho ventidue anni}}. A pergunta é {{Quanti anni hai?}} (tu) ou {{Quanti anni ha?}} (Lei). Os numerais completos estão no capítulo 8.
+**Idade.** Diz-se {{Ho trent'anni}} ("Tenho trinta anos"). Com *venti*, *trenta*, *quaranta* e os números redondos seguintes, a elisão é habitual: {{vent'anni}}, {{trent'anni}}, {{quarant'anni}} (também se aceita {{ho venti anni}}). Com os outros números, {{anni}} vem separado: {{ho venticinque anni}}, {{ho ventidue anni}}. A pergunta é {{Quanti anni hai?}} (tu) ou {{Quanti anni ha?}} (Lei). Os numerais completos estão no capítulo 8.
 
 **Frio e calor.** Um aviso: {{Ho caldo}} (eu estou com calor) não é o mesmo que {{È caldo}} (é quente, como um café) nem {{Fa caldo}} (está calor, clima). Para pessoas, {{avere}}; para objetos, {{essere}}; para o tempo, {{fare}} (capítulo 4).
 
@@ -185,12 +185,12 @@ Para dizer "tem, há, existe", o italiano usa **{{ci}} + {{essere}}**: uma forma
 
 | | Afirmativa | Negativa | Pergunta |
 |---|---|---|---|
-| singular | {{C'è un bar.}} | {{Non c'è un bar.}} | {{C'è un bar?}} |
-| plural | {{Ci sono due bar.}} | {{Non ci sono bar.}} | {{Ci sono bar?}} |
+| singular | {{C'è una camera libera.}} | {{Non c'è una camera libera.}} | {{C'è una camera libera?}} |
+| plural | {{Ci sono due camere libere.}} | {{Non ci sono camere libere.}} | {{Ci sono camere libere?}} |
 
-A pronúncia é TCHÈ, e {{ci sono}} é "tchi SÔ-no". O apóstrofo de {{c'è}} é o de elisão do capítulo 1 ({{ci è}} → {{c'è}}). Para dizer "ali", "lá", "aqui", acrescenta-se {{qui}} ou {{lì}}: {{C'è un posto libero qui?}}
+A pronúncia é TCHÈ, e {{ci sono}} é "tchi SÔ-no". O apóstrofo de {{c'è}} é o de elisão do capítulo 1 ({{ci è}} → {{c'è}}). Para localizar, junta-se {{qui}} ("aqui") ou {{lì}} ("ali"): {{C'è un posto libero qui?}} / {{C'è un bar lì.}}
 
-**Armadilha**: o português usa o mesmo verbo para "há um" e "há dois" ("há um bar, há dois bares"). O italiano troca de forma. E o verbo concorda com o que vem depois, não com o sujeito inexistente: {{C'è una trattoria}}, {{Ci sono due trattorie}}.
+**Armadilha**: o português usa a mesma forma para "tem um" e "tem dois" ("tem um bar, tem dois bares"), e o "há" é invariável. O italiano troca de forma, concordando com o que vem depois: {{C'è una trattoria}}, {{Ci sono due trattorie}}.
 
 **C'è × è.** {{C'è}} apresenta, diz que algo existe. {{È}} localiza uma coisa que já foi mencionada. {{C'è una farmacia qui vicino?}} (apresenta) × {{Dov'è la farmacia?}} ("Onde fica a farmácia?"). Se você já sabe de qual farmácia fala, use {{essere}}; se pergunta pela existência, use {{c'è}}.
 
@@ -231,8 +231,8 @@ A pronúncia é TCHÈ, e {{ci sono}} é "tchi SÔ-no". O apóstrofo de {{c'è}} 
 6. Tu \_\_\_\_ freddo?
 7. Lei (a senhora) \_\_\_\_ la signora Alves?
 8. Loro \_\_\_\_ due camere.
-9. \_\_\_\_ un bar qui? (singular)
-10. \_\_\_\_ tre trattorie qui. (plural)
+9. \_\_\_\_ un bar qui vicino? (um só)
+10. \_\_\_\_ tre trattorie qui. (várias)
 
 **Degrau 3. Produza.**
 
@@ -249,7 +249,7 @@ A pronúncia é TCHÈ, e {{ci sono}} é "tchi SÔ-no". O apóstrofo de {{c'è}} 
 4. Ci è una farmacia qui.
 5. Ho venti anni.
 6. Marina ha di Curitiba.
-7. Hanno due camere libere.
+7. Loro è brasiliani.
 :::::
 
 ## 8. O erro típico
@@ -348,9 +348,9 @@ Pergunto {{C'è un …?}} e respondo {{Ci sono …}}.
 2. Tu sei brasiliano? (*è* é da 3ª pessoa)
 3. Abbiamo venticinque anni. (idade com *avere*; "siamo" é o erro)
 4. C'è una farmacia qui. (*ci è* não existe; é {{c'è}})
-5. Está certa. (*Ho venti anni* é correta; a forma elidida {{ho vent'anni}} também)
+5. Está certa. (*Ho venti anni* está correta; a forma elidida {{ho vent'anni}} também)
 6. Marina è di Curitiba. (origem é *essere*)
-7. Está certa.
+7. Loro sono brasiliani. (*è* é singular)
 
 **Retorno.** Capítulo 1: TCHA-o, NHOK-ki, fa-MI-lha. {{C'è}} tem apóstrofo porque {{ci}} + {{è}} perde o *i* (elisão); soa TCHÈ. {{Sono}} = sou, são; {{sonno}} = sono (nn longo). {{Ha}} é verbo (tem); {{a}} é preposição. {{Abbiamo}} = ab-BIA-mo (penúltima); {{prenotazione}} = pre-no-ta-ZIO-ne (penúltima).
 :::::

@@ -93,7 +93,7 @@ Os masculinos fracos ganham **-n** ou **-en** em todos os casos, menos no nomina
 | der Nachbar | den Nachbarn | dem Nachbarn | des Nachbarn |
 | der Name | den Namen | dem Namen | des Namens |
 
-*Der Nachbar* e *der Student* estão no capítulo 14; a forma *Nachbarn* segue a regra do **-n** depois de radical em consoante.
+Em *der Nachbar*, o acréscimo é **-n** (*den Nachbarn*); em *der Student*, é **-en**.
 
 ## Terminações do adjetivo
 
@@ -168,13 +168,13 @@ Capítulo 10, com o genitivo no capítulo 14. A preposição escolhe o caso. Apr
 |---|---|---|---|
 | in | em, para dentro | Ich bin in der Küche. | Ich gehe in die Küche. |
 | auf | sobre | Das Buch liegt auf dem Tisch. | Ich lege das Buch auf den Tisch. |
-| an | junto a | am Bahnhof | an den Bahnhof |
-| hinter | atrás de | hinter dem Haus | hinter das Haus |
-| neben | ao lado de | neben dem Sofa | neben das Sofa |
-| über | sobre, acima de | über dem Tisch | über den Tisch |
-| unter | sob, embaixo de | unter dem Tisch | unter den Tisch |
-| vor | diante de, antes de | vor dem Haus | vor das Haus |
-| zwischen | entre | zwischen den Stühlen | zwischen die Stühle |
+| an | junto a | Das Bild hängt an der Wand. | Ich hänge das Bild an die Wand. |
+| hinter | atrás de | Das Fahrrad steht hinter dem Haus. | Ich stelle das Fahrrad hinter das Haus. |
+| neben | ao lado de | Die Lampe steht neben dem Sofa. | Ich stelle die Lampe neben das Sofa. |
+| über | sobre, acima de | Die Lampe hängt über dem Tisch. | Ich hänge die Lampe über den Tisch. |
+| unter | sob, embaixo de | Die Katze liegt unter dem Tisch. | Die Katze läuft unter den Tisch. |
+| vor | diante de, antes de | Das Auto steht vor dem Haus. | Ich stelle das Auto vor das Haus. |
+| zwischen | entre | Die Lampe steht zwischen den Stühlen. | Ich stelle die Lampe zwischen die Stühle. |
 
 Os verbos que acompanham: *stehen / stellen*, *liegen / legen*, *hängen* (capítulo 10). O primeiro de cada par descreve onde algo está; o segundo descreve colocar algo.
 
@@ -287,6 +287,7 @@ Para cada verbo: a forma de *er, sie, es* no presente, o Präteritum, o Perfekt,
 
 | Infinitivo | er, sie, es | Präteritum | Perfekt | Português | Cap. |
 |---|---|---|---|---|---|
+| abfahren | fährt ab | fuhr ab | ist abgefahren | partir (veículo) | 17 |
 | anfangen | fängt an | fing an | hat angefangen | começar | 17 |
 | ankommen | kommt an | kam an | ist angekommen | chegar | 17, 18 |
 | anrufen | ruft an | rief an | hat angerufen | ligar | 17, 18 |
@@ -322,6 +323,7 @@ Para cada verbo: a forma de *er, sie, es* no presente, o Präteritum, o Perfekt,
 | laufen | läuft | lief | ist gelaufen | correr | 16, 18, 19 |
 | lesen | liest | las | hat gelesen | ler | 16, 18, 19 |
 | liegen | liegt | lag | hat gelegen | estar deitado | 10 |
+| mitkommen | kommt mit | kam mit | ist mitgekommen | vir junto | 17 |
 | mitnehmen | nimmt mit | nahm mit | hat mitgenommen | levar junto | 17 |
 | mögen | mag | mochte | hat gemocht | gostar de | 15, 19 |
 | müssen | muss | musste | (raro; veja nota) | precisar, ter de | 15, 19 |
@@ -341,20 +343,23 @@ Para cada verbo: a forma de *er, sie, es* no presente, o Präteritum, o Perfekt,
 | treffen (sich) | trifft | traf | hat getroffen | encontrar(-se) | 20 |
 | trinken | trinkt | trank | hat getrunken | beber | 18, 19 |
 | tun | tut | tat | hat getan | fazer | 15 |
+| unterschreiben | unterschreibt | unterschrieb | hat unterschrieben | assinar | 22 |
 | vergessen | vergisst | vergaß | hat vergessen | esquecer | 17, 18 |
 | verlieren | verliert | verlor | hat verloren | perder | extra |
 | verstehen | versteht | verstand | hat verstanden | entender | 17, 18 |
 | vorhaben | hat vor | hatte vor | hat vorgehabt | ter planejado | 21 |
 | waschen (sich) | wäscht | wusch | hat gewaschen | lavar(-se) | 20 |
+| weggehen | geht weg | ging weg | ist weggegangen | ir embora | 17 |
 | werden | wird | wurde | ist geworden | tornar-se; futuro | 21 |
 | wissen | weiß | wusste | hat gewusst | saber (um fato) | 16, 18, 19 |
 | wollen | will | wollte | (raro; veja nota) | querer | 15, 19 |
+| zurückkommen | kommt zurück | kam zurück | ist zurückgekommen | voltar | 17 |
 
 **Notas.**
 
 1.  Os modais quase não usam o Perfekt; na fala, diz-se o Präteritum (*Ich konnte nicht kommen*), como no capítulo 19. As formas *gekonnt, gemusst, gewollt, gesollt, gedurft* existem, mas não são treinadas no livro.
 2.  *Bringen, denken, wissen* e *kennen* são verbos mistos: mudam a vogal e ainda levam **-te** (*brachte, dachte, wusste, kannte*) (capítulo 19).
-3.  *Liegen, sitzen* e *stehen* usam *haben* no Perfekt mais padrão. No sul da Alemanha, na Áustria e na Suíça, é comum ouvir *sein* (*ist gelegen, ist gestanden*).
+3.  *Liegen, sitzen* e *stehen* formam o Perfekt com *haben* no norte da Alemanha e com *sein* no sul, na Áustria e na Suíça (*ist gelegen, ist gestanden*). A tabela traz a forma do norte.
 4.  *Hängen* na lista é “estar pendurado”. Com o sentido de “pendurar”, o verbo é regular (*hängte, hat gehängt*).
 5.  *Stellen* e *legen*, que formam par com *stehen* e *liegen* no capítulo 10, são regulares: *stellte, hat gestellt; legte, hat gelegt*.
 6.  *Schwimmen* usa *sein* quando há destino (*Ich bin ans Ufer geschwommen*) e, em muitos falantes, *haben* quando só se nada (*Ich habe lange geschwommen*). Para o nível do livro, o importante é reconhecer as duas formas.
@@ -383,8 +388,7 @@ Procure a frase que parece com a sua. A tabela leva ao capítulo que explica o e
 | Erro | Certo | Em poucas palavras | Cap. |
 |---|---|---|---|
 | ~~die Haus~~, ~~der Lampe~~ | das Haus, die Lampe | o gênero não segue o do português; aprenda com o artigo | 5 |
-| ~~Ich nicht wohne.~~ ~~Das ist nicht ein Tisch.~~ | Ich wohne nicht. Das ist kein Tisch. | *nicht* fica depois do verbo; *kein* nega *ein* | 6 |
-| responder ~~Ja, ich komme~~ a *Kommst du nicht?* | Doch, ich komme. | *doch* contradiz a negação | 6 |
+| ~~Ich nicht wohne.~~ ~~Das ist nicht ein Tisch.~~ Responder ~~Ja, ich komme~~ a *Kommst du nicht?* | Ich wohne nicht. Das ist kein Tisch. Doch, ich komme. | *nicht* fica depois do verbo; *kein* nega *ein*; *doch* contradiz a negação | 6 |
 | ler *halb drei* como 3h30 | halb drei é 2h30 | *halb* olha para a hora que vem | 7 |
 | ~~am drei Oktober~~ | am dritten Oktober | datas usam o ordinal | 7 |
 
@@ -421,7 +425,7 @@ Procure a frase que parece com a sua. A tabela leva ao capítulo que explica o e
 | ~~Ich warte den Bus. Ich denke in dich.~~ | Ich warte auf den Bus. Ich denke an dich. | a preposição é do verbo, não do português | 20 |
 | ~~Ich freue dich.~~ ~~Ich bin mich gefreut.~~ | Ich freue mich. Ich habe mich gefreut. | o reflexivo acompanha o sujeito; reflexivo usa *haben* | 20 |
 | ~~Ich gehe essen~~ (querendo “vou comer mais tarde”); ~~Er wird ein Arzt.~~ | Später esse ich. / Ich werde essen. Er wird Arzt. | *gehen* + infinitivo não é futuro; profissão sem artigo | 21 |
-| ~~Ich will einen Kaffee.~~ ~~Ich würde haben.~~ | Ich hätte gern einen Kaffee. Ich hätte. | pedido educado; *hätte, wäre* e os modais têm forma própria | 22 |
+| ~~Ich will einen Kaffee.~~ ~~Ich würde haben.~~ | Ich hätte gern einen Kaffee. ich hätte (e não *ich würde haben*) | pedido educado; *hätte, wäre* e os modais têm forma própria | 22 |
 
 ### Conectores, frases complexas e fala viva
 
@@ -432,8 +436,8 @@ Procure a frase que parece com a sua. A tabela leva ao capítulo que explica o e
 | ~~Weil ich müde bin, ich gehe nach Hause.~~ | Weil ich müde bin, gehe ich nach Hause. | a subordinada na frente é a posição 1 | 24 |
 | ~~Wenn ich klein war~~; ~~Ich weiß nicht, wenn er kommt~~ | Als ich klein war; Ich weiß nicht, ob er kommt | *als* para uma vez no passado; *ob* para “se” de dúvida | 24 |
 | ~~die Frau, dass ich kenne~~; ~~der Mann, der ich kenne~~ | die Frau, die ich kenne; der Mann, den ich kenne | o relativo concorda com a palavra anterior; o caso vem da função | 25 |
-| ~~Er gab ihr es.~~ | Er gab es ihr. | entre dois pronomes, o acusativo vem primeiro | 26 (e 9) |
-| traduzir palavra por palavra e apagar *doch, mal, ja, halt* | usar a partícula certa, ou deixá-la | as partículas fazem o papel de “né”, “aí”, “vai” | 27 |
+| ~~Ich gebe ihm es.~~ ~~Ich wohne in Berlin seit zwei Jahren.~~ | Ich gebe es ihm. Ich wohne seit zwei Jahren in Berlin. | entre dois pronomes, o acusativo vem primeiro; tempo antes de lugar | 26 (e 9) |
+| ~~Komm her! Warte!~~ (secos demais); ~~Mal komm her!~~ | Komm mal her! Warte mal! | a partícula suaviza e fica no meio da frase, depois do verbo | 27 |
 | supor que *bekommen* é “tornar-se” e que *Gift* é “presente” | bekommen é receber; Gift é veneno | falsos amigos | 28 (e 17) |
 
 ## Glossário dos termos gramaticais
@@ -474,7 +478,7 @@ Os termos da escola brasileira vêm na primeira coluna. Quando o livro dá nome 
 | terminação | die Endung | |
 | conjugação | die Konjugation | |
 | presente | das Präsens | |
-| pretérito perfeito composto | das Perfekt | cuidado: não é o “tenho comido”; cobre o “comi” (capítulo 18) |
+| pretérito perfeito composto | das Perfekt | cuidado: faz o papel do “comi” e de muito do “tenho comido” (capítulo 18) |
 | pretérito | das Präteritum | histórias, textos e *war, hatte*, modais (capítulo 19) |
 | futuro | das Futur I | *werden* + infinitivo (capítulo 21) |
 | imperativo | der Imperativ | capítulo 16 |
@@ -566,6 +570,6 @@ Use este mapa a cada quatro capítulos, ou quando um erro voltar. Para cada cap�
 | 23 | Conectores | *aber* ou *sondern*: *Ich trinke keinen Kaffee, ___ Tee.* Complete: *Ich bleibe, denn ich ___ krank (sein).* |
 | 24 | Subordinadas | Una com *weil*: *Ich bleibe. Ich bin müde.* *Wenn*, *als* ou *wann*: “Quando eu era criança…” |
 | 25 | Relativas | *der* ou *den*: *der Mann, ___ ich kenne.* *Die Frau, ___ hier wohnt.* |
-| 26 | Ordem das palavras | Diga “eu o dei a ela” com dois pronomes (*Ich gab es ihr*) e ordene tempo, modo e lugar numa frase só. |
-| 27 | Partículas modais | Escolha uma partícula para suavizar um pedido e diga o que ela faz no português (“né”, “aí”, “vai”). |
+| 26 | Ordem das palavras | Diga “dei-o a ela” (*Ich habe … gegeben*). Ordene numa frase: *nach Berlin / morgen / ich fahre / mit dem Zug*. |
+| 27 | Partículas modais | Suavize *Komm her!* e *Warte!* com *mal*. Onde fica a partícula na frase? |
 | 28 | Formação de palavras; falsos amigos | Monte uma palavra composta e diga o gênero. O que quer dizer *bekommen*? |
