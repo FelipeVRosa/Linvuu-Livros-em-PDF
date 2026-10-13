@@ -86,17 +86,29 @@ md.use(container, 'passo', {
 const tracoSvg = '<svg class="lv-traco" viewBox="0 0 400 20" preserveAspectRatio="none" aria-hidden="true"><path d="M2,11 C40,8.6 90,8.2 140,8.9 C190,9.6 240,7.6 290,7.9 C330,8.1 370,8.8 397,9.6 C399,10 399,11.4 396.5,11.6 C360,12.4 320,11.6 280,11.8 C230,12.1 180,13.4 130,12.6 C80,11.9 40,12.6 4,13.4 C1,13.5 0.5,11.3 2,11 Z" fill="#B7791F"/></svg>';
 
 // ---------- Aulas ----------
-const arquivos = fs.readdirSync(dirLivro).filter((f) => /^\d+.*\.md$/.test(f)).sort();
+const arquivos = fs.readdirSync(dirLivro).filter((f) => /^\d+.*\.(md|html)$/.test(f)).sort();
 const titulos = [];
+const usados = new Set();
 const secoes = arquivos.map((f) => {
   let src = fs.readFileSync(path.join(dirLivro, f), 'utf8');
   let eyebrow = '';
   const fm = src.match(/^---\n([\s\S]*?)\n---\n/);
   if (fm) { eyebrow = (fm[1].match(/eyebrow:\s*(.*)/) ?? [])[1] ?? ''; src = src.slice(fm[0].length); }
   const env = { titulos: [] };
-  let html = md.render(src, env);
+  let html;
+  if (f.endsWith('.html')) {
+    // aula já em HTML (livro do professor): só indexa os títulos
+    html = src.replace(/<h([12])([^>]*)>([\s\S]*?)<\/h\1>/g, (_m, n, attrs, t) => {
+      const texto = t.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+      let id = (attrs.match(/id="([^"]+)"/) ?? [])[1];
+      if (!id) id = slug(texto) || 'sec';
+      { let base = id, k = 2; while (usados.has(id)) id = `${base}-${k++}`; usados.add(id); }
+      env.titulos.push({ nivel: Number(n), texto, id });
+      return `<h${n}${attrs.replace(/\sid="[^"]*"/, '')} id="${id}">${t}</h${n}>`;
+    });
+  } else html = md.render(src, env);
   // o primeiro h1 vira abertura de aula
-  html = html.replace(/<h1 id="([^"]+)">(.*?)<\/h1>/, (_m, id, t) => `<header class="lv-abertura">${eyebrow ? `<p class="lv-eyebrow">${esc(eyebrow)}</p>` : ''}<h1 id="${id}">${t}</h1>${tracoSvg}</header>`);
+  html = html.replace(/<h1[^>]*?id="([^"]+)"[^>]*>([\s\S]*?)<\/h1>/, (_m, id, t) => `<header class="lv-abertura">${eyebrow ? `<p class="lv-eyebrow">${esc(eyebrow)}</p>` : ''}<h1 id="${id}">${t}</h1>${tracoSvg}</header>`);
   env.titulos.forEach((t) => titulos.push({ ...t, eyebrow: t.nivel === 1 ? eyebrow : '', arquivo: f }));
   return `<section class="lv-aula" data-arquivo="${f}">${html}</section>`;
 });
@@ -115,7 +127,7 @@ const marca = fs.readFileSync(path.join(raiz, 'template', 'linvuu.css'), 'utf8')
 const livroCss = fs.readFileSync(path.join(raiz, 'template', 'livro.css'), 'utf8');
 
 const montar = (paginas) => {
-  const toc = titulos.filter((t) => t.nivel === 1 || t.nivel === 2);
+  const toc = titulos.filter((t) => t.nivel <= (meta.tocNivel ?? 2));
   const linhaToc = (t) => `<li class="lv-toc-${t.nivel}"><a href="#${t.id}"><span class="lv-toc-t">${t.eyebrow ? `<b>${esc(t.eyebrow)}</b> ` : ''}${esc(t.texto)}</span><span class="lv-toc-leader"></span><span class="lv-toc-p">${paginas?.[t.id] ?? '00'}</span></a></li>`;
   return `<!doctype html><html lang="${meta.lang}"><head><meta charset="utf-8"><title>${esc(meta.titulo)} · Linvuu</title>
 <style>${fontesCss}\n${marca}\n${livroCss}</style></head><body class="lv-livro">
