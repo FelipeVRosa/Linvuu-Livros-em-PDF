@@ -149,7 +149,7 @@ O inglês responde repetindo o auxiliar, **sem** repetir o verbo principal.
 | {{Does she live here?}} | {{Yes, she does.}} | {{No, she doesn't.}} |
 | {{Do they speak English?}} | {{Yes, they do.}} | {{No, they don't.}} |
 
-Responder só {{Yes}} ou {{No}} é correto, mas pode soar seco; a resposta curta é mais amigável. Evite ~~Yes, I work~~ como resposta curta: soa como se você estivesse repetindo o verbo.
+Responder só {{Yes}} ou {{No}} é correto, mas pode soar seco; a resposta curta é mais amigável. A resposta curta normal repete o auxiliar: {{Yes, I do}}, e não ~~Yes, I work~~.
 
 **5.6 Advérbios de frequência**
 
@@ -172,7 +172,7 @@ Posição:
 | verbo be | **depois** dele | {{He is always late. They are never here.}} |
 | auxiliar (negativa, pergunta) | depois do sujeito, antes do verbo principal | {{Do you often cook? She doesn't always call.}} |
 
-{{Sometimes}} é flexível: {{Sometimes I walk to work. / I sometimes walk to work. / I walk to work sometimes.}} Já {{always}}, {{never}} e {{rarely}} não ficam no fim da frase.
+{{Sometimes}} é flexível: {{Sometimes I walk to work. / I sometimes walk to work. / I walk to work sometimes.}} Já {{always}} e {{never}} não ficam no fim da frase.
 
 **Never tem sentido negativo.** Não se junta com {{don't}}: {{I never eat meat}} (não ~~I don't never eat meat~~). O português aceita "não como nunca carne" como dupla negação, e isso induz o erro.
 
@@ -346,7 +346,7 @@ Uso {{always}} e {{never}} na posição certa e sem dupla negação.
 ## Chave comentada do capítulo 3
 
 ::::: gabarito
-**Degrau 1.** 1 works (3ª pessoa). 2 Do (você). 3 doesn't drink (he → doesn't; o verbo fica simples). 4 live (depois de does, o verbo é simples). 5 does. 6 always (antes do verbo principal; {{am always get}} dois verbos). 7 is always (depois do be). 8 does ({{do}} aqui é o verbo "fazer", e com she vira {{does}}).
+**Degrau 1.** 1 works (3ª pessoa). 2 Do (você). 3 doesn't drink (he → doesn't; o verbo fica simples). 4 live (depois de does, o verbo é simples). 5 does. 6 always (antes do verbo principal; {{I am always get}} teria dois verbos conjugados). 7 is always (depois do be). 8 does ({{do}} aqui é o verbo "fazer", e com she vira {{does}}).
 
 **Degrau 2.** 1 studies. 2 teaches. 3 watches. 4 don't like. 5 doesn't work. 6 Do ... live. 7 does ... start. 8 has (irregular). 9 go (they: simples). 10 fixes.
 
@@ -368,5 +368,5 @@ Uso {{always}} e {{never}} na posição certa e sem dupla negação.
 
 7. Está certa.
 
-**Retorno.** Capítulo 2: is; are (não: aren't / 're); Is. "Tenho 30 anos": I'm 30. "Estou com fome": I'm hungry. "Está frio aqui": It's cold in here. Capítulo 1: works `s`, plays `z`, washes `iz`.
+**Retorno.** Capítulo 2: is; are; Is. "Tenho 30 anos": I'm 30. "Estou com fome": I'm hungry. "Está frio aqui": It's cold in here. Capítulo 1: works `s`, plays `z`, washes `iz`.
 :::::

@@ -273,10 +273,10 @@ Nationalities are adjectives, so they agree. They are written with a **small let
 | {{a Inglaterra}} | `ee~-gleh-TEH-hah` | {{inglês / inglesa}} | `ee~-GLEHSS` |
 | {{a Irlanda}} | `eer-LAH~-dah` | {{irlandês / irlandesa}} | `eer-lah~-DEHSS` |
 | {{a Austrália}} | `ow-STRAH-lee-ah` | {{australiano / australiana}} | `ow-strah-lee-AH-noo` |
-| {{a Alemanha}} | `ah-leh-MAH~-nyah` | {{alemão / alemã}} | `ah-leh-MOW~` |
+| {{a Alemanha}} | `ah-leh-MAH-nyah` | {{alemão / alemã}} | `ah-leh-MOW~` |
 | {{a França}} | `FRAH~-sah` | {{francês / francesa}} | `frah~-SEHSS` |
 | {{a Itália}} | `ee-TAH-lee-ah` | {{italiano / italiana}} | `ee-tah-lee-AH-noo` |
-| {{a Espanha}} | `ehs-PAH~-nyah` | {{espanhol / espanhola}} | `ehs-pah-NYAW-oo` |
+| {{a Espanha}} | `ehs-PAH-nyah` | {{espanhol / espanhola}} | `ehs-pah-NYAW-oo` |
 | {{Portugal}} | `por-too-GAH-oo` | {{português / portuguesa}} | `por-too-GEHSS` |
 | {{a Argentina}} | `ar-zheh~-TCHEE-nah` | {{argentino / argentina}} | `ar-zheh~-TCHEE-noo` |
 | {{o México}} | `MEH-shee-koo` | {{mexicano / mexicana}} | `meh-shee-KAH-noo` |
@@ -321,7 +321,7 @@ English says *I am twenty-five*. Portuguese says **I have twenty-five years**. T
 
 | English | Portuguese | Guide |
 |---|---|---|
-| I am thirty. | {{Tenho trinta anos.}} | `TEH~-nyoo TREE~-tah AH-nooss` |
+| I am thirty. | {{Tenho trinta anos.}} | `TEH-nyoo TREE~-tah AH-nooss` |
 | How old are you? | {{Quantos anos você tem?}} | `KWAH~-tooss AH-nooss voh-SEH TEH~ee` |
 | She is twenty-five. | {{Ela tem vinte e cinco anos.}} | `EH-lah TEH~ee VEE~-tchee ee SEE~-koo AH-nooss` |
 
@@ -333,7 +333,7 @@ Read the text aloud, first with the guide, then without it.
 
 > {{Oi, eu sou a Carla. Sou brasileira, de Porto Alegre. Tenho vinte e oito anos e sou arquiteta. O Marco é meu marido. Ele é italiano e é muito simpático.}}
 
-Guide: `oy, EH-oo SOH ah KAR-lah. SOH brah-zee-LAY-rah, djee POR-too ah-LEH-gree. TEH~-nyoo VEE~-tchee ee OY-too AH-nooss ee SOH ar-kee-TEH-tah. oo MAR-koo eh MEH-oo mah-REE-doo. EH-lee eh ee-tah-lee-AH-noo ee eh MOO~ee-too see~-PAH-tchee-koo.`
+Guide: `oy, EH-oo SOH ah KAR-lah. SOH brah-zee-LAY-rah, djee POR-too ah-LEH-gree. TEH-nyoo VEE~-tchee ee OY-too AH-nooss ee SOH ar-kee-TEH-tah. oo MAR-koo eh MEH-oo mah-REE-doo. EH-lee eh ee-tah-lee-AH-noo ee eh MOO~ee-too see~-PAH-tchee-koo.`
 
 Translation: *Hi, I'm Carla. I'm Brazilian, from Porto Alegre. I'm twenty-eight and I'm an architect. Marco is my husband. He's Italian and very friendly.*
 

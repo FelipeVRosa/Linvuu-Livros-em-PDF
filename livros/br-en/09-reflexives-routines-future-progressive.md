@@ -84,7 +84,7 @@ These verbs are used with {{me/se/nos}} all the time. Learn them as a unit.
 | {{sentir-se}} | `seh~-TCHEER-see` | to feel (yourself) | {{Eu me sinto cansado.}} (I feel tired) |
 | {{sentar-se}} | `seh~-TAR-see` | to sit down | {{Pode se sentar.}} (You may sit down) |
 | {{deitar-se}} | `day-TAR-see` | to lie down | {{Eu me deito às onze.}} |
-| {{divertir-se}} | `djee-ver-TCHEER-see` | to have fun | {{A gente se divertiu.}} / {{Divirta-se!}} |
+| {{divertir-se}} | `djee-ver-TCHEER-see` | to have fun | {{A gente se diverte muito.}} / {{Divirta-se!}} |
 | {{preocupar-se}} | `preh-oh-koo-PAR-see` | to worry | {{Não se preocupe.}} (Don't worry) |
 | {{vestir-se}} | `vehs-TCHEER-see` | to get dressed | {{Eu me visto rápido.}} |
 
@@ -100,7 +100,7 @@ For some verbs, the version with {{me}} and the version without it are both corr
 | {{Eu me lembro dele.}} | {{Eu lembro dele.}} | I remember him. |
 | {{Eu me esqueci da chave.}} | {{Eu esqueci a chave.}} | I forgot the key. |
 
-Notice the small difference in the structure. With the pronoun, the next word is usually {{de}}: {{me lembro de, me esqueci de}}. Without it, the thing follows directly or with {{de}} depending on the verb. Choose one version of each and use it consistently; you will understand both.
+Notice that {{lembrar}} and {{esquecer}} take {{de}} after the pronoun version ({{me lembro de}}, {{me esqueci de}}), while the version without the pronoun can take the thing directly ({{esqueci a chave}}). Choose one version of each verb and use it consistently; you will understand both.
 
 ### Group 3: no pronoun in Brazil
 
@@ -229,7 +229,7 @@ The future is clearer when it has a time word.
 ::: comparacao
 | In English | In Portuguese |
 |---|---|
-| *I am going to the beach tomorrow* (present continuous for the future) | {{Amanhã eu vou à praia}} (present of {{ir}}) or {{Amanhã eu vou ir à praia}} is unnecessary: the present of {{ir}} already gives the future |
+| *I am going to the beach tomorrow* (present continuous for the future) | {{Amanhã eu vou à praia}}: the plain present of {{ir}} already gives the future |
 | *I'm working tomorrow* | {{Amanhã eu trabalho}} or {{Amanhã eu vou trabalhar}}: not {{estou trabalhando}} |
 | *I will call you* | {{Vou te ligar}} (more on {{te}} in Lesson 12) |
 :::
@@ -266,7 +266,7 @@ The gerund never changes: not for person, not for gender, not for number.
 - {{Eles estão dormindo.}} (They are asleep.)
 - {{A gente tá chegando.}} (We are arriving.)
 
-With a reflexive verb, the pronoun comes before {{estar}} in some styles and before the gerund in others. In Brazilian speech it is almost always **before the gerund**: {{Estou me arrumando}} (I am getting ready), {{Ela está se vestindo}}.
+With a reflexive verb, the pronoun comes **before the gerund** in Brazilian speech: {{Estou me arrumando}} (I am getting ready), {{Ela está se vestindo}}.
 
 ::: dica
 In fast speech many Brazilians drop the {{d}} of {{-ndo}}: {{falando}} sounds like {{falano}}, {{fazendo}} like {{fazeno}}. It is real, and it is not an error. Write the full word.
@@ -337,7 +337,7 @@ Complete with {{me}}, {{te}}, {{se}} or {{nos}}.
 1. {{Eu ___ chamo Emma.}}
 2. {{Você ___ sente bem?}}
 3. {{A gente ___ vê amanhã.}}
-4. {{Nós ___ divertimos muito ontem}} (it is a habit): {{Nós ___ divertimos muito nas festas.}}
+4. {{Nós ___ divertimos muito nas festas.}}
 5. {{Eles ___ levantam às seis.}}
 6. {{Eu não ___ lembro do nome dele.}}
 7. {{Como você ___ chama?}}
