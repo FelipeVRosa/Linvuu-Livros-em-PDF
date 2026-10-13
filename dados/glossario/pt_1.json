@@ -1,0 +1,1274 @@
+[
+{
+"k": "ab",
+"pt": "a partir de; saindo de"
+},
+{
+"k": "aber",
+"pt": "mas; porém"
+},
+{
+"k": "abfahren",
+"pt": "partir; sair (veículo)"
+},
+{
+"k": "fahren",
+"pt": "ir (de veículo); dirigir; partir"
+},
+{
+"k": "abfahrt",
+"pt": "partida; saída"
+},
+{
+"k": "abfliegen",
+"pt": "partir (de avião); decolar"
+},
+{
+"k": "fliegen",
+"pt": "voar; partir de avião"
+},
+{
+"k": "abflug",
+"pt": "partida (voo); decolagem"
+},
+{
+"k": "abgeben",
+"pt": "entregar; deixar"
+},
+{
+"k": "abholen",
+"pt": "buscar; pegar"
+},
+{
+"k": "abschließen",
+"pt": "trancar; fechar à chave"
+},
+{
+"k": "absender",
+"pt": "remetente"
+},
+{
+"k": "achtung",
+"pt": "atenção; cuidado"
+},
+{
+"k": "adresse",
+"pt": "endereço"
+},
+{
+"k": "ahnung",
+"pt": "ideia; noção"
+},
+{
+"k": "aktiv",
+"pt": "ativo"
+},
+{
+"k": "aktuell",
+"pt": "atual; do momento"
+},
+{
+"k": "all",
+"pt": "todo; tudo"
+},
+{
+"k": "allein",
+"pt": "sozinho"
+},
+{
+"k": "als",
+"pt": "do que (comparação); quando (passado)"
+},
+{
+"k": "also",
+"pt": "então; portanto"
+},
+{
+"k": "alt",
+"pt": "velho; idoso"
+},
+{
+"k": "alter",
+"pt": "idade"
+},
+{
+"k": "ampel",
+"pt": "semáforo; sinal de trânsito"
+},
+{
+"k": "an",
+"pt": "em; junto a; a"
+},
+{
+"k": "ziehen",
+"pt": "vestir / tirar (roupa)"
+},
+{
+"k": "anbieten",
+"pt": "oferecer"
+},
+{
+"k": "ander",
+"pt": "outro; diferente"
+},
+{
+"k": "ändern",
+"pt": "mudar; alterar"
+},
+{
+"k": "anders",
+"pt": "diferente; de outro modo"
+},
+{
+"k": "anfang",
+"pt": "início; começo"
+},
+{
+"k": "anfangen",
+"pt": "começar; iniciar"
+},
+{
+"k": "angebot",
+"pt": "oferta; promoção"
+},
+{
+"k": "angst",
+"pt": "medo"
+},
+{
+"k": "anklicken",
+"pt": "clicar em"
+},
+{
+"k": "ankommen",
+"pt": "chegar"
+},
+{
+"k": "ankreuzen",
+"pt": "marcar com cruz; assinalar"
+},
+{
+"k": "ankunft",
+"pt": "chegada"
+},
+{
+"k": "anmachen",
+"pt": "ligar; acender"
+},
+{
+"k": "anmelden",
+"pt": "inscrever(-se); registrar(-se)"
+},
+{
+"k": "anmeldung",
+"pt": "inscrição; registro"
+},
+{
+"k": "anrede",
+"pt": "forma de tratamento; saudação"
+},
+{
+"k": "anrufbeantworter",
+"pt": "secretária eletrônica"
+},
+{
+"k": "anruf",
+"pt": "telefonema; ligação"
+},
+{
+"k": "anrufen",
+"pt": "ligar; telefonar"
+},
+{
+"k": "ansage",
+"pt": "anúncio (falado); aviso; mensagem gravada"
+},
+{
+"k": "anschluss",
+"pt": "conexão; baldeação"
+},
+{
+"k": "ansehen",
+"pt": "olhar; assistir; ver"
+},
+{
+"k": "ansein",
+"pt": "estar ligado; estar aceso"
+},
+{
+"k": "anseinaussein",
+"pt": "estar ligado / estar desligado"
+},
+{
+"k": "antwort",
+"pt": "resposta"
+},
+{
+"k": "antworten",
+"pt": "responder / resposta"
+},
+{
+"k": "anzeige",
+"pt": "anúncio; denúncia"
+},
+{
+"k": "anziehen",
+"pt": "vestir(-se)"
+},
+{
+"k": "anzug",
+"pt": "terno"
+},
+{
+"k": "apartment",
+"pt": "apartamento"
+},
+{
+"k": "apfel",
+"pt": "maçã"
+},
+{
+"k": "apotheke",
+"pt": "farmácia"
+},
+{
+"k": "apparat",
+"pt": "aparelho"
+},
+{
+"k": "appetit",
+"pt": "apetite"
+},
+{
+"k": "arbeit",
+"pt": "trabalho"
+},
+{
+"k": "arbeiten",
+"pt": "trabalhar"
+},
+{
+"k": "arbeitslos",
+"pt": "desempregado"
+},
+{
+"k": "arbeitsplatz",
+"pt": "local de trabalho; posto de trabalho"
+},
+{
+"k": "ärgern",
+"pt": "irritar; irritar-se; aborrecer-se"
+},
+{
+"k": "arm",
+"pt": "braço"
+},
+{
+"k": "artikel",
+"pt": "artigo"
+},
+{
+"k": "arzt",
+"pt": "médico"
+},
+{
+"k": "auch",
+"pt": "também"
+},
+{
+"k": "auf",
+"pt": "sobre; em (em cima de)"
+},
+{
+"k": "aufgabe",
+"pt": "tarefa; exercício"
+},
+{
+"k": "aufhören",
+"pt": "parar; terminar"
+},
+{
+"k": "aufjedenkeinenfall",
+"pt": "com certeza / de jeito nenhum"
+},
+{
+"k": "aufmachen",
+"pt": "abrir"
+},
+{
+"k": "aufpassen",
+"pt": "prestar atenção; cuidar"
+},
+{
+"k": "aufräumen",
+"pt": "arrumar; organizar"
+},
+{
+"k": "aufregend",
+"pt": "emocionante; agitado"
+},
+{
+"k": "aufsein",
+"pt": "estar aberto; estar de pé"
+},
+{
+"k": "aufstehen",
+"pt": "levantar-se; acordar"
+},
+{
+"k": "aufzug",
+"pt": "elevador"
+},
+{
+"k": "auge",
+"pt": "olho"
+},
+{
+"k": "aus",
+"pt": "de (origem); fora de"
+},
+{
+"k": "ausbildung",
+"pt": "formação profissional"
+},
+{
+"k": "ausflug",
+"pt": "passeio; excursão"
+},
+{
+"k": "ausfüllen",
+"pt": "preencher"
+},
+{
+"k": "ausgang",
+"pt": "saída"
+},
+{
+"k": "ausgeben",
+"pt": "gastar"
+},
+{
+"k": "ausgehen",
+"pt": "sair (para se divertir); apagar (luz)"
+},
+{
+"k": "auskunft",
+"pt": "informação"
+},
+{
+"k": "ausländer",
+"pt": "estrangeiro"
+},
+{
+"k": "ausländisch",
+"pt": "estrangeiro; do exterior"
+},
+{
+"k": "ausland",
+"pt": "exterior"
+},
+{
+"k": "ausmachen",
+"pt": "desligar; apagar"
+},
+{
+"k": "auspacken",
+"pt": "desembrulhar; desfazer a mala"
+},
+{
+"k": "ausruhen",
+"pt": "descansar"
+},
+{
+"k": "aussage",
+"pt": "afirmação; declaração"
+},
+{
+"k": "aussehen",
+"pt": "parecer; ter aparência"
+},
+{
+"k": "aussein",
+"pt": "estar desligado; ter acabado"
+},
+{
+"k": "außer",
+"pt": "exceto; além de"
+},
+{
+"k": "außerdem",
+"pt": "além disso"
+},
+{
+"k": "außerhalb",
+"pt": "fora de"
+},
+{
+"k": "aussprechen",
+"pt": "pronunciar"
+},
+{
+"k": "aussteigen",
+"pt": "descer; sair (do veículo)"
+},
+{
+"k": "ausstellung",
+"pt": "exposição"
+},
+{
+"k": "tauschen",
+"pt": "trocar"
+},
+{
+"k": "austragen",
+"pt": "entregar (jornal, correspondência)"
+},
+{
+"k": "ausweis",
+"pt": "documento de identidade"
+},
+{
+"k": "ausziehen",
+"pt": "despir(-se); tirar (roupa)"
+},
+{
+"k": "autobahn",
+"pt": "autoestrada; rodovia"
+},
+{
+"k": "automat",
+"pt": "máquina automática (de venda)"
+},
+{
+"k": "automatisch",
+"pt": "automático; automaticamente"
+},
+{
+"k": "auto",
+"pt": "carro"
+},
+{
+"k": "baby",
+"pt": "bebê"
+},
+{
+"k": "babysitter",
+"pt": "babá"
+},
+{
+"k": "backen",
+"pt": "assar"
+},
+{
+"k": "bäckerei",
+"pt": "padaria"
+},
+{
+"k": "baden",
+"pt": "tomar banho (de banheira); banhar-se"
+},
+{
+"k": "bad",
+"pt": "banheiro; banho"
+},
+{
+"k": "bahn",
+"pt": "trem; ferrovia"
+},
+{
+"k": "bahnhof",
+"pt": "estação de trem"
+},
+{
+"k": "bahnsteig",
+"pt": "plataforma"
+},
+{
+"k": "bald",
+"pt": "logo; em breve"
+},
+{
+"k": "balkon",
+"pt": "sacada; varanda"
+},
+{
+"k": "ball",
+"pt": "bola"
+},
+{
+"k": "banane",
+"pt": "banana"
+},
+{
+"k": "band",
+"pt": "banda"
+},
+{
+"k": "bank",
+"pt": "banco (instituição) / banco (assento)"
+},
+{
+"k": "bar",
+"pt": "em dinheiro (vivo)"
+},
+{
+"k": "basketball",
+"pt": "basquete"
+},
+{
+"k": "basteln",
+"pt": "fazer trabalhos manuais"
+},
+{
+"k": "bauch",
+"pt": "barriga; abdômen"
+},
+{
+"k": "bauen",
+"pt": "construir"
+},
+{
+"k": "baum",
+"pt": "árvore"
+},
+{
+"k": "baustelle",
+"pt": "obra; canteiro de obras"
+},
+{
+"k": "beamte",
+"pt": "funcionário público"
+},
+{
+"k": "beantworten",
+"pt": "responder"
+},
+{
+"k": "beantworter",
+"pt": "secretária eletrônica (parte de Anrufbeantworter)"
+},
+{
+"k": "bedanken",
+"pt": "agradecer"
+},
+{
+"k": "bedeuten",
+"pt": "significar"
+},
+{
+"k": "beeilen",
+"pt": "apressar-se; terminar; concluir"
+},
+{
+"k": "beginnen",
+"pt": "começar"
+},
+{
+"k": "begründen",
+"pt": "justificar; fundamentar"
+},
+{
+"k": "bei",
+"pt": "em; perto de; na casa de"
+},
+{
+"k": "beide",
+"pt": "ambos; os dois"
+},
+{
+"k": "bein",
+"pt": "perna"
+},
+{
+"k": "beispiel",
+"pt": "exemplo"
+},
+{
+"k": "bekannt",
+"pt": "conhecido; famoso"
+},
+{
+"k": "bekanntderdiebekannte",
+"pt": "conhecido; conhecido(a) (pessoa)"
+},
+{
+"k": "derdiebekannte",
+"pt": "conhecido / conhecida (pessoa)"
+},
+{
+"k": "bekommen",
+"pt": "receber; ganhar"
+},
+{
+"k": "beliebt",
+"pt": "popular; querido"
+},
+{
+"k": "benutzen",
+"pt": "usar; utilizar"
+},
+{
+"k": "bequem",
+"pt": "confortável; cômodo"
+},
+{
+"k": "beraten",
+"pt": "aconselhar; orientar"
+},
+{
+"k": "berg",
+"pt": "montanha"
+},
+{
+"k": "berichten",
+"pt": "relatar; informar"
+},
+{
+"k": "beruf",
+"pt": "profissão"
+},
+{
+"k": "berühmt",
+"pt": "famoso"
+},
+{
+"k": "bescheid",
+"pt": "informação; aviso"
+},
+{
+"k": "beschreiben",
+"pt": "descrever"
+},
+{
+"k": "beschweren",
+"pt": "reclamar"
+},
+{
+"k": "besetzt",
+"pt": "ocupado"
+},
+{
+"k": "besichtigen",
+"pt": "visitar; conhecer (ponto turístico)"
+},
+{
+"k": "besonders",
+"pt": "especialmente; particularmente"
+},
+{
+"k": "besser",
+"pt": "melhor"
+},
+{
+"k": "best",
+"pt": "melhor (o melhor)"
+},
+{
+"k": "bestätigen",
+"pt": "confirmar"
+},
+{
+"k": "bestehen",
+"pt": "passar (em prova); consistir (em)"
+},
+{
+"k": "bestellen",
+"pt": "pedir; encomendar"
+},
+{
+"k": "besuch",
+"pt": "visita"
+},
+{
+"k": "besuchen",
+"pt": "visitar"
+},
+{
+"k": "bett",
+"pt": "cama"
+},
+{
+"k": "bewerben",
+"pt": "candidatar-se / candidatura"
+},
+{
+"k": "bewölktdiewolke",
+"pt": "nublado / nuvem"
+},
+{
+"k": "bezahlen",
+"pt": "pagar"
+},
+{
+"k": "bibliothek",
+"pt": "biblioteca"
+},
+{
+"k": "bier",
+"pt": "cerveja"
+},
+{
+"k": "bild",
+"pt": "imagem; quadro; foto"
+},
+{
+"k": "billig",
+"pt": "barato"
+},
+{
+"k": "birne",
+"pt": "pera"
+},
+{
+"k": "bis",
+"pt": "até"
+},
+{
+"k": "bisschen",
+"pt": "um pouco"
+},
+{
+"k": "bitte",
+"pt": "pedido"
+},
+{
+"k": "bitten",
+"pt": "pedir; solicitar"
+},
+{
+"k": "bitter",
+"pt": "amargo"
+},
+{
+"k": "blatt",
+"pt": "folha"
+},
+{
+"k": "bleiben",
+"pt": "ficar; permanecer"
+},
+{
+"k": "bleistift",
+"pt": "lápis"
+},
+{
+"k": "blick",
+"pt": "vista; olhar"
+},
+{
+"k": "blöd",
+"pt": "bobo; idiota; chato"
+},
+{
+"k": "derdasblog",
+"pt": "blog"
+},
+{
+"k": "blond",
+"pt": "loiro"
+},
+{
+"k": "blume",
+"pt": "flor"
+},
+{
+"k": "bluse",
+"pt": "blusa"
+},
+{
+"k": "bogen",
+"pt": "folha (de papel)"
+},
+{
+"k": "bohne",
+"pt": "feijão"
+},
+{
+"k": "böse",
+"pt": "bravo; zangado; mau"
+},
+{
+"k": "braten",
+"pt": "fritar; assar (carne)"
+},
+{
+"k": "brauchen",
+"pt": "precisar de; necessitar"
+},
+{
+"k": "breit",
+"pt": "largo"
+},
+{
+"k": "brief",
+"pt": "carta"
+},
+{
+"k": "briefmarke",
+"pt": "selo"
+},
+{
+"k": "brille",
+"pt": "óculos"
+},
+{
+"k": "bringen",
+"pt": "trazer; levar"
+},
+{
+"k": "brötchen",
+"pt": "pãozinho"
+},
+{
+"k": "brot",
+"pt": "pão"
+},
+{
+"k": "brücke",
+"pt": "ponte"
+},
+{
+"k": "bruder",
+"pt": "irmão"
+},
+{
+"k": "buchen",
+"pt": "reservar"
+},
+{
+"k": "buch",
+"pt": "livro"
+},
+{
+"k": "buchstabe",
+"pt": "letra"
+},
+{
+"k": "buchstabieren",
+"pt": "soletrar"
+},
+{
+"k": "bunt",
+"pt": "colorido"
+},
+{
+"k": "büro",
+"pt": "escritório"
+},
+{
+"k": "bus",
+"pt": "ônibus"
+},
+{
+"k": "butter",
+"pt": "manteiga"
+},
+{
+"k": "cafeteria",
+"pt": "cantina; lanchonete"
+},
+{
+"k": "café",
+"pt": "café (estabelecimento); cafeteria"
+},
+{
+"k": "cd",
+"pt": "CD"
+},
+{
+"k": "chatten",
+"pt": "bater papo online; conversar por chat"
+},
+{
+"k": "chef",
+"pt": "chefe / chefe (mulher)"
+},
+{
+"k": "circaca",
+"pt": "cerca de; aproximadamente"
+},
+{
+"k": "club",
+"pt": "clube"
+},
+{
+"k": "derdascomic",
+"pt": "história em quadrinhos"
+},
+{
+"k": "computer",
+"pt": "computador"
+},
+{
+"k": "creme",
+"pt": "creme; pomada"
+},
+{
+"k": "da",
+"pt": "ali; aí; já que"
+},
+{
+"k": "dabei",
+"pt": "estar junto; participar"
+},
+{
+"k": "dafürdagegensein",
+"pt": "ser a favor / ser contra"
+},
+{
+"k": "damals",
+"pt": "naquela época"
+},
+{
+"k": "dame",
+"pt": "senhora"
+},
+{
+"k": "daneben",
+"pt": "ao lado"
+},
+{
+"k": "danke",
+"pt": "obrigado"
+},
+{
+"k": "danken",
+"pt": "agradecer"
+},
+{
+"k": "dank",
+"pt": "agradecimento; obrigado"
+},
+{
+"k": "dann",
+"pt": "então; depois"
+},
+{
+"k": "dabspdarauf",
+"pt": "disso; nisso; sobre isso (prefixo)"
+},
+{
+"k": "dass",
+"pt": "que (conjunção)"
+},
+{
+"k": "datei",
+"pt": "arquivo"
+},
+{
+"k": "datum",
+"pt": "data"
+},
+{
+"k": "dauern",
+"pt": "durar; demorar"
+},
+{
+"k": "dein",
+"pt": "teu; seu (de você)"
+},
+{
+"k": "denken",
+"pt": "pensar"
+},
+{
+"k": "denn",
+"pt": "pois; porque"
+},
+{
+"k": "der",
+"pt": "o, a (artigo); que (pronome relativo)"
+},
+{
+"k": "deshalb",
+"pt": "por isso"
+},
+{
+"k": "deutlich",
+"pt": "claro; nítido"
+},
+{
+"k": "dich",
+"pt": "te; você (acusativo)"
+},
+{
+"k": "dick",
+"pt": "gordo; grosso"
+},
+{
+"k": "dies",
+"pt": "este; esse"
+},
+{
+"k": "ding",
+"pt": "coisa; objeto"
+},
+{
+"k": "dir",
+"pt": "te; a você (dativo)"
+},
+{
+"k": "direkt",
+"pt": "direto; diretamente"
+},
+{
+"k": "disco",
+"pt": "discoteca; balada"
+},
+{
+"k": "diskutieren",
+"pt": "discutir; debater"
+},
+{
+"k": "doch",
+"pt": "sim (contradizendo); ora"
+},
+{
+"k": "doktor",
+"pt": "doutor; médico"
+},
+{
+"k": "doppelzimmer",
+"pt": "quarto duplo"
+},
+{
+"k": "dorf",
+"pt": "vilarejo; aldeia"
+},
+{
+"k": "dort",
+"pt": "lá; ali"
+},
+{
+"k": "draußen",
+"pt": "fora; ao ar livre"
+},
+{
+"k": "dringend",
+"pt": "urgente"
+},
+{
+"k": "drinnen",
+"pt": "dentro"
+},
+{
+"k": "drüben",
+"pt": "do outro lado; lá adiante"
+},
+{
+"k": "drucken",
+"pt": "imprimir"
+},
+{
+"k": "drücken",
+"pt": "empurrar; apertar"
+},
+{
+"k": "drucker",
+"pt": "impressora"
+},
+{
+"k": "dumm",
+"pt": "burro; bobo; tolo"
+},
+{
+"k": "dunkel",
+"pt": "escuro"
+},
+{
+"k": "dünn",
+"pt": "fino"
+},
+{
+"k": "durch",
+"pt": "por; através de"
+},
+{
+"k": "durchsage",
+"pt": "aviso (por alto-falante); comunicado"
+},
+{
+"k": "dürfen",
+"pt": "poder (ter permissão)"
+},
+{
+"k": "durst",
+"pt": "sede"
+},
+{
+"k": "dusche",
+"pt": "chuveiro; ducha"
+},
+{
+"k": "duschen",
+"pt": "tomar banho (de chuveiro)"
+},
+{
+"k": "ebook",
+"pt": "e-book; livro digital"
+},
+{
+"k": "echt",
+"pt": "verdadeiro; autêntico"
+},
+{
+"k": "ecke",
+"pt": "esquina; canto"
+},
+{
+"k": "egal",
+"pt": "tanto faz; indiferente"
+},
+{
+"k": "ehefrau",
+"pt": "esposa / marido / cônjuge"
+},
+{
+"k": "ehemann",
+"pt": "marido; esposo"
+},
+{
+"k": "ei",
+"pt": "ovo"
+},
+{
+"k": "eigeneigentlich",
+"pt": "próprio / na verdade"
+},
+{
+"k": "eilig",
+"pt": "apressado; urgente"
+},
+{
+"k": "ein",
+"pt": "um; uma"
+},
+{
+"k": "einfach",
+"pt": "simples; fácil; simplesmente"
+},
+{
+"k": "eingang",
+"pt": "entrada"
+},
+{
+"k": "einig",
+"pt": "alguns; vários"
+},
+{
+"k": "einkaufen",
+"pt": "fazer compras"
+},
+{
+"k": "einkaufszentrum",
+"pt": "shopping center; centro comercial"
+},
+{
+"k": "einladen",
+"pt": "convidar"
+},
+{
+"k": "einladung",
+"pt": "convite"
+},
+{
+"k": "einmal",
+"pt": "uma vez"
+},
+{
+"k": "einpaar",
+"pt": "alguns; uns poucos"
+},
+{
+"k": "einpacken",
+"pt": "embrulhar; empacotar"
+},
+{
+"k": "einsteigen",
+"pt": "embarcar; entrar (no veículo)"
+},
+{
+"k": "eintragen",
+"pt": "inscrever(-se); registrar(-se)"
+},
+{
+"k": "eintritt",
+"pt": "ingresso; entrada"
+},
+{
+"k": "einverstandensein",
+"pt": "concordar; estar de acordo"
+},
+{
+"k": "einzel",
+"pt": "individual; separado"
+},
+{
+"k": "einzelzimmer",
+"pt": "quarto individual"
+},
+{
+"k": "einziehen",
+"pt": "mudar-se (para um imóvel)"
+},
+{
+"k": "eis",
+"pt": "sorvete; gelo"
+},
+{
+"k": "eltern",
+"pt": "pais"
+},
+{
+"k": "mail",
+"pt": "e-mail"
+},
+{
+"k": "email",
+"pt": "e-mail"
+},
+{
+"k": "empfänger",
+"pt": "destinatário"
+},
+{
+"k": "empfehlen",
+"pt": "recomendar"
+},
+{
+"k": "ende",
+"pt": "fim; final"
+},
+{
+"k": "enden",
+"pt": "terminar; acabar"
+},
+{
+"k": "endlich",
+"pt": "finalmente; enfim"
+},
+{
+"k": "eng",
+"pt": "apertado; estreito"
+},
+{
+"k": "entschuldi",
+"pt": "desculpa; pedido de desculpas"
+},
+{
+"k": "entschuldigen",
+"pt": "desculpar(-se); pedir desculpas"
+},
+{
+"k": "entschuldigung",
+"pt": "desculpa; desculpe"
+},
+{
+"k": "er",
+"pt": "ele"
+},
+{
+"k": "erdgeschoss",
+"pt": "térreo"
+}
+]

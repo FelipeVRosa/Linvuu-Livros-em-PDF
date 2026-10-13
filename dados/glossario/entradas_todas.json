@@ -1,0 +1,9434 @@
+[
+ {
+  "k": "ab",
+  "de": "ab",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "aber",
+  "de": "aber",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "abfahren",
+  "de": "abfahren",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fahren",
+  "de": "(ab)fahren, fährt (ab), ist (ab)gefahren",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "abfahrt",
+  "de": "die Abfahrt, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "abfliegen",
+  "de": "abfliegen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fliegen",
+  "de": "(ab)fliegen, fliegt (ab), ist (ab)geflogen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "abflug",
+  "de": "der Abflug",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "abgeben",
+  "de": "abgeben, gibt ab, hat abgegeben",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "abholen",
+  "de": "abholen, holt ab, hat abgeholt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "abschließen",
+  "de": "abschließen, schließt ab, hat abgeschlossen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "absender",
+  "de": "der Absender",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "achtung",
+  "de": "Achtung (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "adresse",
+  "de": "die Adresse, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ahnung",
+  "de": "die Ahnung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aktiv",
+  "de": "aktiv",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aktuell",
+  "de": "aktuell",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "all",
+  "de": "all-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "allein",
+  "de": "allein",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "als",
+  "de": "als",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "also",
+  "de": "also",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "alt",
+  "de": "alt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "alter",
+  "de": "das Alter (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ampel",
+  "de": "die Ampel, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "an",
+  "de": "an",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ziehen",
+  "de": "(an-)/(aus)ziehen, zieht (an/aus), hat/ist (an/aus)gezogen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "anbieten",
+  "de": "anbieten, bietet an, hat angeboten",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ander",
+  "de": "ander-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ändern",
+  "de": "ändern, ändert, hat geändert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "anders",
+  "de": "anders",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "anfang",
+  "de": "der Anfang, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "anfangen",
+  "de": "anfangen, fängt an, hat angefangen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "angebot",
+  "de": "das Angebot, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "angst",
+  "de": "die Angst, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "anklicken",
+  "de": "anklicken",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "ankommen",
+  "de": "ankommen, kommt an, ist angekommen die Ankunft, -¨e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ankreuzen",
+  "de": "ankreuzen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "ankunft",
+  "de": "die Ankunft",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "anmachen",
+  "de": "anmachen, macht an, hat angemacht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "anmelden",
+  "de": "anmelden (sich), meldet an, hat angemeldet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "anmeldung",
+  "de": "die Anmeldung,-en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "anrede",
+  "de": "die Anrede",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "anrufbeantworter",
+  "de": "der Anrufbeantworter, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "anruf",
+  "de": "der Anruf, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "anrufen",
+  "de": "anrufen, ruft an, hat angerufen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ansage",
+  "de": "die Ansage, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "anschluss",
+  "de": "der Anschluss, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ansehen",
+  "de": "ansehen, sieht an, hat angesehen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ansein",
+  "de": "an sein",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "anseinaussein",
+  "de": "an sein / aus sein",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "antwort",
+  "de": "die Antwort, -en",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "antworten",
+  "de": "antworten, antwortet, hat geantwortet die Antwort, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "anzeige",
+  "de": "die Anzeige, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "anziehen",
+  "de": "(sich) anziehen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "anzug",
+  "de": "der Anzug, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "apartment",
+  "de": "das Apartment, -s",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "apfel",
+  "de": "der Apfel, ¨-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "apotheke",
+  "de": "die Apotheke, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "apparat",
+  "de": "der Apparat, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "appetit",
+  "de": "der Appetit",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "arbeit",
+  "de": "die Arbeit, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "arbeiten",
+  "de": "arbeiten, arbeitet, hat gearbeitet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "arbeitslos",
+  "de": "arbeitslos",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "arbeitsplatz",
+  "de": "der Arbeitsplatz, -ä, e",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "ärgern",
+  "de": "ärgern (sich), ärgert, hat geärgert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "arm",
+  "de": "der Arm, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "artikel",
+  "de": "der Artikel, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "arzt",
+  "de": "der Arzt, -Ä, e",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "auch",
+  "de": "auch",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "auf",
+  "de": "auf",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "aufgabe",
+  "de": "die Aufgabe, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "aufhören",
+  "de": "aufhören, hört auf, hat aufgehört",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "aufjedenkeinenfall",
+  "de": "auf jeden/ keinen Fall",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aufmachen",
+  "de": "aufmachen, macht auf, hat aufgemacht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aufpassen",
+  "de": "aufpassen, passt auf, hat aufgepasst",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aufräumen",
+  "de": "aufräumen, räumt auf, hat aufgeräumt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aufregend",
+  "de": "aufregend",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aufsein",
+  "de": "auf sein",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "aufstehen",
+  "de": "aufstehen, steht auf, ist aufgestanden",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "aufzug",
+  "de": "der Aufzug, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "auge",
+  "de": "das Auge, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "aus",
+  "de": "aus",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausbildung",
+  "de": "die Ausbildung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ausflug",
+  "de": "der Ausflug, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausfüllen",
+  "de": "ausfüllen, füllt aus, hat ausgefüllt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausgang",
+  "de": "der Ausgang, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausgeben",
+  "de": "ausgeben, gibt aus, hat ausgegeben",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ausgehen",
+  "de": "ausgehen, geht aus, ist ausgegangen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "auskunft",
+  "de": "die Auskunft, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausländer",
+  "de": "der Ausländer, -",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "ausländisch",
+  "de": "ausländisch",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "ausland",
+  "de": "das Ausland (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausmachen",
+  "de": "ausmachen, macht aus, hat ausgemacht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "auspacken",
+  "de": "auspacken, packt aus, hat ausgepackt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ausruhen",
+  "de": "ausruhen (sich), ruht aus, hat ausgeruht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aussage",
+  "de": "die Aussage, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "aussehen",
+  "de": "aussehen, sieht aus, hat ausgesehen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "aussein",
+  "de": "aus sein",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "außer",
+  "de": "außer",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "außerdem",
+  "de": "außerdem",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "außerhalb",
+  "de": "außerhalb",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aussprechen",
+  "de": "aussprechen, spricht aus, hat ausgesprochen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "aussteigen",
+  "de": "aussteigen, steigt aus, ist ausgestiegen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausstellung",
+  "de": "die Ausstellung,-en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tauschen",
+  "de": "(aus)tauschen, tauscht (aus), hat (aus)getauscht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "austragen",
+  "de": "austragen, trägt aus, hat ausgetragen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ausweis",
+  "de": "der Ausweis, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ausziehen",
+  "de": "(sich) ausziehen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "autobahn",
+  "de": "die Autobahn, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "automat",
+  "de": "der Automat, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "automatisch",
+  "de": "automatisch",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "auto",
+  "de": "das Auto, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "baby",
+  "de": "das Baby, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "babysitter",
+  "de": "der Babysitter,-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "backen",
+  "de": "backen, bäckt/backt, hat gebacken",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bäckerei",
+  "de": "die Bäckerei, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "baden",
+  "de": "baden, badet, hat gebadet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bad",
+  "de": "das Bad, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bahn",
+  "de": "die Bahn, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bahnhof",
+  "de": "der Bahnhof, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bahnsteig",
+  "de": "der Bahnsteig, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bald",
+  "de": "bald",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "balkon",
+  "de": "der Balkon, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ball",
+  "de": "der Ball, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "banane",
+  "de": "die Banane, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "band",
+  "de": "die Band, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bank",
+  "de": "die Bank, -en die Bank, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bar",
+  "de": "bar",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "basketball",
+  "de": "der Basketball, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "basteln",
+  "de": "basteln, bastelt, hat gebastelt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bauch",
+  "de": "der Bauch, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bauen",
+  "de": "bauen, baut, hat gebaut",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "baum",
+  "de": "der Baum, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "baustelle",
+  "de": "die Baustelle, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "beamte",
+  "de": "der Beamte, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "beantworten",
+  "de": "beantworten, beantwortet, hat beantwortet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "beantworter",
+  "de": "beantworter",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "bedanken",
+  "de": "bedanken (sich), bedankt, hat bedankt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bedeuten",
+  "de": "bedeuten, bedeutet, hat bedeutet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "beeilen",
+  "de": "beeilen (sich), beeilt, beenden, beendet, hat beendet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "beginnen",
+  "de": "beginnen, beginnt, hat begonnen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "begründen",
+  "de": "begründen, begründet, hat begründet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bei",
+  "de": "bei",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "beide",
+  "de": "beide",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bein",
+  "de": "das Bein, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "beispiel",
+  "de": "das Beispiel, -e",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "bekannt",
+  "de": "bekannt",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "bekanntderdiebekannte",
+  "de": "bekannt der/die Bekannte, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "derdiebekannte",
+  "de": "der/die Bekannte, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "bekommen",
+  "de": "bekommen, bekommt, hat bekommen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "beliebt",
+  "de": "beliebt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "benutzen",
+  "de": "benutzen, benutzt, hat benutzt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bequem",
+  "de": "bequem",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "beraten",
+  "de": "beraten, berät, hat beraten",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "berg",
+  "de": "der Berg, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "berichten",
+  "de": "berichten, berichtet, hat berichtet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "beruf",
+  "de": "der Beruf, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "berühmt",
+  "de": "berühmt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bescheid",
+  "de": "der Bescheid (bekommen/ geben/sagen)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "beschreiben",
+  "de": "beschreiben, beschreibt, hat beschrieben",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "beschweren",
+  "de": "beschweren (sich), beschwert, hat beschwert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "besetzt",
+  "de": "besetzt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "besichtigen",
+  "de": "besichtigen, besichtigt, hat besichtigt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "besonders",
+  "de": "besonders",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "besser",
+  "de": "besser",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "best",
+  "de": "best-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "bestätigen",
+  "de": "bestätigen, bestätigt, hat bestätigt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bestehen",
+  "de": "bestehen, besteht, hat bestanden",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bestellen",
+  "de": "bestellen, bestellt, hat bestellt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "besuch",
+  "de": "der Besuch, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "besuchen",
+  "de": "besuchen, besucht, hat besucht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bett",
+  "de": "das Bett, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bewerben",
+  "de": "bewerben (sich), bewirbt, hat beworben die Bewerbung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bewölktdiewolke",
+  "de": "bewölkt die Wolke, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bezahlen",
+  "de": "bezahlen, bezahlt, hat bezahlt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bibliothek",
+  "de": "die Bibliothek, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bier",
+  "de": "das Bier, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bild",
+  "de": "das Bild, -er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "billig",
+  "de": "billig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "birne",
+  "de": "die Birne, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bis",
+  "de": "bis",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bisschen",
+  "de": "bisschen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bitte",
+  "de": "die Bitte, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bitten",
+  "de": "bitten, bittet, hat gebeten",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bitter",
+  "de": "bitter",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "blatt",
+  "de": "das Blatt, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bleiben",
+  "de": "bleiben, bleibt, ist geblieben",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bleistift",
+  "de": "der Bleistift, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "blick",
+  "de": "der Blick",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "blöd",
+  "de": "blöd",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "derdasblog",
+  "de": "der/das Blog, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "blond",
+  "de": "blond",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "blume",
+  "de": "die Blume, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bluse",
+  "de": "die Bluse, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bogen",
+  "de": "der Bogen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "bohne",
+  "de": "die Bohne, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "böse",
+  "de": "böse",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "braten",
+  "de": "braten, brät, hat gebraten",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "brauchen",
+  "de": "brauchen, braucht, hat gebraucht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "breit",
+  "de": "breit",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "brief",
+  "de": "der Brief, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "briefmarke",
+  "de": "die Briefmarke, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "brille",
+  "de": "die Brille, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bringen",
+  "de": "bringen, bringt, hat gebracht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "brötchen",
+  "de": "das Brötchen, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "brot",
+  "de": "das Brot, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "brücke",
+  "de": "die Brücke, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bruder",
+  "de": "der Bruder, -ü",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "buchen",
+  "de": "buchen, bucht, hat gebucht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "buch",
+  "de": "das Buch, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "buchstabe",
+  "de": "der Buchstabe, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "buchstabieren",
+  "de": "buchstabieren, buchstabiert, hat buchstabiert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "bunt",
+  "de": "bunt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "büro",
+  "de": "das Büro, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "bus",
+  "de": "der Bus, -se",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "butter",
+  "de": "die Butter (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "cafeteria",
+  "de": "die Cafeteria, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "café",
+  "de": "das Café, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "cd",
+  "de": "die CD, -s",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "chatten",
+  "de": "chatten, chattet, hat gechattet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "chef",
+  "de": "der Chef, -s / die Chefin,-nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "circaca",
+  "de": "circa/ca.",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "club",
+  "de": "der Club, -s / Klub, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "derdascomic",
+  "de": "der/das Comic, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "computer",
+  "de": "der Computer, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "creme",
+  "de": "die Creme, -s/-n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "da",
+  "de": "da",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dabei",
+  "de": "dabei (sein), ist dabei, war dabei, ist dabei gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dafürdagegensein",
+  "de": "dafür/dagegen sein, ist dafür/dagegen, war dafür/dagegen, ist dafür/ dagegen gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "damals",
+  "de": "damals",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dame",
+  "de": "die Dame, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "daneben",
+  "de": "daneben",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "danke",
+  "de": "danke",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "danken",
+  "de": "danken, dankt, hat gedankt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dank",
+  "de": "der Dank (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dann",
+  "de": "dann",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dabspdarauf",
+  "de": "da(r) (Bsp. darauf, darüber)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dass",
+  "de": "dass",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "datei",
+  "de": "die Datei, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "datum",
+  "de": "das Datum, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dauern",
+  "de": "dauern, dauert, hat gedauert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dein",
+  "de": "dein-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "denken",
+  "de": "denken, denkt, hat gedacht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "denn",
+  "de": "denn",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "der",
+  "de": "der, die, das",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "deshalb",
+  "de": "deshalb",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "deutlich",
+  "de": "deutlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dich",
+  "de": "dich",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "dick",
+  "de": "dick",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dies",
+  "de": "dies-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "ding",
+  "de": "das Ding, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dir",
+  "de": "dir",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "direkt",
+  "de": "direkt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "disco",
+  "de": "die Disco, -s / die Disko, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "diskutieren",
+  "de": "diskutieren, diskutiert, hat diskutiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "doch",
+  "de": "doch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "doktor",
+  "de": "der Doktor",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "doppelzimmer",
+  "de": "das Doppelzimmer, das Dorf, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dorf",
+  "de": "das Dorf, -ö, er",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "dort",
+  "de": "dort, -her, -hin",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "draußen",
+  "de": "draußen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dringend",
+  "de": "dringend",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "drinnen",
+  "de": "drinnen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "drüben",
+  "de": "drüben",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "drucken",
+  "de": "drucken, druckt, hat gedruckt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "drücken",
+  "de": "drücken, drückt, hat gedrückt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "drucker",
+  "de": "der Drucker, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dumm",
+  "de": "dumm",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dunkel",
+  "de": "dunkel",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "dünn",
+  "de": "dünn",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "durch",
+  "de": "durch",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "durchsage",
+  "de": "die Durchsage, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "dürfen",
+  "de": "dürfen, darf, durfte, hat gedurft",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "durst",
+  "de": "der Durst (Sing.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "dusche",
+  "de": "die Dusche, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "duschen",
+  "de": "duschen (sich), duscht, hat geduscht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ebook",
+  "de": "das E-Book, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "echt",
+  "de": "echt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ecke",
+  "de": "die Ecke, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "egal",
+  "de": "egal",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ehefrau",
+  "de": "die Ehefrau, -en / der Ehemann,¨-er/ der Ehepartner, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ehemann",
+  "de": "der Ehemann, ä, er",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "ei",
+  "de": "das Ei, -er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "eigeneigentlich",
+  "de": "eigeneigentlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "eilig",
+  "de": "eilig",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ein",
+  "de": "ein-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "einfach",
+  "de": "einfach",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "eingang",
+  "de": "der Eingang, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "einig",
+  "de": "einig-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "einkaufen",
+  "de": "einkaufen, kauft ein, hat eingekauft",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "einkaufszentrum",
+  "de": "das Einkaufszentrum, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "einladen",
+  "de": "einladen, lädt ein, hat eingeladen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "einladung",
+  "de": "die Einladung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "einmal",
+  "de": "einmal",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "einpaar",
+  "de": "ein paar",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "einpacken",
+  "de": "einpacken, packt ein, hat eingepackt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "einsteigen",
+  "de": "einsteigen, steigt ein, ist eingestiegen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "eintragen",
+  "de": "eintragen (sich), trägt ein, hat eingetragen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "eintritt",
+  "de": "der Eintritt, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "einverstandensein",
+  "de": "einverstanden sein, ist einverstanden, war einverstanden, ist einverstanden gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "einzel",
+  "de": "einzel-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "einzelzimmer",
+  "de": "das Einzelzimmer",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "einziehen",
+  "de": "einziehen, zieht ein, ist eingezogen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "eis",
+  "de": "das Eis (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "eltern",
+  "de": "die Eltern (pl.)",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "mail",
+  "de": "die (E-)Mail, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "email",
+  "de": "die E-Mail, -s",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "empfänger",
+  "de": "der Empfänger, –",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "empfehlen",
+  "de": "empfehlen, empfiehlt, hat empfohlen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ende",
+  "de": "das Ende, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "enden",
+  "de": "enden, endet, hat geendet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "endlich",
+  "de": "endlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "eng",
+  "de": "eng",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "entschuldi",
+  "de": "die Entschuldi-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "entschuldigen",
+  "de": "entschuldigen (sich), entschuldigt, hat entschuldigt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "entschuldigung",
+  "de": "die Entschuldigung",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "er",
+  "de": "er",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "erdgeschoss",
+  "de": "das Erdgeschoss,-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "erfahrung",
+  "de": "die Erfahrung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ergebnis",
+  "de": "das Ergebnis, -se",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "erinnern",
+  "de": "erinnern (sich), erinnert, hat erinnert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "erkältetsein",
+  "de": "erkältet sein, ist erkältet, war erkältet, ist erkältet gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "erklären",
+  "de": "erklären, erklärt, hat erklärt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "erlauben",
+  "de": "erlauben, erlaubt, hat erlaubt erlaubt sein, ist erlaubt, war erlaubt, ist erlaubt gewesen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "erlaubnis",
+  "de": "die Erlaubnis (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ermäßigung",
+  "de": "die Ermäßigung,-en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "erreichen",
+  "de": "erreichen, erreicht, hat erreicht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "erst",
+  "de": "erst",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "erwachsene",
+  "de": "der Erwachsene,-n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "erzählen",
+  "de": "erzählen, erzählt, hat erzählt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "es",
+  "de": "es",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "essen",
+  "de": "das Essen, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "etwas",
+  "de": "etwas",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "euer",
+  "de": "euer",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fach",
+  "de": "das Fach, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fahrer",
+  "de": "der Fahrer",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fahrkarte",
+  "de": "die Fahrkarte, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fahrplan",
+  "de": "der Fahrplan, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fahrrad",
+  "de": "das Fahrrad, -ä, er",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "rad",
+  "de": "das (Fahr)Rad, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fallen",
+  "de": "fallen, fällt, ist gefallen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "falsch",
+  "de": "falsch",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "familie",
+  "de": "die Familie, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "familienname",
+  "de": "der Familienname, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "familienstand",
+  "de": "der Familienstand",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fan",
+  "de": "der Fan, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fantastisch",
+  "de": "fantastisch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "farbe",
+  "de": "die Farbe, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fast",
+  "de": "fast",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "faul",
+  "de": "faul",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fax",
+  "de": "das Fax, -e",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fehlen",
+  "de": "fehlen, fehlt, hat gefehlt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fehler",
+  "de": "der Fehler, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "feiern",
+  "de": "feiern, feiert, hat gefeiert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "feier",
+  "de": "die Feier, -n (z. B. Feierabend, Feiertag)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fenster",
+  "de": "das Fenster, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ferien",
+  "de": "die Ferien (Pl.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fernsehen",
+  "de": "fernsehen, sieht fern, hat ferngesehen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fernseher",
+  "de": "der Fernseher, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fertig",
+  "de": "fertig",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fertigsein",
+  "de": "fertig sein, ist fertig, war fertig, ist fertig gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fest",
+  "de": "das Fest, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "festival",
+  "de": "das Festival, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fett",
+  "de": "fett",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "feuer",
+  "de": "das Feuer",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "fieber",
+  "de": "das Fieber (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "film",
+  "de": "der Film, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "finden",
+  "de": "finden, findet, hat gefunden",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "firma",
+  "de": "die Firma, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fisch",
+  "de": "der Fisch, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fitsein",
+  "de": "fit sein, ist fit, war fit,",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "flasche",
+  "de": "die Flasche, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fleisch",
+  "de": "das Fleisch (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fleißig",
+  "de": "fleißig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "flohmarkt",
+  "de": "der Flohmarkt, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "flug",
+  "de": "der Flug, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "flughafen",
+  "de": "der Flughafen, ¨",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "flugzeug",
+  "de": "das Flugzeug, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fluss",
+  "de": "der Fluss, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "formular",
+  "de": "das Formular, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fotoapparat",
+  "de": "der Fotoapparat, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fotografieren",
+  "de": "fotografieren, fotografiert, hat fotografiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "foto",
+  "de": "das Foto, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "frage",
+  "de": "die Frage, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fragen",
+  "de": "fragen, fragt, hat gefragt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "frau",
+  "de": "die Frau, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "frei",
+  "de": "frei",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "freiwillig",
+  "de": "freiwillig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "freizeit",
+  "de": "die Freizeit (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fremd",
+  "de": "fremd",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "freuen",
+  "de": "freuen (sich), freut, hat gefreut",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "freund",
+  "de": "der Freund, -e, die Freundin, -nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "freundlich",
+  "de": "freundlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "frisch",
+  "de": "frisch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "froh",
+  "de": "froh",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "früh",
+  "de": "früh",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "früher",
+  "de": "früher",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "frühstücken",
+  "de": "frühstücken, frühstückt, hat gefrühstückt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "frühstück",
+  "de": "das Frühstück (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fühlen",
+  "de": "fühlen (sich), fühlt, hat gefühlt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "führerschein",
+  "de": "der Führerschein, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "führung",
+  "de": "die Führung, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fundsachen",
+  "de": "die Fundsachen (Pl.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "für",
+  "de": "für",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "furchtbar",
+  "de": "furchtbar",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "fußball",
+  "de": "der Fußball, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "fuß",
+  "de": "der Fuß, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gabel",
+  "de": "die Gabel, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ganz",
+  "de": "ganz",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "garage",
+  "de": "die Garage, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "garten",
+  "de": "der Garten, ¨",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gast",
+  "de": "der Gast, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geben",
+  "de": "geben, gibt, hat gegeben",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geboren",
+  "de": "geboren",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geburtsjahr",
+  "de": "Geburts- (jahr, ort, tag), (-e, -e, -e)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geburtsort",
+  "de": "der Geburtsort",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "geburtstag",
+  "de": "der Geburtstag",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "geehrt",
+  "de": "geehrt-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gefährlich",
+  "de": "gefährlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gefallen",
+  "de": "gefallen, gefällt, hat gefallen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gegen",
+  "de": "gegen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gegenteil",
+  "de": "das Gegenteil, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gegenüber",
+  "de": "gegenüber",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gehalt",
+  "de": "das Gehalt, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gehen",
+  "de": "gehen, geht, ist gegangen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gehören",
+  "de": "gehören, gehört, hat gehört",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geldbörse",
+  "de": "die Geldbörse, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "geld",
+  "de": "das Geld (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gemüse",
+  "de": "das Gemüse (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "genau",
+  "de": "genau",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "genug",
+  "de": "genug",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "geöffnet",
+  "de": "geöffnet",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "gepäck",
+  "de": "das Gepäck (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gerade",
+  "de": "gerade",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geradeaus",
+  "de": "geradeaus",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gerät",
+  "de": "das Gerät, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gericht",
+  "de": "das Gericht, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gern",
+  "de": "gern, lieber, am liebsten",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geschäft",
+  "de": "das Geschäft, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geschenk",
+  "de": "das Geschenk, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "geschichte",
+  "de": "die Geschichte, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "geschirr",
+  "de": "das Geschirr (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "geschlossen",
+  "de": "geschlossen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "geschwister",
+  "de": "die Geschwister (pl.)",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "gesicht",
+  "de": "das Gesicht, -er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gespräch",
+  "de": "das Gespräch, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gestern",
+  "de": "gestern",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gestorben",
+  "de": "gestorben",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "gesund",
+  "de": "gesund",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gesundheit",
+  "de": "die Gesundheit (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "getränk",
+  "de": "das Getränk, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gewicht",
+  "de": "das Gewicht",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "gewinnen",
+  "de": "gewinnen, gewinnt, hat gewonnen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gewitter",
+  "de": "das Gewitter, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "gitarre",
+  "de": "die Gitarre, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "glas",
+  "de": "das Glas, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "glauben",
+  "de": "glauben, glaubt, hat geglaubt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gleich",
+  "de": "gleich",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gleis",
+  "de": "das Gleis, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "glücklich",
+  "de": "glücklich",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "glück",
+  "de": "das Glück (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "glückwunsch",
+  "de": "der Glückwunsch, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "grad",
+  "de": "Grad (Celsius)",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "gratulieren",
+  "de": "gratulieren, gratuliert, hat gratuliert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "grillen",
+  "de": "grillen, grillt, hat gegrillt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "grippe",
+  "de": "die Grippe (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "groß",
+  "de": "groß",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "großeltern",
+  "de": "die Großeltern (pl.)",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "größe",
+  "de": "die Größe, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "großmutter",
+  "de": "die Großmutter",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "großvater",
+  "de": "der Großvater",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "gruppe",
+  "de": "die Gruppe, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gruß",
+  "de": "der Gruß, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gültig",
+  "de": "gültig",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "gültigsein",
+  "de": "gültig sein, ist gültig, war gültig, ist gültig gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "günstig",
+  "de": "günstig",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "gut",
+  "de": "gut, besser, am besten",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "haar",
+  "de": "das Haar, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "haben",
+  "de": "haben, hat, hatte, hat gehabt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hähnchen",
+  "de": "das Hähnchen, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "halbpension",
+  "de": "die Halbpension",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "halle",
+  "de": "die Halle, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hallo",
+  "de": "hallo",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hals",
+  "de": "der Hals, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "halten",
+  "de": "halten, hält, hat gehalten",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "haltestelle",
+  "de": "die Haltestelle, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hamburger",
+  "de": "der Hamburger, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hand",
+  "de": "die Hand, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "handtuch",
+  "de": "das Handtuch, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "handy",
+  "de": "das Handy, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hängen",
+  "de": "hängen, hängt, hat gehangen/ gehängt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hart",
+  "de": "hart",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hässlich",
+  "de": "hässlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hatgenommen",
+  "de": "hat genommen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hauptstadt",
+  "de": "die Hauptstadt, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hausaufgabe",
+  "de": "die Hausaufgabe,-n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "haus",
+  "de": "das Haus, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hausfrau",
+  "de": "die Hausfrau, -en/",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "haushalt",
+  "de": "der Haushalt, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hausmann",
+  "de": "der Hausmann",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "heft",
+  "de": "das Heft, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "heimat",
+  "de": "die Heimat (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "heiraten",
+  "de": "heiraten, heiratet, hat geheiratet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "heiß",
+  "de": "heiß",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "heißen",
+  "de": "heißen, heißt, hat geheißen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "heizung",
+  "de": "die Heizung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "helfen",
+  "de": "helfen, hilft, hat geholfen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hell",
+  "de": "hell",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hemd",
+  "de": "das Hemd, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "herausraus",
+  "de": "heraus/raus",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "herd",
+  "de": "der Herd, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hereinrein",
+  "de": "herein/rein",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "herherher",
+  "de": "her/her-/-her",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "herr",
+  "de": "der Herr, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "herstellen",
+  "de": "herstellen, stellt her, hat hergestellt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "herunterladen",
+  "de": "herunterladen, lädt herunter, hat heruntergeladen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "herzlich",
+  "de": "herzlich",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "heute",
+  "de": "heute",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hier",
+  "de": "hier",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hilfe",
+  "de": "die Hilfe (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "himmel",
+  "de": "der Himmel (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hinhinhin",
+  "de": "hin/hin-/-hin",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hinten",
+  "de": "hinten",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hinter",
+  "de": "hinter",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hobby",
+  "de": "das Hobby, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hoch",
+  "de": "hoch",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hochzeit",
+  "de": "die Hochzeit, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hoffen",
+  "de": "hoffen, hofft, hat gehofft",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hoffentlich",
+  "de": "hoffentlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "holen",
+  "de": "holen, holt, hat geholt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "homepage",
+  "de": "die Homepage, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hören",
+  "de": "hören, hört, hat gehört",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hose",
+  "de": "die Hose, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "hotel",
+  "de": "das Hotel, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hund",
+  "de": "der Hund, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "hunger",
+  "de": "der Hunger (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "husten",
+  "de": "husten, hustet, hat gehustet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ich",
+  "de": "ich",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "idee",
+  "de": "die Idee, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ihrihmihn",
+  "de": "ihr/ihm/ihn",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "immer",
+  "de": "immer",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "in",
+  "de": "in",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "information",
+  "de": "die Information,-en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "informieren",
+  "de": "informieren (sich) (über), informiert, hat informiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "insel",
+  "de": "die Insel, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "instrument",
+  "de": "das Instrument, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "intelligent",
+  "de": "intelligent",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "interesse",
+  "de": "das Interesse, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "interessieren",
+  "de": "interessieren (sich), interessiert, hat interessiert interessant",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "international",
+  "de": "international",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "internet",
+  "de": "das Internet (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "interview",
+  "de": "das Interview, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ja",
+  "de": "ja",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "jacke",
+  "de": "die Jacke, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "jeans",
+  "de": "die Jeans (Pl.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "jed",
+  "de": "jed-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "jeder",
+  "de": "jeder, e, s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "jemand",
+  "de": "jemand",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "jetzt",
+  "de": "jetzt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "job",
+  "de": "der Job, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "joggen",
+  "de": "joggen, joggt, ist/hat gejoggt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "jugendherberge",
+  "de": "die Jugendherberge, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "derdiejugendliche",
+  "de": "der/die Jugendliche, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "jugendliche",
+  "de": "der Jugendliche, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "jung",
+  "de": "jung",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "junge",
+  "de": "der Junge, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kaffee",
+  "de": "der Kaffee, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kalender",
+  "de": "der Kalender, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kalt",
+  "de": "kalt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kamera",
+  "de": "die Kamera, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kaputt",
+  "de": "kaputt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "karte",
+  "de": "die Karte, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kartoffel",
+  "de": "die Kartoffel, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "käse",
+  "de": "der Käse (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kasse",
+  "de": "die Kasse, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "katze",
+  "de": "die Katze, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kaufen",
+  "de": "kaufen, kauft, hat gekauft",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kaufhaus",
+  "de": "das Kaufhaus, -¨er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kein",
+  "de": "kein, e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "keller",
+  "de": "der Keller, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kennen",
+  "de": "kennen, kennt, hat gekannt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kennenlernen",
+  "de": "kennenlernen, lernt kennen, hat kennengelernt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kenntnisse",
+  "de": "die Kenntnisse (Pl.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kette",
+  "de": "die Kette, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kind",
+  "de": "das Kind, -er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kindergarten",
+  "de": "der Kindergarten,¨-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kino",
+  "de": "das Kino, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kiosk",
+  "de": "der Kiosk, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kirche",
+  "de": "die Kirche, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "klappen",
+  "de": "klappen, klappt, hat geklappt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "klar",
+  "de": "klar",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "klasse",
+  "de": "die Klasse",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "klavier",
+  "de": "das Klavier, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kleid",
+  "de": "das Kleid, -er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kleidung",
+  "de": "die Kleidung (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "klein",
+  "de": "klein",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "klug",
+  "de": "klug",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kochen",
+  "de": "kochen, kocht, hat gekocht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "koffer",
+  "de": "der Koffer, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kollege",
+  "de": "der Kollege, -n / die Kollegin, -nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "komisch",
+  "de": "komisch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kommen",
+  "de": "kommen, kommt, ist gekommen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "können",
+  "de": "können, kann, konnte, hat gekonnt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kontakt",
+  "de": "der Kontakt, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "konto",
+  "de": "das Konto, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kontrollieren",
+  "de": "kontrollieren, kontrolliert, hat kontrolliert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "konzert",
+  "de": "das Konzert, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kopf",
+  "de": "der Kopf, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "körper",
+  "de": "der Körper, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kosmetik",
+  "de": "die Kosmetik (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kosten",
+  "de": "kosten, kostet, hat gekostet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kostenlos",
+  "de": "kostenlos",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "krank",
+  "de": "krank",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "krankenhaus",
+  "de": "das Krankenhaus, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "krankenkasse",
+  "de": "die Krankenkasse, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "krankheit",
+  "de": "die Krankheit, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kredit",
+  "de": "der Kredit, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kreuzung",
+  "de": "die Kreuzung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kriegen",
+  "de": "kriegen, kriegt, hat gekriegt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "krimi",
+  "de": "der Krimi, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "küche",
+  "de": "die Küche, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kuchen",
+  "de": "der Kuchen, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kugelschreiber",
+  "de": "der Kugelschreiber",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "kühl",
+  "de": "kühl",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kühlschrank",
+  "de": "der Kühlschrank, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kulturell",
+  "de": "kulturell",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "kultur",
+  "de": "die Kultur, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kümmern",
+  "de": "kümmern (sich), kümmert, hat gekümmert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kunde",
+  "de": "der Kunde, -n / die Kundin, -nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kündigen",
+  "de": "kündigen, kündigt, hat gekündigt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kunst",
+  "de": "die Kunst, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "kurs",
+  "de": "der Kurs, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "kurz",
+  "de": "kurz",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lachen",
+  "de": "lachen, lacht, hat gelacht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "laden",
+  "de": "der Laden, ¨-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lampe",
+  "de": "die Lampe, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "land",
+  "de": "das Land, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "landschaft",
+  "de": "die Landschaft, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "lang",
+  "de": "lang",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lange",
+  "de": "lange",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "langsam",
+  "de": "langsam",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "langweilig",
+  "de": "langweilig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "derdaslaptop",
+  "de": "der/das Laptop, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "lassen",
+  "de": "lassen, lässt, hat gelassen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "laufen",
+  "de": "laufen, läuft, ist gelaufen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "laut",
+  "de": "laut",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "leben",
+  "de": "das Leben, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lebens",
+  "de": "die Lebens-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "lebensmittel",
+  "de": "die Lebensmittel (Pl.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ledig",
+  "de": "ledig",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "leer",
+  "de": "leer",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "legen",
+  "de": "legen, legt, hat gelegt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lehrer",
+  "de": "der Lehrer, –",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "leicht",
+  "de": "leicht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "leider",
+  "de": "leider",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "leidtunleidtun",
+  "de": "leidtun/leid tun, tut leid, hat leidgetan",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "leihen",
+  "de": "leihen, leiht, hat geliehen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "leise",
+  "de": "leise",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lernen",
+  "de": "lernen, lernt, hat gelernt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lesen",
+  "de": "lesen, liest, hat gelesen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "letzt",
+  "de": "letzt-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "leute",
+  "de": "die Leute (Pl.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "licht",
+  "de": "das Licht, -er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lieb",
+  "de": "lieb-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lieben",
+  "de": "lieben, liebt, hat geliebt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lieber",
+  "de": "lieber",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "lieblings",
+  "de": "Lieblings-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lied",
+  "de": "das Lied, -er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "liefern",
+  "de": "liefern, liefert, hat geliefert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "liegen",
+  "de": "liegen, liegt, hat/ist gelegen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "link",
+  "de": "der Link, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "links",
+  "de": "links",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lkw",
+  "de": "der Lkw, -s",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "löffel",
+  "de": "der Löffel, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "lokal",
+  "de": "das Lokal, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lösung",
+  "de": "die Lösung, -en",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "lüge",
+  "de": "die Lüge, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "lügen",
+  "de": "lügen, lügt, hat gelogen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "lustig",
+  "de": "lustig",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "lust",
+  "de": "die Lust (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "machen",
+  "de": "machen, macht, hat gemacht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mädchen",
+  "de": "das Mädchen, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "magen",
+  "de": "der Magen, ¨-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mailbox",
+  "de": "die Mailbox, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "maldasmal",
+  "de": "mal / das Mal",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "malen",
+  "de": "malen, malt, hat gemalt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "man",
+  "de": "man",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "manch",
+  "de": "manch-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "manchmal",
+  "de": "manchmal",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mann",
+  "de": "der Mann, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "männlich",
+  "de": "männlich",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mannschaft",
+  "de": "die Mannschaft, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mantel",
+  "de": "der Mantel, ¨-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "markt",
+  "de": "der Markt, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "maschine",
+  "de": "die Maschine, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "medikament",
+  "de": "das Medikament,-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "meer",
+  "de": "das Meer, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mehr",
+  "de": "mehr",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mein",
+  "de": "mein",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "meinen",
+  "de": "meinen, meint, hat gemeint",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "meinung",
+  "de": "die Meinung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "meist",
+  "de": "meist-",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "meistens",
+  "de": "meistens",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "menge",
+  "de": "die Menge, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mensch",
+  "de": "der Mensch, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "merken",
+  "de": "merken, merkt, hat gemerkt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "messe",
+  "de": "die Messe, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "messer",
+  "de": "das Messer, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "miete",
+  "de": "die Miete, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mieten",
+  "de": "mieten, mietet, hat gemietet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "milch",
+  "de": "die Milch (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mindestens",
+  "de": "mindestens",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mineralwasser",
+  "de": "das Mineralwasser (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mit",
+  "de": "mit (+ mitbringen/ -kommen/-machen/ -nehmen/-spielen)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mitarbeiter",
+  "de": "der Mitarbeiter, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mitbringen",
+  "de": "mitbringen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "mitkommen",
+  "de": "mitkommen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "mitmachen",
+  "de": "mitmachen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "mitnehmen",
+  "de": "mitnehmen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "mittagessen",
+  "de": "das Mittagessen, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mittel",
+  "de": "das Mittel, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mitte",
+  "de": "die Mitte, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "möbel",
+  "de": "die Möbel (Pl.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mobiltelefon",
+  "de": "das Mobiltelefon, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "möchten",
+  "de": "möchten, möchte, mochte, hat gemocht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mode",
+  "de": "die Mode, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "modern",
+  "de": "modern",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mögen",
+  "de": "mögen, mag, mochte, hat gemocht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "möglich",
+  "de": "möglich",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "moment",
+  "de": "der Moment, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "morgen",
+  "de": "morgen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "motor",
+  "de": "der Motor, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "motorroller",
+  "de": "der Motorroller, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "müde",
+  "de": "müde",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "müll",
+  "de": "der Müll (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "mund",
+  "de": "der Mund, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "museum",
+  "de": "das Museum, -een",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "musik",
+  "de": "die Musik (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "müssen",
+  "de": "müssen, muss, musste",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "mutter",
+  "de": "die Mutter, -ü",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "mütze",
+  "de": "die Mütze, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nach",
+  "de": "nach",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nachbar",
+  "de": "der Nachbar, -n, die Nachbarin,-nen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nachricht",
+  "de": "die Nachricht, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nächst",
+  "de": "nächst-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "nächste",
+  "de": "nächste, -er, -es",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nähe",
+  "de": "die Nähe (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "name",
+  "de": "der Name, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nass",
+  "de": "nass",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "natürlich",
+  "de": "natürlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "natur",
+  "de": "die Natur (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "neben",
+  "de": "neben",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nebenan",
+  "de": "nebenan",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "neblig",
+  "de": "neblig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nehmen",
+  "de": "nehmen, nimmt,",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nein",
+  "de": "nein",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nennen",
+  "de": "nennen, nennt, hat genannt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nervös",
+  "de": "nervös",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nett",
+  "de": "nett",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "neu",
+  "de": "neu",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nicht",
+  "de": "nicht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nichts",
+  "de": "nichts",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nie",
+  "de": "nie",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "niemand",
+  "de": "niemand",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nirgends",
+  "de": "nirgends",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "noch",
+  "de": "noch",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "normal",
+  "de": "normal",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "note",
+  "de": "die Note, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "notieren",
+  "de": "notieren, notiert, hat notiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "notiz",
+  "de": "die Notiz, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "notwendig",
+  "de": "notwendig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nudel",
+  "de": "die Nudel, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "nummer",
+  "de": "die Nummer, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nur",
+  "de": "nur",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "nützlich",
+  "de": "nützlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "oben",
+  "de": "oben",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "obst",
+  "de": "das Obst (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "oder",
+  "de": "oder",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "offen",
+  "de": "offen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "öffnen",
+  "de": "öffnen, öffnet, hat geöffnet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "oft",
+  "de": "oft",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ohne",
+  "de": "ohne",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ohr",
+  "de": "das Ohr, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "öl",
+  "de": "das Öl, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "oma",
+  "de": "die Oma, -s",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "online",
+  "de": "online",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "opa",
+  "de": "der Opa, -s",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "orange",
+  "de": "die Orange, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ordnung",
+  "de": "die Ordnung, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "organisieren",
+  "de": "organisieren, organisiert, hat organisiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ort",
+  "de": "der Ort, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "paar",
+  "de": "das Paar, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "packen",
+  "de": "packen, packt, hat gepackt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "paket",
+  "de": "das Paket, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "papier",
+  "de": "das Papier, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "papiere",
+  "de": "die Papiere (Pl.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "parfüm",
+  "de": "das Parfüm, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "parken",
+  "de": "parken, parkt, hat geparkt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "park",
+  "de": "der Park, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "partner",
+  "de": "der Partner, - die Partnerin, -nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "partnerin",
+  "de": "die Partnerin, -nen",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "party",
+  "de": "die Party, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "pass",
+  "de": "der Pass, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "passen",
+  "de": "passen, passt, hat gepasst",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "passieren",
+  "de": "passieren, passiert, ist passiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "passwort",
+  "de": "das Passwort, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "pause",
+  "de": "die Pause, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "person",
+  "de": "die Person, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "pferd",
+  "de": "das Pferd, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "pflanze",
+  "de": "die Pflanze, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "pizza",
+  "de": "die Pizza, -s/-en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "plakat",
+  "de": "das Plakat, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "plan",
+  "de": "der Plan, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "planen",
+  "de": "planen, plant, hat geplant",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "platz",
+  "de": "der Platz, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "plötzlich",
+  "de": "plötzlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "polizei",
+  "de": "die Polizei (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "pommesfrites",
+  "de": "die Pommes frites (Pl.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "pommesfritesdie",
+  "de": "die Pommes frites (pl.) Die",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "portion",
+  "de": "die Portion, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "poster",
+  "de": "das Poster, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "postkarte",
+  "de": "die Postkarte, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "postleitzahl",
+  "de": "die Postleitzahl, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "post",
+  "de": "die Post (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "praktikum",
+  "de": "das Praktikum, -a",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "praktisch",
+  "de": "praktisch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "praxis",
+  "de": "die Praxis, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "preis",
+  "de": "der Preis, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "preiswert",
+  "de": "preiswert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "privat",
+  "de": "privat",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "pro",
+  "de": "pro",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "probieren",
+  "de": "probieren, probiert, hat probiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "problem",
+  "de": "das Problem, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "produkt",
+  "de": "das Produkt, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "programm",
+  "de": "das Programm, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "projekt",
+  "de": "das Projekt, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "prospekt",
+  "de": "der Prospekt, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "prüfen",
+  "de": "prüfen, prüft, hat geprüft",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "prüfung",
+  "de": "die Prüfung, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "pullover",
+  "de": "der Pullover, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "pünktlich",
+  "de": "pünktlich",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "putzen",
+  "de": "putzen, putzt, hat geputzt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "qualität",
+  "de": "die Qualität, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "quiz",
+  "de": "das Quiz (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "radfahren",
+  "de": "Rad fahren",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "radio",
+  "de": "das Radio, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "raten",
+  "de": "raten, rät, hat geraten",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rathaus",
+  "de": "das Rathaus, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rätsel",
+  "de": "das Rätsel, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rauchen",
+  "de": "rauchen, raucht, hat geraucht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "raum",
+  "de": "der Raum, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "rechnen",
+  "de": "rechnen, rechnet, hat gerechnet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rechnung",
+  "de": "die Rechnung, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "rechthaben",
+  "de": "recht haben, hat recht, hatte recht, hat recht gehabt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rechts",
+  "de": "rechts",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reden",
+  "de": "reden, redet, hat geredet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "regen",
+  "de": "der Regen (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "regnen",
+  "de": "regnen, regnet, hat geregnet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reich",
+  "de": "reich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "reifen",
+  "de": "der Reifen, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "reihe",
+  "de": "die Reihe, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "reinigung",
+  "de": "die Reinigung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "reisebüro",
+  "de": "das Reisebüro, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reiseführer",
+  "de": "der Reiseführer, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reise",
+  "de": "die Reise, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reisen",
+  "de": "reisen, reist, ist gereist",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reis",
+  "de": "der Reis (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reiten",
+  "de": "reiten, reitet, ist geritten",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "renovieren",
+  "de": "renovieren, renoviert, hat renoviert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rentner",
+  "de": "der Rentner, - / die Rentnerin, -nen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "reparatur",
+  "de": "die Reparatur, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reparieren",
+  "de": "reparieren, repariert, hat repariert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "reservieren",
+  "de": "reservieren, reserviert, reservierte, hat reserviert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "restaurant",
+  "de": "das Restaurant, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "rest",
+  "de": "der Rest, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rezept",
+  "de": "das Rezept, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rezeption",
+  "de": "die Rezeption, en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "richtig",
+  "de": "richtig",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "riechen",
+  "de": "riechen, riecht, hat gerochen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "rind",
+  "de": "das Rind",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ring",
+  "de": "der Ring, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rock",
+  "de": "der Rock, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "romantisch",
+  "de": "romantisch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rose",
+  "de": "die Rose, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rücken",
+  "de": "der Rücken, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rucksack",
+  "de": "der Rucksack, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rufen",
+  "de": "rufen, ruft, hat gerufen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ruhe",
+  "de": "die Ruhe (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ruhig",
+  "de": "ruhig",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "rund",
+  "de": "rund",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "rundgang",
+  "de": "der Rundgang, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sache",
+  "de": "die Sache, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "saft",
+  "de": "der Saft, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sagen",
+  "de": "sagen, sagt, hat gesagt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "salat",
+  "de": "der Salat, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "salz",
+  "de": "das Salz, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sammeln",
+  "de": "sammeln, sammelt, hat gesammelt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "satz",
+  "de": "der Satz, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sauber",
+  "de": "sauber",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sauer",
+  "de": "sauer",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sbahn",
+  "de": "die S-Bahn",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "schade",
+  "de": "schade",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schädlich",
+  "de": "schädlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schaffen",
+  "de": "schaffen, schafft, hat geschafft",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schalter",
+  "de": "der Schalter, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "scharf",
+  "de": "scharf",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "scheinen",
+  "de": "scheinen, scheint, hat geschienen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schenken",
+  "de": "schenken, schenkt, hat geschenkt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schere",
+  "de": "die Schere, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schicken",
+  "de": "schicken, schickt, hat geschickt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schiff",
+  "de": "das Schiff, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schild",
+  "de": "das Schild, -er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schimpfen",
+  "de": "schimpfen, schimpft, hat geschimpft",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schinken",
+  "de": "der Schinken, –",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "schirm",
+  "de": "der Schirm",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schlafen",
+  "de": "schlafen, schläft, hat geschlafen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schlafzimmer",
+  "de": "das Schlafzimmer, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schlecht",
+  "de": "schlecht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schließen",
+  "de": "schließen, schließt, hat geschlossen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schlimm",
+  "de": "schlimm",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schloss",
+  "de": "das Schloss, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schluss",
+  "de": "der Schluss, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schlüssel",
+  "de": "der Schlüssel, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schmecken",
+  "de": "schmecken, schmeckt, hat geschmeckt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schmerz",
+  "de": "der Schmerz, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schmutzig",
+  "de": "schmutzig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schnee",
+  "de": "der Schnee (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schneiden",
+  "de": "schneiden (sich), schneidet, hat geschnitten",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schneien",
+  "de": "schneien, schneit, hat geschneit",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schnell",
+  "de": "schnell",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schokolade",
+  "de": "die Schokolade (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schon",
+  "de": "schon",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schön",
+  "de": "schön",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schrank",
+  "de": "der Schrank, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schrecklich",
+  "de": "schrecklich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schreiben",
+  "de": "schreiben, schreibt, hat geschrieben",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schriftlich",
+  "de": "schriftlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schuh",
+  "de": "der Schuh, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schule",
+  "de": "die Schule, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schüler",
+  "de": "der Schüler, - / die Schülerin, -nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schwach",
+  "de": "schwach",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schwanger",
+  "de": "schwanger",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schwein",
+  "de": "das Schwein, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schwer",
+  "de": "schwer",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schwester",
+  "de": "die Schwester, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "schwierig",
+  "de": "schwierig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "schwimmbad",
+  "de": "das Schwimmbad, ¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "schwimmen",
+  "de": "schwimmen, schwimmt, ist geschwommen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "see",
+  "de": "die See (Sg)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sehen",
+  "de": "sehen, sieht, hat gesehen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sehenswürdigkeit",
+  "de": "die Sehenswürdigkeit, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sehr",
+  "de": "sehr",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "seife",
+  "de": "die Seife, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sein",
+  "de": "sein, ist, war, ist gewesen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "seit",
+  "de": "seit",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "seite",
+  "de": "die Seite, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "selbst",
+  "de": "selbst",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "selbstständig",
+  "de": "selbstständig",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "sendung",
+  "de": "die Sendung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "service",
+  "de": "der Service (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "setzen",
+  "de": "setzen (sich),",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sich",
+  "de": "sich",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "sicher",
+  "de": "sicher",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sie",
+  "de": "sie",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "singen",
+  "de": "singen, singt, hat gesungen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "situation",
+  "de": "die Situation, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sitzen",
+  "de": "sitzen, sitzt, hat/ist gesessen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ski",
+  "de": "der Ski, -, -er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "so",
+  "de": "so",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sofa",
+  "de": "das Sofa, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sofort",
+  "de": "sofort",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sogar",
+  "de": "sogar",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sohn",
+  "de": "der Sohn, -ö, e",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "sollen",
+  "de": "sollen, soll, sollte",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sonne",
+  "de": "die Sonne, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sonnig",
+  "de": "sonnig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sonst",
+  "de": "sonst",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "spannend",
+  "de": "spannend",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sparen",
+  "de": "sparen, spart, hat gespart",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "spaß",
+  "de": "der Spaß (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "spät",
+  "de": "spät",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "später",
+  "de": "später",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "spazierengehen",
+  "de": "spazieren gehen, geht spazieren, ist spazieren gegangen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "spaziergang",
+  "de": "der Spaziergang, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "speichern",
+  "de": "speichern, speichert, hat gespeichert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "speisekarte",
+  "de": "die Speisekarte, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "spiel",
+  "de": "das Spiel, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "spielen",
+  "de": "spielen, spielt, hat gespielt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sportlich",
+  "de": "sportlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sportplatz",
+  "de": "der Sportplatz, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sport",
+  "de": "der Sport (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sprache",
+  "de": "die Sprache, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sprechen",
+  "de": "sprechen, spricht, hat gesprochen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sprechstunde",
+  "de": "die Sprechstunde, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stadt",
+  "de": "die Stadt, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "stadtplan",
+  "de": "der Stadtplan, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stark",
+  "de": "stark",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "star",
+  "de": "der Star, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stattfinden",
+  "de": "stattfinden, findet statt, hat stattgefunden",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stehen",
+  "de": "stehen, steht, hat/ist gestanden",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "stelle",
+  "de": "die Stelle, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stellen",
+  "de": "stellen, stellt, hat gestellt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "sterben",
+  "de": "sterben, stirbt, ist gestorben",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stiefel",
+  "de": "der Stiefel, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stift",
+  "de": "der Stift, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stipendium",
+  "de": "das Stipendium, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stock",
+  "de": "der Stock, ¨-e;",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "stockwerk",
+  "de": "das Stockwerk, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stören",
+  "de": "stören, stört, hat gestört",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "strand",
+  "de": "der Strand, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "straße",
+  "de": "die Straße, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "straßenbahn",
+  "de": "die Straßenbahn, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "streiten",
+  "de": "streiten (sich), streitet, hat gestritten",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "streng",
+  "de": "streng",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stressig",
+  "de": "stressig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stress",
+  "de": "der Stress (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stück",
+  "de": "das Stück, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "student",
+  "de": "der Student, -en, die Studentin, -nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "studieren",
+  "de": "studieren, studiert, hat studiert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "studium",
+  "de": "das Studium (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "stuhl",
+  "de": "der Stuhl, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "stunde",
+  "de": "die Stunde, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "suchen",
+  "de": "suchen, sucht, hat gesucht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "super",
+  "de": "super",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "supermarkt",
+  "de": "der Supermarkt, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "suppe",
+  "de": "die Suppe, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "surfen",
+  "de": "surfen, surft, hat/ist gesurft",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "süß",
+  "de": "süß",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "süßigkeiten",
+  "de": "die Süßigkeiten (Pl.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "sympathisch",
+  "de": "sympathisch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tablet",
+  "de": "das Tablet, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tablette",
+  "de": "die Tablette, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tafel",
+  "de": "die Tafel, -n (z. B. Infotafel)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tanzen",
+  "de": "tanzen, tanzt, hat getanzt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "tasche",
+  "de": "die Tasche, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "taschengeld",
+  "de": "das Taschengeld (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tasse",
+  "de": "die Tasse, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "taxi",
+  "de": "das Taxi, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "team",
+  "de": "das Team, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tee",
+  "de": "der Tee, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "teil",
+  "de": "der Teil, -e",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "teilen",
+  "de": "teilen, teilt, hat geteilt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "teilnehmen",
+  "de": "teilnehmen, nimmt teil, hat teilgenommen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "telefon",
+  "de": "das Telefon, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "telefonieren",
+  "de": "telefonieren, telefoniert, hat telefoniert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "teller",
+  "de": "der Teller, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tennis",
+  "de": "das Tennis (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "termin",
+  "de": "der Termin, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "test",
+  "de": "der Test",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "teuer",
+  "de": "teuer",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "text",
+  "de": "der Text, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "theater",
+  "de": "das Theater, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "thema",
+  "de": "das Thema, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "ticket",
+  "de": "das Ticket, -s",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "tief",
+  "de": "tief",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tier",
+  "de": "das Tier, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tipp",
+  "de": "der Tipp, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tisch",
+  "de": "der Tisch, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "titel",
+  "de": "der Titel, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tochter",
+  "de": "die Tochter, -ö",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "toilette",
+  "de": "die Toilette, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "toll",
+  "de": "toll",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tomate",
+  "de": "die Tomate, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "topf",
+  "de": "der Topf, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "torte",
+  "de": "die Torte, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tot",
+  "de": "tot",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "total",
+  "de": "total",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tour",
+  "de": "die Tour, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tourist",
+  "de": "der Tourist, -en, die Touristin, -nen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tragen",
+  "de": "tragen, trägt, hat getragen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "trainieren",
+  "de": "trainieren, trainiert, hat trainiert",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "training",
+  "de": "das Training, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "traum",
+  "de": "der Traum, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "träumen",
+  "de": "träumen, träumt, hat geträumt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "traurig",
+  "de": "traurig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "treffen",
+  "de": "treffen (sich),",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "treppe",
+  "de": "die Treppe, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "trifft",
+  "de": "trifft, hat getroffen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "trinken",
+  "de": "trinken, trinkt, hat getrunken",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "trocken",
+  "de": "trocken",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tschüs",
+  "de": "tschüs",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tschüss",
+  "de": "tschüss",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "tshirt",
+  "de": "das T-Shirt, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "tun",
+  "de": "tun, tut, hat getan",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "tür",
+  "de": "die Tür, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "typisch",
+  "de": "typisch",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "üben",
+  "de": "üben, übt, hat geübt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "über",
+  "de": "über",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "überall",
+  "de": "überall",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "übermorgen",
+  "de": "übermorgen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "übernachten",
+  "de": "übernachten, übernachtet, hat übernachtet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "übersetzen",
+  "de": "übersetzen, übersetzt, hat übersetzt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "übersetzung",
+  "de": "die Übersetzung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "überweisen",
+  "de": "überweisen, überweist, hat überwiesen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "uhr",
+  "de": "die Uhr, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "um",
+  "de": "um",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "umsteigen",
+  "de": "umsteigen, steigt um, ist umgestiegen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "umziehen",
+  "de": "sich umziehen, zieht sich um, zog sich um, hat sich umgezogen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "unbedingt",
+  "de": "unbedingt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "und",
+  "de": "und",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "unfall",
+  "de": "der Unfall, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "universität",
+  "de": "die Universität, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "unser",
+  "de": "unser-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "unten",
+  "de": "unten",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "unter",
+  "de": "unter",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "unterhalten",
+  "de": "unterhalten (sich), unterhält, hat unterhalten",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "unterkunft",
+  "de": "die Unterkunft, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "unternehmen",
+  "de": "unternehmen, unternimmt, hat unternommen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "unterricht",
+  "de": "der Unterricht (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "unterschied",
+  "de": "der Unterschied, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "unterschreiben",
+  "de": "unterschreiben, unterschreibt, hat unterschrieben",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "unterschrift",
+  "de": "die Unterschrift,-en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "untersuchen",
+  "de": "untersuchen, untersucht, hat untersucht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "unterwegssein",
+  "de": "unterwegs sein, ist unterwegs, war unterwegs, ist unterwegs gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "urlaub",
+  "de": "der Urlaub, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vater",
+  "de": "der Vater, -ä",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "verabredetsein",
+  "de": "verabredet sein, ist verabredet, war verabredet, ist verabredet gewesen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "veranstaltung",
+  "de": "die Veranstaltung, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verbietenverbotensein",
+  "de": "verbieten / verboten sein",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verboten",
+  "de": "verboten",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "verdienen",
+  "de": "verdienen, verdient, hat verdient",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vereinbaren",
+  "de": "vereinbaren, vereinbart, hat vereinbart",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verein",
+  "de": "der Verein, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vergessen",
+  "de": "vergessen, vergisst, hat vergessen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vergleichen",
+  "de": "vergleichen, vergleicht, hat verglichen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verheiratet",
+  "de": "verheiratet",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "verkaufen",
+  "de": "verkaufen, verkauft, hat verkauft",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "verkäufer",
+  "de": "der Verkäufer, –",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "verkehr",
+  "de": "der Verkehr (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verkehrsmittel",
+  "de": "das Verkehrsmittel, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verletzen",
+  "de": "verletzen (sich), verletzt, hat verletzt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verlieben",
+  "de": "verlieben (sich), verliebt, hat verliebt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verlieren",
+  "de": "verlieren, verliert, hat verloren",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vermieten",
+  "de": "vermieten, vermietet, hat vermietet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vermieter",
+  "de": "der Vermieter, - / die Vermieterin, -nen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "verpassen",
+  "de": "verpassen, verpasst, hat verpasst",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verreisen",
+  "de": "verreisen, verreist, ist verreist",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verschieben",
+  "de": "verschieben, verschiebt, hat verschoben",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verschieden",
+  "de": "verschieden",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verspätung",
+  "de": "die Verspätung,-en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verstehen",
+  "de": "verstehen, versteht, hat verstanden",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "versuchen",
+  "de": "versuchen, versucht, hat versucht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vertrag",
+  "de": "der Vertrag, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "verwandte",
+  "de": "der Verwandte, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "viel",
+  "de": "viel, e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vielleicht",
+  "de": "vielleicht",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vogel",
+  "de": "der Vogel, ¨-",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "voll",
+  "de": "voll",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "volleyball",
+  "de": "der Volleyball, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "von",
+  "de": "von",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vor",
+  "de": "vor",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vorbei",
+  "de": "vorbei",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vorbereiten",
+  "de": "vorbereiten, bereitet vor, hat vorbereitet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vorgestern",
+  "de": "vorgestern",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vorher",
+  "de": "vorher",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vorname",
+  "de": "der Vorname, -n",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vorn",
+  "de": "vorn(e)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vorschlag",
+  "de": "der Vorschlag, ¨-e (haben/machen)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vorsicht",
+  "de": "die Vorsicht",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "vorsichtig",
+  "de": "vorsichtig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "vorstellen",
+  "de": "vorstellen (sich), stellt vor, hat vorgestellt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "vorwahl",
+  "de": "die Vorwahl",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "vorwärts",
+  "de": "vorwärts",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wach",
+  "de": "wach",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wagen",
+  "de": "der Wagen, –",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wählen",
+  "de": "wählen, wählt, hat gewählt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wahr",
+  "de": "wahr",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wahrscheinlich",
+  "de": "wahrscheinlich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wald",
+  "de": "der Wald, ¨-er",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wandern",
+  "de": "wandern, wandert, ist gewandert",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wann",
+  "de": "wann",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "warm",
+  "de": "warm",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "warten",
+  "de": "warten, wartet, hat gewartet",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "warum",
+  "de": "warum",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "was",
+  "de": "was",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wäsche",
+  "de": "die Wäsche, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "waschen",
+  "de": "waschen (sich), wäscht, hat gewaschen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wasfürein",
+  "de": "was für ein",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "wasser",
+  "de": "das Wasser (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "webseite",
+  "de": "die Webseite, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wechseln",
+  "de": "wechseln, wechselt, hat gewechselt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wecken",
+  "de": "wecken, weckt, hat geweckt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "weg",
+  "de": "der Weg, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wegen",
+  "de": "wegen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wegsein",
+  "de": "weg sein",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wegweg",
+  "de": "weg/weg- (wegbringen/ -fahren/-gehen/ -laufen/-machen/ -nehmen/-werfen)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wehtun",
+  "de": "wehtun, tut weh, hat wehgetan",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "weiblich",
+  "de": "weiblich",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "weich",
+  "de": "weich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "weil",
+  "de": "weil",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wein",
+  "de": "der Wein, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "weinen",
+  "de": "weinen, weint, hat geweint",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "weit",
+  "de": "weit",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "weiter",
+  "de": "weiter (z. B. weitermachen/-helfen)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "welch",
+  "de": "welch-",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "welcher",
+  "de": "welcher, -e, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "welt",
+  "de": "die Welt, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wenig",
+  "de": "wenig, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wenigstens",
+  "de": "wenigstens",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wenn",
+  "de": "wenn",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wer",
+  "de": "wer",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "werden",
+  "de": "werden, wird, ist geworden",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "werkstatt",
+  "de": "die Werkstatt, ¨-en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "werwen",
+  "de": "wer (wen, wem)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wettbewerb",
+  "de": "der Wettbewerb, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wetter",
+  "de": "das Wetter (Sg.)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wichtig",
+  "de": "wichtig",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wie",
+  "de": "wie",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wieder",
+  "de": "wieder",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wiederholen",
+  "de": "wiederholen, wiederholt, hat wiederholt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wiederhören",
+  "de": "das Wiederhören, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wiedersehen",
+  "de": "das Wiedersehen, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wieviel",
+  "de": "wie viel, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "willkommen",
+  "de": "willkommen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wind",
+  "de": "der Wind, -e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "windig",
+  "de": "windig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wir",
+  "de": "wir",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "wirklich",
+  "de": "wirklich",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wissen",
+  "de": "wissen, weiß, hat gewusst",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "witz",
+  "de": "der Witz, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "witzig",
+  "de": "witzig",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wo",
+  "de": "wo",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "woher",
+  "de": "woher",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wohin",
+  "de": "wohin",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wohnen",
+  "de": "wohnen, wohnt, hat gewohnt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wohnung",
+  "de": "die Wohnung, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wohnzimmer",
+  "de": "das Wohnzimmer, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wolke",
+  "de": "die Wolke, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wollen",
+  "de": "wollen, will, wollte, hat gewollt (hat wollen als Modalverb)",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "workshop",
+  "de": "der Workshop, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wort",
+  "de": "das Wort,¨-er",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wunderbar",
+  "de": "wunderbar",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "wunsch",
+  "de": "der Wunsch, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wünschen",
+  "de": "wünschen",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "wurst",
+  "de": "die Wurst, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zahl",
+  "de": "die Zahl, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zahlen",
+  "de": "zahlen, zahlt, hat gezahlt",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zahn",
+  "de": "der Zahn, ¨-e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zeichnen",
+  "de": "zeichnen, zeichnet, hat gezeichnet",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zeigen",
+  "de": "zeigen, zeigt, hat gezeigt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zeit",
+  "de": "die Zeit, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zeitschrift",
+  "de": "die Zeitschrift, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zeitung",
+  "de": "die Zeitung, -en",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zelt",
+  "de": "das Zelt, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zentrum",
+  "de": "das Zentrum, -en",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zettel",
+  "de": "der Zettel, -",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zeugnis",
+  "de": "das Zeugnis, -se",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "ziel",
+  "de": "das Ziel, -e",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zigarette",
+  "de": "die Zigarette, -n",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "zimmer",
+  "de": "das Zimmer, -",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zirkus",
+  "de": "der Zirkus, -se",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zitrone",
+  "de": "die Zitrone, -n",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zoll",
+  "de": "der Zoll",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "zoo",
+  "de": "der Zoo, -s",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zu",
+  "de": "zu",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zucker",
+  "de": "der Zucker (Sg.)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zuerst",
+  "de": "zuerst",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zufrieden",
+  "de": "zufrieden",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zug",
+  "de": "der Zug, ¨-e",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zuhören",
+  "de": "zuhören, hört zu, hat zugehört",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zuletzt",
+  "de": "zuletzt",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zumachen",
+  "de": "zumachen, macht zu, hat zugemacht",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zumbeispiel",
+  "de": "zum Beispiel",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zumbeispielzb",
+  "de": "zum Beispiel/z. B.",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "zurück",
+  "de": "zurück",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zurückfahren",
+  "de": "zurück- (fahren, geben, gehen, kommen, laufen)",
+  "lvl": [
+   "A2"
+  ]
+ },
+ {
+  "k": "zurzeit",
+  "de": "zurzeit",
+  "lvl": [
+   "A1"
+  ]
+ },
+ {
+  "k": "zusammen",
+  "de": "zusammen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zusein",
+  "de": "zu sein",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ },
+ {
+  "k": "zwischen",
+  "de": "zwischen",
+  "lvl": [
+   "A1",
+   "A2"
+  ]
+ }
+]

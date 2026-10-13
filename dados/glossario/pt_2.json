@@ -1,0 +1,1274 @@
+[
+{
+"k": "erfahrung",
+"pt": "experiência"
+},
+{
+"k": "ergebnis",
+"pt": "resultado"
+},
+{
+"k": "erinnern",
+"pt": "lembrar-se; recordar-se"
+},
+{
+"k": "erkältetsein",
+"pt": "estar resfriado"
+},
+{
+"k": "erklären",
+"pt": "explicar"
+},
+{
+"k": "erlauben",
+"pt": "permitir; autorizar / ser permitido"
+},
+{
+"k": "erlaubnis",
+"pt": "permissão; autorização"
+},
+{
+"k": "ermäßigung",
+"pt": "desconto; redução de preço"
+},
+{
+"k": "erreichen",
+"pt": "alcançar; chegar a; conseguir pegar (trem etc.)"
+},
+{
+"k": "erst",
+"pt": "só; apenas; somente (tempo)"
+},
+{
+"k": "erwachsene",
+"pt": "adulto"
+},
+{
+"k": "erzählen",
+"pt": "contar; narrar"
+},
+{
+"k": "es",
+"pt": "ele/ela (neutro); isto; (sujeito impessoal)"
+},
+{
+"k": "essen",
+"pt": "comida; refeição"
+},
+{
+"k": "etwas",
+"pt": "algo; alguma coisa; um pouco"
+},
+{
+"k": "euer",
+"pt": "seu/sua (de vocês); vosso"
+},
+{
+"k": "fach",
+"pt": "disciplina; matéria; área"
+},
+{
+"k": "fahrer",
+"pt": "motorista; condutor"
+},
+{
+"k": "fahrkarte",
+"pt": "passagem; bilhete"
+},
+{
+"k": "fahrplan",
+"pt": "horário (de transporte); tabela de horários"
+},
+{
+"k": "fahrrad",
+"pt": "bicicleta"
+},
+{
+"k": "rad",
+"pt": "roda; bicicleta"
+},
+{
+"k": "fallen",
+"pt": "cair"
+},
+{
+"k": "falsch",
+"pt": "errado; falso"
+},
+{
+"k": "familie",
+"pt": "família"
+},
+{
+"k": "familienname",
+"pt": "sobrenome"
+},
+{
+"k": "familienstand",
+"pt": "estado civil"
+},
+{
+"k": "fan",
+"pt": "fã; torcedor"
+},
+{
+"k": "fantastisch",
+"pt": "fantástico; ótimo"
+},
+{
+"k": "farbe",
+"pt": "cor"
+},
+{
+"k": "fast",
+"pt": "quase"
+},
+{
+"k": "faul",
+"pt": "preguiçoso"
+},
+{
+"k": "fax",
+"pt": "fax"
+},
+{
+"k": "fehlen",
+"pt": "faltar; estar ausente"
+},
+{
+"k": "fehler",
+"pt": "erro; falha"
+},
+{
+"k": "feiern",
+"pt": "comemorar; festejar"
+},
+{
+"k": "feier",
+"pt": "festa; comemoração"
+},
+{
+"k": "fenster",
+"pt": "janela"
+},
+{
+"k": "ferien",
+"pt": "férias"
+},
+{
+"k": "fernsehen",
+"pt": "assistir à televisão"
+},
+{
+"k": "fernseher",
+"pt": "televisão; televisor"
+},
+{
+"k": "fertig",
+"pt": "pronto; acabado"
+},
+{
+"k": "fertigsein",
+"pt": "estar pronto; ter terminado"
+},
+{
+"k": "fest",
+"pt": "festa; festividade"
+},
+{
+"k": "festival",
+"pt": "festival"
+},
+{
+"k": "fett",
+"pt": "gorduroso; gordo"
+},
+{
+"k": "feuer",
+"pt": "fogo; isqueiro (pedir fogo)"
+},
+{
+"k": "fieber",
+"pt": "febre"
+},
+{
+"k": "film",
+"pt": "filme"
+},
+{
+"k": "finden",
+"pt": "encontrar; achar; considerar"
+},
+{
+"k": "firma",
+"pt": "empresa"
+},
+{
+"k": "fisch",
+"pt": "peixe"
+},
+{
+"k": "fitsein",
+"pt": "estar em forma"
+},
+{
+"k": "flasche",
+"pt": "garrafa"
+},
+{
+"k": "fleisch",
+"pt": "carne"
+},
+{
+"k": "fleißig",
+"pt": "dedicado; trabalhador; aplicado"
+},
+{
+"k": "flohmarkt",
+"pt": "mercado de pulgas; brechó ao ar livre"
+},
+{
+"k": "flug",
+"pt": "voo"
+},
+{
+"k": "flughafen",
+"pt": "aeroporto"
+},
+{
+"k": "flugzeug",
+"pt": "avião"
+},
+{
+"k": "fluss",
+"pt": "rio"
+},
+{
+"k": "formular",
+"pt": "formulário"
+},
+{
+"k": "fotoapparat",
+"pt": "câmera fotográfica"
+},
+{
+"k": "fotografieren",
+"pt": "fotografar; tirar fotos"
+},
+{
+"k": "foto",
+"pt": "foto; fotografia"
+},
+{
+"k": "frage",
+"pt": "pergunta; dúvida"
+},
+{
+"k": "fragen",
+"pt": "perguntar"
+},
+{
+"k": "frau",
+"pt": "mulher; senhora; esposa"
+},
+{
+"k": "frei",
+"pt": "livre; vago; de folga"
+},
+{
+"k": "freiwillig",
+"pt": "voluntário; por vontade própria"
+},
+{
+"k": "freizeit",
+"pt": "tempo livre; lazer"
+},
+{
+"k": "fremd",
+"pt": "estranho; desconhecido; estrangeiro"
+},
+{
+"k": "freuen",
+"pt": "alegrar-se; ficar contente"
+},
+{
+"k": "freund",
+"pt": "amigo; namorado / amiga; namorada"
+},
+{
+"k": "freundlich",
+"pt": "amável; simpático; gentil"
+},
+{
+"k": "frisch",
+"pt": "fresco; recém-feito"
+},
+{
+"k": "froh",
+"pt": "contente; alegre"
+},
+{
+"k": "früh",
+"pt": "cedo; de manhã cedo"
+},
+{
+"k": "früher",
+"pt": "antes; antigamente; mais cedo"
+},
+{
+"k": "frühstücken",
+"pt": "tomar café da manhã"
+},
+{
+"k": "frühstück",
+"pt": "café da manhã"
+},
+{
+"k": "fühlen",
+"pt": "sentir-se"
+},
+{
+"k": "führerschein",
+"pt": "carteira de motorista"
+},
+{
+"k": "führung",
+"pt": "visita guiada"
+},
+{
+"k": "fundsachen",
+"pt": "achados e perdidos"
+},
+{
+"k": "für",
+"pt": "para; por"
+},
+{
+"k": "furchtbar",
+"pt": "terrível; horrível"
+},
+{
+"k": "fußball",
+"pt": "futebol; bola de futebol"
+},
+{
+"k": "fuß",
+"pt": "pé"
+},
+{
+"k": "gabel",
+"pt": "garfo"
+},
+{
+"k": "ganz",
+"pt": "inteiro; todo; bem; completamente"
+},
+{
+"k": "garage",
+"pt": "garagem"
+},
+{
+"k": "garten",
+"pt": "jardim"
+},
+{
+"k": "gast",
+"pt": "hóspede; convidado; cliente"
+},
+{
+"k": "geben",
+"pt": "dar; haver (es gibt)"
+},
+{
+"k": "geboren",
+"pt": "nascido"
+},
+{
+"k": "geburtsjahr",
+"pt": "ano de nascimento / local de nascimento / data de nascimento"
+},
+{
+"k": "geburtsort",
+"pt": "local de nascimento"
+},
+{
+"k": "geburtstag",
+"pt": "aniversário"
+},
+{
+"k": "geehrt",
+"pt": "prezado; caro"
+},
+{
+"k": "gefährlich",
+"pt": "perigoso"
+},
+{
+"k": "gefallen",
+"pt": "agradar; gostar (algo me agrada)"
+},
+{
+"k": "gegen",
+"pt": "contra; por volta de"
+},
+{
+"k": "gegenteil",
+"pt": "contrário; oposto"
+},
+{
+"k": "gegenüber",
+"pt": "em frente a; defronte"
+},
+{
+"k": "gehalt",
+"pt": "salário"
+},
+{
+"k": "gehen",
+"pt": "ir; andar; funcionar"
+},
+{
+"k": "gehören",
+"pt": "pertencer; ser de"
+},
+{
+"k": "geldbörse",
+"pt": "carteira (de dinheiro); porta-moedas"
+},
+{
+"k": "geld",
+"pt": "dinheiro"
+},
+{
+"k": "gemüse",
+"pt": "legumes; verduras"
+},
+{
+"k": "genau",
+"pt": "exato; exatamente; preciso"
+},
+{
+"k": "genug",
+"pt": "suficiente; bastante"
+},
+{
+"k": "geöffnet",
+"pt": "aberto"
+},
+{
+"k": "gepäck",
+"pt": "bagagem"
+},
+{
+"k": "gerade",
+"pt": "agora mesmo; neste momento; reto"
+},
+{
+"k": "geradeaus",
+"pt": "em frente; direto"
+},
+{
+"k": "gerät",
+"pt": "aparelho; equipamento"
+},
+{
+"k": "gericht",
+"pt": "prato (comida); tribunal"
+},
+{
+"k": "gern",
+"pt": "com prazer; gostar de / preferir / gostar mais de"
+},
+{
+"k": "geschäft",
+"pt": "loja; negócio"
+},
+{
+"k": "geschenk",
+"pt": "presente"
+},
+{
+"k": "geschichte",
+"pt": "história"
+},
+{
+"k": "geschirr",
+"pt": "louça"
+},
+{
+"k": "geschlossen",
+"pt": "fechado"
+},
+{
+"k": "geschwister",
+"pt": "irmãos"
+},
+{
+"k": "gesicht",
+"pt": "rosto"
+},
+{
+"k": "gespräch",
+"pt": "conversa; diálogo"
+},
+{
+"k": "gestern",
+"pt": "ontem"
+},
+{
+"k": "gestorben",
+"pt": "morto; falecido"
+},
+{
+"k": "gesund",
+"pt": "saudável; com saúde"
+},
+{
+"k": "gesundheit",
+"pt": "saúde"
+},
+{
+"k": "getränk",
+"pt": "bebida"
+},
+{
+"k": "gewicht",
+"pt": "peso"
+},
+{
+"k": "gewinnen",
+"pt": "ganhar; vencer"
+},
+{
+"k": "gewitter",
+"pt": "tempestade; trovoada"
+},
+{
+"k": "gitarre",
+"pt": "violão; guitarra"
+},
+{
+"k": "glas",
+"pt": "copo; vidro"
+},
+{
+"k": "glauben",
+"pt": "acreditar; achar; crer"
+},
+{
+"k": "gleich",
+"pt": "já; logo; igual; mesmo"
+},
+{
+"k": "gleis",
+"pt": "trilho; plataforma (de trem)"
+},
+{
+"k": "glücklich",
+"pt": "feliz"
+},
+{
+"k": "glück",
+"pt": "sorte; felicidade"
+},
+{
+"k": "glückwunsch",
+"pt": "parabéns; felicitação"
+},
+{
+"k": "grad",
+"pt": "grau"
+},
+{
+"k": "gratulieren",
+"pt": "parabenizar; dar os parabéns"
+},
+{
+"k": "grillen",
+"pt": "fazer churrasco; grelhar"
+},
+{
+"k": "grippe",
+"pt": "gripe"
+},
+{
+"k": "groß",
+"pt": "grande; alto"
+},
+{
+"k": "großeltern",
+"pt": "avós"
+},
+{
+"k": "größe",
+"pt": "tamanho; altura"
+},
+{
+"k": "großmutter",
+"pt": "avó"
+},
+{
+"k": "großvater",
+"pt": "avô"
+},
+{
+"k": "gruppe",
+"pt": "grupo"
+},
+{
+"k": "gruß",
+"pt": "cumprimento; saudação; abraço (em cartas)"
+},
+{
+"k": "gültig",
+"pt": "válido"
+},
+{
+"k": "gültigsein",
+"pt": "ser válido; valer"
+},
+{
+"k": "günstig",
+"pt": "barato; vantajoso; favorável"
+},
+{
+"k": "gut",
+"pt": "bom; bem / melhor / o melhor"
+},
+{
+"k": "haar",
+"pt": "cabelo; pelo"
+},
+{
+"k": "haben",
+"pt": "ter; haver"
+},
+{
+"k": "hähnchen",
+"pt": "frango"
+},
+{
+"k": "halbpension",
+"pt": "meia pensão"
+},
+{
+"k": "halle",
+"pt": "salão; pavilhão; ginásio"
+},
+{
+"k": "hallo",
+"pt": "olá; oi"
+},
+{
+"k": "hals",
+"pt": "pescoço; garganta"
+},
+{
+"k": "halten",
+"pt": "segurar; parar (veículo); manter"
+},
+{
+"k": "haltestelle",
+"pt": "ponto (de ônibus); parada"
+},
+{
+"k": "hamburger",
+"pt": "hambúrguer"
+},
+{
+"k": "hand",
+"pt": "mão"
+},
+{
+"k": "handtuch",
+"pt": "toalha (de banho/rosto)"
+},
+{
+"k": "handy",
+"pt": "celular"
+},
+{
+"k": "hängen",
+"pt": "estar pendurado; pendurar"
+},
+{
+"k": "hart",
+"pt": "duro; rígido"
+},
+{
+"k": "hässlich",
+"pt": "feio"
+},
+{
+"k": "hatgenommen",
+"pt": "ter pegado; ter tomado (particípio de nehmen)"
+},
+{
+"k": "hauptstadt",
+"pt": "capital"
+},
+{
+"k": "hausaufgabe",
+"pt": "lição de casa; dever de casa"
+},
+{
+"k": "haus",
+"pt": "casa; prédio"
+},
+{
+"k": "hausfrau",
+"pt": "dona de casa / dono de casa"
+},
+{
+"k": "haushalt",
+"pt": "casa (tarefas domésticas); lar"
+},
+{
+"k": "hausmann",
+"pt": "dono de casa"
+},
+{
+"k": "heft",
+"pt": "caderno; fascículo"
+},
+{
+"k": "heimat",
+"pt": "terra natal; pátria"
+},
+{
+"k": "heiraten",
+"pt": "casar-se; casar"
+},
+{
+"k": "heiß",
+"pt": "quente; muito quente"
+},
+{
+"k": "heißen",
+"pt": "chamar-se; significar"
+},
+{
+"k": "heizung",
+"pt": "aquecimento; calefação"
+},
+{
+"k": "helfen",
+"pt": "ajudar"
+},
+{
+"k": "hell",
+"pt": "claro; iluminado"
+},
+{
+"k": "hemd",
+"pt": "camisa"
+},
+{
+"k": "herausraus",
+"pt": "para fora; para cá fora"
+},
+{
+"k": "herd",
+"pt": "fogão"
+},
+{
+"k": "hereinrein",
+"pt": "para dentro; entrar"
+},
+{
+"k": "herherher",
+"pt": "para cá (em direção a quem fala)"
+},
+{
+"k": "herr",
+"pt": "senhor; homem"
+},
+{
+"k": "herstellen",
+"pt": "fabricar; produzir"
+},
+{
+"k": "herunterladen",
+"pt": "baixar; fazer download"
+},
+{
+"k": "herzlich",
+"pt": "cordial; caloroso; de coração"
+},
+{
+"k": "heute",
+"pt": "hoje"
+},
+{
+"k": "hier",
+"pt": "aqui"
+},
+{
+"k": "hilfe",
+"pt": "ajuda; socorro"
+},
+{
+"k": "himmel",
+"pt": "céu"
+},
+{
+"k": "hinhinhin",
+"pt": "para lá (afastando-se de quem fala)"
+},
+{
+"k": "hinten",
+"pt": "atrás; no fundo"
+},
+{
+"k": "hinter",
+"pt": "atrás de"
+},
+{
+"k": "hobby",
+"pt": "hobby; passatempo"
+},
+{
+"k": "hoch",
+"pt": "alto; elevado"
+},
+{
+"k": "hochzeit",
+"pt": "casamento"
+},
+{
+"k": "hoffen",
+"pt": "esperar; ter esperança"
+},
+{
+"k": "hoffentlich",
+"pt": "tomara; espero que"
+},
+{
+"k": "holen",
+"pt": "buscar; pegar"
+},
+{
+"k": "homepage",
+"pt": "página inicial; site"
+},
+{
+"k": "hören",
+"pt": "ouvir; escutar"
+},
+{
+"k": "hose",
+"pt": "calça"
+},
+{
+"k": "hotel",
+"pt": "hotel"
+},
+{
+"k": "hund",
+"pt": "cachorro"
+},
+{
+"k": "hunger",
+"pt": "fome"
+},
+{
+"k": "husten",
+"pt": "tossir"
+},
+{
+"k": "ich",
+"pt": "eu"
+},
+{
+"k": "idee",
+"pt": "ideia"
+},
+{
+"k": "ihrihmihn",
+"pt": "lhe/a ela (dativo) / lhe/a ele (dativo) / o/ele (acusativo)"
+},
+{
+"k": "immer",
+"pt": "sempre"
+},
+{
+"k": "in",
+"pt": "em; dentro de (tempo)"
+},
+{
+"k": "information",
+"pt": "informação"
+},
+{
+"k": "informieren",
+"pt": "informar-se"
+},
+{
+"k": "insel",
+"pt": "ilha"
+},
+{
+"k": "instrument",
+"pt": "instrumento (musical)"
+},
+{
+"k": "intelligent",
+"pt": "inteligente"
+},
+{
+"k": "interesse",
+"pt": "interesse"
+},
+{
+"k": "interessieren",
+"pt": "interessar-se"
+},
+{
+"k": "international",
+"pt": "internacional"
+},
+{
+"k": "internet",
+"pt": "internet"
+},
+{
+"k": "interview",
+"pt": "entrevista"
+},
+{
+"k": "ja",
+"pt": "sim"
+},
+{
+"k": "jacke",
+"pt": "jaqueta; casaco"
+},
+{
+"k": "jeans",
+"pt": "jeans; calça jeans"
+},
+{
+"k": "jed",
+"pt": "cada; todo"
+},
+{
+"k": "jeder",
+"pt": "cada; todo; qualquer um"
+},
+{
+"k": "jemand",
+"pt": "alguém"
+},
+{
+"k": "jetzt",
+"pt": "agora"
+},
+{
+"k": "job",
+"pt": "emprego; trabalho"
+},
+{
+"k": "joggen",
+"pt": "correr (fazer jogging)"
+},
+{
+"k": "jugendherberge",
+"pt": "albergue da juventude"
+},
+{
+"k": "derdiejugendliche",
+"pt": "jovem; adolescente (masculino / feminino)"
+},
+{
+"k": "jugendliche",
+"pt": "jovem; adolescente"
+},
+{
+"k": "jung",
+"pt": "jovem; novo"
+},
+{
+"k": "junge",
+"pt": "menino; garoto"
+},
+{
+"k": "kaffee",
+"pt": "café"
+},
+{
+"k": "kalender",
+"pt": "calendário; agenda"
+},
+{
+"k": "kalt",
+"pt": "frio"
+},
+{
+"k": "kamera",
+"pt": "câmera"
+},
+{
+"k": "kaputt",
+"pt": "quebrado; estragado"
+},
+{
+"k": "karte",
+"pt": "cartão; cartão-postal; mapa; ingresso"
+},
+{
+"k": "kartoffel",
+"pt": "batata"
+},
+{
+"k": "käse",
+"pt": "queijo"
+},
+{
+"k": "kasse",
+"pt": "caixa (de pagamento); bilheteria"
+},
+{
+"k": "katze",
+"pt": "gato"
+},
+{
+"k": "kaufen",
+"pt": "comprar"
+},
+{
+"k": "kaufhaus",
+"pt": "loja de departamentos"
+},
+{
+"k": "kein",
+"pt": "nenhum; não (negação de substantivo)"
+},
+{
+"k": "keller",
+"pt": "porão; adega"
+},
+{
+"k": "kennen",
+"pt": "conhecer"
+},
+{
+"k": "kennenlernen",
+"pt": "conhecer (pessoa); passar a conhecer"
+},
+{
+"k": "kenntnisse",
+"pt": "conhecimentos"
+},
+{
+"k": "kette",
+"pt": "corrente; colar"
+},
+{
+"k": "kind",
+"pt": "criança; filho"
+},
+{
+"k": "kindergarten",
+"pt": "jardim de infância; pré-escola"
+},
+{
+"k": "kino",
+"pt": "cinema"
+},
+{
+"k": "kiosk",
+"pt": "banca; quiosque"
+},
+{
+"k": "kirche",
+"pt": "igreja"
+},
+{
+"k": "klappen",
+"pt": "dar certo; funcionar"
+},
+{
+"k": "klar",
+"pt": "claro; evidente; certo"
+},
+{
+"k": "klasse",
+"pt": "turma; classe; sala de aula; ótimo"
+},
+{
+"k": "klavier",
+"pt": "piano"
+},
+{
+"k": "kleid",
+"pt": "vestido"
+},
+{
+"k": "kleidung",
+"pt": "roupa; roupas"
+},
+{
+"k": "klein",
+"pt": "pequeno; baixo"
+},
+{
+"k": "klug",
+"pt": "inteligente; esperto"
+},
+{
+"k": "kochen",
+"pt": "cozinhar; ferver"
+},
+{
+"k": "koffer",
+"pt": "mala"
+},
+{
+"k": "kollege",
+"pt": "colega (de trabalho) / colega (de trabalho, feminino)"
+},
+{
+"k": "komisch",
+"pt": "engraçado; estranho"
+},
+{
+"k": "kommen",
+"pt": "vir; chegar"
+},
+{
+"k": "können",
+"pt": "poder; saber (fazer)"
+},
+{
+"k": "kontakt",
+"pt": "contato"
+},
+{
+"k": "konto",
+"pt": "conta (bancária)"
+},
+{
+"k": "kontrollieren",
+"pt": "controlar; verificar; revisar"
+},
+{
+"k": "konzert",
+"pt": "show; concerto"
+},
+{
+"k": "kopf",
+"pt": "cabeça"
+},
+{
+"k": "körper",
+"pt": "corpo"
+},
+{
+"k": "kosmetik",
+"pt": "cosméticos"
+},
+{
+"k": "kosten",
+"pt": "custar"
+},
+{
+"k": "kostenlos",
+"pt": "gratuito; de graça"
+},
+{
+"k": "krank",
+"pt": "doente"
+},
+{
+"k": "krankenhaus",
+"pt": "hospital"
+},
+{
+"k": "krankenkasse",
+"pt": "plano de saúde; seguro-saúde"
+},
+{
+"k": "krankheit",
+"pt": "doença"
+},
+{
+"k": "kredit",
+"pt": "empréstimo; crédito"
+},
+{
+"k": "kreuzung",
+"pt": "cruzamento"
+},
+{
+"k": "kriegen",
+"pt": "receber; ganhar; conseguir"
+},
+{
+"k": "krimi",
+"pt": "romance policial; filme policial"
+},
+{
+"k": "küche",
+"pt": "cozinha"
+},
+{
+"k": "kuchen",
+"pt": "bolo; torta"
+},
+{
+"k": "kugelschreiber",
+"pt": "caneta esferográfica"
+},
+{
+"k": "kühl",
+"pt": "fresco; frio (leve)"
+},
+{
+"k": "kühlschrank",
+"pt": "geladeira"
+},
+{
+"k": "kulturell",
+"pt": "cultural"
+},
+{
+"k": "kultur",
+"pt": "cultura"
+},
+{
+"k": "kümmern",
+"pt": "cuidar de; ocupar-se de"
+},
+{
+"k": "kunde",
+"pt": "cliente / cliente (feminino)"
+},
+{
+"k": "kündigen",
+"pt": "pedir demissão; demitir; cancelar (contrato)"
+},
+{
+"k": "kunst",
+"pt": "arte"
+},
+{
+"k": "kurs",
+"pt": "curso"
+},
+{
+"k": "kurz",
+"pt": "curto; breve; baixo"
+},
+{
+"k": "lachen",
+"pt": "rir"
+},
+{
+"k": "laden",
+"pt": "loja"
+},
+{
+"k": "lampe",
+"pt": "lâmpada; luminária"
+}
+]
