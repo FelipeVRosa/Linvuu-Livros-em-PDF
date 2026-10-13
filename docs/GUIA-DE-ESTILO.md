@@ -79,7 +79,7 @@ Resposta de TODOS os itens, em ordem; nos itens que enganam, diga por que a erra
 :::::
 ```
 
-Tamanho-alvo: 3.500–5.500 palavras por capítulo (mais nos temas difíceis).
+Tamanho-alvo: 2.500–4.500 palavras por capítulo (o piloto do professor tem ~1.800 e é o piso; vá além onde o tema é difícil, sem encher).
 
 ## Sintaxe Markdown aceita pelo conversor
 - `{{texto}}` marca texto na língua-alvo dentro de frase (fonte própria). Em tabelas e diálogos também.

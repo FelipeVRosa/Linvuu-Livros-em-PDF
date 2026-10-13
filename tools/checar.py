@@ -6,7 +6,7 @@ def checar(p):
     if len(re.findall(r'(?m)^# ', s)) != 1: av.append('deve haver exatamente um H1')
     if s.count('{{') != s.count('}}'): av.append('{{ }} desbalanceado')
     # containers
-    abre = len(re.findall(r'(?m)^:{3,}\s*\w+', s)); fecha = len(re.findall(r'(?m)^:{3,}\s*$', s))
+    abre = len(re.findall(r'(?m)^:{3,}[ \t]*\w+', s)); fecha = len(re.findall(r'(?m)^:{3,}[ \t]*$', s))
     if abre != fecha: av.append(f'containers: {abre} abertos x {fecha} fechados')
     h2 = re.findall(r'(?m)^## (.*)$', s)
     if re.search(r'Cena|Treino|Retorno', s):  # livros em português no formato do professor
@@ -26,7 +26,7 @@ def checar(p):
         chave = len(re.findall(r'(?m)^\d+\.\s', k.group(0))) + len(re.findall(r'(?m)^\*\*Degrau', k.group(0)))
         if chave == 0: av.append('chave sem itens numerados')
     pal = len(re.sub(r'[`*#|:_{}~\-]', ' ', s).split())
-    if pal < 2800: av.append(f'curto: {pal} palavras')
+    if pal < 2000: av.append(f'curto: {pal} palavras')
     for l in s.split('\n'):
         if '<' in l and re.search(r'</?(br|p|div|span|table)\b', l): av.append('HTML no texto: ' + l[:50]); break
     return pal, av

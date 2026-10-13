@@ -88,7 +88,7 @@ document.getElementById('saud').lang = g('lang', 'fr');
 document.getElementById('vol').textContent = `${TX.vol} ${vol}`;
 document.getElementById('nivel').innerHTML = `<span>${TX.vol} ${vol}</span><span style="opacity:.45">·</span><span style="font-weight:400;color:#C9D3C9">${TX.nivel}</span><span class="serif" style="font-size:56px;font-weight:500;letter-spacing:-.01em;line-height:1">${nivel.split(/\s*[-–.\/]\s*/).join('<span style="font-weight:400;opacity:.55;padding:0 .18em">–</span>')}</span>`;
 document.getElementById('barra').style.width = g('prog', '33') + '%';
-document.getElementById('titulo2').textContent = g('titulo2', 'Fale de verdade.');
+document.getElementById('titulo2').textContent = g('titulo2', {en:'Speak for real.',es:'Habla de verdad.',pt:'Fale de verdade.'}[q.get('edicao')||'pt']);
 const f = document.getElementById('foto');
 if (q.get('foto')) { f.style.backgroundImage = `url('${q.get('foto')}')`; f.style.backgroundPosition = g('pos', '50% 50%'); }
 if (q.get('credito')) document.getElementById('credito').textContent = ` ${q.get('edicao')==='en'?'Cover photo':q.get('edicao')==='es'?'Foto de portada':'Foto da capa'}: ${q.get('credito')} (Pexels).`;
