@@ -1,0 +1,2566 @@
+[
+ {
+  "k": "lang",
+  "en": "long (adj.)",
+  "pt": "longo; comprido; demorado",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lange",
+  "en": "long (adv.)",
+  "pt": "por muito tempo; muito tempo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "langsam",
+  "en": "slow (adj.)",
+  "pt": "lento; devagar",
+  "extra": [
+   {
+    "en": "slowly (adv.)",
+    "pt": "lentamente; devagar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "langweilig",
+  "en": "boring (adj.)",
+  "pt": "chato; entediante",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "derdaslaptop",
+  "en": "laptop (n.)",
+  "pt": "laptop; notebook",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lassen",
+  "en": "let (v.), let, let",
+  "pt": "deixar; permitir",
+  "extra": [
+   {
+    "en": "have (sth. done) (exp.)",
+    "pt": "mandar fazer"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "laufen",
+  "en": "run (v.), ran, run",
+  "pt": "correr; andar a pé",
+  "extra": [
+   {
+    "en": "walk (v.)",
+    "pt": "andar; caminhar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "laut",
+  "en": "loud (adj.)",
+  "pt": "alto (som); barulhento",
+  "extra": [
+   {
+    "en": "loudly (adv.)",
+    "pt": "em voz alta; alto"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "dasleben",
+  "en": "life (n.), lives",
+  "pt": "vida",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lebenv",
+  "en": "live (v.)",
+  "pt": "viver; morar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "dielebensmittel",
+  "en": "groceries (n., plural)",
+  "pt": "mantimentos; alimentos",
+  "extra": [
+   {
+    "en": "food (n., uncountable)",
+    "pt": "comida; alimento"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "ledig",
+  "en": "single (adj.)",
+  "pt": "solteiro",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "leer",
+  "en": "empty (adj.)",
+  "pt": "vazio",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "legen",
+  "en": "put (v.), put, put",
+  "pt": "colocar; pôr",
+  "extra": [
+   {
+    "en": "lay (v.), laid, laid",
+    "pt": "colocar (deitado)"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "lehrer",
+  "en": "teacher (n.)",
+  "pt": "professor; professora",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "leicht",
+  "en": "easy (adj.)",
+  "pt": "fácil; simples",
+  "extra": [
+   {
+    "en": "light (adj.)",
+    "pt": "leve"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "leider",
+  "en": "unfortunately (adv.)",
+  "pt": "infelizmente; lamentavelmente",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "leidtunleidtun",
+  "en": "be sorry (exp.), was sorry, been sorry",
+  "pt": "sentir muito; lamentar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "leihen",
+  "en": "borrow (v.)",
+  "pt": "pedir emprestado; tomar emprestado",
+  "extra": [
+   {
+    "en": "lend (v.), lent, lent",
+    "pt": "emprestar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "leise",
+  "en": "quiet (adj.)",
+  "pt": "silencioso; baixinho",
+  "extra": [
+   {
+    "en": "quietly (adv.)",
+    "pt": "baixinho; em silêncio"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "lernen",
+  "en": "learn (v.)",
+  "pt": "aprender; estudar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lesen",
+  "en": "read (v.), read, read",
+  "pt": "ler",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "letzt",
+  "en": "last (adj.)",
+  "pt": "último; passado",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "leute",
+  "en": "people (n., plural)",
+  "pt": "pessoas; gente",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "licht",
+  "en": "light (n.)",
+  "pt": "luz",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lieb",
+  "en": "dear (adj.)",
+  "pt": "querido; caro; amável",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lieben",
+  "en": "love (v.)",
+  "pt": "amar; adorar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lieblings",
+  "en": "favorite (adj.) (BrE: favourite)",
+  "pt": "favorito; preferido",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lied",
+  "en": "song (n.)",
+  "pt": "canção; música",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "liefern",
+  "en": "deliver (v.)",
+  "pt": "entregar; fornecer",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "liegen",
+  "en": "lie (v.), lay, lain",
+  "pt": "estar deitado; ficar (situado)",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "link",
+  "en": "link (n.)",
+  "pt": "link; ligação",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "links",
+  "en": "left (adv.)",
+  "pt": "à esquerda; para a esquerda",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lkw",
+  "en": "truck (n.) (BrE: lorry)",
+  "pt": "caminhão",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "löffel",
+  "en": "spoon (n.)",
+  "pt": "colher",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lokal",
+  "en": "restaurant (n.)",
+  "pt": "restaurante; estabelecimento",
+  "extra": [
+   {
+    "en": "pub (n.)",
+    "pt": "bar; boteco"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "lösung",
+  "en": "solution (n.)",
+  "pt": "solução",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lüge",
+  "en": "lie (n.)",
+  "pt": "mentira",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lügen",
+  "en": "lie (v.), lied, lied",
+  "pt": "mentir",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lustig",
+  "en": "funny (adj.)",
+  "pt": "engraçado; divertido",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "lust",
+  "en": "desire (n.)",
+  "pt": "vontade; desejo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "machen",
+  "en": "make (v.), made, made",
+  "pt": "fazer; fabricar",
+  "extra": [
+   {
+    "en": "do (v.), did, done",
+    "pt": "fazer"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "mädchen",
+  "en": "girl (n.)",
+  "pt": "menina; garota",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "magen",
+  "en": "stomach (n.)",
+  "pt": "estômago; barriga",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mailbox",
+  "en": "voicemail (n., uncountable)",
+  "pt": "caixa postal; correio de voz",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "maldasmal",
+  "en": "time (n.)",
+  "pt": "vez; hora",
+  "extra": [
+   {
+    "en": "just (adv.)",
+    "pt": "só; apenas"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "malen",
+  "en": "paint (v.)",
+  "pt": "pintar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "man",
+  "en": "one (pron.)",
+  "pt": "a gente; se (impessoal)",
+  "extra": [
+   {
+    "en": "you (pron.)",
+    "pt": "você (genérico)"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "manch",
+  "en": "some (det.)",
+  "pt": "alguns; algumas",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "manchmal",
+  "en": "sometimes (adv.)",
+  "pt": "às vezes",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mann",
+  "en": "man (n.), men",
+  "pt": "homem",
+  "extra": [
+   {
+    "en": "husband (n.)",
+    "pt": "marido"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "männlich",
+  "en": "male (adj.)",
+  "pt": "masculino; macho",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mannschaft",
+  "en": "team (n.)",
+  "pt": "time; equipe",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mantel",
+  "en": "coat (n.)",
+  "pt": "casaco; sobretudo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "markt",
+  "en": "market (n.)",
+  "pt": "mercado; feira",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "maschine",
+  "en": "machine (n.)",
+  "pt": "máquina",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "medikament",
+  "en": "medicine (n.)",
+  "pt": "remédio; medicamento",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "meer",
+  "en": "sea (n.)",
+  "pt": "mar",
+  "extra": [
+   {
+    "en": "ocean (n.)",
+    "pt": "oceano"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "mehr",
+  "en": "more (adv.)",
+  "pt": "mais",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mein",
+  "en": "my (det.)",
+  "pt": "meu; minha",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "meinen",
+  "en": "think (v.), thought, thought",
+  "pt": "achar; pensar",
+  "extra": [
+   {
+    "en": "mean (v.), meant, meant",
+    "pt": "querer dizer"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "meinung",
+  "en": "opinion (n.)",
+  "pt": "opinião",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "meist",
+  "en": "most (det.)",
+  "pt": "a maioria de; a maior parte de",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "meistens",
+  "en": "usually (adv.)",
+  "pt": "geralmente; normalmente",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "menge",
+  "en": "amount (n.)",
+  "pt": "quantidade",
+  "extra": [
+   {
+    "en": "lot (n.)",
+    "pt": "monte; muito"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "mensch",
+  "en": "person (n.), people",
+  "pt": "pessoa",
+  "extra": [
+   {
+    "en": "human being (n.)",
+    "pt": "ser humano"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "merken",
+  "en": "notice (v.)",
+  "pt": "notar; perceber",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "messe",
+  "en": "trade fair (n.)",
+  "pt": "feira de negócios; feira",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "messer",
+  "en": "knife (n.), knives",
+  "pt": "faca",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "miete",
+  "en": "rent (n.)",
+  "pt": "aluguel",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mieten",
+  "en": "rent (v.)",
+  "pt": "alugar (tomar em aluguel)",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "milch",
+  "en": "milk (n., uncountable)",
+  "pt": "leite",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mindestens",
+  "en": "at least (adv.)",
+  "pt": "pelo menos; no mínimo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mineralwasser",
+  "en": "mineral water (n., uncountable)",
+  "pt": "água mineral",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mit",
+  "en": "with (prep.)",
+  "pt": "com; junto com",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mitarbeiter",
+  "en": "employee (n.)",
+  "pt": "funcionário; colaborador",
+  "extra": [
+   {
+    "en": "colleague (n.)",
+    "pt": "colega de trabalho"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "mitbringen",
+  "en": "bring along (v.), brought along, brought along",
+  "pt": "trazer (consigo); levar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mitkommen",
+  "en": "come along (v.), came along, come along",
+  "pt": "vir junto; acompanhar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mitmachen",
+  "en": "join in (v.), joined in, joined in",
+  "pt": "participar; entrar na brincadeira",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mitnehmen",
+  "en": "take along (v.), took along, taken along",
+  "pt": "levar junto; levar consigo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mittagessen",
+  "en": "lunch (n.)",
+  "pt": "almoço",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "dasmittel",
+  "en": "means (n.)",
+  "pt": "meio; recurso",
+  "extra": [
+   {
+    "en": "medicine (n.)",
+    "pt": "remédio"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "mitte",
+  "en": "middle (n.)",
+  "pt": "meio; centro",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "möbel",
+  "en": "furniture (n., uncountable)",
+  "pt": "móveis; mobília",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mobiltelefon",
+  "en": "cell phone (n.) (BrE: mobile phone)",
+  "pt": "celular",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "möchten",
+  "en": "would like (v.)",
+  "pt": "gostaria de; queria",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mode",
+  "en": "fashion (n.)",
+  "pt": "moda",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "modern",
+  "en": "modern (adj.)",
+  "pt": "moderno",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mögen",
+  "en": "like (v.)",
+  "pt": "gostar de",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "möglich",
+  "en": "possible (adj.)",
+  "pt": "possível",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "moment",
+  "en": "moment (n.)",
+  "pt": "momento; instante",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "morgen",
+  "en": "tomorrow (adv.)",
+  "pt": "amanhã",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "motor",
+  "en": "engine (n.)",
+  "pt": "motor",
+  "extra": [
+   {
+    "en": "motor (n.)",
+    "pt": "motor (elétrico)"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "motorroller",
+  "en": "scooter (n.)",
+  "pt": "scooter; lambreta",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "müde",
+  "en": "tired (adj.)",
+  "pt": "cansado; com sono",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "müll",
+  "en": "garbage (n., uncountable) (BrE: rubbish)",
+  "pt": "lixo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mund",
+  "en": "mouth (n.)",
+  "pt": "boca",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "museum",
+  "en": "museum (n.)",
+  "pt": "museu",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "musik",
+  "en": "music (n., uncountable)",
+  "pt": "música",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "müssen",
+  "en": "have to (v.), had to, had to",
+  "pt": "ter que; precisar",
+  "extra": [
+   {
+    "en": "must (v.)",
+    "pt": "dever; ter que"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "mutter",
+  "en": "mother (n.), mothers",
+  "pt": "mãe",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "mütze",
+  "en": "hat (n.)",
+  "pt": "gorro; boné; chapéu",
+  "extra": [
+   {
+    "en": "cap (n.)",
+    "pt": "boné"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "nach",
+  "en": "after (prep.)",
+  "pt": "depois de",
+  "extra": [
+   {
+    "en": "to (prep.)",
+    "pt": "para (direção)"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "nachbar",
+  "en": "neighbor (n.) (BrE: neighbour)",
+  "pt": "vizinho; vizinha",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nachricht",
+  "en": "message (n.)",
+  "pt": "mensagem; recado",
+  "extra": [
+   {
+    "en": "news (n., uncountable)",
+    "pt": "notícia; notícias"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "nächstees",
+  "en": "next (adj.)",
+  "pt": "próximo; seguinte",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nähe",
+  "en": "nearness (n., uncountable)",
+  "pt": "proximidade; vizinhança",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "name",
+  "en": "name (n.)",
+  "pt": "nome",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nass",
+  "en": "wet (adj.)",
+  "pt": "molhado",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "natürlich",
+  "en": "of course (adv.)",
+  "pt": "claro; naturalmente",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "natur",
+  "en": "nature (n., uncountable)",
+  "pt": "natureza",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "neben",
+  "en": "next to (prep.)",
+  "pt": "ao lado de; junto a",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nebenan",
+  "en": "next door (adv.)",
+  "pt": "ao lado; na casa ao lado",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "neblig",
+  "en": "foggy (adj.)",
+  "pt": "com neblina; nublado",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nehmen",
+  "en": "take (v.), took, taken",
+  "pt": "pegar; tomar; levar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nein",
+  "en": "no (exp.)",
+  "pt": "não",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nennen",
+  "en": "call (v.)",
+  "pt": "chamar; nomear",
+  "extra": [
+   {
+    "en": "name (v.)",
+    "pt": "dar nome a"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "nervös",
+  "en": "nervous (adj.)",
+  "pt": "nervoso; ansioso",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nett",
+  "en": "nice (adj.)",
+  "pt": "simpático; legal; gentil",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "neu",
+  "en": "new (adj.)",
+  "pt": "novo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nicht",
+  "en": "not (adv.)",
+  "pt": "não",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nichts",
+  "en": "nothing (pron.)",
+  "pt": "nada",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nieadv",
+  "en": "never (adv.)",
+  "pt": "nunca",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "niemand",
+  "en": "nobody (pron.)",
+  "pt": "ninguém",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nirgends",
+  "en": "nowhere (adv.)",
+  "pt": "em lugar nenhum; em parte alguma",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "noch",
+  "en": "still (adv.)",
+  "pt": "ainda",
+  "extra": [
+   {
+    "en": "more (adv.)",
+    "pt": "mais"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "normal",
+  "en": "normal (adj.)",
+  "pt": "normal; comum",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "note",
+  "en": "grade (n.) (BrE: mark)",
+  "pt": "nota (escolar)",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "notieren",
+  "en": "write down (v.), wrote down, written down",
+  "pt": "anotar; escrever",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "notiz",
+  "en": "note (n.)",
+  "pt": "anotação; nota; bilhete",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "notwendig",
+  "en": "necessary (adj.)",
+  "pt": "necessário",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nudel",
+  "en": "noodle (n.)",
+  "pt": "macarrão; massa",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nummer",
+  "en": "number (n.)",
+  "pt": "número",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "nur",
+  "en": "only (adv.)",
+  "pt": "só; apenas",
+  "extra": [
+   {
+    "en": "just (adv.)",
+    "pt": "só; apenas"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "nützlich",
+  "en": "useful (adj.)",
+  "pt": "útil",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "oben",
+  "en": "upstairs (adv.)",
+  "pt": "em cima; lá em cima; no andar de cima",
+  "extra": [
+   {
+    "en": "above (adv.)",
+    "pt": "acima"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "obst",
+  "en": "fruit (n., uncountable)",
+  "pt": "fruta; frutas",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "oder",
+  "en": "or (conj.)",
+  "pt": "ou",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "offen",
+  "en": "open (adj.)",
+  "pt": "aberto",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "öffnen",
+  "en": "open (v.)",
+  "pt": "abrir",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "oft",
+  "en": "often (adv.)",
+  "pt": "frequentemente; muitas vezes",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "ohne",
+  "en": "without (prep.)",
+  "pt": "sem",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "ohr",
+  "en": "ear (n.)",
+  "pt": "orelha; ouvido",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "öl",
+  "en": "oil (n.)",
+  "pt": "óleo; azeite",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "oma",
+  "en": "grandma (n.)",
+  "pt": "vovó",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "online",
+  "en": "online (adj.)",
+  "pt": "online; conectado",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "opa",
+  "en": "grandpa (n.)",
+  "pt": "vovô",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "orange",
+  "en": "orange (n.)",
+  "pt": "laranja",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "ordnung",
+  "en": "order (n., uncountable)",
+  "pt": "ordem; arrumação",
+  "extra": [
+   {
+    "en": "all right (exp.)",
+    "pt": "tudo bem; certo"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "organisieren",
+  "en": "organize (v.) (BrE: organise)",
+  "pt": "organizar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "ort",
+  "en": "place (n.)",
+  "pt": "lugar; local",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "paar",
+  "en": "couple (n.)",
+  "pt": "casal; par",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "packen",
+  "en": "pack (v.)",
+  "pt": "fazer (a mala); empacotar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "paket",
+  "en": "package (n.) (BrE: parcel)",
+  "pt": "pacote; encomenda",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "papier",
+  "en": "paper (n., uncountable)",
+  "pt": "papel",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "papiere",
+  "en": "papers (n., plural)",
+  "pt": "documentos; papéis",
+  "extra": [
+   {
+    "en": "ID (n.)",
+    "pt": "identidade"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "parfüm",
+  "en": "perfume (n.)",
+  "pt": "perfume",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "parken",
+  "en": "park (v.)",
+  "pt": "estacionar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "park",
+  "en": "park (n.)",
+  "pt": "parque",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "partner",
+  "en": "partner (n.)",
+  "pt": "parceiro; companheiro",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "diepartnerin",
+  "en": "partner (n.)",
+  "pt": "parceira; companheira",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "party",
+  "en": "party (n.)",
+  "pt": "festa",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pass",
+  "en": "passport (n.)",
+  "pt": "passaporte",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "passen",
+  "en": "fit (v.)",
+  "pt": "servir (roupa); caber",
+  "extra": [
+   {
+    "en": "suit (v.)",
+    "pt": "combinar; ficar bem"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "passieren",
+  "en": "happen (v.)",
+  "pt": "acontecer; ocorrer",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "passwort",
+  "en": "password (n.)",
+  "pt": "senha",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pause",
+  "en": "break (n.)",
+  "pt": "pausa; intervalo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "person",
+  "en": "person (n.), people",
+  "pt": "pessoa",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pferd",
+  "en": "horse (n.)",
+  "pt": "cavalo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pflanze",
+  "en": "plant (n.)",
+  "pt": "planta",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pizza",
+  "en": "pizza (n.)",
+  "pt": "pizza",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "plakat",
+  "en": "poster (n.)",
+  "pt": "cartaz; pôster",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "plan",
+  "en": "plan (n.)",
+  "pt": "plano; projeto",
+  "extra": [
+   {
+    "en": "map (n.)",
+    "pt": "mapa (da cidade)"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "planen",
+  "en": "plan (v.)",
+  "pt": "planejar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "platz",
+  "en": "square (n.)",
+  "pt": "praça",
+  "extra": [
+   {
+    "en": "place (n.)",
+    "pt": "lugar"
+   },
+   {
+    "en": "seat (n.)",
+    "pt": "assento; lugar sentado"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "plötzlich",
+  "en": "suddenly (adv.)",
+  "pt": "de repente; subitamente",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "polizei",
+  "en": "police (n., plural)",
+  "pt": "polícia",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "diepommesfrites",
+  "en": "french fries (n., plural) (BrE: chips)",
+  "pt": "batata frita",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "portion",
+  "en": "portion (n.)",
+  "pt": "porção",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "poster",
+  "en": "poster (n.)",
+  "pt": "pôster; cartaz",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "postkarte",
+  "en": "postcard (n.)",
+  "pt": "cartão-postal",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "postleitzahl",
+  "en": "zip code (n.) (BrE: postcode)",
+  "pt": "CEP",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "post",
+  "en": "mail (n., uncountable) (BrE: post)",
+  "pt": "correio; correspondência",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "praktikum",
+  "en": "internship (n.)",
+  "pt": "estágio",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "praktisch",
+  "en": "practical (adj.)",
+  "pt": "prático",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "praxis",
+  "en": "doctor's office (n.) (BrE: surgery)",
+  "pt": "consultório",
+  "extra": [
+   {
+    "en": "practice (n.)",
+    "pt": "prática"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "preis",
+  "en": "price (n.)",
+  "pt": "preço",
+  "extra": [
+   {
+    "en": "prize (n.)",
+    "pt": "prêmio"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "preiswert",
+  "en": "cheap (adj.)",
+  "pt": "barato; com bom preço",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "privat",
+  "en": "private (adj.)",
+  "pt": "privado; particular",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pro",
+  "en": "per (prep.)",
+  "pt": "por",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "probieren",
+  "en": "try (v.)",
+  "pt": "experimentar; provar; tentar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "problem",
+  "en": "problem (n.)",
+  "pt": "problema",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "produkt",
+  "en": "product (n.)",
+  "pt": "produto",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "programm",
+  "en": "program (n.) (BrE: programme)",
+  "pt": "programa; programação",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "projekt",
+  "en": "project (n.)",
+  "pt": "projeto",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "prospekt",
+  "en": "brochure (n.)",
+  "pt": "folheto; panfleto",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "prüfen",
+  "en": "check (v.)",
+  "pt": "verificar; conferir",
+  "extra": [
+   {
+    "en": "test (v.)",
+    "pt": "testar; examinar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "prüfung",
+  "en": "exam (n.)",
+  "pt": "prova; exame",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pullover",
+  "en": "sweater (n.) (BrE: jumper)",
+  "pt": "suéter; pulôver",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "pünktlich",
+  "en": "on time (adv.)",
+  "pt": "pontual; na hora",
+  "extra": [
+   {
+    "en": "punctual (adj.)",
+    "pt": "pontual"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "putzen",
+  "en": "clean (v.)",
+  "pt": "limpar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "qualität",
+  "en": "quality (n.)",
+  "pt": "qualidade",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "quiz",
+  "en": "quiz (n.)",
+  "pt": "quiz; jogo de perguntas",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "radfahren",
+  "en": "ride a bike (exp.), rode a bike, ridden a bike",
+  "pt": "andar de bicicleta",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "radio",
+  "en": "radio (n.)",
+  "pt": "rádio",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "raten",
+  "en": "guess (v.)",
+  "pt": "adivinhar; chutar",
+  "extra": [
+   {
+    "en": "advise (v.)",
+    "pt": "aconselhar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "rathaus",
+  "en": "city hall (n.) (BrE: town hall)",
+  "pt": "prefeitura",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rätsel",
+  "en": "puzzle (n.)",
+  "pt": "quebra-cabeça; enigma; charada",
+  "extra": [
+   {
+    "en": "riddle (n.)",
+    "pt": "adivinha"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "rauchen",
+  "en": "smoke (v.)",
+  "pt": "fumar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "raum",
+  "en": "room (n.)",
+  "pt": "sala; cômodo; espaço",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rechnen",
+  "en": "calculate (v.)",
+  "pt": "calcular; fazer contas",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rechnung",
+  "en": "bill (n.) (BrE: bill)",
+  "pt": "conta; fatura",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rechthaben",
+  "en": "be right (exp.), was right, been right",
+  "pt": "ter razão",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rechts",
+  "en": "right (adv.)",
+  "pt": "à direita; para a direita",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reden",
+  "en": "talk (v.)",
+  "pt": "falar; conversar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "regen",
+  "en": "rain (n., uncountable)",
+  "pt": "chuva",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "regnen",
+  "en": "rain (v.)",
+  "pt": "chover",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reich",
+  "en": "rich (adj.)",
+  "pt": "rico",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reifen",
+  "en": "tire (n.) (BrE: tyre)",
+  "pt": "pneu",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reihe",
+  "en": "row (n.)",
+  "pt": "fileira; fila",
+  "extra": [
+   {
+    "en": "turn (n.)",
+    "pt": "vez"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "reinigung",
+  "en": "dry cleaner's (n.)",
+  "pt": "lavanderia; tinturaria",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reisebüro",
+  "en": "travel agency (n.)",
+  "pt": "agência de viagens",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reiseführer",
+  "en": "guidebook (n.)",
+  "pt": "guia de viagem",
+  "extra": [
+   {
+    "en": "tour guide (n.)",
+    "pt": "guia turístico"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "reise",
+  "en": "trip (n.)",
+  "pt": "viagem; passeio",
+  "extra": [
+   {
+    "en": "journey (n.)",
+    "pt": "jornada"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "reisen",
+  "en": "travel (v.)",
+  "pt": "viajar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reis",
+  "en": "rice (n., uncountable)",
+  "pt": "arroz",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reiten",
+  "en": "ride (v.), rode, ridden",
+  "pt": "andar a cavalo; cavalgar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "renovieren",
+  "en": "renovate (v.)",
+  "pt": "reformar; renovar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rentner",
+  "en": "retiree (n.)",
+  "pt": "aposentado; aposentada",
+  "extra": [
+   {
+    "en": "pensioner (n.)",
+    "pt": "pensionista"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "reparatur",
+  "en": "repair (n.)",
+  "pt": "conserto; reparo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "reparieren",
+  "en": "repair (v.)",
+  "pt": "consertar; reparar",
+  "extra": [
+   {
+    "en": "fix (v.)",
+    "pt": "consertar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "reservieren",
+  "en": "reserve (v.)",
+  "pt": "reservar",
+  "extra": [
+   {
+    "en": "book (v.)",
+    "pt": "reservar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "restaurant",
+  "en": "restaurant (n.)",
+  "pt": "restaurante",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rest",
+  "en": "rest (n.)",
+  "pt": "resto; restante",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rezept",
+  "en": "recipe (n.)",
+  "pt": "receita (culinária)",
+  "extra": [
+   {
+    "en": "prescription (n.)",
+    "pt": "receita médica"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "rezeption",
+  "en": "reception (n.)",
+  "pt": "recepção",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "richtig",
+  "en": "right (adj.)",
+  "pt": "certo; correto",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "riechen",
+  "en": "smell (v.)",
+  "pt": "cheirar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rind",
+  "en": "beef (n., uncountable)",
+  "pt": "carne bovina; carne de boi",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "ring",
+  "en": "ring (n.)",
+  "pt": "anel; aliança",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rock",
+  "en": "skirt (n.)",
+  "pt": "saia",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "romantisch",
+  "en": "romantic (adj.)",
+  "pt": "romântico",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rose",
+  "en": "rose (n.)",
+  "pt": "rosa (flor)",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rücken",
+  "en": "back (n.)",
+  "pt": "costas",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rucksack",
+  "en": "backpack (n.)",
+  "pt": "mochila",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "rufen",
+  "en": "call (v.)",
+  "pt": "chamar; gritar",
+  "extra": [
+   {
+    "en": "shout (v.)",
+    "pt": "gritar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "ruhe",
+  "en": "quiet (n., uncountable)",
+  "pt": "silêncio; calma",
+  "extra": [
+   {
+    "en": "peace (n.)",
+    "pt": "paz"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "ruhig",
+  "en": "calm (adj.)",
+  "pt": "calmo; tranquilo",
+  "extra": [
+   {
+    "en": "quiet (adj.)",
+    "pt": "quieto"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "rund",
+  "en": "round (adj.)",
+  "pt": "redondo",
+  "extra": [
+   {
+    "en": "around (adv.)",
+    "pt": "cerca de"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "rundgang",
+  "en": "tour (n.)",
+  "pt": "passeio; visita guiada",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "sache",
+  "en": "thing (n.)",
+  "pt": "coisa; objeto",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "saft",
+  "en": "juice (n.)",
+  "pt": "suco",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "sagen",
+  "en": "say (v.), said, said",
+  "pt": "dizer",
+  "extra": [
+   {
+    "en": "tell (v.), told, told",
+    "pt": "contar; dizer a alguém"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "salat",
+  "en": "salad (n.)",
+  "pt": "salada",
+  "extra": [
+   {
+    "en": "lettuce (n., uncountable)",
+    "pt": "alface"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "salz",
+  "en": "salt (n., uncountable)",
+  "pt": "sal",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "sammeln",
+  "en": "collect (v.)",
+  "pt": "colecionar; juntar; coletar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "satz",
+  "en": "sentence (n.)",
+  "pt": "frase; oração",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "sauber",
+  "en": "clean (adj.)",
+  "pt": "limpo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "sauer",
+  "en": "sour (adj.)",
+  "pt": "azedo; ácido",
+  "extra": [
+   {
+    "en": "angry (adj.)",
+    "pt": "irritado; bravo"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "sbahn",
+  "en": "commuter train (n.)",
+  "pt": "trem urbano; metrô de superfície",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schade",
+  "en": "too bad (exp.)",
+  "pt": "que pena; pena",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schädlich",
+  "en": "harmful (adj.)",
+  "pt": "prejudicial; nocivo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schaffen",
+  "en": "manage (v.)",
+  "pt": "conseguir; dar conta",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schalter",
+  "en": "counter (n.)",
+  "pt": "guichê; balcão",
+  "extra": [
+   {
+    "en": "switch (n.)",
+    "pt": "interruptor"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "scharf",
+  "en": "spicy (adj.)",
+  "pt": "picante; apimentado",
+  "extra": [
+   {
+    "en": "sharp (adj.)",
+    "pt": "afiado"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "scheinen",
+  "en": "seem (v.)",
+  "pt": "parecer",
+  "extra": [
+   {
+    "en": "shine (v.), shone, shone",
+    "pt": "brilhar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schenken",
+  "en": "give (v.), gave, given",
+  "pt": "dar de presente; presentear",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schere",
+  "en": "scissors (n., plural)",
+  "pt": "tesoura",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schicken",
+  "en": "send (v.), sent, sent",
+  "pt": "enviar; mandar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schiff",
+  "en": "ship (n.)",
+  "pt": "navio; barco",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schild",
+  "en": "sign (n.)",
+  "pt": "placa; letreiro",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schimpfen",
+  "en": "scold (v.)",
+  "pt": "reclamar; brigar com; xingar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schinken",
+  "en": "ham (n., uncountable)",
+  "pt": "presunto",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schirm",
+  "en": "umbrella (n.)",
+  "pt": "guarda-chuva",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schlafen",
+  "en": "sleep (v.), slept, slept",
+  "pt": "dormir",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schlafzimmer",
+  "en": "bedroom (n.)",
+  "pt": "quarto (de dormir)",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schlecht",
+  "en": "bad (adj.)",
+  "pt": "ruim; mau",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schließen",
+  "en": "close (v.)",
+  "pt": "fechar",
+  "extra": [
+   {
+    "en": "shut (v.), shut, shut",
+    "pt": "fechar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schlimm",
+  "en": "bad (adj.)",
+  "pt": "grave; ruim; terrível",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schloss",
+  "en": "castle (n.)",
+  "pt": "castelo; palácio",
+  "extra": [
+   {
+    "en": "lock (n.)",
+    "pt": "fechadura"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schluss",
+  "en": "end (n.)",
+  "pt": "fim; final",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schlüssel",
+  "en": "key (n.)",
+  "pt": "chave",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schmecken",
+  "en": "taste (v.)",
+  "pt": "ter gosto; ter sabor; estar gostoso",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schmerz",
+  "en": "pain (n.)",
+  "pt": "dor",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schmutzig",
+  "en": "dirty (adj.)",
+  "pt": "sujo",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schnee",
+  "en": "snow (n., uncountable)",
+  "pt": "neve",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schneiden",
+  "en": "cut (v.), cut, cut",
+  "pt": "cortar; cortar-se",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schneien",
+  "en": "snow (v.)",
+  "pt": "nevar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schnell",
+  "en": "fast (adj.)",
+  "pt": "rápido; veloz",
+  "extra": [
+   {
+    "en": "quickly (adv.)",
+    "pt": "rápido; depressa"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schokolade",
+  "en": "chocolate (n.)",
+  "pt": "chocolate",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schon",
+  "en": "already (adv.)",
+  "pt": "já",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schön",
+  "en": "beautiful (adj.)",
+  "pt": "bonito; lindo",
+  "extra": [
+   {
+    "en": "nice (adj.)",
+    "pt": "bom; agradável"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schrank",
+  "en": "closet (n.) (BrE: wardrobe)",
+  "pt": "armário",
+  "extra": [
+   {
+    "en": "cupboard (n.)",
+    "pt": "armário (de cozinha)"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schrecklich",
+  "en": "terrible (adj.)",
+  "pt": "terrível; horrível",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schreibenv",
+  "en": "write (v.), wrote, written",
+  "pt": "escrever",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schriftlich",
+  "en": "in writing (adv.)",
+  "pt": "por escrito",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schuh",
+  "en": "shoe (n.)",
+  "pt": "sapato",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schule",
+  "en": "school (n.)",
+  "pt": "escola",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schüler",
+  "en": "student (n.)",
+  "pt": "aluno; aluna",
+  "extra": [
+   {
+    "en": "pupil (n.)",
+    "pt": "aluno (criança)"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schwach",
+  "en": "weak (adj.)",
+  "pt": "fraco",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schwanger",
+  "en": "pregnant (adj.)",
+  "pt": "grávida",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schwein",
+  "en": "pig (n.)",
+  "pt": "porco",
+  "extra": [
+   {
+    "en": "pork (n., uncountable)",
+    "pt": "carne de porco"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schwer",
+  "en": "heavy (adj.)",
+  "pt": "pesado",
+  "extra": [
+   {
+    "en": "hard (adj.)",
+    "pt": "difícil"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schwester",
+  "en": "sister (n.)",
+  "pt": "irmã",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schwierig",
+  "en": "difficult (adj.)",
+  "pt": "difícil",
+  "extra": [
+   {
+    "en": "hard (adj.)",
+    "pt": "difícil"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "schwimmbad",
+  "en": "swimming pool (n.)",
+  "pt": "piscina",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "schwimmen",
+  "en": "swim (v.), swam, swum",
+  "pt": "nadar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "dersee",
+  "en": "lake (n.)",
+  "pt": "lago",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "diesee",
+  "en": "sea (n.)",
+  "pt": "mar",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "sehen",
+  "en": "see (v.), saw, seen",
+  "pt": "ver",
+  "extra": [
+   {
+    "en": "look (v.)",
+    "pt": "olhar"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "sehenswürdigkeit",
+  "en": "sight (n.)",
+  "pt": "ponto turístico; atração",
+  "extra": [
+   {
+    "en": "attraction (n.)",
+    "pt": "atração"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "sehr",
+  "en": "very (adv.)",
+  "pt": "muito",
+  "extra": [
+   {
+    "en": "really (adv.)",
+    "pt": "muito; realmente"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "seife",
+  "en": "soap (n., uncountable)",
+  "pt": "sabonete; sabão",
+  "extra": [],
+  "skip": false
+ },
+ {
+  "k": "sein",
+  "en": "be (v.), was/were, been",
+  "pt": "ser; estar",
+  "extra": [
+   {
+    "en": "his (det.)",
+    "pt": "seu; dele"
+   }
+  ],
+  "skip": false
+ },
+ {
+  "k": "seit",
+  "en": "since (prep.)",
+  "pt": "desde",
+  "extra": [
+   {
+    "en": "for (prep.)",
+    "pt": "há; por (período de tempo)"
+   }
+  ],
+  "skip": false
+ }
+]
