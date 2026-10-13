@@ -171,7 +171,9 @@ Se você notou o trema, o infinitivo no fim depois de *würde* e o *mit* + dativ
 
 6.  Qual está certa? (a) Ich würde haben gern einen Kaffee. (b) Ich hätte gern einen Kaffee.
 
-7.  Ich \_\_\_\_ gern in Rio. (wäre, war) **Degrau 2. Complete.**
+7.  Ich \_\_\_\_ gern in Rio. (wäre, war)
+
+**Degrau 2. Complete.**
 
 Conjugue *hätte* e *wäre* (ich, du, er, wir).
 

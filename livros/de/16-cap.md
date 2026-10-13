@@ -6,17 +6,37 @@
 
 Camila e Jonas fazem massa. Lena chega. Depois o vizinho bate na porta.
 
-**Jonas:** Camila, ich lese die Anleitung. Du nimmst die Tomaten. **Camila:** Gut. Und ich möchte ein Messer. **Jonas:** Hier, nimm das Messer! Und schneide die Zwiebel, bitte.
+::: dialogo
+**Jonas:** Camila, ich lese die Anleitung. Du nimmst die Tomaten.
 
-**Camila:** Siehst du? Ich schneide schnell! **Jonas:** Super! Aber sei vorsichtig! **Lena:**
+**Camila:** Gut. Und ich möchte ein Messer.
 
-Hallo! Was macht ihr? **Jonas:** Wir kochen. Lena, hilf mir bitte! Gib mir das Salz. **Camila:** Isst du auch Pasta, Lena? **Lena:** Ja, gern. Ich esse viel, aber danach schlafe ich auf dem Sofa! **Jonas:** Das stimmt. Du schläfst immer sofort. **Herr Weber:** Entschuldigung! Seid bitte leise. Es ist schon spät. **Camila:** Oh, Entschuldigung, Herr Weber! Möchten Sie Pasta? Nehmen Sie einen Teller! **Herr Weber:** Nein, danke. Gute Nacht.
+**Jonas:** Hier, nimm das Messer! Und schneide die Zwiebel, bitte.
 
-Em português: Camila, eu leio a receita. Você pega os tomates. / Certo. E eu quero uma faca. / Aqui, pegue a faca! E corte a cebola, por favor. / Viu? Eu corto rápido! / Ótimo! Mas tome cuidado! / Oi! O que vocês estão fazendo? / Estamos cozinhando. Lena, me ajude, por favor! Me passe o sal. / Você também come massa, Lena? / Sim, com prazer. Eu como muito, mas depois durmo no sofá! / Verdade. Você sempre dorme na hora. / Com licença!
+**Camila:** Siehst du? Ich schneide schnell!
 
-Façam silêncio, por favor. Já é tarde. / Ah, desculpe, Sr. Weber! O senhor aceita massa? Pegue um prato! / Não, obrigado. Boa noite.
+**Jonas:** Super! Aber sei vorsichtig!
 
-Repare em duas coisas: *ich lese, du nimmst, Lena isst, du schläfst* têm uma vogal diferente da do infinitivo, e as ordens (*Nimm! Hilf! Seid leise! Nehmen Sie!*) começam pelo verbo.
+**Lena:** Hallo! Was macht ihr?
+
+**Jonas:** Wir kochen. Lena, hilf mir bitte! Gib mir das Salz.
+
+**Camila:** Isst du auch Pasta, Lena?
+
+**Lena:** Ja, gern. Ich esse viel, aber danach schlafe ich auf dem Sofa!
+
+**Jonas:** Das stimmt. Du schläfst immer sofort.
+
+**Herr Weber:** Entschuldigung! Seid bitte leise. Es ist schon spät.
+
+**Camila:** Oh, Entschuldigung, Herr Weber! Möchten Sie Pasta? Nehmen Sie einen Teller!
+
+**Herr Weber:** Nein, danke. Gute Nacht.
+:::
+
+Em português: Camila, eu leio a receita. Você pega os tomates. / Certo. E eu quero uma faca. / Aqui, pegue a faca! E corte a cebola, por favor. / Viu? Eu corto rápido! / Ótimo! Mas tome cuidado! / Oi! O que vocês estão fazendo? / Estamos cozinhando. Lena, me ajude, por favor! Me passe o sal. / Você também come massa, Lena? / Sim, com prazer. Eu como muito, mas depois durmo no sofá! / Verdade. Você sempre dorme na hora. / Com licença! Façam silêncio, por favor. Já é tarde. / Ah, desculpe, Sr. Weber! O senhor aceita massa? Pegue um prato! / Não, obrigado. Boa noite.
+
+Repare em duas coisas: *siehst du, du nimmst, Lena isst, du schläfst* têm uma vogal diferente da do infinitivo, e as ordens (*Nimm! Hilf! Seid leise! Nehmen Sie!*) começam pelo verbo.
 
 ## 2. A armadilha do português
 
@@ -113,11 +133,11 @@ Se você notou que a vogal muda só em *du* e *er*, que o imperativo de *du* per
 
 **Como saber se um verbo muda.** Não há truque. Os verbos que mudam são um grupo pequeno e muito usado, por isso você os aprende cedo e os revisa sempre. Quando vir um verbo novo no dicionário, olhe a forma de *er*: se houver uma entrada *er spricht*, ele muda. Você já viu mais dois: *empfehlen* (*du empfiehlst*) e *lassen* (*du lässt, er lässt*, capítulo 15).
 
-**Os pequenos detalhes.** *Essen* faz *du isst, er isst* (um s só de cada lado do *-t*). *Nehmen* dobra o *m* e perde o *h*: *nimmst, nimmt*. *Helfen* vira *hilfst, hilft*. *Lesen* e *sehen* viram *liest, siehst*: o *e* longo vira *ie*.
+**Os pequenos detalhes.** *Essen* faz *du isst, er isst* (e não *du issst*: o *s* da terminação se funde com o *ss*). *Nehmen* dobra o *m* e perde o *h*: *nimmst, nimmt*. *Helfen* vira *hilfst, hilft*. *Lesen* e *sehen* viram *liest, siehst*: o *e* longo vira *ie*.
 
 **Wissen: um primo dos modais.** *Wissen* (saber um fato) é irregular no singular, como os modais: *ich weiß, du weißt, er weiß, wir wissen, ihr wisst, sie wissen.* *Ich = er*, sem *-t*, como no capítulo 15.
 
-**O -e no imperativo.** Nos verbos cujo radical termina em *-t*, *-d* ou duas consoantes, o *du* ganha um *-e* para soar bem: *Warte! Arbeite! Antworte! Schneide!* Nos outros, o *-e* é opcional e na fala costuma cair: *Komm!* (e não *Komme!*).
+**O -e no imperativo.** Nos verbos cujo radical termina em *-t*, *-d* ou em consoante + *m*/*n* (*öffnen → Öffne!*), o *du* ganha um *-e* para soar bem: *Warte! Arbeite! Antworte! Schneide!* Nos outros, o *-e* é opcional e na fala costuma cair: *Komm!* (e não *Komme!*).
 
 **Sein e haben.** *Sei! Seid! Seien Sie!* e *Hab! Habt! Haben Sie!* (*Hab Geduld!*).
 
@@ -286,7 +306,7 @@ Dá para dar uma instrução simples a um amigo, a um grupo e a um desconhecido.
 ::::: gabarito
 **Degrau 1.** 1 sprichst. 2 nimmt. 3 fahren (*wir* não muda). 4 Hilf. 5 Sprechen. 6 sprecht (*ihr* não muda). 7 (b).
 
-**Degrau 2.** nehme, nimmst, nimmt, nehmen, nehmt; fährst, fährt; isst, isst. Er gibt mir das Salz. Du siehst das Haus. Sie schläft lange. Komm! Kommt! Kommen Sie! / Warte! Wartet! Warten Sie! / Iss! Esst! Essen Sie! / Gib! Gebt! Geben Sie! / Komm nicht! / Iss das nicht!
+**Degrau 2.** nehme, nimmst, nimmt, nehmen, nehmt; fährst, fährt; isst, isst. Er gibt mir das Salz. Du siehst das Haus. Sie schläft lange (ou *schlafen*, se for *sie* plural ou *Sie*). Komm! Kommt! Kommen Sie! / Warte! Wartet! Warten Sie! / Iss! Esst! Essen Sie! / Gib! Gebt! Geben Sie! / Komm nicht! / Iss das nicht!
 
 **Degrau 3.** Respostas pessoais. Confira a vogal em *du* e *er*, o verbo na posição 1 no imperativo e o *Sie* depois do verbo.
 
@@ -306,7 +326,5 @@ Dá para dar uma instrução simples a um amigo, a um grupo e a um desconhecido.
 
 7.  Está certa.
 
-**Retorno.** Capítulo 15: kann. Capítulo 14: Nachbarn (n-Deklination). Capítulo 13: roten.
-
-Capítulo 11: meinem. Capítulo 10: dem Bus.
+**Retorno.** Capítulo 15: kann. Capítulo 14: Nachbarn (n-Deklination). Capítulo 13: roten. Capítulo 11: meinem. Capítulo 10: dem Bus.
 :::::

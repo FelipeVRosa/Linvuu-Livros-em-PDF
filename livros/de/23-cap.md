@@ -149,7 +149,9 @@ Se você notou que a ordem não muda, que o sujeito pode sumir e que *sondern* v
 
 6.  Qual está certa? (a) Ich stehe auf und gehe zur Arbeit. (b) Ich stehe auf und zur Arbeit gehe.
 
-7.  Antes de qual conector a vírgula é obrigatória? (a) und (b) aber **Degrau 2. Complete.**
+7.  Antes de qual conector a vírgula é obrigatória? (a) und (b) aber
+
+**Degrau 2. Complete.**
 
 Complete com *aber, sondern, denn, oder* ou *und*: Ich bin nicht müde, \_\_\_\_ hungrig. / Ich möchte kommen, \_\_\_\_ ich habe keine Zeit. / Wir können essen gehen \_\_\_\_ zu Hause kochen. / Ich gehe nach Hause, \_\_\_\_ ich bin müde. / Er steht auf \_\_\_\_ frühstückt.
 

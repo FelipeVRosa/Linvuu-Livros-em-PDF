@@ -174,7 +174,9 @@ Se você notou que o presente + *morgen* já é futuro, que *werden* pede o infi
 
 6.  Wir \_\_\_\_ nächste Woche nach Wien fahren. (werden, werdet)
 
-7.  Pedro \_\_\_\_ mich am Flughafen ab. (holt, holtet) **Degrau 2. Complete.**
+7.  Pedro \_\_\_\_ mich am Flughafen ab. (holt, holtet)
+
+**Degrau 2. Complete.**
 
 Conjugue *werden* (ich, du, er, wir, ihr).
 

@@ -162,7 +162,9 @@ Palavras de tempo. Palavras de tempo ficam dentro da moldura: *Ich habe heute Mo
 
 6.  Particípio de *anrufen*: (geanrufen, angerufen)
 
-7.  Particípio de *essen*: (gegessen, geesst) **Degrau 2. Complete.**
+7.  Particípio de *essen*: (gegessen, geesst)
+
+**Degrau 2. Complete.**
 
 Escreva o particípio: lernen, arbeiten, sehen, schlafen, einkaufen, verstehen, studieren, bleiben.
 

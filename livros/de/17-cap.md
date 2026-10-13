@@ -137,9 +137,7 @@ Se você notou que o prefixo vai para o fim, que com o modal o verbo volta intei
 
 **Os outros prefixos.** *Über-, unter-, um-, durch-* ora separam, ora não separam. Por enquanto, aprenda cada verbo como o dicionário o dá.
 
-**O que vem depois.** No Perfekt (capítulo 18), o *ge-* vai para o meio do separável
-
-(*aufgestanden*) e some no inseparável (*besucht*). Nas frases com *weil* e *dass* (capítulo 24), o prefixo volta a colar no verbo (*weil ich früh aufstehe*).
+**O que vem depois.** No Perfekt (capítulo 18), o *ge-* vai para o meio do separável (*aufgestanden*) e some no inseparável (*besucht*). Nas frases com *weil* e *dass* (capítulo 24), o prefixo volta a colar no verbo (*weil ich früh aufstehe*).
 
 ## 6. Frases de ouro
 
@@ -171,17 +169,15 @@ Se você notou que o prefixo vai para o fim, que com o modal o verbo volta intei
 
 6.  Ich muss früh \_\_\_\_. (aufstehen, stehen auf)
 
-7.  Ich \_\_\_\_ dich nicht. (verstehe, stehe) **Degrau 2. Complete.**
+7.  Ich \_\_\_\_ dich nicht. (verstehe, stehe)
+
+**Degrau 2. Complete.**
 
 Conjugue *anrufen* (ich, du, er, wir, ihr).
 
-Complete no presente: Er \_\_\_\_ mich später \_\_\_\_ (anrufen). Wir \_\_\_\_ heute \_\_\_\_
+Complete no presente: Er \_\_\_\_ mich später \_\_\_\_ (anrufen). Wir \_\_\_\_ heute \_\_\_\_ (einkaufen). Du \_\_\_\_ viel \_\_\_\_ (fernsehen). Der Bus \_\_\_\_ um zehn Uhr \_\_\_\_ (abfahren).
 
-(einkaufen). Du \_\_\_\_ viel \_\_\_\_ (fernsehen). Der Bus \_\_\_\_ um zehn Uhr \_\_\_\_ (abfahren).
-
-Reescreva com o modal: Ich stehe früh auf. (müssen) / Wir kaufen heute ein. (wollen) /
-
-Kommst du mit? (können)
+Reescreva com o modal: Ich stehe früh auf. (müssen) / Wir kaufen heute ein. (wollen) / Kommst du mit? (können)
 
 Escreva o imperativo: aufstehen (du, ihr, Sie), mitkommen (du), aufräumen (du).
 
@@ -215,11 +211,8 @@ Escreva três regras de arrumar a casa com *Mach … zu! Räum … auf!* Escreva
 O erro que mais custa caro é **deixar o prefixo colado ao verbo**: *Ich anrufe dich.* O prefixo vai para o fim. O segundo erro é **separar o que não separa**: *Ich stehe dich nicht ver.* O terceiro é **separar o verbo com modal**: *Ich muss früh stehen auf.* Com modal, o verbo fica inteiro no infinitivo.
 
 ::: atencao
-presente com prefixo separável: verbo na posição 2, prefixo no fim.
+presente com prefixo separável: verbo na posição 2, prefixo no fim. Com modal, o verbo volta inteiro. *Ver-* e *be-* nunca soltam.
 :::
-
-
-Com modal, o verbo volta inteiro. *Ver-* e *be-* nunca soltam.
 
 ## 9. Retorno
 
@@ -263,9 +256,6 @@ Faço um convite com *Kommst du mit?* Sei quando não devo separar o verbo.
 | anrufen (ruft an)     | ligar, telefonar |
 | ankommen (kommt an)   | chegar           |
 | aufstehen (steht auf) | levantar-se      |
-
-| Alemão                      | Português                     |
-|-----------------------------|-------------------------------|
 | aufräumen (räumt auf)       | arrumar                       |
 | aussteigen (steigt aus)     | descer, sair (do transporte)  |
 | einsteigen (steigt ein)     | entrar, subir (no transporte) |

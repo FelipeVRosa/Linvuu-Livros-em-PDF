@@ -79,7 +79,7 @@ In speech you will hear both {{mais alto do que eu}} and {{mais alto que eu}}. {
 
 ### Four adjectives that do not use {{mais}}
 
-Four common adjectives have their own comparative forms, and using {{mais}} with them is a mistake. Learn them as pairs.
+Four common adjectives have their own comparative forms. Using {{mais}} with the first three is a mistake; {{mais pequeno}} exists, but in Brazil {{menor}} is the normal word. Learn them as pairs.
 
 | Adjective | Comparative | Guide | Example |
 |---|---|---|---|
@@ -146,7 +146,7 @@ The command for {{você}} and {{vocês}} is built from the {{eu}} form of the pr
 | {{trazer}} | {{trago}} | {{traga}} `TRAH-gah` | {{tragam}} | bring |
 | {{sair}} | {{saio}} | {{saia}} `SAH-yah` | {{saiam}} | leave |
 
-The method gives all the irregulars of the {{eu}} form automatically (compare {{faço}} → {{faça}}). Five verbs do not follow it, and they are all common. Learn them as they are.
+The method gives all the irregulars of the {{eu}} form automatically (compare {{faço}} → {{faça}}). Five common verbs do not follow it (a sixth, {{querer}} → {{queira}}, is rare as a command). Learn them as they are.
 
 | Verb | {{você}} | {{vocês}} | Guide of {{você}} |
 |---|---|---|---|
@@ -175,7 +175,7 @@ Among friends, in the street and at home, many Brazilians (especially in São Pa
 | {{Sente aqui.}} | {{Senta aí.}} |
 | {{Pegue o ônibus.}} | {{Pega o ônibus.}} |
 
-You will hear both. Use the formal command (with {{por favor}}) with strangers, in shops, with older people and in writing. Understand the everyday command, and use it when you are with friends. The five irregular verbs above are the same in both registers: {{Seja}}, {{Vá}}. Many people say {{Vai!}} and {{Vem!}} to friends.
+You will hear both. Use the formal command (with {{por favor}}) with strangers, in shops, with older people and in writing. Understand the everyday command, and use it when you are with friends. Of the five irregular verbs above, {{seja}} is used in both registers, but among friends people say {{Vai!}} (not {{Vá!}}) and {{Me dá…}} (not {{Me dê…}}), and {{Vem!}} for {{vir}}.
 
 ::: dica
 {{Vamos}} + infinitive is a gentle command for "us": {{Vamos comer?}}, {{Vamos sair?}} The reply to a request is often {{Claro!}}, {{Pode deixar!}} (Leave it to me!), {{Já vou!}} (Coming!).

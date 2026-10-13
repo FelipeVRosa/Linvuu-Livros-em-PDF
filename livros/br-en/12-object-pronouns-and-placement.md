@@ -297,7 +297,7 @@ There is one spot to notice: {{Te liguei}} begins with the pronoun, as in spoken
 | Wrong | Right | Why |
 |---|---|---|
 | Eu vou ligar te. | {{Vou te ligar.}} | the pronoun goes before the infinitive |
-| Ele disse a mim. | {{Ele me disse.}} | first person has no "to me" with {{a}} |
+| Ele disse a mim. | {{Ele me disse.}} | the normal form is {{me}} before the verb; {{a mim}} is only for emphasis |
 | Ele deu-me um livro. (in speech) | {{Ele me deu um livro.}} | in Brazilian speech the pronoun goes before the verb |
 | Ela gosta de eu. | {{Ela gosta de mim.}} | after a preposition, "me" is {{mim}} |
 | É para mim fazer. | {{É para eu fazer.}} | the pronoun is the subject of the verb that follows |
@@ -397,7 +397,7 @@ Complete.
 
 Before you go on, answer from earlier lessons, without looking:
 
-1. What does {{pra}} stand for in speech? (Lesson 9)
+1. What does {{pra}} stand for in speech? (Lesson 5)
 2. Give the {{eu}} form of the simple past of {{dar}} and {{ver}}. (Lesson 10)
 3. How do you say *her brother* so that it is not ambiguous? (Lesson 8)
 

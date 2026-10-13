@@ -191,7 +191,9 @@ Escreva três frases sobre o que você teve de fazer (*Ich musste …*).
 
 Escreva um mini-texto de cinco linhas sobre ontem, no estilo do diário de Camila.
 
-Escreva uma história de quatro frases começando com *Es war einmal …* **Degrau 4. Corrija o erro típico.** Uma delas está certa.
+Escreva uma história de quatro frases começando com *Es war einmal …*
+
+**Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
 1.  Ich habe gestern müde gewesen.
 

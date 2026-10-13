@@ -102,7 +102,7 @@ Se você notou a moldura, o *ich = er* e a diferença de sentido, descobriu a re
 | ihr         | könnt  | müsst  | wollt  | sollt  | dürft  | möchtet  |
 | sie, Sie    | können | müssen | wollen | sollen | dürfen | möchten  |
 
-4.  **Regra de ouro:** **ich = er/sie/es**, sem o **-t**. E a vogal muda no singular.
+4.  **Regra de ouro:** **ich = er/sie/es**, sem o **-t**. E a vogal muda no singular (menos em *sollen* e *möchten*).
 
 5.  **Sentidos:**
 
@@ -180,7 +180,9 @@ Complete: Ich \_\_\_\_ (möchten) einen Tee. Sie \_\_\_\_ (wollen) nach Berlin f
 
 Reescreva com modal: Tom kommt heute. (können) / Wir gehen ins Kino. (wollen) / Du hilfst mir. (können, pergunta)
 
-Negue: Ich muss heute lernen. (não preciso) **Degrau 3. Produza.**
+Negue: Ich muss heute lernen. (não preciso)
+
+**Degrau 3. Produza.**
 
 Escreva cinco frases sobre o que você pode e não pode fazer.
 
@@ -188,7 +190,9 @@ Escreva três frases sobre o que você precisa fazer esta semana.
 
 Escreva um diálogo de café, no estilo da Cena.
 
-Escreva três regras de uma casa com *Du darfst nicht …* **Degrau 4. Corrija o erro típico.** Uma delas está certa.
+Escreva três regras de uma casa com *Du darfst nicht …*
+
+**Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
 1.  Ich kann sprechen Deutsch.
 
@@ -281,7 +285,7 @@ Sei quando não devo dizer *Du musst nicht*.
 ::::: gabarito
 **Degrau 1.** 1 muss. 2 musst. 3 kann. 4 wollen. 5 dürft. 6 (b). 7 (b).
 
-**Degrau 2.** kann, kannst, kann, können; muss, musst, müssen; will, wollt. Ich möchte, wollen, müssen. Tom kann heute kommen. Wir wollen ins Kino gehen. Kannst du mir helfen? Ich muss heute nicht lernen.
+**Degrau 2.** kann, kannst, kann, können; muss, musst, müssen; will, wollt. Ich möchte, wollen (ou *will*, se *Sie* for “ela”), müssen. Tom kann heute kommen. Wir wollen ins Kino gehen. Kannst du mir helfen? Ich muss heute nicht lernen.
 
 **Degrau 3.** Respostas pessoais. Confira o modal na posição 2 e o infinitivo no fim.
 
@@ -301,7 +305,5 @@ Sei quando não devo dizer *Du musst nicht*.
 
 7.  Está certa.
 
-**Retorno.** Capítulo 14: Studenten. Capítulo 13: neuen. Capítulo 12: besser. Capítulo 11:
-
-meinem. Capítulo 10: Bahnhof (*zum Bahnhof* = zu dem Bahnhof).
+**Retorno.** Capítulo 14: Studenten. Capítulo 13: neuen. Capítulo 12: besser. Capítulo 11: meinem. Capítulo 10: Bahnhof (*zum Bahnhof* = zu dem Bahnhof).
 :::::

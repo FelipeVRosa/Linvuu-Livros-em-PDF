@@ -180,7 +180,9 @@ Se você notou que o pronome acompanha o sujeito, que ele fica antes do infiniti
 
 6.  Ich denke \_\_\_\_ meine Oma. (an, auf)
 
-7.  \_\_\_\_ wartest du? (Worauf, Woran) **Degrau 2. Complete.**
+7.  \_\_\_\_ wartest du? (Worauf, Woran)
+
+**Degrau 2. Complete.**
 
 Complete com o pronome: Ihr freut \_\_\_\_. Sie setzt \_\_\_\_. Wir erinnern \_\_\_\_. Du ziehst \_\_\_\_ an.
 
