@@ -41,7 +41,7 @@ Esse capítulo junta três pontos em que o português dá uma ajuda enganosa.
 | melhor | **mejor** (nunca *~~más bueno~~*) |
 | pior | **peor** (nunca *~~más malo~~*) |
 
-**2. Melhor e pior.** Em português dizemos “mais bom” só de brincadeira, e “melhor”. O espanhol é igual na ideia, mas o aluno às vezes calca o “mais” em *~~más bueno~~* ao comparar qualidade: *Este café es mejor que el otro.* Esse é um erro tão comum que merece atenção.
+**2. Melhor e pior.** Ninguém diz “mais bom” em português: diz “melhor”. O espanhol é igual na ideia, mas o aluno que pensa por partes monta *~~más bueno~~* (“mais” + “bom”). Para qualidade, a forma é *Este café es mejor que el otro.*
 
 **3. Por e para: o português usa as mesmas palavras, mas escolhe diferente.** Em português, “por” e “para/pra” também existem. Mas o espanhol marca algumas coisas com *por* onde o português usaria outra palavra, e vice-versa. Exemplos: “de manhã” é *por la mañana*; “pelo telefone” é *por teléfono*; “obrigado pela ajuda” é *gracias por la ayuda*; “para o domingo” é *para el domingo*. Quem escolhe pelo ouvido erra.
 
@@ -93,7 +93,7 @@ Se você viu que *más… que* compara, *tan/tanto… como* iguala, *para* apont
 
 ### Comparação
 
-**Más / menos… que.** Funciona com adjetivos (*más caro que*), advérbios (*más rápido que, menos tarde que*), substantivos (*más tiempo que, menos dinero que*) e verbos (*estudia más que yo*). Depois de *que*, se vier um pronome, use a forma de sujeito: *más alto que **yo**, no que ~~mí~~*; *menos trabajo que **tú***.
+**Más / menos… que.** Funciona com adjetivos (*más caro que*), advérbios (*más rápido que, menos tarde que*), substantivos (*más tiempo que, menos dinero que*) e verbos (*estudia más que yo*). Depois de *que*, se vier um pronome, use a forma de sujeito: *más alto que **yo**, menos trabajo que **tú**.*
 
 **Tan / tanto.** *Tan* vem antes de adjetivo ou advérbio e não varia: *tan alta, tan rápido*. *Tanto* vem antes de substantivo e concorda: *tanto dinero, tanta gente, tantos amigos, tantas cosas*. Depois do verbo, é *tanto* sozinho: *Come tanto como yo.* O segundo termo vem sempre com **como**.
 
@@ -125,20 +125,27 @@ Se você viu que *más… que* compara, *tan/tanto… como* iguala, *para* apont
 
 ### Por e para
 
-| Ideia | Por | Para |
-|-------|-----|------|
-| causa, motivo | Gracias **por** la ayuda. Llegó tarde **por** el tráfico. | |
-| troca, preço | Pagué veinte euros **por** la camisa. | |
-| caminho, trânsito | Pasamos **por** el parque. Viajo **por** Colombia. | |
-| duração, momento | Trabajo **por** la mañana. Pagamos **por** tres noches. | |
-| meio | Hablo **por** teléfono. Reservo **por** internet. | |
-| agente, em nome de | Lo hice **por** ti. | |
-| destino | | Voy **para** Lima. Salgo **para** el aeropuerto. |
-| finalidade | | Estudio español **para** viajar. |
-| prazo | | Necesito el informe **para** el lunes. |
-| destinatário | | Este regalo es **para** ti. |
-| opinião | | **Para** mí, el del centro. |
-| emprego | | Trabajo **para** una empresa. |
+**Por**
+
+| Ideia | Exemplo |
+|-------|---------|
+| causa, motivo | Gracias **por** la ayuda. Llegó tarde **por** el tráfico. |
+| troca, preço | Pagué veinte euros **por** la camisa. |
+| caminho, trânsito | Pasamos **por** el parque. Viajo **por** Colombia. |
+| duração, momento do dia | Trabajo **por** la mañana. Pagamos **por** tres noches. |
+| meio | Hablo **por** teléfono. Reservo **por** internet. |
+| em favor de alguém | Lo hice **por** ti. |
+
+**Para**
+
+| Ideia | Exemplo |
+|-------|---------|
+| destino | Voy **para** Lima. Salgo **para** el aeropuerto. |
+| finalidade | Estudio español **para** viajar. |
+| prazo | Necesito el informe **para** el lunes. |
+| destinatário | Este regalo es **para** ti. |
+| opinião | **Para** mí, el del centro. |
+| empregador | Trabajo **para** una empresa. |
 
 **Um truque de bolso.** *Para* aponta para frente: onde vou, o que quero conseguir, até quando. *Por* olha para trás ou em volta: o que causou, por onde passei, em troca de quê.
 
@@ -272,7 +279,7 @@ O erro que mais denuncia o brasileiro é **traduzir a comparação palavra por p
 
 ## 9. Retorno
 
-**Do capítulo 13.** Troque o objeto por pronome e dê a ordem: *Compra el billete. No hagas ruido. Dime la verdad.* → Compra**lo**. No **lo** hagas. Dí**melo**.
+**Do capítulo 13.** Troque o objeto por pronome e dê a ordem: *Compra el billete. No hagas ruido. Dime la verdad.* → Cómpralo. No lo hagas. Dímela.
 
 **Do capítulo 12.** Coloque no futuro: *Voy a tener más tiempo. Hace más calor.* Depois faça uma suposição: *¿Dónde está Pablo?*
 
@@ -347,7 +354,7 @@ Corrijo uma informação com *no… sino…* e contrasto com *pero*.
 
 **Degrau 4.** 1 Es **mejor** que el otro. 2 Tengo **tantos** hermanos como tú. 3 Soy más alto **que** mi padre. 4 Gracias **por** todo. 5 Necesito el informe **para** el lunes (prazo). 6 No es azul, **sino** verde. 7 Está certa (*pero*, porque a segunda parte não corrige a primeira).
 
-**Retorno.** Capítulo 13: Cómpralo. No lo hagas. Dímelo. Capítulo 12: Voy a tener → Tendré más tiempo. Hará más calor. Estará en el gimnasio (exemplo). Capítulo 11: resposta pessoal (imperfecto na descrição, *más… que* na comparação). Capítulo 10: respostas pessoais (*he … hoy*, *… ayer*).
+**Retorno.** Capítulo 13: Cómpralo. No lo hagas. Dímela (*verdad* é feminino). Capítulo 12: Voy a tener → Tendré más tiempo. Hará más calor. Estará en el gimnasio (exemplo). Capítulo 11: resposta pessoal (imperfecto na descrição, *más… que* na comparação). Capítulo 10: respostas pessoais (*he … hoy*, *… ayer*).
 :::::
 
 ## Revisão A2: 12 itens “já consigo”
@@ -369,4 +376,4 @@ Leia cada afirmação e responda com sinceridade. Para cada “ainda não”, vo
 | 11 | Descrever o passado com *imperfecto* e contar uma história com os dois passados. | Capítulo 11 |
 | 12 | Falar de planos com *voy a*, *futuro simple*, trocar objetos por pronomes, dar ordens e comparar com *más… que*, *por*, *para* e *sino*. | Capítulos 12, 13 e 14 |
 
-Se você marcou “sim” em dez itens ou mais, está pronto para o nível B1. Se marcou menos, escolha os dois capítulos com mais “ainda não” e refaça a Cena e o Degrau 4 de cada um nesta semana.
+Se você marcou “sim” em dez itens ou mais, provavelmente já tem uma base sólida de A2. Se marcou menos, escolha os dois capítulos com mais “ainda não” e refaça a Cena e o Degrau 4 de cada um nesta semana.
