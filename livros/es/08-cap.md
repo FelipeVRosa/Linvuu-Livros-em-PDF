@@ -42,7 +42,7 @@ O português tem o mesmo conjunto de palavras, e por isso você acerta metade se
 
 2.  **“Seu” e *su* são ambíguos**, e em espanhol a ambiguidade é ainda maior: *su casa* pode ser a casa dele, dela, sua (de *usted*), deles ou de vocês (*ustedes*). Quando for preciso esclarecer: {{la casa de ella}}, {{la casa de usted}}.
 
-3.  **Três graus de distância.** O português brasileiro fala quase só com *esse* e *aquele*; “este” soa formal. O espanhol usa *este, ese* e *aquel* o tempo todo, e *ese* tem um sentido preciso (perto de quem **ouve**), que o brasileiro não sente.
+3.  **Três graus de distância.** Na fala do dia a dia, o brasileiro costuma dizer *esse* até onde a escola pediria *este*. O espanhol usa *este, ese* e *aquel* o tempo todo, e *ese* tem um sentido preciso (perto de quem **ouve**), que o brasileiro não sente.
 
 4.  **“Muito” é uma palavra só no português** (“muito bonito”, “muito dinheiro”, “trabalho muito”). Em espanhol são duas: *muy* e *mucho*.
 
@@ -61,17 +61,23 @@ O português tem o mesmo conjunto de palavras, e por isso você acerta metade se
 
 Compare.
 
-| Frase | Observação |
-|---|---|
-| Mi madre tiene mucho frío. | |
-| Mis hermanas viven en Quito. | |
-| Nuestra casa es pequeña. | |
-| Estos libros son míos. | |
-| Es muy bonita. | |
-| Trabajo mucho. | |
-| Esta manta es de lana. | |
-| Esa manta cuesta veinte dólares. | |
-| Aquellas son de algodón. | |
+1.  Mi madre tiene mucho frío.
+
+2.  Mis hermanas viven en Quito.
+
+3.  Nuestra casa es pequeña.
+
+4.  Estos libros son míos.
+
+5.  Es muy bonita.
+
+6.  Trabajo mucho.
+
+7.  Esta manta es de lana.
+
+8.  Esa manta cuesta veinte dólares.
+
+9.  Aquellas son de algodón.
 
 Perguntas:
 
