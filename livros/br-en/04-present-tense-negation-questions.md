@@ -59,9 +59,9 @@ There are only **four** forms you need, because {{você}}, {{ele}}, {{ela}} and 
 | Person | -ar: falar | -er: comer | -ir: abrir |
 |---|---|---|---|
 | eu | {{falo}} `FAH-loo` | {{como}} `KOH-moo` | {{abro}} `AH-broo` |
-| você / ele / ela / a gente | {{fala}} `FAH-lah` | {{come}} `KOH-mee` | {{abre}} `AH-bree` |
+| você / ele / ela / a gente | {{fala}} `FAH-lah` | {{come}} `KAW-mee` | {{abre}} `AH-bree` |
 | nós | {{falamos}} `fah-LAH-mooss` | {{comemos}} `koh-MEH-mooss` | {{abrimos}} `ah-BREE-mooss` |
-| vocês / eles / elas | {{falam}} `FAH-lah~oo` | {{comem}} `KOH-meh~ee` | {{abrem}} `AH-breh~ee` |
+| vocês / eles / elas | {{falam}} `FAH-lah~oo` | {{comem}} `KAW-meh~ee` | {{abrem}} `AH-breh~ee` |
 :::
 
 Learn the endings, not the three verbs:
@@ -215,7 +215,7 @@ With ordinary verbs, {{quem}} takes the {{ele/ela}} form, even when you expect s
 :::
 
 ::: passo 3 Add "é que" when you want to sound natural
-Brazilians often insert {{é que}} after the question word: {{Onde é que você mora?}} `OH~-djee eh kee voh-SEH MOH-rah`. It adds a little emphasis, like *where on earth do you live?*, and appears in everyday talk. You do not need to use it, but you will hear it.
+Brazilians often insert {{é que}} after the question word: {{Onde é que você mora?}} `OH~-djee eh kee voh-SEH MAW-rah`. It adds a little emphasis, like *where on earth do you live?*, and appears in everyday talk. You do not need to use it, but you will hear it.
 :::
 
 ::: passo 4 Keep the four "why" words apart
@@ -264,7 +264,7 @@ Read the text aloud, first with the guide and then without it.
 
 > {{Eu sou o Rafael. Moro em Salvador e trabalho num banco. De manhã, tomo café e pego o ônibus. No almoço, como arroz e feijão com os colegas. À noite, assisto a uma série. Aos sábados, ensino capoeira.}}
 
-Guide: `EH-oo SOH oo hah-fah-EH-oo. MOH-roo eh~ee sah-oo-vah-DOR ee trah-BAH-lyoo noo~ BAH~-koo. djee mah-NYAH~, TOH-moo kah-FEH ee PEH-goo oo OH-nee-booss. noo ah-oo-MOH-soo, KOH-moo ah-HOSS ee fay-ZHOW~ koh~ ooss koh-LEH-gahss. ah NOY-tchee, ah-SEES-too ah OO-mah SEH-ree-ee. ah-ooss SAH-bah-dooss, eh~-SEE-noo kah-poh-AY-rah.`
+Guide: `EH-oo SOH oo hah-fah-EH-oo. MAW-roo eh~ee sah-oo-vah-DOR ee trah-BAH-lyoo noo~ BAH~-koo. djee mah-NYAH~, TOH-moo kah-FEH ee PEH-goo oo OH-nee-booss. noo ah-oo-MOH-soo, KOH-moo ah-HOSS ee fay-ZHOW~ koh~ ooss koh-LEH-gahss. ah NOY-tchee, ah-SEES-too ah OO-mah SEH-ree-ee. ah-ooss SAH-bah-dooss, eh~-SEE-noo kah-poh-AY-rah.`
 
 Translation: *I am Rafael. I live in Salvador and work at a bank. In the morning, I have coffee and catch the bus. At lunch, I eat rice and beans with my colleagues. At night, I watch a series. On Saturdays, I teach capoeira.*
 

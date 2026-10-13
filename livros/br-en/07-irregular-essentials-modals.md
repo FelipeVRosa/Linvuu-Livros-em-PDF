@@ -199,7 +199,7 @@ For obligation, Brazilians prefer {{precisar}} `preh-see-ZAR` and {{ter que}} (a
 ::: erros
 | Wrong | Right | Why |
 |---|---|---|
-| {{Quero ir para o banco.}} | {{Quero ir ao banco.}} | after {{ir}} use {{ao}} or {{no}}; {{para}} does not mean "to go to the bank" when a direction is not the topic, but it is fine for a final destination: {{Vou pro trabalho}} |
+| {{Quero ir em a praia.}} | {{Quero ir à praia.}} | {{a + a}} always fuse into {{à}} (or {{na}} in speech) |
 | {{Eu posso falo.}} | {{Eu posso falar.}} | after a modal verb the next verb stays in the infinitive |
 | {{Eu quero para ir.}} | {{Eu quero ir.}} | no {{para}} between {{querer}} and an infinitive |
 | {{Preciso ir ao banheiro de.}} | {{Preciso ir ao banheiro.}} | {{de}} belongs only before a noun: {{preciso de um banheiro}} |
@@ -251,19 +251,44 @@ A short note about {{me}} in {{Pode me ajudar?}}: it means "me", and it goes bef
 
 For invitations, the phrase {{Vamos + infinitive}} is the simplest way to say "Let's…": {{Vamos comer}}, {{Vamos ver}}, {{Vamos tomar um café}}. It has no pronoun and it works with everyone.
 
-## 7.10 Read a real text
+## 7.10 One event, five attitudes
+
+The verbs of this lesson let you talk about the same event from different angles. This is the most useful exercise to make them automatic. Take one event, {{viajar em julho}} (to travel in July), and look at the sentences.
+
+| Attitude | Sentence | Meaning |
+|---|---|---|
+| wish | {{Quero viajar em julho.}} | I want to travel in July. |
+| plan | {{Vou viajar em julho.}} | I'm going to travel in July. |
+| ability, permission | {{Posso viajar em julho.}} | I can (I'm free to) travel in July. |
+| need | {{Preciso viajar em julho.}} | I need to travel in July. |
+| obligation | {{Tenho que viajar em julho.}} | I have to travel in July. |
+| expectation | {{Devo viajar em julho.}} | I should / I'm expected to travel in July. |
+
+In each sentence the second verb is the same infinitive, {{viajar}}. Only the first verb changes. This is why one pattern, "conjugated verb + infinitive", serves for a huge part of Portuguese conversation. You can negate it by putting {{não}} before the first verb: {{Não posso viajar em julho}}, {{Não quero viajar em julho}}.
+
+Now watch the pattern in a short real exchange between two friends planning a weekend. Read it aloud, and notice that the verb after the modal never changes.
+
+> {{O que você quer fazer no fim de semana?}} What do you want to do on the weekend?
+> {{Não sei ainda. Posso ir à praia, mas tenho que estudar no domingo.}} I don't know yet. I can go to the beach, but I have to study on Sunday.
+> {{Podemos ir sábado. Eu faço um lanche e a gente leva.}} We can go on Saturday. I'll make a snack and we'll take it.
+> {{Boa ideia! A que horas você quer sair?}} Good idea! What time do you want to leave?
+> {{Vamos sair às nove.}} Let's leave at nine.
+
+New words: {{ainda}} `ah-EE~-dah` (yet, still), {{a praia}} `ah PRIE-ah` (the beach), {{o lanche}} `oo LAH~-shee` (the snack), {{a ideia}} `ah ee-DAY-ah` (the idea), {{levar}} `leh-VAR` (to take, to carry along). Notice {{a gente leva}}: {{a gente}} with the {{ele}} form, as you learned in Lesson 2.
+
+## 7.11 Read a real text
 
 Read the text aloud, first with the guide, then without it.
 
 > {{Eu sei falar um pouco de português e quero aprender mais. Todo dia faço exercícios e vejo vídeos. Hoje não posso sair, porque tenho que trabalhar. Mas amanhã vou conhecer o centro.}}
 
-Guide: `EH-oo say fah-LAR oo~ POH-koo djee por-too-GEHSS ee KEH-roo ah-preh~-DEHR mahss. TOH-doo DJEE-ah FAH-soo eh-zer-SEE-seeooss ee VEH-zhoo VEE-djee-ooss. OH-zhee NOW~ PAW-soo sah-EER, por-KEH tehnyoo kee trah-bah-LYAR. mahss ah-mah-NYAH~ VOH koh-nyeh-SEHR oo SEH~-troo.`
+Guide: `EH-oo say fah-LAR oo~ POH-koo djee por-too-GEHSS ee KEH-roo ah-preh~-DEHR mies. TOH-doo DJEE-ah FAH-soo eh-zer-SEE-see-ooss ee VEH-zhoo VEE-djee-ooss. OH-zhee NOW~ PAW-soo sah-EER, poor-KEE TEH-nyoo kee trah-bah-LYAR. mahss ah-mah-NYAH~ VOH koh-nyeh-SEHR oo SEH~-troo.`
 
 Translation: *I can speak a little Portuguese and I want to learn more. Every day I do exercises and watch videos. Today I can't go out, because I have to work. But tomorrow I'm going to see downtown.*
 
 Check the verbs: {{sei}} (skill), {{quero}} (want, with an infinitive), {{faço}}, {{vejo}} (irregular {{eu}} forms), {{posso}} (can), {{tenho que}} (have to), {{vou conhecer}} (will see for the first time). Now say the same text about another person ({{ele}}): {{Ele sabe falar…, quer aprender…, faz…, vê…}}.
 
-## 7.11 The mistakes English speakers make
+## 7.12 The mistakes English speakers make
 
 ::: erros
 | Wrong | Right | Why |
@@ -282,7 +307,7 @@ Check the verbs: {{sei}} (skill), {{quero}} (want, with an infinitive), {{faço}
 | {{Eles são dizem a verdade.}} | {{Eles dizem a verdade.}} | do not put {{ser}} before an ordinary verb |
 :::
 
-## 7.12 Practice
+## 7.13 Practice
 
 ::: exercicio Part A: Conjugate
 Write the correct present-tense form.
@@ -392,7 +417,7 @@ Each sentence has one mistake. Correct it.
 41. A model answer: {{Em Londres hoje faz frio e faz sol.}}
 :::
 
-## 7.13 Return
+## 7.14 Return
 
 These three questions bring back Lessons 1 to 6.
 
@@ -409,7 +434,7 @@ Check: (1) {{São três e meia}}, {{São quinze para as quatro}}; {{são}} from 
 | Day 7 | Say five sentences with {{saber}} and five with {{conhecer}}. |
 | Day 14 | Tell a friend what you want to do, can do and have to do next week. |
 
-## 7.14 Pocket summary: Lesson 7
+## 7.15 Pocket summary: Lesson 7
 
 ::: resumo
 - **Ir:** {{vou, vai, vamos, vão}}. **Fazer:** {{faço, faz, fazemos, fazem}}; also weather ({{faz frio}}) and "for a time" ({{faz dois anos que}}). **Vir:** {{venho, vem, vimos, vêm}}.
@@ -422,6 +447,6 @@ Check: (1) {{São três e meia}}, {{São quinze para as quatro}}; {{são}} from 
 - **Invitations:** {{Vamos + infinitive}}.
 :::
 
-## 7.15 What comes next
+## 7.16 What comes next
 
 In Lesson 8 you learn to say what is yours and what you like. You will meet the possessives {{meu}}, {{seu}}, {{dele}}, {{dela}}, the demonstratives {{este}}, {{esse}}, {{aquele}}, and the verbs {{gostar de}}, {{amar}} and {{preferir}}.

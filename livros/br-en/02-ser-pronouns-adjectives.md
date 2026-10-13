@@ -80,7 +80,7 @@ If even one man is in the group, Portuguese says {{eles}}. {{Elas}} is only for 
 You will hear three more words.
 
 - **{{Tu}}** `too` also means *you* (one person). It is used in the South of Brazil, in much of the North and Northeast, and by some speakers in Rio. Depending on region and speaker, it takes either the {{ele}} form of the verb ({{tu é}}, {{tu fala}}) or its own ending ({{tu és}}, {{tu falas}}). In São Paulo, Minas Gerais and most of the Southeast, people say {{você}} instead. You will not need to say {{tu}}; you will need to understand it.
-- **{{O senhor}}** `oo seh-NYOR` and **{{a senhora}}** `ah seh-NYOH-rah` are polite forms for an older person or someone you want to treat with respect, such as a customer, a doctor or a grandparent. They take the {{ele/ela}} verb too.
+- **{{O senhor}}** `oo seh-NYOR` and **{{a senhora}}** `ah seh-NYAW-rah` are polite forms for an older person or someone you want to treat with respect, such as a customer, a doctor or a grandparent. They take the {{ele/ela}} verb too.
 - **{{Vós}}** is the old plural of *you*. You will find it in the Bible and in classical texts. Nobody says it today.
 
 ::: dica
@@ -248,7 +248,7 @@ A few high-frequency adjectives, with their opposites:
 | {{bonito / bonita}} | `boh-NEE-too` | pretty, nice-looking |
 | {{grande}} | `GRAH~-djee` | big |
 | {{pequeno / pequena}} | `peh-KEH-noo` | small |
-| {{jovem}} | `ZHOH-veh~ee` | young |
+| {{jovem}} | `ZHAW-veh~ee` | young |
 | {{difícil}} | `djee-FEE-see-oo` | difficult |
 | {{caro / cara}} | `KAH-roo` | expensive |
 | {{barato / barata}} | `bah-RAH-too` | cheap |

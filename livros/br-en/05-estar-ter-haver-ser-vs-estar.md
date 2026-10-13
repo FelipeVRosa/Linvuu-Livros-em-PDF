@@ -412,7 +412,7 @@ These three questions bring back Lessons 1 to 4.
 2. Correct the sentence {{Quanto anos você tem?}} and say why.
 3. Make the plural of {{a mão}} and {{o pão}}, and say which one is nasal in the singular as well.
 
-Check: (1) {{moro}} (`MOH-roo`), {{moramos}} (`moh-RAH-mooss`), {{moram}} (`MOH-rah~oo`); (2) {{Quantos anos você tem?}}, because {{quanto}} agrees with {{anos}}; (3) {{as mãos}}, {{os pães}}; both {{mão}} and {{pão}} are nasal.
+Check: (1) {{moro}} (`MAW-roo`), {{moramos}} (`moh-RAH-mooss`), {{moram}} (`MAW-rah~oo`); (2) {{Quantos anos você tem?}}, because {{quanto}} agrees with {{anos}}; (3) {{as mãos}}, {{os pães}}; both {{mão}} and {{pão}} are nasal.
 
 | When | What to do |
 |---|---|

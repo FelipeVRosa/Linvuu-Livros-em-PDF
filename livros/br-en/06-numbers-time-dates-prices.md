@@ -161,7 +161,7 @@ You will use them for floors, streets and dates: {{o primeiro andar}} (the first
 
 ### Ask and answer
 
-The question is {{Que horas são?}} `kee OH-rahss SOW~`, literally "what hours are?" It is plural, and so is the answer:
+The question is {{Que horas são?}} `kee AW-rahss SOW~`, literally "what hours are?" It is plural, and so is the answer:
 
 | Time | Portuguese |
 |---|---|
@@ -202,7 +202,7 @@ For "at" a time, use **{{à}} / {{às}}**: the fused form of {{a}} + the article
 | {{A que horas é a reunião?}} | At what time is the meeting? |
 | {{Chego às seis em ponto.}} | I arrive at six sharp. |
 
-The question for "at what time" is {{A que horas…?}} `ah kee OH-rahss`, and the answer begins with {{às}} or {{à}}. A nice detail: *early* is {{cedo}} `SEH-doo`, *late* is {{tarde}}, *sharp* is {{em ponto}} `eh~ee POH~-too`, and *about* is {{mais ou menos}} (more or less).
+The question for "at what time" is {{A que horas…?}} `ah kee AW-rahss`, and the answer begins with {{às}} or {{à}}. A nice detail: *early* is {{cedo}} `SEH-doo`, *late* is {{tarde}}, *sharp* is {{em ponto}} `eh~ee POH~-too`, and *about* is {{mais ou menos}} (more or less).
 
 ## 6.8 Days, months and dates
 

@@ -76,7 +76,7 @@ Some endings are strong signals. Learn these and you can guess hundreds of nouns
 :::
 
 ::: atencao
-Every rule has well-known exceptions. The ones you need most are these. **Masculine words ending in -a:** {{o dia}} (day), {{o mapa}} (map), {{o planeta}} (planet), {{o cinema}}, {{o clima}} (climate), {{o programa}}. **Feminine words ending in -o:** {{a mão}} (hand), {{a foto}} (photo, short for *fotografia*), {{a moto}} (motorbike). **Feminine words in -or:** {{a flor}} (flower), {{a cor}} (color), {{a dor}} (pain). **Feminine words in -ão** other than -ção and -são: {{a razão}} (reason), {{a união}} (union), {{a opinião}}. Words in -ão can be masculine too: {{o pão}}, {{o avião}} (plane), {{o limão}}, {{o coração}}, {{o irmão}}.
+Every rule has well-known exceptions. The ones you need most are these. **Masculine words ending in -a:** {{o dia}} (day), {{o mapa}} (map), {{o planeta}} (planet), {{o cinema}}, {{o clima}} (climate), {{o programa}}. **Feminine words ending in -o:** {{a mão}} (hand), {{a foto}} (photo, short for *fotografia*), {{a moto}} (motorbike). **Masculine words in -agem:** {{o personagem}} (character in a story). **Feminine words in -or:** {{a flor}} (flower), {{a cor}} (color), {{a dor}} (pain). **Feminine words in -ão** other than -ção and -são: {{a razão}} (reason), {{a união}} (union), {{a opinião}}. Words in -ão can be masculine too: {{o pão}}, {{o avião}} (plane), {{o limão}}, {{o coração}}, {{o irmão}}.
 :::
 
 ::: passo 3 Look at people and animals
