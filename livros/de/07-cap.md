@@ -40,7 +40,10 @@ Quatro tropeços esperam o brasileiro.
 
 4.  **Datas com ordinal.** O português diz “dia 3” (cardinal). O alemão diz *der dritte* (ordinal): *am dritten Oktober*.
 
-**Pretzel avisa:** *halb* olha para a hora que vem. *Halb vier* é meia hora antes das quatro.
+::: atencao
+*halb* olha para a hora que vem. *Halb vier* é meia hora antes das quatro.
+:::
+
 
 ## 3. Descubra você mesmo
 

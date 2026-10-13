@@ -30,7 +30,7 @@ In a single minute, the scene uses a time of day, a price in reais, a number in 
 | {{a passagem}} | `ah pah-SAH-zheh~ee` | the ticket (for transport) |
 | {{o cartão}} | `oo kar-TOW~` | the card |
 | {{o débito}} | `oo DEH-bee-too` | debit |
-| {{o crédito}} | `oo KREH-dee-too` | credit |
+| {{o crédito}} | `oo KREH-djee-too` | credit |
 | {{o atendente / a atendente}} | `ah-teh~-DEH~-tchee` | the clerk, the attendant |
 | {{agora}} | `ah-GAW-rah` | now |
 
@@ -78,7 +78,7 @@ Only two numbers have a feminine form in this range: {{um}} → {{uma}}, and {{d
 | {{um café}}, {{dois cafés}} | {{uma cerveja}}, {{duas cervejas}} |
 | {{vinte e um alunos}} | {{vinte e uma alunas}} |
 
-Phone numbers deserve a note. Brazilians say each digit on its own and use {{meia}} `MAY-ah` (a half dozen) for **6** because {{seis}} can be confused with {{três}} or {{dez}} on the phone. They say {{zero}} for 0: {{(11) 98765-4321}} is {{onze, nove oito sete meia cinco, quatro três dois um}}.
+Phone numbers deserve a note. Brazilians say each digit on its own and use {{meia}} `MAY-ah` (a half dozen) for **6**, to avoid confusion over the phone. They say {{zero}} for 0: {{(11) 98765-4321}} is {{onze, nove oito sete meia cinco, quatro três dois um}}.
 
 ## 6.4 From twenty-one to ninety-nine
 
@@ -278,7 +278,35 @@ Two verb notes. {{Custa}} is singular because it agrees with one thing, {{custam
 Prices of food and drink are often given with a unit: {{o quilo}} `oo KEE-loo` (kilogram, as in {{vinte reais o quilo}}), {{a dúzia}} `ah DOO-zee-ah` (dozen), {{o litro}} `oo LEE-troo`, {{a unidade}}. Half a kilo is {{meio quilo}}. Note that "half" is {{meio}} before a masculine noun and {{meia}} before a feminine one: {{meio quilo}}, {{meia dúzia}}.
 :::
 
-## 6.10 Read a real text
+## 6.10 Numbers in real situations: quantities, amounts and bargains
+
+Numbers rarely travel alone. In a shop or on the street you hear them with measures, and with a few small words that are worth learning now.
+
+| Portuguese | Guide | Meaning |
+|---|---|---|
+| {{cada}} | `KAH-dah` | each, every |
+| {{por}} | `poor` | per, for |
+| {{o quilo}} | `oo KEE-loo` | the kilo |
+| {{meio quilo}} | `MAY-oo KEE-loo` | half a kilo |
+| {{a dúzia}} | `ah DOO-zee-ah` | the dozen |
+| {{o litro}} | `oo LEE-troo` | the liter |
+| {{o desconto}} | `oo djees-KOH~-too` | the discount |
+| {{o total}} | `oo toh-TAH-oo` | the total |
+
+Here is a short exchange at a fruit stand. Read it aloud and replace the numbers with your own.
+
+> {{Quanto custa o quilo da manga?}} How much is a kilo of mango?
+> {{Seis reais o quilo. Três quilos por quinze.}} Six reais a kilo. Three kilos for fifteen.
+> {{Então quero três quilos. E uma dúzia de laranjas.}} Then I'll take three kilos. And a dozen oranges.
+> {{Dá vinte e dois reais no total.}} That makes twenty-two reais in total.
+
+Three small patterns to notice. First, prices with a unit use the article, never "per": {{seis reais o quilo}}. Second, the preposition {{por}} carries the meaning of "for" in offers: {{três por dez reais}}. Third, you hear {{dá}} (from {{dar}}) in the sense of "it comes to": {{Dá trinta reais}}. It has the same use as {{fica}} in Lesson 3.
+
+**Round numbers and estimates.** When you do not know the exact number, Brazilians say {{uns}} or {{cerca de}} before it: {{uns vinte minutos}} (about twenty minutes), {{cerca de cem pessoas}} (around a hundred people). And when you want to say "a few", use {{alguns}} or {{poucos}} in front of the noun. These give your numbers a natural sound.
+
+**Fractions and percentages.** {{Metade}} `meh-TAH-djee` is the word for "half" as a noun: {{a metade do preço}}. A percentage reads as a number plus {{por cento}} `poor SEH~-too`: {{dez por cento}} (10%), {{cinquenta por cento}} (50%). In a shop you will see {{desconto de vinte por cento}}.
+
+## 6.11 Read a real text
 
 Read the text aloud, first with the guide, then without it.
 
@@ -290,7 +318,7 @@ Translation: *The café on Flowers Street opens at seven in the morning and clos
 
 Check the details: {{às sete}} and {{às nove}} (plural hours), {{ao meio-dia}} (the fusion of {{a}} + {{o}}), {{de segunda a sábado}} (from Monday to Saturday), and the price said in full words. The verbs {{abre}}, {{fecha}} and {{custa}} are third-person singular forms you already know from Lesson 4.
 
-## 6.11 The mistakes English speakers make
+## 6.12 The mistakes English speakers make
 
 ::: erros
 | Wrong | Right | Why |
@@ -306,12 +334,12 @@ Check the details: {{às sete}} and {{às nove}} (plural hours), {{ao meio-dia}}
 | {{Um de maio}} | {{Primeiro de maio}} | the first of the month takes the ordinal |
 | {{Hoje é o treze de outubro.}} | {{Hoje é dia treze de outubro.}} | the pattern is {{dia}} + number |
 | {{Em segunda}} | {{Na segunda}} | days take {{em}} + article: {{na}} |
-| {{Eu chego em seis horas.}} | {{Chego às seis.}} | for clock time use {{às}} |
+| {{A aula é as oito.}} | {{A aula é às oito.}} | "at" + hour = {{às}}, with the grave accent |
 | {{R$ 12.50}} | {{R$ 12,50}} | Brazil uses the decimal comma |
 | {{Três e quinze horas}} | {{São três e quinze.}} | in speech: no {{horas}} after the minutes |
 :::
 
-## 6.12 Practice
+## 6.13 Practice
 
 ::: exercicio Part A: Write the number in words
 1. 15
@@ -423,15 +451,15 @@ Write the date in words.
 40. A model answer: {{Boa tarde. Dois cafés, por favor. Quanto é?}}
 :::
 
-## 6.13 Return
+## 6.14 Return
 
 These three questions bring back Lessons 1 to 5.
 
 1. Which verb do you use to say where a party is, and which to say where a bank is? Give one sentence of each.
 2. Say {{there are two restaurants on the street}} in Portuguese. Which verb?
-3. Where does the stress fall in {{vinte e cinco}} and {{trezentos}}? Why?
+3. Where does the stress fall in {{vinte}} and {{trezentos}}? Why?
 
-Check: (1) {{A festa é na casa da Ana}} ({{ser}} for the event) and {{O banco fica na esquina}} ({{ficar}} or {{estar}}); (2) {{Tem dois restaurantes na rua}}; (3) {{VIN-te}} (ends in **-e**, second-to-last), {{tre-ZEN-tos}} (ends in **-s** after a vowel, second-to-last).
+Check: (1) {{A festa é na casa da Ana}} ({{ser}} for the event) and {{O banco fica na esquina}} ({{ficar}} or {{estar}}); (2) {{Tem dois restaurantes na rua}}; (3) {{VIN-te}} (ends in **-e**, second-to-last), {{tre-ZEN-tos}} (ends in **-os**, second-to-last).
 
 | When | What to do |
 |---|---|
@@ -440,7 +468,7 @@ Check: (1) {{A festa é na casa da Ana}} ({{ser}} for the event) and {{O banco f
 | Day 7 | Say ten prices from a supermarket flyer or a shop window. |
 | Day 14 | Say the date of five important days in your year. |
 
-## 6.14 Pocket summary: Lesson 6
+## 6.15 Pocket summary: Lesson 6
 
 ::: resumo
 - **0–20:** {{zero, um/uma, dois/duas, três, quatro, cinco, seis, sete, oito, nove, dez, onze, doze, treze, catorze, quinze, dezesseis, dezessete, dezoito, dezenove, vinte}}.
@@ -453,6 +481,6 @@ Check: (1) {{A festa é na casa da Ana}} ({{ser}} for the event) and {{O banco f
 - **Phone numbers:** digit by digit; {{meia}} for 6.
 :::
 
-## 6.15 What comes next
+## 6.16 What comes next
 
 In Lesson 7 you meet the most useful irregular verbs: {{ir}}, {{fazer}}, {{poder}}, {{querer}}, {{saber}}, {{vir}}, {{dizer}} and a few friends. With them you can ask permission, make requests, say what you want and what you know, and finally tell {{saber}} from {{conhecer}}.

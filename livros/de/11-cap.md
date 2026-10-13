@@ -50,7 +50,10 @@ O português diz “seu” e “sua” para tudo: “seu pai” pode ser o pai d
 
 Outra diferença: o alemão não usa artigo antes do possessivo. “O meu pai” é *mein Vater*, nunca *der mein Vater*.
 
-**Pretzel avisa:** o dono escolhe a raiz. A coisa possuída escolhe o final.
+::: atencao
+o dono escolhe a raiz. A coisa possuída escolhe o final.
+:::
+
 
 ## 3. Descubra você mesmo
 

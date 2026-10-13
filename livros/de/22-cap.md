@@ -137,7 +137,7 @@ Se você notou o trema, o infinitivo no fim depois de *würde* e o *mit* + dativ
 
 **Wie wäre es mit …?** É um bloco para sugerir: *Wie wäre es mit einem Kaffee?* (Que tal um café?) *Mit* pede dativo.
 
-**O que vem depois.** Com *wenn* (capítulo 24) e as frases irreais (capítulo 34), o Konjunktiv II vai para o “se eu tivesse”: *Wenn ich Zeit hätte, würde ich kommen.* Por enquanto, reconheça.
+**O que vem depois.** Com *wenn* (capítulo 24) e as frases irreais (B1), o Konjunktiv II vai para o “se eu tivesse”: *Wenn ich Zeit hätte, würde ich kommen.* Por enquanto, reconheça.
 
 **Tom e cultura.** Pedir sem Konjunktiv II não é rude entre amigos. Com estranhos, em lojas e no trabalho, a forma educada é a regra.
 

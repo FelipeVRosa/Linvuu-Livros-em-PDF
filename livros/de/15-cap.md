@@ -209,7 +209,10 @@ Escreva três regras de uma casa com *Du darfst nicht …* **Degrau 4. Corrija o
 
 O erro que mais custa caro é **colocar o infinitivo logo depois do modal**: *Ich kann sprechen Deutsch.* O infinitivo vai para o fim. O segundo erro é **trocar *nicht müssen* e *nicht dürfen***: dizer *Du musst hier nicht parken* quando se quer dizer “proibido”.
 
-**Pretzel avisa:** modal na posição 2, infinitivo no fim. E *nicht müssen* não é proibição.
+::: atencao
+modal na posição 2, infinitivo no fim. E *nicht müssen* não é proibição.
+:::
+
 
 ## 9. Retorno
 

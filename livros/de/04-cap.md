@@ -34,7 +34,10 @@ Há uma segunda armadilha. O português tem “onde” para três ideias. O alem
 | aonde, para onde | wohin  | Wohin gehst du?  |
 | de onde          | woher  | Woher kommst du? |
 
-**Pretzel avisa:** *wo* parado, *wohin* com movimento para lá, *woher* com movimento de lá.
+::: atencao
+*wo* parado, *wohin* com movimento para lá, *woher* com movimento de lá.
+:::
+
 
 ## 3. Descubra você mesmo
 

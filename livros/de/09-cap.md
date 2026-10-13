@@ -182,7 +182,10 @@ Escreva três pares de pergunta e resposta com *Wem gehört …?* Escreva três 
 
 O erro que mais custa caro é **usar o acusativo com *helfen***: *Ich helfe dich.* Em português “ajudar” pede objeto direto, e isso engana. O segundo erro é esquecer que a pessoa vem antes da coisa: *Ich gebe das Buch dem Mann* funciona, mas soa menos natural.
 
-**Pretzel avisa:** *helfen, danken, gehören, gefallen, antworten*: dativo. Sempre.
+::: atencao
+*helfen, danken, gehören, gefallen, antworten*: dativo. Sempre.
+:::
+
 
 ## 9. Retorno
 

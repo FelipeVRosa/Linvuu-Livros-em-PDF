@@ -183,7 +183,10 @@ Explique a um amigo como chegar à sua casa, em quatro frases.
 
 O erro que mais custa caro é **ignorar o caso depois da preposição**: *in der Küche* ou *in die Küche*? Em português, “na cozinha” e “para a cozinha” usam palavras diferentes, mas o alemão usa *in* nos dois e muda o artigo. A pergunta é: estou parado ou me movendo?
 
-**Pretzel avisa:** *wo?* pede dativo. *Wohin?* pede acusativo. Pergunte antes de escrever.
+::: atencao
+*wo?* pede dativo. *Wohin?* pede acusativo. Pergunte antes de escrever.
+:::
+
 
 ## 9. Retorno
 

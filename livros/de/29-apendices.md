@@ -432,13 +432,13 @@ Procure a frase que parece com a sua. A tabela leva ao capítulo que explica o e
 | Erro | Certo | Em poucas palavras | Cap. |
 |---|---|---|---|
 | ~~Ich trinke keinen Kaffee, aber Tee.~~ ~~denn ich krank bin~~ | Ich trinke keinen Kaffee, sondern Tee. denn ich bin krank | *sondern* corrige uma negativa; depois de *denn* a ordem não muda | 23 |
-| ~~weil ich bin müde~~ | weil ich müde bin | depois de *weil* o verbo vai para o fim | 24 |
-| ~~Weil ich müde bin, ich gehe nach Hause.~~ | Weil ich müde bin, gehe ich nach Hause. | a subordinada na frente é a posição 1 | 24 |
+| ~~weil ich bin müde~~; ~~Weil ich müde bin, ich gehe nach Hause.~~ | weil ich müde bin; Weil ich müde bin, gehe ich nach Hause. | depois de *weil* o verbo vai para o fim; a subordinada na frente é a posição 1 | 24 |
 | ~~Wenn ich klein war~~; ~~Ich weiß nicht, wenn er kommt~~ | Als ich klein war; Ich weiß nicht, ob er kommt | *als* para uma vez no passado; *ob* para “se” de dúvida | 24 |
 | ~~die Frau, dass ich kenne~~; ~~der Mann, der ich kenne~~ | die Frau, die ich kenne; der Mann, den ich kenne | o relativo concorda com a palavra anterior; o caso vem da função | 25 |
 | ~~Ich gebe ihm es.~~ ~~Ich wohne in Berlin seit zwei Jahren.~~ | Ich gebe es ihm. Ich wohne seit zwei Jahren in Berlin. | entre dois pronomes, o acusativo vem primeiro; tempo antes de lugar | 26 (e 9) |
 | ~~Komm her! Warte!~~ (secos demais); ~~Mal komm her!~~ | Komm mal her! Warte mal! | a partícula suaviza e fica no meio da frase, depois do verbo | 27 |
-| supor que *bekommen* é “tornar-se” e que *Gift* é “presente” | bekommen é receber; Gift é veneno | falsos amigos | 28 (e 17) |
+| ~~das Handtasche~~, ~~das Kinder Zimmer~~ | die Handtasche, das Kinderzimmer | o artigo vem da última parte; a palavra composta se escreve junta | 28 (e 5) |
+| supor que *Rente* é “renda”, *Konkurs* é “concurso”, *Dose* é “dose” | Rente é aposentadoria, Konkurs é falência, Dose é lata | falsos amigos do português | 28 |
 
 ## Glossário dos termos gramaticais
 
@@ -572,4 +572,4 @@ Use este mapa a cada quatro capítulos, ou quando um erro voltar. Para cada cap�
 | 25 | Relativas | *der* ou *den*: *der Mann, ___ ich kenne.* *Die Frau, ___ hier wohnt.* |
 | 26 | Ordem das palavras | Diga “dei-o a ela” (*Ich habe … gegeben*). Ordene numa frase: *nach Berlin / morgen / ich fahre / mit dem Zug*. |
 | 27 | Partículas modais | Suavize *Komm her!* e *Warte!* com *mal*. Onde fica a partícula na frase? |
-| 28 | Formação de palavras; falsos amigos | Monte uma palavra composta e diga o gênero. O que quer dizer *bekommen*? |
+| 28 | Formação de palavras; falsos amigos | Qual é o artigo de *Handtasche* e por quê? O que significam *Rente*, *Konkurs* e *bekommen*? |

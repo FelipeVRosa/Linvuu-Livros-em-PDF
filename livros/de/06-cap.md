@@ -37,7 +37,10 @@ O português tem um único “não”, sempre antes do verbo: “Não moro em Be
 
 Há uma segunda armadilha. Em português, “não tenho nada” e “nunca tenho tempo” usam “não” junto de outra palavra negativa. Em alemão não: *Ich habe nichts.* *Ich habe nie Zeit.* Sem *nicht*.
 
-**Pretzel avisa:** tem *ein* na frase afirmativa? Troque por *kein*. Não tem *ein*? Use *nicht*.
+::: atencao
+tem *ein* na frase afirmativa? Troque por *kein*. Não tem *ein*? Use *nicht*.
+:::
+
 
 ## 3. Descubra você mesmo
 

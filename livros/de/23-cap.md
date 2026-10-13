@@ -105,7 +105,7 @@ Se você notou que a ordem não muda, que o sujeito pode sumir e que *sondern* v
 
 ## 5. Por dentro
 
-**Por que “posição zero”.** Lembra do capítulo 4? O verbo fica sempre na posição 2. Quando uma frase começa com *Heute* ou *Dann*, o verbo vem logo depois (*Dann gehe ich*). Os cinco conectores deste capítulo ficam **fora** da contagem, por isso o sujeito pode vir depois: *und ich gehe*. Assim, *und, aber, oder, denn, sondern* não mexem na ordem.
+**Por que “posição zero”.** Lembra do capítulo 3? O verbo fica sempre na posição 2. Quando uma frase começa com *Heute* ou *Dann*, o verbo vem logo depois (*Dann gehe ich*). Os cinco conectores deste capítulo ficam **fora** da contagem, por isso o sujeito pode vir depois: *und ich gehe*. Assim, *und, aber, oder, denn, sondern* não mexem na ordem.
 
 **Cuidado com *deshalb* e *dann*.** Esses não são iguais a *denn*. Eles contam como posição 1, e o verbo vem em seguida: *Ich bin müde, deshalb gehe ich nach Hause.* Você verá o quadro completo no capítulo 26.
 

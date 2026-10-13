@@ -32,7 +32,10 @@ Em português, a ordem é flexível mas o sujeito costuma abrir a frase: “Hoje
 | Agora estudamos alemão. | Jetzt lernen wir Deutsch.  | Jetzt wir lernen Deutsch.  |
 | Ali trabalha a Maria.   | Dort arbeitet Maria.       | Dort Maria arbeitet.       |
 
-**Pretzel avisa:** conte as posições. Um bloco, o verbo. Sempre nessa ordem.
+::: atencao
+conte as posições. Um bloco, o verbo. Sempre nessa ordem.
+:::
+
 
 ## 3. Descubra você mesmo
 

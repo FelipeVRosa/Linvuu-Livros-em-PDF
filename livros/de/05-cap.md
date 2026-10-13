@@ -30,7 +30,10 @@ Repare: *das Fenster* virou *es*, *der Schrank* virou *er*, *die Küche* virou *
 
 O português não tem neutro. O alemão tem três gêneros: **der** (masculino), **die** (feminino) e **das** (neutro). No plural, o artigo é sempre **die**.
 
-**Pretzel avisa:** nunca aprenda *Tisch*. Aprenda *der Tisch*.
+::: atencao
+nunca aprenda *Tisch*. Aprenda *der Tisch*.
+:::
+
 
 ## 3. Descubra você mesmo
 

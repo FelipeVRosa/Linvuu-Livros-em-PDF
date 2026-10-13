@@ -140,7 +140,7 @@ Se você notou que o presente + *morgen* já é futuro, que *werden* pede o infi
 
 **Tempo com *in*.** *In zwei Wochen* é “daqui a duas semanas”. Você já sabe: *in* + dativo, aqui para tempo (capítulo 10).
 
-**O irmão de *wird*.** No capítulo 22, você verá *würde* + infinitivo, que serve para dizer “iria”, “faria”. No capítulo 33, *werden* + particípio servirá para a passiva.
+**O irmão de *wird*.** No capítulo 22, você verá *würde* + infinitivo, que serve para dizer “iria”, “faria”. No B1, *werden* + particípio servirá para a passiva.
 
 **Subordinadas.** No capítulo 24, o *werden* vai para o fim da frase: *dass ich bleiben werde.* Fica raro na fala.
 

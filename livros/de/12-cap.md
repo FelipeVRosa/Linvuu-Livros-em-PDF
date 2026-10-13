@@ -50,7 +50,10 @@ O português compara com palavras soltas: “**mais** grande **que**”, “**t�
 | mais bonito      | schöner     |
 | melhor           | besser      |
 
-**Pretzel avisa:** comparação de diferença usa **als**. Comparação de igualdade usa **wie**.
+::: atencao
+comparação de diferença usa **als**. Comparação de igualdade usa **wie**.
+:::
+
 
 ## 3. Descubra você mesmo
 
@@ -194,7 +197,10 @@ Escreva suas preferências com *gern, lieber, am liebsten* (bebidas ou comidas).
 
 O erro que mais custa caro é **usar *mehr* + adjetivo**: *mehr schön*. Em português “mais bonito” usa uma palavra solta; em alemão o final vai no adjetivo: *schöner*. O segundo erro é *größer wie*.
 
-**Pretzel avisa:** diferença = **als**. Igualdade = **wie**. Comparou? Cole o **-er**.
+::: atencao
+diferença = **als**. Igualdade = **wie**. Comparou? Cole o **-er**.
+:::
+
 
 ## 9. Retorno
 
