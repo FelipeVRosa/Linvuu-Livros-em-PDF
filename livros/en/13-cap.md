@@ -143,7 +143,7 @@ Se você notou que as perguntas sobre o sujeito vão direto ao verbo, sem auxili
 Com *who* no sujeito do presente, o verbo vai para a terceira pessoa do singular, mesmo que se espere mais de uma pessoa: {{Who wants coffee?}}, {{Who lives here?}}
 
 ::: atencao
-~~Who did call you?~~ está errado. Com {{who}} sujeito, a forma é {{Who called you?}} Se você quer perguntar "quem Tom ligou?", aí sim: {{Who did Tom call?}}
+~~Who did call you?~~ está errado. Com {{who}} sujeito, a forma é {{Who called you?}} Se você quer perguntar "para quem o Tom ligou?", aí sim: {{Who did Tom call?}}
 :::
 
 **Preposição no fim.** O inglês mantém a preposição junto do verbo.

@@ -151,7 +151,7 @@ Pergunta: {{What time is it?}} ou {{Do you have the time?}} Resposta com *It's*.
 | 3:50 | {{It's ten to four.}} | {{It's three fifty.}} |
 | 12:00 | {{It's noon.}} / {{It's midnight.}} | {{It's twelve o'clock.}} |
 
-Duas regras: **(1)** passa-se do *past* ao *to* depois da meia hora. **(2)** Ao dizer *half past three*, "três e meia", não se diz ~~half three~~ (isso, em alguns dialetos britânicos, significa 2:30!). Em inglês americano, *half past three* é a forma segura.
+Duas regras: **(1)** passa-se do *past* ao *to* depois da meia hora. **(2)** Ao dizer *half past three*, "três e meia", evite ~~half three~~ nos Estados Unidos: é uma forma informal britânica (também 3:30) que o americano pode não entender. Em inglês americano, *half past three* é a forma segura.
 
 Para marcar o período do dia, use *a.m.* (antes do meio-dia) e *p.m.* (depois): {{7 a.m.}} (sete da manhã), {{7 p.m.}} (sete da noite). O relógio de 24 horas é comum em horários de transporte, mas na fala: {{The train leaves at fourteen thirty.}} só aparece em contextos formais ou militares.
 
@@ -201,7 +201,7 @@ Preços em dólar se leem em duas partes: {{$5}} = *five dollars*; {{$5.50}} = *
 Pergunte o preço com {{How much is it?}} / {{How much are they?}} / {{How much does it cost?}} Na resposta: {{It's $12.}} / {{They're $5 each.}}
 
 ::: atencao
-Os preços usam o **ponto** decimal: $1.50. E a **vírgula** separa milhares: $1,500. Se você ler "$1,50", o americano vai ver "um mil e cinquenta" (ou ficar confuso). O mesmo vale para outros números: 1,000 é mil, 1.5 é um e meio.
+Os preços usam o **ponto** decimal: $1.50. E a **vírgula** separa milhares: $1,500. Se você ler "$1,50", o americano pode entender "cento e cinquenta" (ou ficar confuso). O mesmo vale para outros números: 1,000 é mil, 1.5 é um e meio.
 :::
 
 ## 6. Frases de ouro
@@ -392,7 +392,7 @@ Pergunto e entendo um preço, mesmo com números parecidos.
 
 3.  I live in Chicago.
 
-4.  It's half past three. (*half three* pode significar 2:30 em alguns dialetos)
+4.  It's half past three. (*half three* é informal britânico, também 3:30, e soa estranho para o americano)
 
 5.  Wait for me at the door.
 

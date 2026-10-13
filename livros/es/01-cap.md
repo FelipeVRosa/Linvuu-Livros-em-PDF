@@ -28,7 +28,7 @@ Camila chega tarde a um albergue em Bogotá e faz o check-in.
 
 Em português: Boa noite. A senhora tem reserva? / Tenho, no nome de Camila Rocha. / Como se escreve o sobrenome? / Erre, o, ce, agá, a. Rocha, com agá. / Perfeito. A senhora está no quarto oito, com vista para a rua. Aqui está a chave. / Obrigada. A que horas é o café da manhã? / Das sete às dez. E amanhã tem um jantar para todos os hóspedes. / Que bom! Posso deixar a mala aqui até o meio-dia? / Claro. Descanse bem.
 
-Repare em quatro coisas que a grafia já mostrou: o *h* de *hache* e de *huéspedes* não soa; o *ll* de *llave* e o *ñ* de *mañana* são letras que o português escreve de outro jeito (*lh*, *nh*); *Rocha* termina em *-a* bem aberta, e *noches* termina em *-es*, não em "-is".
+Repare em quatro coisas que a grafia já mostrou: o *h* de *hache* e de *huéspedes* não soa; o *ll* de *llave* e o *ñ* de *mañana* são grafias que o português não tem (o *ñ* equivale ao nosso *nh*); *Rocha* termina em *-a* bem aberta, e *noches* termina em *-es*, não em "-is".
 
 ## 2. A armadilha do português
 
@@ -80,7 +80,7 @@ Se você notou que o som de *g* e de *c* depende da vogal seguinte, e que *h* nu
 
 ::::: dica
 1. São **cinco vogais**: *a, e, i, o, u*. Cada uma tem um som só, sempre claro, inclusive no fim da palavra e sem acento. Não existe vogal nasal.
-2. **h** não soa. *Hola* = "ola". *Hacer* = "a-sér" (ou "a-cér", ver abaixo).
+2. **h** não soa. *Hola* = "ola". *Hacer* = "a-sér" (ou, na Espanha, com o *th* do inglês *think*; ver abaixo).
 3. **ñ** = *nh* do português (*mañana* = "manhana"). **ll** e **y** soam como um "i" forte ou "dj", conforme a região (ver Por dentro).
 4. **j** e **g** (antes de *e, i*) soam como o *r* de "rato": *jefe*, *gente*.
 5. **rr** é o *r* forte; **r** no começo de palavra também: *perro*, *rojo*, *río*.
@@ -121,13 +121,13 @@ Cada vogal tem um som, curto e sem deslizar. O truque para o brasileiro é **nã
 | o | entre o *ô* e o *ó*, sempre igual | *amigo* termina em *o*, nunca "u" |
 | u | como o *u* de "uva" | em *gue, gui, que, qui* o *u* é mudo |
 
-Ditongos são combinações de vogal fraca (*i, u*) com forte (*a, e, o*) na mesma sílaba: *tiene*, *puerta*, *causa*, *hay*, *muy*. Em *hay* e *muy*, o *y* final soa como *i*. Não confunda com o português, onde "tem" e "muito" têm vogais nasais.
+Ditongos são combinações de vogal fraca (*i, u*) com forte (*a, e, o*), ou de duas fracas, na mesma sílaba: *tiene*, *puerta*, *causa*, *hay*, *muy*. Em *hay* e *muy*, o *y* final soa como *i*. Não confunda com o português, onde "tem" e "muito" têm vogais nasais.
 
 ### As consoantes que mudam em relação ao português
 
-**c e z.** Diante de *a, o, u* ou consoante, o *c* soa como o *c* de "casa": *casa*, *cosa*, *cuna*, *clase*. Diante de *e, i* e para o *z*, o som é de *s* na América Latina e em parte da Espanha meridional (*cena*, *cinco*, *zapato* = "sena", "sinco", "sapato"). Na maior parte da Espanha, esse som é um *s* com a ponta da língua entre os dentes, parecido com o *th* do inglês *think*. Esse som se chama *distinción*, e a pronúncia latino-americana se chama *seseo*. Os dois são plenamente corretos; escolha um e mantenha. Não existe *ç* em espanhol.
+**c e z.** Diante de *a, o, u* ou consoante, o *c* soa como o *c* de "casa": *casa*, *cosa*, *cuna*, *clase*. Diante de *e, i* e para o *z*, o som é de *s* na América Latina e em parte da Espanha meridional (*cena*, *cinco*, *zapato* = "sena", "sinco", "sapato"). Na maior parte da Espanha, esse som é um *s* com a ponta da língua entre os dentes, parecido com o *th* do inglês *think*. Distinguir esse som do *s* se chama *distinción*; pronunciar os dois como *s*, como na América Latina, se chama *seseo*. Os dois são plenamente corretos; escolha um e mantenha. Não existe *ç* em espanhol.
 
-**g, gu, j.** *Ga, go, gu* soam como o *g* de "gato": *gato*, *gota*, *gusto*. Antes de *e* e *i*, o *g* soa como o *j* espanhol (*gente*, *girar*). Para ter o som de "gato" antes de *e, i*, escreve-se **gu**: *guerra*, *guitarra* (o *u* é mudo). Se o *u* tem de soar, usa-se o trema: *pingüino*, *vergüenza*. O **j** soa sempre igual: *jamón*, *viaje*, *mujer*. Esse som é áspero, mais forte que o *h* do inglês, e semelhante ao *r* de "rato" em português carioca.
+**g, gu, j.** *Ga, go, gu* soam como o *g* de "gato": *gato*, *gota*, *gusto*. Antes de *e* e *i*, o *g* soa como o *j* espanhol (*gente*, *girar*). Para ter o som de "gato" antes de *e, i*, escreve-se **gu**: *guerra*, *guitarra* (o *u* é mudo). Se o *u* tem de soar, usa-se o trema: *pingüino*, *vergüenza*. O **j** soa sempre igual: *jamón*, *viaje*, *mujer*. Na Espanha esse som é áspero, mais forte que o *h* do inglês; em boa parte da América (Caribe, Colômbia, América Central) é mais suave, um *h* aspirado. Nos dois casos lembra o *r* de "rato" do português carioca.
 
 **que, qui e k.** *Q* só aparece em *que* e *qui*, com o *u* mudo: *queso*, *quien*. O som é o do *c* de "casa". O *k* é raro e vem de palavras estrangeiras (*kilo*, *karaoke*).
 
@@ -141,7 +141,7 @@ Ditongos são combinações de vogal fraca (*i, u*) com forte (*a, e, o*) na mes
 
 **v e b.** São o mesmo som. Em início de frase ou depois de *m, n*, é um *b* firme (*bien*, *un vaso*). Entre vogais, é mais suave, quase sem fechar os lábios (*lavar*, *haber*). Você nunca encosta os dentes no lábio.
 
-**s.** Soa sempre como o *s* de "sapo", mesmo entre vogais: *casa*, *rosa*, *mismo*. Em várias regiões (Caribe, Chile, Andaluzia, Buenos Aires), o *s* final de sílaba é fraco ou vira um sopro, mas não se escreve diferente.
+**s.** Soa sempre como o *s* de "sapo", mesmo entre vogais: *casa*, *rosa*, *peso*. Em várias regiões (Caribe, Chile, Andaluzia, Buenos Aires), o *s* final de sílaba é fraco ou vira um sopro, mas não se escreve diferente.
 
 **d.** Entre vogais, o *d* é suave, quase um *th* de *this* (*nada*, *todo*), e no fim da palavra é muito fraco (*ciudad*, *verdad*). Antes de *i* continua *d* firme: *dice*, *diez*, e nunca "dji".
 

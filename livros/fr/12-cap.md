@@ -227,7 +227,7 @@ Faça três perguntas a alguém mais velho sobre como era a vida antes, começan
 
 2.  {{Il y avaient beaucoup de gens.}}
 
-3.  {{Avant, nous mangeions ensemble le dimanche.}}
+3.  {{Avant, nous mangions ensemble le dimanche.}}
 
 4.  {{Tout à coup, mon frère entrait et criait.}}
 
@@ -331,7 +331,7 @@ Escolho imparfait ou passé composé numa história curta e explico a escolha.
 ::::: gabarito
 **Degrau 1.** 1 jouais (hábito). 2 dormait (cenário). 3 a sonné (fato). 4 faisait (clima de fundo). 5 a habité (período delimitado por *pendant trois ans*). 6 allions (*chaque dimanche*, hábito). 7 C'était (descreve quem era o homem). 8 savais (estado: eu não sabia, e ela estava doente).
 
-**Degrau 2.** 1 étions, habitions. 2 avais. 3 pleuvait, avais. 4 mangeaient. 5 commençait. 6 étudiiez. 7 me levais. 8 dormais, a sonné. 9 avait, sommes partis. 10 prenions.
+**Degrau 2.** 1 étions, habitions. 2 avais. 3 pleuvait, avais. 4 mangeaient. 5 commençait (hábito; *a commencé* também cabe se for um fato único). 6 étudiiez. 7 me levais. 8 dormais, a sonné. 9 avait, sommes partis. 10 prenions.
 
 **Degrau 3.** Respostas pessoais. Confira: imparfait em cenário e hábito; passé composé nos fatos; *mangeais/commençais* com a ortografia certa; *il y avait* nunca no plural.
 

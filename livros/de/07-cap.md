@@ -83,15 +83,11 @@ Perguntas: Em que ordem aparecem as partes de *einundzwanzig*? O que *halb* faz 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **0 a 12:** null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf. **13 a 19:**
-
-unidade + *zehn* (dreizehn, vierzehn, fünfzehn, **sechzehn**, **siebzehn**, achtzehn, neunzehn).
+1.  **0 a 12:** null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun, zehn, elf, zwölf. **13 a 19:** unidade + *zehn* (dreizehn, vierzehn, fünfzehn, **sechzehn**, **siebzehn**, achtzehn, neunzehn).
 
 2.  **Dezenas:** zwanzig, **dreißig**, vierzig, fünfzig, sechzig, siebzig, achtzig, neunzig.
 
-3.  **21 a 99:** unidade + *und* + dezena, escrito junto: *fünfunddreißig* (35). Com 1, use *ein-*:
-
-*einundzwanzig*.
+3.  **21 a 99:** unidade + *und* + dezena, escrito junto: *fünfunddreißig* (35). Com 1, use *ein-*: *einundzwanzig*.
 
 4.  **100:** hundert. **1000:** tausend. Depois de *hundert*, não há *und*: 125 = *hundertfünfundzwanzig*.
 
@@ -118,9 +114,7 @@ unidade + *zehn* (dreizehn, vierzehn, fünfzehn, **sechzehn**, **siebzehn**, ach
 
 **Dias da semana.** Segunda a domingo: *Montag, Dienstag, Mittwoch, Donnerstag, Freitag, Samstag, Sonntag*. A semana começa na segunda. *Sonnabend* é outro nome do sábado, mais usado no norte.
 
-**Meses.** Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober,
-
-November, Dezember. Para “em maio”, diz-se *im Mai*. As quatro estações: *der Frühling, der Sommer, der Herbst, der Winter*. “No verão” é *im Sommer*.
+**Meses.** Januar, Februar, März, April, Mai, Juni, Juli, August, September, Oktober, November, Dezember. Para “em maio”, diz-se *im Mai*. As quatro estações: *der Frühling, der Sommer, der Herbst, der Winter*. “No verão” é *im Sommer*.
 
 **Hora de conversa e hora oficial.** Na conversa, usa-se o relógio de 12 horas com *halb* e *Viertel*. Em horários de transporte, escola e TV, usa-se o de 24 horas: *achtzehn Uhr zwanzig* (18h20).
 
@@ -128,7 +122,7 @@ November, Dezember. Para “em maio”, diz-se *im Mai*. As quatro estações: *
 
 **Datas escritas.** O dia vem antes do mês: *12.05.2026* é 12 de maio. Lido, vira *der zwölfte Mai*.
 
-**Anos.** Até 1999, o ano é lido em centénas: 1990 = *neunzehnhundertneunzig*. De 2000 em diante, é lido inteiro: 2026 = *zweitausendsechsundzwanzig*.
+**Anos.** Até 1999, o ano é lido em centenas: 1990 = *neunzehnhundertneunzig*. De 2000 em diante, é lido inteiro: 2026 = *zweitausendsechsundzwanzig*.
 
 **Dinheiro e decimais.** Como no Brasil, a vírgula separa os decimais e o ponto separa os milhares: *3,50 €*, *1.250 €*. Lido: *drei Euro fünfzig*, *tausendzweihundertfünfzig Euro*.
 

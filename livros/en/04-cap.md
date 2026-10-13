@@ -157,7 +157,7 @@ Os plurais regulares (capítulo 2): {{-s}}, {{-es}}, {{-ies}}. Mais algumas regr
 
 | Regra | Exemplos |
 |---|---|
-| **-f / -fe → -ves** | {{knife → knives, wife → wives, leaf → leaves, shelf → shelves}} |
+| **-f / -fe → -ves** (várias palavras comuns; outras só ganham -s: {{roof → roofs}}) | {{knife → knives, wife → wives, leaf → leaves, shelf → shelves}} |
 | **-o → -oes** (poucos) | {{tomato → tomatoes, potato → potatoes}} |
 | **-o → -os** (a maioria) | {{photo → photos, piano → pianos, video → videos}} |
 
@@ -177,7 +177,7 @@ Os irregulares mais frequentes, que merecem memória:
 
 {{People}} é plural: {{People are friendly here.}} Quando a palavra for a pessoa isolada, diga {{a person}}.
 
-Há também substantivos que só existem no plural, por serem duas partes: {{jeans, trousers, shorts, glasses, scissors}}. Para contar: {{a pair of jeans}}, {{two pairs of glasses}}.
+Há também substantivos que só existem no plural, por serem duas partes: {{jeans, pants}} (britânico: {{trousers}}){{, shorts, glasses, scissors}}. Para contar: {{a pair of jeans}}, {{two pairs of glasses}}.
 
 **5.4 Some e any**
 
@@ -334,7 +334,7 @@ Antes de pôr {{a / an}} ou {{-s}}, pergunte: dá para contar um por um? Se não
 
 | Quando | O que fazer |
 |---|---|
-| Dia 1 | Leia a Cena em voz alta e troque os produtos por os da sua geladeira. |
+| Dia 1 | Leia a Cena em voz alta e troque os produtos pelos da sua geladeira. |
 | Dia 3 | Liste dez incontáveis que você usa e diga uma unidade para cada um. |
 | Dia 7 | Refaça o Degrau 4 sem a chave. |
 | Dia 14 | Escreva um e-mail curto para um albergue pedindo informações, sem erro de {{information}} / {{advice}}. |
@@ -391,7 +391,7 @@ Pergunto {{How much...?}} ou {{How many...?}} com a palavra certa.
 ::::: gabarito
 **Degrau 1.** 1 some (advice é incontável: nada de {{an}}). 2 is (traffic é incontável, singular). 3 many (eggs é contável). 4 any (negativa). 5 some (oferta). 6 children. 7 advice (sem plural). 8 few ("alguns" com contável).
 
-**Degrau 2.** 1 a (tomato é contável, singular). 2 an (som de vogal). 3 any. 4 any. 5 knives. 6 women. 7 tomatoes. 8 many. 9 a little ("uma pequena quantidade" com incontável). 10 is.
+**Degrau 2.** 1 a (tomato é contável, singular). 2 an (som de vogal). 3 any (também {{much}}: "não temos muitos móveis"). 4 any ({{many}} também é gramatical, mas muda o sentido para "muitas"). 5 knives. 6 women. 7 tomatoes. 8 many. 9 a little ("uma pequena quantidade" com incontável). 10 is.
 
 **Degrau 3.** Respostas pessoais. Confira: nenhuma ~~informations~~ / ~~advices~~; {{much / a little}} só com incontável; {{many / a few}} só com plural; {{some}} na afirmativa e {{any}} na negativa e na pergunta.
 

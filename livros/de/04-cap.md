@@ -6,9 +6,19 @@
 
 Camila está na sala de aula. A professora faz a chamada. Ao lado, senta Jonas.
 
-**Lehrerin:** Guten Morgen! Wer ist Camila? **Camila:** Das bin ich. **Lehrerin:** Woher kommen Sie, Camila? **Camila:** Aus Brasilien. Ich wohne jetzt in München. **Lehrerin:** Sprechen Sie Englisch? **Camila:** Ja, ein bisschen.
-
 ::: dialogo
+**Lehrerin:** Guten Morgen! Wer ist Camila?
+
+**Camila:** Das bin ich.
+
+**Lehrerin:** Woher kommen Sie, Camila?
+
+**Camila:** Aus Brasilien. Ich wohne jetzt in München.
+
+**Lehrerin:** Sprechen Sie Englisch?
+
+**Camila:** Ja, ein bisschen.
+
 **Jonas:** Hallo, ich bin Jonas. Wo wohnst du?
 
 **Camila:** Ich wohne in Schwabing.
@@ -18,9 +28,7 @@ Camila está na sala de aula. A professora faz a chamada. Ao lado, senta Jonas.
 **Camila:** Gern!
 :::
 
-Em português: Bom dia! Quem é Camila? / Sou eu. / De onde a senhora vem, Camila? / Do
-
-Brasil. Agora moro em Munique. / A senhora fala inglês? / Sim, um pouquinho. // Oi, eu sou o Jonas. Onde você mora? / Moro em Schwabing. / Legal! Eu também. Vamos tomar um café depois? / Vamos!
+Em português: Bom dia! Quem é Camila? / Sou eu. / De onde a senhora vem, Camila? / Do Brasil. Agora moro em Munique. / A senhora fala inglês? / Sim, um pouquinho. // Oi, eu sou o Jonas. Onde você mora? / Moro em Schwabing. / Legal! Eu também. Vamos tomar um café depois? / Vamos!
 
 ## 2. A armadilha do português
 
@@ -131,15 +139,11 @@ Se você viu que o verbo abre a pergunta de sim ou não e fica em segundo lugar 
 
 **Degrau 2. Complete.**
 
-Conjugue: \_\_\_\_ du Deutsch? (lernen) Wo \_\_\_\_ Camila? (wohnen) Woher \_\_\_\_ ihr?
-
-(kommen) \_\_\_\_ Sie in München? (wohnen)
+Conjugue: \_\_\_\_ du Deutsch? (lernen) Wo \_\_\_\_ Camila? (wohnen) Woher \_\_\_\_ ihr? (kommen) \_\_\_\_ Sie in München? (wohnen)
 
 Transforme em pergunta de sim ou não: Tom arbeitet heute. / Du trinkst Kaffee. / Sie wohnen in Berlin.
 
-Ligue: (1) Wer ist das? (2) Was machst du? (3) Wie alt bist du? (4) Woher kommst du?
-
-\(5\) Wo wohnst du? com (a) In Schwabing. (b) Ich bin 28 Jahre alt. (c) Das ist Jonas. (d) Aus Brasilien. (e) Ich lerne Deutsch.
+Ligue: (1) Wer ist das? (2) Was machst du? (3) Wie alt bist du? (4) Woher kommst du? (5) Wo wohnst du? com (a) In Schwabing. (b) Ich bin 28 Jahre alt. (c) Das ist Jonas. (d) Aus Brasilien. (e) Ich lerne Deutsch.
 
 **Degrau 3. Produza.**
 

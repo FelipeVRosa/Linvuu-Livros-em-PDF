@@ -26,9 +26,7 @@ Camila mostra uma foto no celular. Jonas pergunta quem é quem.
 **Jonas:** Meine Familie wohnt auch weit weg.
 :::
 
-Em português: Quem é esse na foto? / É a minha família. Este é o meu pai, esta é a minha mãe e este é o meu irmão Pedro. / E essa mulher? / É a minha tia. O marido dela é médico. /
-
-Onde mora a sua família? / Os meus pais moram em Recife. O meu irmão estuda em São Paulo. / De qual foto você mais gosta? / Desta foto. Aqui estão todos juntos. / A minha família também mora longe.
+Em português: Quem é esse na foto? / É a minha família. Este é o meu pai, esta é a minha mãe e este é o meu irmão Pedro. / E essa mulher? / É a minha tia. O marido dela é médico. / Onde mora a sua família? / Os meus pais moram em Recife. O meu irmão estuda em São Paulo. / De qual foto você mais gosta? / Desta foto. Aqui estão todos juntos. / A minha família também mora longe.
 
 ## 2. A armadilha do português
 
@@ -120,7 +118,7 @@ Se você notou que *mein* tem os mesmos finais de *ein* e *kein*, descobriu a re
 
 ## 5. Por dentro
 
-**Euer e unser.** *Euer* perde o *e* quando recebe final: *eure Mutter, euren Vater, eurem Kind. Unser* fica como está: *unsere Mutter, unseren Vater.*
+**Euer e unser.** *Euer* perde o *e* quando recebe final: *eure Mutter, euren Vater, eurem Kind.* *Unser* fica como está: *unsere Mutter, unseren Vater.*
 
 **Ihr, ihr e Ihr.** Três palavras iguais: *ihr* (dela), *ihr* (deles), *Ihr* (seu, formal). A letra maiúscula e o contexto separam. Na recepção, pergunta-se: *Wie ist Ihr Name?* A resposta: *Mein Name ist …*
 
@@ -132,7 +130,9 @@ Se você notou que *mein* tem os mesmos finais de *ein* e *kein*, descobriu a re
 
 **Man.** É impessoal e pede o verbo na forma de *er*: *Man spricht Deutsch.* Equivale a “se fala alemão” ou “a gente fala”.
 
-**Jemand e niemand.** *Ist jemand hier?* *Niemand ist hier.* (Sem *nicht*, capítulo 6.) **Etwas, nichts, alles.** *Ich brauche etwas. Ich habe nichts. Das ist alles.*
+**Jemand e niemand.** *Ist jemand hier?* *Niemand ist hier.* (Sem *nicht*, capítulo 6.)
+
+**Etwas, nichts, alles.** *Ich brauche etwas. Ich habe nichts. Das ist alles.*
 
 **Parentes.** *Die Eltern* (pais, plural), *die Großeltern* (avós), *der Onkel* (tio), *die Tante* (tia), *der Mann* (homem ou marido), *die Frau* (mulher ou esposa).
 
@@ -164,11 +164,11 @@ Se você notou que *mein* tem os mesmos finais de *ein* e *kein*, descobriu a re
 
 6.  Ich helfe \_\_\_\_ Mutter. (meine, meiner)
 
-7.  \_\_\_\_ Frau ist meine Tante. (Dieser, Diese) **Degrau 2. Complete.**
+7.  \_\_\_\_ Frau ist meine Tante. (Dieser, Diese)
 
-Possessivos: ich \_\_\_\_ Auto, du \_\_\_\_ Lampe, wir \_\_\_\_ Haus, ihr \_\_\_\_ Kinder, Sie \_\_\_\_
+**Degrau 2. Complete.**
 
-Name.
+Possessivos: ich \_\_\_\_ Auto, du \_\_\_\_ Lampe, wir \_\_\_\_ Haus, ihr \_\_\_\_ Kinder, Sie \_\_\_\_ Name.
 
 Casos: Ich suche \_\_\_\_ Schlüssel (mein, m.). Ich gebe \_\_\_\_ Mutter ein Buch (mein). Wir besuchen \_\_\_\_ Eltern (unser). Er hilft \_\_\_\_ Kind (sein).
 
@@ -291,9 +291,11 @@ Pergunto *Welcher/Welche/Welches …?*
 
 4.  Ich suche meinen Schlüssel. (acusativo masculino)
 
-5.  Ich helfe meiner Mutter. (dativo feminino) 6. Wir besuchen unsere Eltern. (plural)
+5.  Ich helfe meiner Mutter. (dativo feminino)
 
-7\. Está certa.
+6.  Wir besuchen unsere Eltern. (plural)
+
+7.  Está certa.
 
 **Retorno.** Capítulo 10: meinen Eltern, meinem Bruder, meine Mutter. Capítulo 9: ihm, ihr. Capítulo 8: meinen Vater. Capítulo 7: siebenundzwanzig. Capítulo 6: Ich habe keinen Bruder.
 :::::

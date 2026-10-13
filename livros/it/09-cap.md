@@ -34,7 +34,7 @@ Repare em dois padrões. Depois de *posso, vuoi, devo, dobbiamo* o verbo seguint
 
 Dois hábitos do português atrapalham.
 
-1.  **Entre o modal e o infinitivo não entra nada.** Em português dizemos "tenho **que** estudar" e "preciso **de** estudar". Em italiano o modal liga direto ao infinitivo: *{{devo studiare}}*, sem *che*, sem *di*, sem *a*. Quem escreve *~~devo di studiare~~* ou *~~ho che studiare~~* está transportando a preposição.
+1.  **Entre o modal e o infinitivo não entra nada.** Em português dizemos "tenho **que** estudar" e "tenho **de** estudar". Em italiano o modal liga direto ao infinitivo: *{{devo studiare}}*, sem *che*, sem *di*, sem *a*. Quem escreve *~~devo di studiare~~* ou *~~ho che studiare~~* está transportando a preposição.
 
 2.  **Verbo reflexivo: o italiano usa mais do que o português.** Em português, "eu acordo", "eu descanso" e "eu paro" não levam *me*. Em italiano os verbos correspondentes são reflexivos, e alguns outros também (como em português) são:
 
@@ -262,7 +262,7 @@ O erro mais comum é **pôr preposição entre o modal e o infinitivo** (*~~devo
 
 **Do capítulo 7.** Complete: *\_\_\_\_ (io) sorella abita a Roma. \_\_\_\_ (io) amici sono simpatici.*
 
-**Do capítulo 6.** Nega e pergunta: *Mi sveglio presto.* → negativa. *Luca si alza alle sei.* → pergunta *A che ora…?*
+**Do capítulo 6.** Negue e pergunte: *Mi sveglio presto.* → negativa. *Luca si alza alle sei.* → pergunta *A che ora…?*
 
 | Quando | O que fazer                                                           |
 |--------|-----------------------------------------------------------------------|

@@ -26,7 +26,7 @@ Camila mora em Medellín com Valentina, uma colega colombiana. É manhã de quar
 **Valentina:** Tienes razón en no llegar tarde. Nos vemos en la noche.
 :::
 
-Em português: O que você faz hoje, Camila? / Trabalho de casa de manhã. Começo às nove. À tarde vou à academia. / Pode comprar pão? Eu não tenho tempo, saio cedo. / Claro. Quer mais alguma coisa? / Quero. Hoje à noite peço uma pizza, se a gente não cozinhar. O que você prefere? / Prefiro a de verduras. E já estou com fome. / Eu sempre tomo fruta e café da manhã. E você? / Hoje não tomo café da manhã, só um café. Meu chefe é muito pontual! / Você tem razão em não se atrasar. A gente se vê à noite.
+Em português: O que você faz hoje, Camila? / Trabalho de casa de manhã. Começo às nove. À tarde vou à academia. / Pode comprar pão? Eu não tenho tempo, saio cedo. / Claro. Quer mais alguma coisa? / Quero. Hoje à noite peço uma pizza, se a gente não cozinhar. O que você prefere? / Prefiro a de verduras. E já estou com fome. / No café da manhã eu sempre como fruta e tomo café. E você? / Hoje não tomo café da manhã, só um café. Meu chefe é muito pontual! / Você tem razão em não se atrasar. A gente se vê à noite.
 
 Repare: *empiezo*, *prefiero*, *quieres* e *puedes* têm um ditongo (*ie*, *ue*) que não existe no infinitivo (*empezar, preferir, querer, poder*). E "estou com fome" virou *tengo hambre*, sem *estar*.
 
@@ -380,5 +380,5 @@ Distingo *pedir un café* de *preguntar la hora*.
 
 7. Tengo treinta años. (idade com *tener*)
 
-**Retorno.** Capítulo 3: la leche, el color, los exámenes. Capítulo 2: es (profissão), están (lugar). Capítulo 1: *está* leva acento porque termina em vogal e a tônica é a última; *piensa* termina em vogal e a tônica é a penúltima (regra normal), então não leva acento. *Hablan* termina em *n*, então a tônica é a penúltima: HA-blan.
+**Retorno.** Capítulo 3: la leche (las leches), el color (los colores), el examen (los exámenes). Capítulo 2: es (profissão), están (lugar). Capítulo 1: *está* leva acento porque termina em vogal e a tônica é a última; *piensa* termina em vogal e a tônica é a penúltima (regra normal), então não leva acento. *Hablan* termina em *n*, então a tônica é a penúltima: HA-blan.
 :::::

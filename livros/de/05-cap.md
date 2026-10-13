@@ -6,9 +6,21 @@
 
 Jonas ajuda Camila a conhecer o apartamento compartilhado.
 
-**Jonas:** Hier ist das Zimmer. Da ist ein Bett und dort ist ein Tisch. **Camila:** Wie schön!
+::: dialogo
+**Jonas:** Hier ist das Zimmer. Da ist ein Bett und dort ist ein Tisch.
 
-Ist das eine Lampe? **Jonas:** Ja, das ist die Lampe. Und da ist das Fenster. Es ist groß. **Camila:** Und wo ist der Schrank? **Jonas:** Der Schrank ist dort. Er ist neu. **Camila:** Und die Küche? **Jonas:** Sie ist hier. Die Stühle sind alt, aber der Tisch ist neu.
+**Camila:** Wie schön! Ist das eine Lampe?
+
+**Jonas:** Ja, das ist die Lampe. Und da ist das Fenster. Es ist groß.
+
+**Camila:** Und wo ist der Schrank?
+
+**Jonas:** Der Schrank ist dort. Er ist neu.
+
+**Camila:** Und die Küche?
+
+**Jonas:** Sie ist hier. Die Stühle sind alt, aber der Tisch ist neu.
+:::
 
 Em português: Aqui é o quarto. Lá tem uma cama e ali, uma mesa. / Que bonito! Isso é uma luminária? / Sim, é a luminária. E ali está a janela. É grande. / E onde fica o armário? / O armário está ali. É novo. / E a cozinha? / Está aqui. As cadeiras são velhas, mas a mesa é nova.
 
@@ -86,7 +98,7 @@ Quantos tipos de final de plural aparecem? Quais palavras ganham trema (ä, ö, 
 | Final                          | Exemplo                                          | Costuma ser                   |
 |--------------------------------|--------------------------------------------------|-------------------------------|
 | -e (às vezes com trema)        | der Tag → die Tage; die Stadt → die Städte       | masculinos e alguns femininos |
-| -er (com trema, se der)        | das Kind → die Kinder; das Haus → die Häuser     | neutros                       |
+| -er (com trema, se possível)   | das Kind → die Kinder; das Haus → die Häuser     | neutros                       |
 | -n ou -en                      | die Frau → die Frauen; die Schule → die Schulen  | femininos                     |
 | sem final (às vezes com trema) | der Lehrer → die Lehrer; die Mutter → die Mütter | -er, -el, -en                 |
 | -s                             | das Auto → die Autos                             | palavras estrangeiras         |
@@ -142,7 +154,9 @@ Quantos tipos de final de plural aparecem? Quais palavras ganham trema (ä, ö, 
 
 8.  Plural de *Frau*: (a) Fraue (b) Frauen (c) Fraus
 
-9.  Plural de *Auto*: (a) Auten (b) Autoe (c) Autos **Degrau 2. Complete.**
+9.  Plural de *Auto*: (a) Auten (b) Autoe (c) Autos
+
+**Degrau 2. Complete.**
 
 Com ein, eine, der, die ou das: Das ist \_\_\_\_ Lampe. Das ist \_\_\_\_ Tisch. Das ist \_\_\_\_ Fenster. \_\_\_\_ Schrank ist neu. \_\_\_\_ Küche ist groß. \_\_\_\_ Bett ist alt.
 
@@ -176,7 +190,7 @@ Forme três palavras compostas e diga o gênero de cada: Kaffee + Tasse, Haus + 
 O erro que mais custa caro é **trazer o gênero do português**. “A casa” vira *die Haus* e fica errado. O certo é *das Haus*. O erro aparece de novo em tudo que vem depois (adjetivos, casos), por isso vale cortar já.
 
 ::: atencao
-*ein serve para der e para das. Só o die pede eine. Isso já reduz a dúvida pela metade*.
+*ein* serve para *der* e para *das*. Só o *die* pede *eine*. Isso já reduz a dúvida pela metade.
 :::
 
 
@@ -265,19 +279,23 @@ Escolho *er*, *sie* ou *es* conforme o gênero. Formo o plural de palavras comun
 ::::: gabarito
 **Degrau 1.** 1 die (-ung). 2 das (-chen). 3 der (-er, pessoa). 4 die (-ung). 5 der (dia da semana). 6 das (-chen). 7 (b) Kinder. 8 (b) Frauen. 9 (c) Autos.
 
-**Degrau 2.** eine Lampe, ein Tisch, ein Fenster, Der Schrank, Die Küche, Das Bett. Plurais: die Tage, die Städte, die Häuser, die Schulen, die Lehrer, die Autos. Femininos: Lehrerin, Studentin, Ärztin.
+**Degrau 2.** eine Lampe, ein Tisch, ein Fenster (se o objeto já é conhecido, *die Lampe*, *der Tisch*, *das Fenster* também estão certos), Der Schrank, Die Küche, Das Bett. Plurais: die Tage, die Städte, die Häuser, die Schulen, die Lehrer, die Autos. Femininos: Lehrerin, Studentin, Ärztin.
 
 **Degrau 3.** Respostas pessoais. Compostos: *die Kaffeetasse* (da última parte, *die Tasse*), *die Haustür* (*die Tür*), *der Zeitungsartikel* (*der Artikel*; entra um *-s-* no meio).
 
 **Degrau 4.**
 
-1\. Das ist ein Tisch. (*Tisch* é masculino: *ein*.) 2. Das Fenster ist groß. (*Fenster* é neutro.)
+1.  Das ist ein Tisch. (*Tisch* é masculino: *ein*.)
+
+2.  Das Fenster ist groß. (*Fenster* é neutro.)
 
 3.  Die Lampe ist neu.
 
-4.  Die Autos sind neu. (plural em *-s*.) 5. Ich bin Lehrerin. (profissão sem artigo.)
+4.  Die Autos sind neu. (plural em *-s*.)
 
-6\. Está certa.
+5.  Ich bin Lehrerin. (profissão sem artigo.)
 
-**Retorno.** Capítulo 4: Ist das ein Tisch? Sind das Stühle? Ist Tom Lehrer? Capítulo 3: Heute ist der Tisch neu. Heute ist die Lampe alt. Capítulo 2: Er ist neu. Sie ist alt. Es ist groß. Capítulo 1: o *ä* soa “é”, o *ü* soa “i” com lábios de “u”, o *ü de Mütter é curto, e o de Bücher é long*o.
+6.  Está certa.
+
+**Retorno.** Capítulo 4: Ist das ein Tisch? Sind das Stühle? Ist Tom Lehrer? Capítulo 3: Heute ist der Tisch neu. Heute ist die Lampe alt. Capítulo 2: Er ist neu. Sie ist alt. Es ist groß. Capítulo 1: o *ä* soa “é”, o *ü* soa “i” com lábios de “u”, o *ü* de *Mütter* é curto, e o de *Bücher* é longo.
 :::::

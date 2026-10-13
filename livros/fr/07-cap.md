@@ -62,7 +62,7 @@ Compare as frases.
 | Ma sœur est étudiante. | Notre sœur est étudiante. |
 | Mes parents sont retraités. | Nos parents sont retraités. |
 | Sa fille est ma cousine. | Leur fille est ma cousine. |
-| Son mari est médecin. | Leur mari est médecin. |
+| Son fils est médecin. | Leur fils est médecin. |
 | Ses enfants sont petits. | Leurs enfants sont petits. |
 
 E os demonstrativos:
@@ -140,7 +140,7 @@ O feminino com vogal ou h mudo usa a forma masculina: *mon amie, ton adresse, so
 
 O português diz "um amigo meu", "uma colega minha". O francês prefere **un de mes amis**, **une de mes collègues**. A forma *un ami à moi* existe na fala, mas soa mais coloquial.
 
-*C'est un de mes amis. Elle est une de mes collègues. C'est une amie à moi.*
+*C'est un de mes amis. C'est une de mes collègues. C'est une amie à moi.*
 
 ### 5.4 De quem é? A forma "à moi"
 

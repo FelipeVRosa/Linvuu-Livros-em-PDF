@@ -7,19 +7,19 @@
 Camila chega a Verona e fala com a recepcionista.
 
 ::: dialogo
-**Receptionist:** Buongiorno! Mi dica pure.
+**Recepcionista:** Buongiorno! Mi dica pure.
 
 **Camila:** Buongiorno. Vorrei una camera singola per due notti.
 
-**Receptionist:** Certo. Preferirebbe una camera con balcone?
+**Recepcionista:** Certo. Preferirebbe una camera con balcone?
 
 **Camila:** Sì, volentieri. Potrebbe dirmi se la colazione è inclusa?
 
-**Receptionist:** È inclusa, dalle sette alle dieci. Mi dia un documento, per favore.
+**Recepcionista:** È inclusa, dalle sette alle dieci. Mi dia un documento, per favore.
 
 **Camila:** Ecco il passaporto. Domani visiterò il centro. Se piove, resterò in albergo a leggere.
 
-**Receptionist:** Allora ecco la chiave: la camera è la 14. Si accomodi pure in sala.
+**Recepcionista:** Allora ecco la chiave: la camera è la 14. Si accomodi pure in sala.
 :::
 
 Em português: Bom dia! Pois não. / Bom dia. Eu gostaria de um quarto individual para duas noites. / Claro. A senhora preferiria um quarto com varanda? / Sim, com prazer. A senhora poderia me dizer se o café da manhã está incluído? / Está incluído, das sete às dez. Me dê um documento, por favor. / Aqui está o passaporte. Amanhã visitarei o centro. Se chover, ficarei no hotel lendo. / Então aqui está a chave: o quarto é o 14. Fique à vontade na sala.
@@ -92,7 +92,7 @@ Os verbos regulares seguem a tabela acima. Duas notas de ortografia:
 1. Em *-are*, o *a* vira *e*: *parlare* → *parlerò*, *comprare* → *comprerò*.
 2. Verbos em *-care* e *-gare* precisam de **h** para manter o som duro: *cercare* → **cercherò**, *pagare* → **pagherò**. Os em *-ciare/-giare* perdem o *i*: *cominciare* → *comincerò*, *mangiare* → *mangerò*.
 
-O acento escrito está no final: *parlerò*, *parlerà*. Em *noi*, *voi* e *loro* não há acento.
+O acento escrito está no final: *parlerò*, *parlerà*. Em *tu*, *noi*, *voi* e *loro* não há acento escrito.
 
 **Os irregulares que o dia a dia exige.** Eles encurtam o radical e mantêm as terminações:
 
@@ -161,7 +161,7 @@ Quando a condição é possível, o italiano usa o **indicativo** depois de *se*
 Em português, "se chover" e "se eu tiver" pedem o futuro do subjuntivo. Em italiano, para a condição real, basta o presente. Para a hipótese irreal (*se eu tivesse, eu iria*), a gramática pede outro tempo, que entra depois do A2.
 
 ::: atencao
-Não use o condizionale depois de *se*: ~~Se avrei tempo, verrei~~. Depois de *se*, o presente. Em português dizemos "se eu pudesse", "se tivesse". Evite traduzi-los agora.
+Não use o condizionale depois de *se*: ~~Se avrei tempo, verrei~~. Depois de *se*, o presente (ou o futuro, quando a frase toda fala do futuro: *{{Se avrò tempo, verrò}}*). Em português dizemos "se eu pudesse", "se tivesse". Evite traduzi-los agora.
 :::
 
 ### Imperativo
@@ -228,7 +228,7 @@ No Brasil, "você" pode virar *tu* ou *Lei* conforme a situação. Italiano não
 
 8. Non \_\_\_\_ tardi! (fare, fai)
 
-**Degrau 2. Complete.**
+**Degrau 2. Complete.** Itens 1–6: futuro; 7–8: condizionale; 9–10: imperativo.
 
 1. Domani io \_\_\_\_ (partire) alle otto.
 
@@ -362,7 +362,7 @@ Dou uma instrução a um amigo e a um desconhecido, mudando entre *tu* e *Lei*.
 ::::: gabarito
 **Degrau 1.** 1 telefonerò (promessa). 2 Vorrei (cortesia). 3 Potrebbe (cortesia, 3ª pessoa de *Lei*). 4 resto (*se* + presente). 5 Parla (*tu*, -are → -a). 6 Entri (*Lei*). 7 Sarà (suposição). 8 fare (negativo de *tu*).
 
-**Degrau 2.** 1 partirò. 2 sarai. 3 avremo. 4 verranno. 5 farà. 6 andrete. 7 vorrei. 8 potresti. 9 Aspetta. 10 Scusi.
+**Degrau 2.** 1 partirò (na fala, também *parto*). 2 sarai. 3 avremo. 4 verranno. 5 farà. 6 andrete. 7 vorrei. 8 potresti. 9 Aspetta. 10 Scusi.
 
 **Degrau 3.** Respostas pessoais. Confira: radicais irregulares, *vorrei/potrebbe/mi piacerebbe*, *tu* (*parla, prendi*) × *Lei* (*parli, prenda*), *se* + presente.
 

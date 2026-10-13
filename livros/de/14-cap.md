@@ -145,7 +145,9 @@ terminados em **-e** (*der Junge, der Kunde, der Kollege*), em **-ent, -ist, -an
 
 6.  wegen \_\_\_\_ Wetters (des, der)
 
-7.  Ich sehe den \_\_\_\_ (Student, Studenten) **Degrau 2. Complete.**
+7.  Ich sehe den \_\_\_\_ (Student, Studenten)
+
+**Degrau 2. Complete.**
 
 Genitivo: das Auto (mein Vater), die Tasche (meine Mutter), das Haus (die Eltern), das Zimmer (der Student), wegen (das Wetter), trotz (der Regen), innerhalb (die Stadt).
 
@@ -161,7 +163,9 @@ Escreva três frases com *wegen* ou *trotz*: *Wegen der Arbeit …*
 
 Escreva três frases com masculinos fracos: *Ich kenne den Studenten.*
 
-Escreva cinco frases com *von* e nomes: *Der Freund von Lena …* **Degrau 4. Corrija o erro típico.** Uma delas está certa.
+Escreva cinco frases com *von* e nomes: *Der Freund von Lena …*
+
+**Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
 1.  Das ist das Haus der Mann.
 

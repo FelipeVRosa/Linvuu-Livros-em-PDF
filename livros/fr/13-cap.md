@@ -41,7 +41,7 @@ Aqui há três armadilhas diferentes.
 | Quando eu chegar, te ligo. | {{Quand j'arriverai, je t'appellerai.}} |
 | Assim que ele souber, avisa. | {{Dès qu'il saura, il préviendra.}} |
 
-3.  **O pronome é obrigatório e vem antes do verbo.** Em português, o objeto some com facilidade (*Você viu? Vi.*) ou aparece como “ele” (*vi ele*). Em francês, nem uma coisa nem outra: {{Tu l'as vu ? Oui, je l'ai vu.}} Não se diz {{~~Je vois lui~~}} nem {{~~Je ai vu~~}} sem o objeto. O pronome vai **antes** do verbo (como no coloquial *eu te amo*), mas em francês isso vale sempre, mesmo na escrita formal.
+3.  **O pronome é obrigatório e vem antes do verbo.** Em português, o objeto some com facilidade (*Você viu? Vi.*) ou aparece como “ele” (*vi ele*). Em francês, nem uma coisa nem outra: {{Tu l'as vu ? Oui, je l'ai vu.}} Não se diz {{~~Je vois lui~~}} nem {{~~Oui, j'ai vu~~}} sem o objeto. O pronome vai **antes** do verbo (como no coloquial *eu te amo*), mas em francês isso vale sempre, mesmo na escrita formal.
 
 Quanto a *y* e *en*, não há equivalente: o português usa uma palavra de sentido (*lá, disso, dele*) ou simplesmente não diz nada.
 
@@ -126,7 +126,7 @@ As terminações são o presente de *avoir* (*ai, as, a, ons, ez, ont*), salvo *
 
 Os verbos com mudança de radical do capítulo 4 também a mostram na escrita: {{j'achèterai, j'appellerai}}; {{payer}} aceita {{je paierai}} e {{je payerai}}.
 
-**Som.** O *-ai* da primeira pessoa do futuro soa como um *é* fechado ({{je parlerai}}); o *-ais* do condicional (capítulo 14) soa como um *é* aberto ({{je parlerais}}). Em muitas regiões e na fala rápida essa diferença quase some, e o contexto resolve; vale só saber que ela existe.
+**Som.** O *-ai* da primeira pessoa do futuro soa como um “ê” fechado ({{je parlerai}}); o *-ais* do condicional (capítulo 14) soa como um “é” aberto ({{je parlerais}}). Em muitas regiões e na fala rápida essa diferença quase some, e o contexto resolve; vale só saber que ela existe.
 
 **Quando usar cada um.**
 

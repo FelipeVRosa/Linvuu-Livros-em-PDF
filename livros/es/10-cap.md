@@ -44,7 +44,7 @@ O português tem um passado simples (*falei, comi, fui*) e um composto (*tenho f
 | Eu falei com ele ontem. | Hablé con él ayer. | tempo terminado: indefinido |
 | Já comi. | Ya he comido. / Ya comí. | depende da região |
 | Nunca estive lá. | Nunca he estado allí. | experiência até agora: perfecto |
-| Fui ao cinema. | Fui al cine. | o mesmo verbo de “ser” |
+| Fui ao cinema. | Fui al cine. | a mesma forma de “ser” |
 
 Em segundo lugar, **o auxiliar é *haber*, nunca *tener***: ~~Tengo hablado~~ está errado, mesmo que o português use “tenho”. Em terceiro, o verbo *haber* e o particípio **não se separam**: {{Ya he comido}}, não ~~He ya comido~~.
 

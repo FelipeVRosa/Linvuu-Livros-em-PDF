@@ -35,7 +35,7 @@ No português falado do Brasil, a gente faz assim: *eu vi **ele**, eu dei o livr
 | Português do dia a dia | Italiano |
 |---|---|
 | Eu vi ele. | **L'**ho visto. |
-| Eu chamei ela. | **La** chiamo. |
+| Eu chamei ela. | **L'**ho chiamata. |
 | Eu dei o livro pra ele. | **Gli** ho dato il libro. |
 | Eu escrevi pra ela. | **Le** ho scritto. |
 | Eu comprei duas. | **Ne** ho comprate due. |
@@ -91,7 +91,7 @@ Se você viu que só a **terceira pessoa** (ele, ela, eles) muda de forma, enqua
 
 3. Com infinitivo, ele pode **colar no final** (o *-e* cai): *Voglio vederlo.* *Devo dirle una cosa.* Com *potere, volere, dovere* também vale antes: *Lo voglio vedere.*
 
-4. No passato prossimo: *l'ho visto.* *Lo/la/li/le* concordam com o particípio: *l'ho vista, li ho visti, le ho viste.*
+4. No passato prossimo: *l'ho visto.* O particípio concorda com *lo/la/li/le*: *l'ho vista, li ho visti, le ho viste.*
 
 5. *Ci* = lá (*ci vado*). *Ne* = disso, deles, e a quantidade (*ne voglio due*).
 :::::
@@ -173,7 +173,7 @@ Quando o indireto e o direto aparecem juntos, o **indireto vem primeiro** e muda
 | ti | te lo | te la | te li | te le | te ne |
 | gli / le | glielo | gliela | glieli | gliele | gliene |
 
-*Mi presti la penna? Sì, **te la** presto.* *Dici la verità a Marco? Sì, **gliela** dico.* *Ho dato il libro a Luisa: **glielo** ho dato* (ou **gliel'ho dato**). Reconheça esses blocos; use *me lo, te lo, glielo* quando precisar.
+*Mi presti la penna? Sì, **te la** presto.* *Dici la verità a Marco? Sì, **gliela** dico.* *Hai dato il libro a Luisa? Sì, **gliel'ho** dato* (também se escreve *glielo ho dato*). Reconheça esses blocos; use *me lo, te lo, glielo* quando precisar.
 
 Um bloco pronto que você já pode usar: **mi piace** (*Mi piace il caffè*) é, literalmente, "o café agrada a mim". O *mi* é um pronome indireto.
 
@@ -211,7 +211,7 @@ Um bloco pronto que você já pode usar: **mi piace** (*Mi piace il caffè*) é,
 
 8. Quante mele vuoi? \_\_\_\_ voglio tre. (Le, Ne)
 
-**Degrau 2. Complete.** Troque a parte sublinhada por pronome.
+**Degrau 2. Complete.** Troque o objeto por um pronome.
 
 1. Aspetto Paolo. → \_\_\_\_ aspetto.
 

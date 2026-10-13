@@ -174,7 +174,7 @@ Posição:
 
 {{Sometimes}} é flexível: {{Sometimes I walk to work. / I sometimes walk to work. / I walk to work sometimes.}} Já {{always}} e {{never}} não ficam no fim da frase.
 
-**Never tem sentido negativo.** Não se junta com {{don't}}: {{I never eat meat}} (não ~~I don't never eat meat~~). O português aceita "não como nunca carne" como dupla negação, e isso induz o erro.
+**Never tem sentido negativo.** Não se junta com {{don't}}: {{I never eat meat}} (não ~~I don't never eat meat~~). O português aceita "não como carne nunca" como dupla negação, e isso induz o erro.
 
 Para perguntar a frequência, use {{How often...?}}: {{How often do you cook? Twice a week.}} E {{ever}} ("alguma vez") aparece em perguntas: {{Do you ever eat out?}}
 

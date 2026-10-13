@@ -69,7 +69,7 @@ Aqui o português ajuda mais do que atrapalha, e vale começar pelo que **não**
 | Não vejo ninguém. | No veo a nadie. | veja a nota sobre *a* mais adiante |
 
 ::: atencao
-na tabela, a última linha traz um *a* que você ainda não estudou: {{No veo a nadie}}. Por ora, guarde só a ideia de *no + verbo + nadie*; o *a* aparece no capítulo 13.
+Na tabela, a última linha traz um *a* que você ainda não estudou: {{No veo a nadie}}. Por ora, guarde só a ideia de *no + verbo + nadie*; o *a* aparece no capítulo 13.
 :::
 
 ## 3. Descubra você mesmo
@@ -197,7 +197,7 @@ Observe a ligação com o capítulo 5: com *gustar* a resposta usa *a mí*, porq
 
 Como *tampoco* já contém a ideia de negação, ele funciona como as outras palavras negativas. Depois do verbo exige *no*: {{No como carne y Marta tampoco.}} Pode vir também antes do verbo: {{Marta tampoco come carne.}}
 
-**Perguntas que pedem “algo”, “alguien”.** Em pergunta, o contrário de *nada* e *nadie* é *algo* e *alguien*: {{¿Necesita algo?}} {{¿Está alguien en la cocina?}}. Quem responde “não” usa *nada* ou *nadie*: {{No, nada.}} {{No, nadie.}}
+**Perguntas que pedem “algo”, “alguien”.** Em pergunta, o contrário de *nada* e *nadie* é *algo* e *alguien*: {{¿Necesita algo?}} {{¿Hay alguien en la cocina?}}. Quem responde “não” usa *nada* ou *nadie*: {{No, nada.}} {{No, nadie.}}
 
 ::: atencao
 **Vos e vosotros nas perguntas.** O espanhol padrão de livro e de aula usa *tú*: {{¿Qué quieres?}} {{¿De dónde eres?}} Em boa parte da América (a RAE registra o *vos* como forma geral de tratamento de confiança na Argentina, no Uruguai, no Paraguai, na Costa Rica, na Nicarágua e em outras áreas) as perguntas soam {{¿Qué querés?}} {{¿De dónde sos?}} {{¿Dónde vivís?}} Na Espanha, para falar com várias pessoas ao mesmo tempo, diz-se {{¿Qué queréis?}} {{¿De dónde sois?}} Em toda a América, ao falar com várias pessoas, usa-se *ustedes*: {{¿Qué quieren?}} A palavra interrogativa, o acento e a ordem não mudam em nenhuma dessas variantes.
@@ -303,7 +303,7 @@ O deslize que mais aparece é **esquecer o acento do interrogativo**, porque o p
 
 ## 9. Retorno
 
-**Do capítulo 1.** Escreva com a letra certa o som forte do *j* em {{ja-más}} e o som de {{gente}}. Em qual sílaba cai a força em {{cuál}}, {{cuándo}} e {{adónde}}? Explique para que serve o til nessas palavras.
+**Do capítulo 1.** Escreva com a letra certa o som forte do *j* em {{ja-más}} e o som de {{gente}}. Em qual sílaba cai a força em {{cuál}}, {{cuándo}} e {{adónde}}? Explique para que serve o acento escrito nessas palavras.
 
 **Do capítulo 2.** Complete com *ser* ou *estar*: {{¿De dónde \_\_\_\_ usted?}} {{¿Dónde \_\_\_\_ la cocina?}}
 
@@ -396,5 +396,5 @@ Nego uma frase com *nada, nadie* ou *nunca* sem errar o *no*.
 
 7.  Está certa.
 
-**Retorno.** Capítulo 1: *jamás* (j), *gente* (g antes de e); força em *cuál* (cuál), *cuándo* (cuán-), *adónde* (-dón-); o til marca a sílaba tônica quando foge da regra. Capítulo 2: *es*, *está*. Capítulo 3: las llaves, los pasajeros, las habitaciones; unos buenos viajeros. Capítulo 4: quieres, puedes, tienes. Capítulo 5: A mí también; A mí tampoco.
+**Retorno.** Capítulo 1: *jamás* (j), *gente* (g antes de e); força em *cuál* (cuál), *cuándo* (cuán-), *adónde* (-dón-); aqui o acento não é exigido pela regra da tônica (*cuando* e *adonde* já seriam paroxítonas, e *cual* é monossílabo): é o acento diacrítico, que marca a palavra interrogativa. Capítulo 2: *es*, *está*. Capítulo 3: las llaves, los pasajeros, las habitaciones; unos buenos viajeros. Capítulo 4: quieres, puedes, tienes. Capítulo 5: A mí también; A mí tampoco.
 :::::

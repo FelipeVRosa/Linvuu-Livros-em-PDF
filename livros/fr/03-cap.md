@@ -22,7 +22,7 @@ Camila e Hugo vão à feira do cais de Lyon comprar comida para o jantar do albe
 **Marchande:** {{Ça fait dix euros. Bonne journée !}}
 :::
 
-Em português: Bom dia! Posso ajudar? / Bom dia. Eu queria queijo, pão e uma salada, por favor. / Aqui estão o pão, o queijo e a salada. E de sobremesa, morangos? / Sim, morangos. E água também. / Aqui está. Vocês têm sacola? / Temos, sim. Obrigada. / Dá dez euros. Tenha um bom dia!
+Em português: Bom dia! Posso ajudar? / Bom dia. Eu queria queijo, pão e uma salada, por favor. / Aqui estão o pão, o queijo e a salada. E de sobremesa, morangos? / Sim, morangos. E água também. / Aqui está. Vocês têm sacola? / Tenho, sim. Obrigada. / Dá dez euros. Tenha um bom dia!
 
 Repare no que o português dispensaria: {{du fromage, du pain}} (em português, "queijo, pão", sem nada antes), {{des fraises}} ("morangos", sem artigo) e {{de l'eau}} ("água"). Em francês, quase nenhum substantivo aparece sem uma palavrinha na frente. Repare também que a vendedora, quando fala de coisas já escolhidas, usa {{le pain}}, {{le fromage}}, {{la salade}}.
 
@@ -47,7 +47,7 @@ A segunda armadilha é o **gênero**. O português e o francês têm só dois g�
 
 Isso se chama "ponte falsa" porque a palavra parece igual, e o gênero a trai. A saída prática é **sempre aprender o substantivo junto com o artigo**: não {{pont}}, mas {{le pont}}; não {{mer}}, mas {{la mer}}.
 
-A terceira armadilha é o plural **invisível**: {{le chat}} e {{les chats}} soam "lê-xá" e "lé-xá" (só o artigo muda). O *s* final do substantivo não soa. Para ouvir o plural, ouça o artigo.
+A terceira armadilha é o plural **invisível**: {{le chat}} e {{les chats}} soam "leu-xá" e "lé-xá" (só o artigo muda). O *s* final do substantivo não soa. Para ouvir o plural, ouça o artigo.
 
 ## 3. Descubra você mesmo
 
@@ -100,7 +100,7 @@ Exemplos com três substantivos:
 | indefinido | {{un pain}} | {{une salade}} | {{une eau}} | {{des fraises}} |
 | partitivo | {{du pain}} | {{de la salade}} | {{de l'eau}} | {{des fraises}} |
 
-A **elisão** (troca de {{le/la}} por {{l'}}) acontece diante de vogal e de *h* mudo: {{l'ami}}, {{l'école}}, {{l'homme}}. Com *h* aspirado, não: {{le héros}}, {{la haine}} (revise a liaison no capítulo 1). {{Un}} e {{une}} mantêm a diferença na fala: {{un ami}} "ẽ-na-mi" × {{une amie}} "ün a-mi".
+A **elisão** (troca de {{le/la}} por {{l'}}) acontece diante de vogal e de *h* mudo: {{l'ami}}, {{l'école}}, {{l'homme}}. Com *h* aspirado, não: {{le héros}}, {{la haine}} (revise a liaison no capítulo 1). {{Un}} e {{une}} mantêm a diferença na fala: {{un ami}} "ẽ-na-mi" × {{une amie}} "ü-na-mi".
 
 ### Quando usar o artigo definido
 
@@ -185,7 +185,7 @@ Não existe como saber o gênero de todas as palavras. Mas existem **terminaçõ
 - **Pessoas**: o gênero costuma seguir o sexo: {{un étudiant}} / {{une étudiante}}, {{le frère}} / {{la sœur}}. Profissões como {{médecin}} e {{professeur}} são tradicionalmente masculinas, mesmo para mulheres ({{Elle est médecin}}); hoje também se vê {{une médecin}} e {{une professeure}}, e o uso varia.
 - **Dias, meses, línguas, cores e estações do ano:** masculinos. {{le lundi}}, {{le français}}, {{le bleu}}.
 - **Terminação em -eur:** nomes de **quem faz** são masculinos ({{le chanteur}}, {{le serveur}}) e os de **qualidade ou sensação** são femininos ({{la fleur}}, {{la couleur}}, {{la chaleur}}, {{la peur}}, {{la douleur}}). Mas há masculinos: {{le moteur}}, {{le bonheur}}, {{le malheur}}.
-- **Terminação em -son:** {{la maison}}, {{la saison}}, {{la raison}}, {{la chanson}}, {{la leçon}}. Já os outros em -on tendem a ser masculinos: {{le salon}}, {{le bouton}}.
+- **Terminação em -son:** {{la maison}}, {{la saison}}, {{la raison}}, {{la chanson}}, {{la leçon}} (mas {{le poisson}}, {{le son}}, {{le garçon}}). Já os outros em -on tendem a ser masculinos: {{le salon}}, {{le bouton}}.
 
 Algumas palavras mudam de sentido conforme o gênero:
 
@@ -211,7 +211,7 @@ E há um grupo de pares de tempo, muito úteis: {{un jour}} (um dia, a unidade d
 
 Exceções importantes: {{le bal}} → {{les bals}}, {{le festival}} → {{les festivals}}, {{le carnaval}} → {{les carnavals}} (todos em *-s*); {{le pneu}} → {{les pneus}}; {{le détail}} → {{les détails}}; {{le bijou}} → {{les bijoux}} (sete palavras em *-ou* fazem plural em *-x*: bijou, caillou, chou, genou, hibou, joujou, pou; as demais em *-ou* fazem plural em *-s*, como {{le trou}} → {{les trous}}).
 
-**Na fala, o plural do substantivo é invisível.** {{Le livre}} e {{les livres}} diferem só pelo artigo ("lê"/"lé"). Isso exige atenção ao ouvir: o artigo é a pista. Com {{un}} e {{des}} o contraste continua audível ("ẽ" × "dé"). E diante de vogal, a liaison do plural aparece: {{les amis}} "lé-za-mi" × {{l'ami}} "la-mi".
+**Na fala, o plural do substantivo é invisível.** {{Le livre}} e {{les livres}} diferem só pelo artigo ("leu"/"lé"). Isso exige atenção ao ouvir: o artigo é a pista. Com {{un}} e {{des}} o contraste continua audível ("ẽ" × "dé"). E diante de vogal, a liaison do plural aparece: {{les amis}} "lé-za-mi" × {{l'ami}} "la-mi".
 
 ### O que muda entre o português e o francês
 

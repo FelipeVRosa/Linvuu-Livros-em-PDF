@@ -24,15 +24,11 @@ Camila está em dúvida entre dois apartamentos.
 **Camila:** Ja. Schwabing ist teurer, aber auch viel schöner.
 :::
 
-Em português: De qual apartamento você gosta mais? / O de Schwabing é maior que o de Pasing. Mas também é mais caro. / Quanto custa? / Novecentos euros. O outro custa só setecentos. / Então o de Pasing é mais barato. Mas ele é tão claro quanto o de Schwabing?
-
-/ Não, não é tão claro. Para mim, luz é o mais importante. / Então a decisão é fácil. / Sim.
-
-Schwabing é mais caro, mas também muito mais bonito.
+Em português: De qual apartamento você gosta mais? / O de Schwabing é maior que o de Pasing. Mas também é mais caro. / Quanto custa? / Novecentos euros. O outro custa só setecentos. / Então o de Pasing é mais barato. Mas ele é tão claro quanto o de Schwabing? / Não, não é tão claro. Para mim, luz é o mais importante. / Então a decisão é fácil. / Sim. Schwabing é mais caro, mas também muito mais bonito.
 
 ## 2. A armadilha do português
 
-O português compara com palavras soltas: “**mais** grande **que**”, “**tão** claro **quanto**”. O alemão cola um **final** ao adjetivo e usa duas palavrinhas diferentes para comparar.
+O português compara com palavras soltas: “**mais** caro **que**”, “**tão** claro **quanto**”. O alemão cola um **final** ao adjetivo e usa duas palavrinhas diferentes para comparar.
 
 1.  **Mais + adjetivo vira adjetivo + -er.** “Mais caro” é *teurer*. Nunca *mehr teuer*.
 
@@ -99,7 +95,7 @@ Se você viu *-er* e *am … -sten*, o *-e-* depois de *d/t*, e o trema, descobr
 
 2.  **Comparativo:** adjetivo + **-er**, seguido de **als**: *größer als Lena*.
 
-3.  **Superlativo:** **am** + adjetivo + **-sten**: *am größten*. Depois de *d, t, s, ß, z, sch*, entra **-esten**: *am ältesten*, *am heißesten*.
+3.  **Superlativo:** **am** + adjetivo + **-sten**: *am größten*. Depois de *d, t, s, ß, z, sch*, entra **-esten**: *am ältesten*, *am heißesten* (exceção: *am größten*).
 
 4.  **Trema:** muitos adjetivos curtos ganham trema no comparativo e no superlativo: *alt, jung, groß, lang, kurz, warm, kalt, stark*.
 
@@ -164,7 +160,9 @@ Se você viu *-er* e *am … -sten*, o *-e-* depois de *d/t*, e o trema, descobr
 
 5.  Tom ist größer \_\_\_\_ Lena. (als, wie)
 
-6.  Lena ist so alt \_\_\_\_ Tom. (als, wie) **Degrau 2. Complete.**
+6.  Lena ist so alt \_\_\_\_ Tom. (als, wie)
+
+**Degrau 2. Complete.**
 
 Comparativo e superlativo: schnell, jung, teuer, hoch, gern, viel, kalt.
 

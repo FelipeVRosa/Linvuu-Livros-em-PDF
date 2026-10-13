@@ -28,7 +28,7 @@ Três ferramentas já em ação: **comparar** (*più grande, più di, più … c
 
 ## 2. A armadilha do português
 
-**Armadilha 1: "mais … que" é sempre "più … che".** Em português, "mais alto **que** Marco", "mais livros **que** amigos" e "mais caro **que** ontem" usam todos o mesmo "que". Em italiano, **dois** conectores diferentes cuidam do trabalho: **di** e **che**. Quem copia o "que" escreve ~~più alto che Marco~~, e o italiano estranha.
+**Armadilha 1: "mais … que" nem sempre é "più … che".** Em português, "mais alto **que** Marco", "mais livros **que** amigos" e "mais caro **que** ontem" usam todos o mesmo "que". Em italiano, **dois** conectores diferentes cuidam do trabalho: **di** e **che**. Quem copia o "que" escreve ~~più alto che Marco~~, e o italiano estranha.
 
 | Português | Italiano |
 |---|---|
@@ -186,7 +186,7 @@ O relativo "cujo" existe (*il cui*), mas fica para depois do A2.
 | squisito | delicioso | esquisito (*strano*) |
 | camera | quarto (de dormir) | câmera (*la macchina fotografica*) |
 | quarto | quarto (1/4): *un quarto d'ora* | quarto de dormir (*camera*) |
-| morbido | macio | mórbido (*macabro*) |
+| morbido | macio | mórbido (*morboso*) |
 | salire | subir | sair (*uscire*) |
 | stanza | cômodo, quarto | estância |
 | colazione | café da manhã | colação |
@@ -194,7 +194,7 @@ O relativo "cujo" existe (*il cui*), mas fica para depois do A2.
 | pronto | pronto; ao telefone, "alô" | só "pronto" |
 
 ::: atencao
-Quando você ouvir uma palavra italiana que se parece demais com o português, confira. A semelhança ajuda 80% das vezes e atrapalha nas outras 20%.
+Quando você ouvir uma palavra italiana que se parece demais com o português, confira. A semelhança ajuda na maior parte das vezes, mas não sempre.
 :::
 
 ## 6. Frases de ouro
@@ -353,7 +353,7 @@ Explico por que não vou a um jantar com *ma, però, siccome, quindi*.
 | siccome | como (causa) |
 | anche | também |
 | anche se | mesmo que, embora |
-| infatti | de fato, aliás |
+| infatti | de fato, com efeito |
 | che | que (relativo) |
 | cui | que (após preposição) |
 | dove | onde |
@@ -413,6 +413,6 @@ Antes de fechar o livro, marque o que você já consegue. Para cada item que ain
 
 11. **Capítulos 11 e 12.** Conto uma lembrança com o imperfetto, e substituo o objeto por *lo, la, gli, le, ci, ne* sem repetir o nome.
 
-12. **Capítulos 13 e 14.** Peço algo com *vorrei, potrebbe*, falo de planos no futuro e compro, comparo e explico com *più … di/che, che, cui, ma, però, quindi*.
+12. **Capítulos 13 e 14.** Peço algo com *vorrei, potrebbe*, falo de planos no futuro, comparo e explico com *più … di/che, che, cui, ma, però, quindi*.
 
-Se marcou os doze, você está na fronteira do A2 e pode começar a ouvir e ler italiano de verdade. Boa estrada.
+Se marcou os doze, você está na fronteira do A2 e pode começar a ouvir e ler italiano de verdade. Bom caminho.

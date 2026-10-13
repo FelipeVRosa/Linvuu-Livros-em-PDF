@@ -9,7 +9,7 @@ Julia vai embora hoje. Está no balcão da recepção.
 ::: dialogo
 **Julia:** Good morning. I'd like to check out, but I'm looking for my jacket. I think I left it in the room.
 
-**Recepcionista:** Is it the grey one that was on the chair?
+**Recepcionista:** Is it the gray one that was on the chair?
 
 **Julia:** Yes! Did you see it?
 
@@ -26,7 +26,7 @@ Julia vai embora hoje. Está no balcão da recepção.
 
 Em português: Bom dia. Quero fazer o check-out, mas estou procurando minha jaqueta. Acho que deixei no quarto. / É a cinza que estava na cadeira? / É! Você viu? / A moça que limpa os quartos achou. Vou pedir a ela que traga. Enquanto isso, preencha este formulário, por favor. / Claro. Gostei muito de ficar aqui e espero voltar ano que vem. / Vamos adorar ver você de novo. Não esqueça de apagar a luz do quarto antes de sair. / Já apaguei. Obrigada por me ajudar! / De nada. Aqui está sua jaqueta, e boa viagem.
 
-A cena reúne os quatro assuntos do capítulo: {{enjoyed staying}} e {{hope to come}} (-ing e infinitivo), {{ask her to bring it}} (pronomes de objeto), {{the grey one that was on the chair}} e {{the woman who cleans}} (relativos), e {{check out}}, {{fill in}}, {{turn off}} (*phrasal verbs*).
+A cena reúne os quatro assuntos do capítulo: {{enjoyed staying}} e {{hope to come}} (-ing e infinitivo), {{ask her to bring it}} (pronomes de objeto), {{the gray one that was on the chair}} e {{the woman who cleans}} (relativos), e {{check out}}, {{fill in}}, {{turn off}} (*phrasal verbs*).
 
 ## 2. A armadilha do português
 
@@ -330,9 +330,9 @@ O erro que mais denuncia o aluno brasileiro neste capítulo é **o infinitivo no
 
 ## 9. Retorno
 
-**Do capítulo 13.** Faça a pergunta: {{I'm waiting for Ana.}} → {{Who ...?}} Complete a tag: {{You live here, ____?}} Ligue com {{so}} ou {{because}}: {{I'm tired. I'm going to bed.}}
+**Do capítulo 13.** Faça a pergunta: {{I'm waiting for Ana.}} → {{Who ...?}} Complete a tag: {{You live here, \_\_\_\_?}} Ligue com {{so}} ou {{because}}: {{I'm tired. I'm going to bed.}}
 
-**Do capítulo 12.** Complete: {{I ____ (live) here since 2022.}} / {{Have you ____ (be) to Rio?}}
+**Do capítulo 12.** Complete: {{I \_\_\_\_ (live) here since 2022.}} / {{Have you \_\_\_\_ (be) to Rio?}}
 
 **Do capítulo 11.** Diga o que você {{is going to}} fazer amanhã e use {{I'll}} para oferecer ajuda a um colega.
 
@@ -429,16 +429,16 @@ Chegou ao fim do livro. Cada item abaixo liga uma capacidade a um capítulo, com
 | N. | Já consigo... | Cap. | Teste rápido |
 |---|---|---|---|
 | 1 | Ler em voz alta sem acrescentar vogais e separar sons parecidos. | 1 | Qual palavra tem o som longo: {{ship}} ou {{sheep}}? E em qual a sílaba forte é a última: {{thirteen}} ou {{thirty}}? |
-| 2 | Apresentar-me e dizer de quem é o quê. | 2 e 6 | Corrija: {{Is cold today.}} Complete: {{This is Ana, and ____ brother lives in Lima.}} (her / his) |
-| 3 | Falar da rotina e do que acontece agora. | 3 e 5 | Complete: {{Where does she ____?}} (work / works). {{Right now I ____ a book.}} (read / am reading) |
-| 4 | Pedir e contar coisas, com contáveis e incontáveis. | 4 | Complete: {{How ____ water do you drink a day?}} (much / many) |
-| 5 | Pedir, aconselhar e proibir com {{can}}, {{must}}, {{should}} e {{I'd like}}. | 7 | Complete: {{You ____ park here. It's forbidden.}} (mustn't / don't have to) |
+| 2 | Apresentar-me e dizer de quem é o quê. | 2 e 6 | Corrija: {{Is cold today.}} Complete: {{This is Ana, and \_\_\_\_ brother lives in Lima.}} (her / his) |
+| 3 | Falar da rotina e do que acontece agora. | 3 e 5 | Complete: {{Where does she \_\_\_\_?}} (work / works). {{Right now I \_\_\_\_ a book.}} (read / am reading) |
+| 4 | Pedir e contar coisas, com contáveis e incontáveis. | 4 | Complete: {{How \_\_\_\_ water do you drink a day?}} (much / many) |
+| 5 | Pedir, aconselhar e proibir com {{can}}, {{must}}, {{should}} e {{I'd like}}. | 7 | Complete: {{You \_\_\_\_ park here. It's forbidden.}} (mustn't / don't have to) |
 | 6 | Contar o que fiz no passado. | 8 | Escreva o passado de {{go}}, {{buy}} e {{see}}. |
-| 7 | Dizer lugar, hora, data e preço com {{in}}, {{on}} e {{at}}. | 9 | Complete: {{The class starts ____ 9 ____ Monday.}} (at / on) |
-| 8 | Comparar e escolher o melhor. | 10 | Complete: {{This hostel is ____ than that one.}} (cheap). Como se diz "melhor"? |
-| 9 | Falar de planos, promessas e dúvidas. | 11 | Complete: {{"I forgot my charger." "Don't worry, I ____ lend you mine."}} |
-| 10 | Falar de experiências e de situações que duram até hoje. | 12 | Complete: {{I ____ in this city for two years.}} (live / have lived) |
-| 11 | Perguntar, responder curto, confirmar e ligar ideias. | 13 | Complete a tag: {{You don't smoke, ____?}} |
+| 7 | Dizer lugar, hora, data e preço com {{in}}, {{on}} e {{at}}. | 9 | Complete: {{The class starts \_\_\_\_ 9 \_\_\_\_ Monday.}} (at / on) |
+| 8 | Comparar e escolher o melhor. | 10 | Complete: {{This hostel is \_\_\_\_ than that one.}} (cheap). Como se diz "melhor"? |
+| 9 | Falar de planos, promessas e dúvidas. | 11 | Complete: {{"I forgot my charger." "Don't worry, I \_\_\_\_ lend you mine."}} |
+| 10 | Falar de experiências e de situações que duram até hoje. | 12 | Complete: {{I \_\_\_\_ in this city for two years.}} (live / have lived) |
+| 11 | Perguntar, responder curto, confirmar e ligar ideias. | 13 | Complete a tag: {{You don't smoke, \_\_\_\_?}} |
 | 12 | Usar {{-ing}} e {{to}}, pronomes de objeto, relativos e *phrasal verbs*. | 14 | Reescreva com pronome: {{Please turn off the light.}} |
 
 **Respostas do teste rápido.** 1 sheep; thirteen. 2 It's cold today; her. 3 work; am reading. 4 much. 5 mustn't. 6 went, bought, saw. 7 at; on. 8 cheaper; better. 9 'll (will). 10 have lived. 11 do you. 12 Please turn it off.

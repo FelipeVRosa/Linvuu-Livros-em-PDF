@@ -95,7 +95,7 @@ Se você notou que o grupo A responde a "o que aconteceu?" e o grupo B a "como e
 
 ### As formas
 
-O imperfeito é regular em quase todos os verbos. A forma é a mesma para as três conjugações, só muda a vogal: *-avo* (-are), *-evo* (-ere), *-ivo* (-ire). O acento cai como em português: *parlàvo, parlàvi, parlàva, parlavàmo, parlavàte, parlàvano*. Pronuncie como se fosse "falava", "falávamos", e as consoantes dobradas e vogais você já treinou no capítulo 1.
+O imperfeito é regular em quase todos os verbos. A forma é a mesma para as três conjugações, só muda a vogal: *-avo* (-are), *-evo* (-ere), *-ivo* (-ire). O acento: *parlàvo, parlàvi, parlàva, parlavàmo, parlavàte, parlàvano*. Em *io, tu, lui* e *loro* ele cai na mesma sílaba do português ("falava", "falavam"); em *noi* e *voi*, não: par-la-VA-mo, par-la-VA-te, e não como "fa-LÁ-va-mos". As consoantes dobradas e as vogais você já treinou no capítulo 1.
 
 Verbos em *-ire* não têm *-isc-* no imperfeito: *io finisco* mas *io finivo*. Esse é um alívio.
 

@@ -110,7 +110,7 @@ Só *le* e *les* se juntam à preposição:
 | à | au marché | à la gare | à l'hôtel | aux magasins |
 | de | du marché | de la gare | de l'hôtel | des magasins |
 
-Na pronúncia, *au* e *aux* soam `ô`, *du* soa `dü` (o *u* do capítulo 1) e *des* soa `dê`.
+Na pronúncia, *au* e *aux* soam "ô", *du* soa "dü" (o *u* do capítulo 1) e *des* soa "dê".
 
 **Atenção a *des*.** Esta palavra pode ser duas coisas. Já vimos *des* como artigo indefinido plural (*des livres*, "uns livros"). Agora ele é também *de + les* (*le prix des livres*, "o preço dos livros"). A diferença vem do contexto: se há uma preposição *de* antes do artigo definido plural, é contração.
 

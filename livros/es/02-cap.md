@@ -157,7 +157,7 @@ Com alguns adjetivos, a escolha muda a mensagem. Esses pares valem para muitas v
 Exemplos: *Mi jefe es aburrido* (é chato como pessoa) × *Hoy estoy aburrida* (me sinto entediada). *Es muy listo* (é esperto) × *Ya estoy lista* (já estou pronta).
 
 ::: atencao
-Estado civil: *estar casado/a* é o uso mais comum. Com *soltero/a* os dois verbos aparecem (*es soltero*, *está soltero*), então decore *estar casado* e *ser soltero*. Uma frase como "ella es casada" soa estrangeira.
+Estado civil: *estar casado/a* é o uso mais comum. Com *soltero/a* os dois verbos aparecem (*es soltero*, *está soltero*), então decore *estar casado* e *ser soltero*. *Es casada* também se ouve em partes da América, mas *estar casada* é a escolha segura em qualquer lugar.
 :::
 
 ### Os artigos
@@ -294,7 +294,7 @@ O erro mais comum é o **ser onde o espanhol pede estar**, e vice-versa: *soy ca
 | Errado | Certo | Por quê |
 |---|---|---|
 | ~~Soy cansada.~~ | *Estoy cansada.* | Cansaço é estado. |
-| ~~Ella es casada.~~ | *Ella está casada.* | Estado civil de casada: *estar*. |
+| ~~Ella es casada.~~ | *Ella está casada.* | *Estar casada* é o uso geral; *es casada* soa regional. |
 | ~~Los niños son en el parque.~~ | *Los niños están en el parque.* | Lugar de pessoas: *estar*. |
 | ~~La agua fría~~ | *El agua fría* | *Agua* começa com *a* tônica. |
 | ~~Voy a el banco.~~ | *Voy al banco.* | *A + el* sempre contrai. |
@@ -386,11 +386,11 @@ Digo *el agua fría*, *al banco* e *lo importante* sem hesitar.
 
 4. El agua está fría. (*agua* pede *el*)
 
-5. Ella está casada con un argentino. (estado civil de casada: *estar*)
+5. Ella está casada con un argentino. (estado civil de casada: *estar*; *es casada* aparece em partes da América, mas com *con* + pessoa o normal é *estar*)
 
 6. Son las tres de la tarde. (horas no plural)
 
 7. Está certa.
 
-**Retorno.** *Está* leva acento porque termina em vogal e a tônica é a última; *es* é monossílabo, sem acento. O *ll* de *llave* soa como "i" forte ou "dj" (e "x"/"j" na Argentina); o *j* de *jefe* soa como o *r* de "rato". Hache, e, erre, ene, a, ene, de, e, zeta. O acento fica no *á* de *Hernández*: a tônica é a penúltima sílaba (Her-NÁN-dez) e a palavra termina em *z*, então foge da regra e leva til.
+**Retorno.** *Está* leva acento porque termina em vogal e a tônica é a última; *es* é monossílabo, sem acento. O *ll* de *llave* soa como "i" forte ou "dj" (e "x"/"j" na Argentina); o *j* de *jefe* soa como o *r* de "rato". Hache, e, erre, ene, a, ene, de, e, zeta. O acento fica no *á* de *Hernández*: a tônica é a penúltima sílaba (Her-NÁN-dez) e a palavra termina em *z*, então foge da regra e leva acento escrito.
 :::::

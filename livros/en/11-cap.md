@@ -21,7 +21,7 @@ Marina e Tom se conheceram no albergue, em Lisboa. É sexta-feira de manhã, na 
 
 **Marina:** I'd love to, but I'm meeting my sister on Saturday. Maybe on Sunday?
 
-**Tom:** Sunday works. I'm not going to climb the castle again, though. Once is enough.
+**Tom:** Sunday works. I'm not going to climb up to the castle again, though. Once is enough.
 
 **Marina:** Fine. I'll book the tickets tonight.
 :::

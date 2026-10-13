@@ -160,7 +160,7 @@ A inversão (*te lèves-tu ?*, *vous réveillez-vous ?*) existe na escrita forma
 
 ### 5.5 Partes do corpo
 
-Com partes do corpo e roupas, o francês usa o **artigo definido**, e não o possessivo: *Je me lave **les** mains. Il se brosse **les** dents. Elle se lave **les** cheveux.* Isso é igual ao português ("lavo as mãos"), mas diferente do inglês. Nunca *~~je me lave mes mains~~*.
+Com partes do corpo, o francês usa o **artigo definido**, e não o possessivo: *Je me lave **les** mains. Il se brosse **les** dents. Elle se lave **les** cheveux.* Isso é igual ao português ("lavo as mãos"), mas diferente do inglês. Nunca *~~je me lave mes mains~~*.
 
 ### 5.6 Ordem do dia: advérbios e conectores
 

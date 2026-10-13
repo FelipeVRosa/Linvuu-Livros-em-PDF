@@ -6,9 +6,21 @@
 
 Jonas e Camila escolhem um presente para uma amiga.
 
-**Jonas:** Lena hat morgen Geburtstag. Was schenken wir ihr? **Camila:** Ich schenke ihr ein Buch. Das Buch gefällt ihr bestimmt. **Jonas:** Gute Idee! Ich zeige dir einen Laden.
+::: dialogo
+**Jonas:** Lena hat morgen Geburtstag. Was schenken wir ihr?
 
-Der Verkäufer dort hilft uns immer. **Camila:** Danke! Das ist nett von dir. **Jonas:** Gern! Und wie geht es dir heute? **Camila:** Mir geht es gut. Und dir? **Jonas:** Mir auch.
+**Camila:** Ich schenke ihr ein Buch. Das Buch gefällt ihr bestimmt.
+
+**Jonas:** Gute Idee! Ich zeige dir einen Laden. Der Verkäufer dort hilft uns immer.
+
+**Camila:** Danke! Das ist nett von dir.
+
+**Jonas:** Gern! Und wie geht es dir heute?
+
+**Camila:** Mir geht es gut. Und dir?
+
+**Jonas:** Mir auch.
+:::
 
 Em português: A Lena faz aniversário amanhã. O que damos a ela? / Vou dar um livro a ela. Com certeza ela vai gostar do livro. / Boa ideia! Vou te mostrar uma loja. O vendedor de lá sempre nos ajuda. / Obrigada! Que gentileza sua. / De nada! E como você está hoje? / Estou bem. E você? / Eu também.
 
@@ -103,9 +115,7 @@ Com dois substantivos, vem primeiro a pessoa (dativo): *Ich gebe dem Kind das Bu
 
 ## 5. Por dentro
 
-**Gefallen, schmecken, passen.** Esses verbos concordam com a coisa, e a pessoa fica no dativo: *Das Auto gefällt mir* (Gosto do carro), *Das schmeckt mir* (Gosto do sabor), *Die*
-
-*Jacke passt mir* (A jaqueta me serve). *Gefallen* é para opinião; *mögen* e *gern* vêm depois.
+**Gefallen, schmecken, passen.** Esses verbos concordam com a coisa, e a pessoa fica no dativo: *Das Auto gefällt mir* (Gosto do carro), *Das schmeckt mir* (Gosto do sabor), *Die Jacke passt mir* (A jaqueta me serve). *Gefallen* é para opinião; *mögen* e *gern* vêm depois.
 
 **Como vai você.** Na pergunta e na resposta, a pessoa fica no dativo: *Wie geht es dir?* *Mir geht es gut.* Também *Mir ist kalt* (Estou com frio) e *Mir ist warm* (Estou com calor).
 
@@ -147,7 +157,9 @@ Com dois substantivos, vem primeiro a pessoa (dativo): *Ich gebe dem Kind das Bu
 
 6.  Das Buch gehört \_\_\_\_. (mich, mir)
 
-7.  \_\_\_\_ gehört das Buch? (Wen, Wem) **Degrau 2. Complete.**
+7.  \_\_\_\_ gehört das Buch? (Wen, Wem)
+
+**Degrau 2. Complete.**
 
 Pronomes: Wir danken \_\_\_\_ (er). Ich schenke \_\_\_\_ (sie, feminino) ein Buch. Das Buch gefällt \_\_\_\_ (wir). Ich antworte \_\_\_\_ (Sie). Der Lehrer hilft \_\_\_\_ (sie, plural).
 

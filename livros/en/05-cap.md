@@ -28,7 +28,7 @@ Camila liga para a irmã, Ana, que está no Brasil. É de manhã, na cozinha do 
 **Camila:** {{Yes! Look, I'm drinking a huge coffee right now.}}
 :::
 
-Em português: Oi, Cami! O que você está fazendo? / Estou tomando café da manhã na cozinha do albergue. O Ben está fazendo panquecas e a Mei está estudando. / Está frio aí? / Está, e agora está chovendo. Mas não ligo. / Você está trabalhando esta semana? / Não, não estou trabalhando. Estou visitando museus. E, nesses dias, também estou fazendo aulas de inglês. / Você gosta de Nova York? / Adoro! Não conheço bem a cidade, mas estou aprendendo. / Que bom. Está comendo bem? / Estou! Olha, estou tomando um café enorme agora.
+Em português: Oi, Cami! O que você está fazendo? / Estou tomando café da manhã na cozinha do albergue. O Ben está fazendo panquecas e a Mei está estudando. / Está frio aí? / Está, e agora está chovendo. Mas não ligo. / Você está trabalhando esta semana? / Não, não estou trabalhando. Estou visitando museus. E, ultimamente, também estou fazendo aulas de inglês. / Você gosta de Nova York? / Adoro! Não conheço bem a cidade, mas estou aprendendo. / Que bom. Está comendo bem? / Estou! Olha, estou tomando um café enorme agora.
 
 Repare em duas coisas. Quase toda a frase de Camila tem {{am / is / are}} + verbo com {{-ing}}: {{I'm having, Ben is making, it's raining}}. E três verbos ficaram **sem** {{-ing}}, de propósito: {{I love it, I don't know the city, Do you like New York?}}
 
@@ -175,7 +175,7 @@ Alguns verbos mudam de sentido. **{{Have}}** com "possuir" não aceita {{-ing}} 
 | {{It's raining.}} | Está chovendo. |
 | {{I'm not working today.}} | Hoje não estou trabalhando. |
 | {{Where are you going?}} | Aonde você vai? |
-| {{I'm taking English classes these days.}} | Estou fazendo aulas de inglês nesses dias. |
+| {{I'm taking English classes these days.}} | Ultimamente estou fazendo aulas de inglês. |
 | {{I don't know.}} | Não sei. |
 | {{I like it here.}} | Estou gostando daqui. |
 
@@ -315,7 +315,7 @@ Evito {{I'm knowing}}, {{I'm wanting}} e {{I'm liking}}.
 | class | aula |
 | right now | agora mesmo |
 | at the moment | neste momento |
-| these days | atualmente, nesses dias |
+| these days | atualmente, ultimamente |
 | this week | esta semana |
 | today | hoje |
 | rain (verbo) | chover |
@@ -337,7 +337,7 @@ Evito {{I'm knowing}}, {{I'm wanting}} e {{I'm liking}}.
 ::::: gabarito
 **Degrau 1.** 1 is working ({{right now}} pede o continuous). 2 know (verbo de estado). 3 are. 4 Is (be, e não {{does}}). 5 isn't working. 6 want (verbo de estado). 7 making (tira o e). 8 swimming (dobra o m).
 
-**Degrau 2.** 1 is making. 2 is studying. 3 aren't working (ou {{are not working}}). 4 Are ... watching. 5 is ... going. 6 know (estado). 7 is raining. 8 are sitting (dobra o t). 9 starts ... is working (rotina × situação desta semana). 10 is having ({{have}} de atividade aceita {{-ing}}).
+**Degrau 2.** 1 is making. 2 is studying. 3 aren't working (ou {{are not working}}). 4 Are ... watching (agora; {{Do ... watch}} também é possível se a pergunta for sobre hábito). 5 is ... going (agora; {{does ... go}} se for hábito). 6 know (estado). 7 is raining. 8 are sitting (dobra o t). 9 starts ... is working (rotina × situação desta semana). 10 is having ({{have}} de atividade aceita {{-ing}}).
 
 **Degrau 3.** Respostas pessoais. Confira: todas as frases de ação têm {{be}} + {{-ing}}; nenhuma com {{know}}, {{want}}, {{like}}, {{need}} em {{-ing}}; ortografia dos {{-ing}} ({{making}}, {{running}}, {{sitting}}).
 

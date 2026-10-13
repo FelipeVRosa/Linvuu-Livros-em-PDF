@@ -36,7 +36,7 @@ O português tem uma ortografia **quase fonética**: quem sabe as regras lê qua
 
 **Armadilha 1. Ler o inglês como se fosse português.** O brasileiro olha para {{hot}} e fala `rótch`, olha para {{love}} e fala `lôvi`. No inglês, a letra **o** soa diferente em {{hot}}, {{go}}, {{love}}, {{women}} e {{do}}. Não há como adivinhar: a escrita sozinha não basta, e você precisa ouvir a palavra.
 
-**Armadilha 2. Acrescentar uma vogal.** O português quase não termina sílaba em consoante dura: {{pa-pel}}, {{ca-sa}}, {{ho-je}}. Por isso, o ouvido brasileiro "completa" as palavras inglesas:
+**Armadilha 2. Acrescentar uma vogal.** O português quase não termina sílaba em consoante dura: "pa-pel", "ca-sa", "ho-je". Por isso, o ouvido brasileiro "completa" as palavras inglesas:
 
 | O que o inglês diz | O que o brasileiro costuma falar |
 |---|---|
@@ -54,13 +54,13 @@ O português tem uma ortografia **quase fonética**: quem sabe as regras lê qua
 
 | No guia | Significa | Exemplo |
 |---|---|---|
-| MAIÚSCULAS | a sílaba forte | {{hotel}} `hô-TÉL` |
+| MAIÚSCULAS | a sílaba forte | {{hotel}} `hôu-TÉL` |
 | `th` | o som do {{th}} de {{think}}, língua entre os dentes, sem voz | {{think}} `thínk` |
-| `dh` | o som do {{th}} de {{this}}, língua entre os dentes, com voz | {{this}} `dhis` |
-| `tch`, `dj` | como em "tchau" e no "dj" de "DJ" | {{church}} `tchértch`, {{job}} `djób` |
+| `dh` | o som do {{th}} de {{this}}, língua entre os dentes, com voz | {{this}} `dhɪs` |
+| `tch`, `dj` | como em "tchau" e no "dj" de "DJ" | {{church}} `tchértch`, {{job}} `djáb` |
 | `r` | o r americano (seção 5.5) | {{red}} `réd` |
 | `ɪ ʌ ʊ æ ə ɑ` | símbolos que o português não escreve (seções 5.2 e 5.8) | {{ship}} `chɪp` |
-| `ː` | vogal longa | {{sheep}} `chiː` |
+| `ː` | vogal longa | {{sheep}} `chiːp` |
 
 Poucos símbolos de IPA entram no livro, e só onde o português não tem como representar o som. O guia é uma ponte, não o destino: o ouvido é a ferramenta principal. Ouça e repita em voz alta; ler em silêncio ensina os olhos, não a boca.
 
@@ -209,7 +209,7 @@ O erro típico é trocar o surdo por **t**, **f** ou **s** ({{three}} → `tri`,
 
 O **h** inicial do inglês é um sopro de ar, como quando você embaça um espelho para limpá-lo. Sai ar da garganta, sem atrito forte. {{hotel}} `hôu-TÉL`, {{house}} `háus`, {{help}} `hélp`. Quem não faz esse sopro diz `ôu-TÉL`, e a palavra pode se confundir com outra: {{hair}} sem h soa como {{air}}, {{hat}} sem h soa como {{at}}.
 
-Em poucas palavras, o **h** é mudo: {{hour}} `áuər`, {{honest}} `ÓNest`, {{honor}} `ÓNor`.
+Em poucas palavras, o **h** é mudo: {{hour}} `áuər`, {{honest}} `Á-nəst`, {{honor}} `Á-nər`.
 
 O **t** e o **d** do português viram "tch" e "dj" antes de i ("tia", "dia"). No inglês, **não**: {{team}} `tim`, {{tip}} `tɪp`, {{deal}} `dil`, {{did}} `dɪd`. Em contrapartida, nos EUA o **t** no meio da palavra, entre vogais, vira um "d" rápido: {{water}} `UÓder`, {{better}} `BÉder`, {{thirty}} `THÉRdi`. Esse é um som natural do inglês americano e não precisa ser evitado.
 
@@ -217,7 +217,7 @@ O **t** e o **d** do português viram "tch" e "dj" antes de i ("tia", "dia"). No
 
 O r do inglês americano **não é** o "r" de "rato" nem o de "caro". É um som feito com a língua puxada para trás, sem encostar em nada, e com os lábios levemente arredondados. Pense em "r" caipira (como em "porta" no interior de São Paulo), mas sem exagerar.
 
-O r **também se pronuncia no fim da sílaba**, ao contrário do que o brasileiro faria: {{car}} `kár` (com o r), {{work}} `uérk`, {{teacher}} `TI-tchər`. As sequências **er**, **ir**, **ur**, **ear** e **or** depois de **w** têm o mesmo som, um `ér` com r americano: {{bird, her, turn, learn, work, world}}.
+O r **também se pronuncia no fim da sílaba**, ao contrário do que o brasileiro faria: {{car}} `kár` (com o r), {{work}} `uérk`, {{teacher}} `TI-tchər`. As sequências **er**, **ir**, **ur**, **ear** (em palavras como {{learn}}) e **or** depois de **w** têm o mesmo som, um `ér` com r americano: {{bird, her, turn, learn, work, world}}.
 
 **5.6 Final -ed (passado regular)**
 
@@ -225,7 +225,7 @@ Escreve-se sempre {{-ed}}, mas há **três** pronúncias, e a que vale depende d
 
 | Final | Quando | Exemplos |
 |---|---|---|
-| `t` | depois de som surdo: p, k, f, s, th, ch, sh | {{stopped}} `stópt`, {{worked}} `uérkt`, {{watched}} `uótcht`, {{missed}} `míst`, {{washed}} `uócht` |
+| `t` | depois de som surdo: p, k, f, s, th, ch, sh | {{stopped}} `stápt`, {{worked}} `uérkt`, {{watched}} `uótcht`, {{missed}} `míst`, {{washed}} `uócht` |
 | `d` | depois de som sonoro (vogal ou b, g, v, z, l, m, n, r etc.) | {{played}} `plêid`, {{cleaned}} `klínd`, {{lived}} `lɪvd`, {{called}} `kóld` |
 | `ɪd` (uma sílaba a mais) | depois de **t** ou **d** | {{wanted}} `UÓN-tɪd`, {{needed}} `NI-dɪd`, {{decided}} `di-SAI-dɪd` |
 
@@ -253,7 +253,7 @@ Cada palavra de duas ou mais sílabas tem **uma sílaba forte**. Se você acerta
 |---|---|
 | Substantivos e adjetivos de duas sílabas: em geral a 1ª | {{TAble, DOCtor, HAPpy, TEAcher}} |
 | Verbos de duas sílabas: em geral a 2ª | {{beGIN, reLAX, deCIDE, arRIVE}} |
-| Palavras em **-tion, -sion, -ic, -ical, -ity**: a sílaba imediatamente antes | {{inforMAtion, ecoNOmic, uniVERsity, perSONality}} |
+| Palavras em **-tion, -sion, -ic, -ical, -ity**: a sílaba imediatamente antes | {{inforMAtion, ecoNOmic, uniVERsity, persoNALity}} |
 | Substantivo × verbo (mesma grafia, acento muda) | {{REcord (nome) × reCORD (verbo)}}, {{PREsent × preSENT}} |
 | Palavras compostas: a 1ª parte | {{BEDroom, TOOTHbrush, AIRport}} |
 
@@ -322,19 +322,19 @@ Os pares terminados em **-teen** e **-ty** são a armadilha mais frequente em pr
 |---|---|
 | {{thirteen}} `thér-TIN` | {{thirty}} `THÉR-di` |
 | {{fourteen}} `fór-TIN` | {{forty}} `FÓR-di` |
-| {{fifteen}} `fif-TIN` | {{fifty}} `FIF-di` |
-| {{sixteen}} `siks-TIN` | {{sixty}} `SIKS-di` |
-| {{seventeen}} `sé-vən-TIN` | {{seventy}} `SÉ-vən-di` |
+| {{fifteen}} `fif-TIN` | {{fifty}} `FIF-ti` |
+| {{sixteen}} `siks-TIN` | {{sixty}} `SIKS-ti` |
+| {{seventeen}} `sé-vən-TIN` | {{seventy}} `SÉ-vən-ti` |
 | {{eighteen}} `êi-TIN` | {{eighty}} `ÊI-di` |
-| {{nineteen}} `nain-TIN` | {{ninety}} `NAIN-di` |
+| {{nineteen}} `nain-TIN` | {{ninety}} `NAIN-ti` |
 
-Duas diferenças: no **-teen**, a sílaba **final** é a forte e longa, com o **t** bem claro; no **-ty**, a sílaba forte é a **primeira**, e o final é curto e quase um "di" (o t se torna o "d" rápido do inglês americano).
+Duas diferenças: no **-teen**, a sílaba **final** é a forte e longa, com o **t** bem claro; no **-ty**, a sílaba forte é a **primeira**, e o final é curto (em {{thirty}}, {{forty}} e {{eighty}}, o t entre vogais ou depois de r vira o "d" rápido do inglês americano; em {{fifty}} e {{sixty}}, depois de consoante, o t fica `t`).
 
 ::: atencao
 Se um número vier antes de um substantivo, o acento do -teen pode recuar ({{THIRteen DOLlars}}), mas o **-teen continua longo** e o **-ty continua curto**. Na dúvida, use o contexto: pergunte {{Thirteen or thirty?}} como a Camila fez, ou diga os dígitos ({{one three}}, {{three oh}}).
 :::
 
-Na escrita, repare em {{forty}} (sem **u**, ao contrário de {{four}} e {{fourteen}}) e em {{eighty}} (um só **t**, ao contrário de {{eighteen}}).
+Na escrita, repare em {{forty}} (sem **u**, ao contrário de {{four}} e {{fourteen}}) e em {{eighteen}} e {{eighty}} (um só **t**: o t de {{eight}} não se repete).
 
 ## 6. Frases de ouro
 
@@ -464,7 +464,7 @@ th: língua entre os dentes. i curto ({{ship}}) ≠ i longo ({{sheep}}).
 
 -ed = `t`, `d` ou `ɪd` conforme o último som. -s = `s`, `z` ou `ɪz`.
 
-O acento está numa sílaba por palavra; as outras viram schwa.
+O acento está numa sílaba por palavra; as outras enfraquecem, muitas vezes em schwa.
 
 -teen = forte no fim, longo. -ty = forte no começo, curto.
 
@@ -488,13 +488,13 @@ Escolho entre `t`, `d` e `id` para um -ed, e entre `s`, `z` e `iz` para um -s.
 | floor | `flór` | andar, chão |
 | night | `náit` | noite |
 | password | `PÆS-uérd` | senha |
-| dot | `dót` | ponto (em e-mails) |
+| dot | `dát` | ponto (em e-mails) |
 | at | `æt` | arroba |
 | ship | `chɪp` | navio |
 | sheep | `chip` | ovelha |
 | think | `thínk` | pensar |
 | three | `thri` | três |
-| this | `dhis` | este, isto |
+| this | `dhɪs` | este, isto |
 | sit | `sɪt` | sentar |
 | seat | `sit` | assento |
 | thirteen | `thér-TIN` | treze |
@@ -506,7 +506,7 @@ Escolho entre `t`, `d` e `id` para um -ed, e entre `s`, `z` e `iz` para um -s.
 ## Chave comentada do capítulo 1
 
 ::::: gabarito
-**Degrau 1.** 1 seat (ship tem o i curto; set tem o `é`). 2 brother (think e thank têm o th surdo). 3 t (o último som de {{work}} é /k/, surdo). 4 id (depois de /d/ entra a sílaba extra). 5 z (depois de /g/, sonoro). 6 k ({{kn}} no início perde o k: `naif`). 7 15 (fifteen, o acento no fim; fifty seria `FIF-di`). 8 po-LICE (`po-LÍS`; o português tem "po-LÍ-cia").
+**Degrau 1.** 1 seat (ship tem o i curto; set tem o `é`). 2 brother (think e thank têm o th surdo). 3 t (o último som de {{work}} é /k/, surdo). 4 id (depois de /d/ entra a sílaba extra). 5 z (depois de /g/, sonoro). 6 k ({{kn}} no início perde o k: `naif`). 7 15 (fifteen, o acento no fim; fifty seria `FIF-ti`). 8 po-LICE (`po-LÍS`; o português tem "po-LÍ-cia").
 
 **Degrau 2.** 1 t. 2 d. 3 id. 4 t (o som anterior é /ch/, surdo). 5 s. 6 z. 7 iz (depois de /ch/). 8 ho-TEL (acento na 2ª; o h soa). 9 in-for-MA-tion. 10 pre-SENT (verbo; o substantivo {{present}} é PRE-sent).
 

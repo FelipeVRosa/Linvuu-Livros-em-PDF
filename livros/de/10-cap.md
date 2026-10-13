@@ -20,7 +20,7 @@ Camila pede orientação na rua.
 **Passant:** Willkommen in München!
 :::
 
-Em português: Com licença, como chego à estação? / O senhor segue reto aqui e depois vira à esquerda. A estação fica em frente à prefeitura. / E quanto tempo leva de ônibus? / De ônibus, dez minutos. O ponto fica na frente do banco. / Obrigada! Moro aqui só há uma semana. / Bem-vinda a Munique!
+Em português: Com licença, como chego à estação? / A senhora segue reto aqui e depois vira à esquerda. A estação fica em frente à prefeitura. / E quanto tempo leva de ônibus? / De ônibus, dez minutos. O ponto fica na frente do banco. / Obrigada! Moro aqui só há uma semana. / Bem-vinda a Munique!
 
 Repare nos casos: *mit dem Bus*, *gegenüber dem Rathaus*, *vor der Bank*, *seit einer Woche*. Todos no dativo.
 
@@ -146,7 +146,9 @@ Se você viu que *wo* pede dativo, *wohin* pede acusativo, e que *mit, aus, zu* 
 
 6.  Das Buch liegt auf \_\_\_\_ Tisch. (dem, den)
 
-7.  Ich lege das Buch auf \_\_\_\_ Tisch. (dem, den) **Degrau 2. Complete.**
+7.  Ich lege das Buch auf \_\_\_\_ Tisch. (dem, den)
+
+**Degrau 2. Complete.**
 
 Contrações: zu + dem, in + dem, zu + der, von + dem, in + das, an + dem.
 
@@ -272,7 +274,9 @@ Digo *in der Küche* e *in die Küche* na situação certa. Explico como chegar 
 
 **Degrau 4.**
 
-1\. Ich gehe in die Küche. (movimento) 2. Ich bin in der Küche. (parado)
+1.  Ich gehe in die Küche. (movimento)
+
+2.  Ich bin in der Küche. (parado)
 
 3.  Ich fahre mit dem Bus.
 

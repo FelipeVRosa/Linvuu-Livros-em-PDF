@@ -404,5 +404,5 @@ Digo que algo é demais com *too* e suficiente com *enough*.
 
 7.  This is the most beautiful place in the city.
 
-**Retorno.** Capítulo 9: at, on, on; It's a quarter to seven. Capítulo 8: was; like. Capítulo 7: should carry less / should take something out (respostas livres com *should* + verbo simples). Capítulo 6: mine. Capítulo 4: much, many.
+**Retorno.** Capítulo 9: at, on, on (também se aceita *at the corner*); It's a quarter to seven. Capítulo 8: was; like. Capítulo 7: should carry less / should take something out (respostas livres com *should* + verbo simples). Capítulo 6: mine. Capítulo 4: much, many.
 :::::

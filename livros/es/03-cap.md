@@ -181,7 +181,7 @@ Com o feminino, não há mudança em *bueno* e *malo*: *una buena idea*, *una ma
 
 ### O artigo é o seu guia
 
-Aprenda *el viaje*, e não só "viaje". Em algumas palavras, o gênero até muda o sentido: *el orden* é a arrumação ou a sequência; *la orden* é o mandato.
+Aprenda *el viaje*, e não só "viaje". Em algumas palavras, o gênero até muda o sentido: *el orden* é a arrumação ou a sequência; *la orden* é a ordem que alguém dá (o comando).
 
 ## 6. Frases de ouro
 
@@ -292,7 +292,7 @@ O erro que mais custa é **confiar no português para o gênero**: *el leche*, *
 | Quando | O que fazer |
 |---|---|
 | Dia 1 | Leia a Cena em voz alta e sublinhe cada artigo e cada adjetivo. |
-| Dia 3 | Monte uma lista de 15 substantivos com o artigo certo, incluindo os 8 de gênero diferente do português. |
+| Dia 3 | Monte uma lista de 15 substantivos com o artigo certo, incluindo oito de gênero diferente do português. |
 | Dia 7 | Refaça o Degrau 4 sem a chave. |
 | Dia 14 | Descreva, em oito frases, uma foto sua de viagem. |
 

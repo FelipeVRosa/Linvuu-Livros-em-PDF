@@ -34,7 +34,7 @@ Ana procura uma farmácia. Tomás passa pela praça e para para ajudar.
 **Ana:** Entonces voy mañana. Muchas gracias.
 :::
 
-Em português: Com licença, tem uma farmácia por aqui? / Tem, tem uma na praça. A farmácia fica ao lado do banco, a cinco minutos a pé. / E tem um caixa eletrônico perto? / Tem dois: um no banco e outro no supermercado. O supermercado fica entre a farmácia e a estação. / Posso ir à estação de ônibus? / Pode, o catorze vai até a estação e passa pelo centro. O ponto fica em frente ao hotel. / A que horas sai o último? / Às onze e meia da noite. Agora são oito e quinze. / Quanto custa a passagem? / Um dólar. / E o museu? Está aberto até tarde? / O museu abre às nove e fecha às seis. Hoje é segunda: está fechado. / Então eu vou amanhã. Muito obrigada.
+Em português: Com licença, tem uma farmácia por aqui? / Tem, tem uma na praça. A farmácia fica ao lado do banco, a cinco minutos a pé. / E tem um caixa eletrônico perto? / Tem dois: um no banco e outro no supermercado. O supermercado fica entre a farmácia e a estação. / Posso ir de ônibus até a estação? / Pode, o catorze vai até a estação e passa pelo centro. O ponto fica em frente ao hotel. / A que horas sai o último? / Às onze e meia da noite. Agora são oito e quinze. / Quanto custa a passagem? / Um dólar. / E o museu? Está aberto até tarde? / O museu abre às nove e fecha às seis. Hoje é segunda: está fechado. / Então eu vou amanhã. Muito obrigada.
 
 Repare: o português diria “tem uma farmácia” e “a farmácia fica”. O espanhol separa **hay** (existe, coisa nova) de **está** (onde fica algo que já é conhecido). Repare também em *a las nueve*, *en autobús* e *hasta la estación*.
 
@@ -101,7 +101,7 @@ Se você viu que *hay* acompanha coisas **novas** (*una, dos, ningún*) e nunca 
 **Hay: formas e usos.** *Hay* vem do verbo *haber* e é uma forma impessoal: não tem sujeito, por isso não concorda. {{Hay una persona.}} {{Hay cinco personas.}} Nunca ~~hayn~~. A pergunta é {{¿Hay un banco por aquí?}}, a negativa {{No hay bancos aquí}} (sem artigo) ou {{No hay ningún banco}}. *Hay* serve também para eventos: {{Hoy hay clase.}} {{El sábado hay una fiesta.}} Há ainda a fórmula {{hay que + infinitivo}}, que equivale a “é preciso”: {{Hay que reservar con tiempo.}} Trate-a como bloco pronto por ora.
 
 ::: atencao
-com artigo definido, não se usa *hay*: ~~Hay el banco en la esquina~~. Diga {{El banco está en la esquina}} ou, apresentando algo novo, {{Hay un banco en la esquina}}.
+Com artigo definido, não se usa *hay*: ~~Hay el banco en la esquina~~. Diga {{El banco está en la esquina}} ou, apresentando algo novo, {{Hay un banco en la esquina}}.
 :::
 
 **Estar: a localização.** Pergunta {{¿Dónde está el hotel?}}, resposta {{El hotel está en el centro.}} Pessoas também: {{Marta está en la oficina.}} Já para eventos e acontecimentos, o espanhol usa *ser*: {{La fiesta es en el albergue.}} (revise ser e estar no capítulo 2).
@@ -308,7 +308,7 @@ O que mais aparece é **usar *tener* onde o espanhol quer *hay***, porque o port
 
 ## 9. Retorno
 
-**Do capítulo 6.** Faça a pergunta: {{\_\_\_\_ cuesta el pasaje?}} {{\_\_\_\_ está la estación?}} {{\_\_\_\_ va ahora?}} E transforme em negativa: {{Hay alguien en la plaza.}}
+**Do capítulo 6.** Faça a pergunta: {{¿\_\_\_\_ cuesta el pasaje?}} {{¿\_\_\_\_ está la estación?}} {{¿\_\_\_\_ va ahora?}} E transforme em negativa: {{Hay alguien en la plaza.}}
 
 **Do capítulo 5.** Responda: {{Me gusta viajar en autobús.}} → {{A mí \_\_\_\_.}}
 

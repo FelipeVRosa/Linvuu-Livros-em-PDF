@@ -153,7 +153,7 @@ Usam-se depois de *ser*, depois do substantivo (“um amigo meu”) ou com artig
 
 Funcionam como adjetivo ({{este libro}}, {{esa manta}}) ou como pronome, no lugar de um substantivo já dito: {{Este es mío; ese es tuyo.}} Eles concordam com o substantivo em gênero e número. **Esto, eso, aquello** servem quando você não nomeia a coisa: {{¿Qué es esto?}} {{Eso es muy caro.}}
 
-O acento dos demonstrativos (*éste, ése*) aparece em textos antigos. A RAE manda hoje escrever sem acento, mesmo quando a frase poderia ser ambígua; escreva {{este}}, {{ese}}, {{aquel}} sempre assim.
+O acento dos demonstrativos (*éste, ése*) aparece em textos antigos. A RAE recomenda hoje escrever sem acento; desde 2023 só o admite, como opção, quando a frase seria realmente ambígua. Escreva {{este}}, {{ese}}, {{aquel}} sempre assim.
 
 **Advérbios de lugar.** Seguem os mesmos três graus.
 

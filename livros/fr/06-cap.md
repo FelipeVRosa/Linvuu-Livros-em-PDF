@@ -82,7 +82,7 @@ Que letra o feminino costuma acrescentar? Em que adjetivo da tabela isso não ac
 
 O que acontece com a terminação *-if* e com *-eux* no feminino?
 
-Em *un beau quartier* o plural é *-s*. O que aparece no lugar?
+Em *un beau quartier*, o plural não é em *-s*. O que aparece no lugar?
 
 Se você viu que o normal é +*e* no feminino e +*s* no plural, e que as terminações *-if/-eux* e *-eau* têm tratamento próprio, descobriu o núcleo da regra.
 

@@ -22,7 +22,7 @@ Jonas quer sair com Camila, mas ela está ocupada.
 
 Em português: Oi, Camila! Você tem tempo hoje à noite? / Infelizmente não. Não tenho tempo, ainda estou estudando. / Que pena! E amanhã? / Amanhã tenho tempo. Mas não jogo futebol bem. / Sem problema! Não vamos jogar futebol, vamos tomar chá. / Ótimo! Não sou atleta.
 
-Repare: Camila disse *keine Zeit* e *keine Sportlerin*, mas *nicht gut* e *nicht Fußball*. São duas palavras para o nosso “não”.
+Repare: na Cena aparecem *keine Zeit* e *keine Sportlerin*, mas *nicht gut* e *nicht Fußball*. São duas palavras para o nosso “não”.
 
 ## 2. A armadilha do português
 
@@ -35,7 +35,7 @@ O português tem um único “não”, sempre antes do verbo: “Não moro em Be
 | Não tenho tempo. | Ich habe keine Zeit. | idem: kein |
 | Não é grande. | Es ist nicht groß. | nega adjetivo: nicht |
 
-Há uma segunda armadilha. Em português, “não tenho nada” e “nunca tenho tempo” usam “não” junto de outra palavra negativa. Em alemão não: *Ich habe nichts.* *Ich habe nie Zeit.* Sem *nicht*.
+Há uma segunda armadilha. Em português, “não tenho nada” e “não tenho tempo nunca” usam “não” junto de outra palavra negativa. Em alemão não: *Ich habe nichts.* *Ich habe nie Zeit.* Sem *nicht*.
 
 ::: atencao
 tem *ein* na frase afirmativa? Troque por *kein*. Não tem *ein*? Use *nicht*.
@@ -170,7 +170,7 @@ Escreva um diálogo curto em que você recusa um convite e propõe outro dia.
 O erro que mais custa caro é **copiar o “não” antes do verbo**: *Ich nicht wohne.* O *nicht* alemão fica depois, no fim da frase ou antes do trecho que nega. O segundo erro é usar *nicht ein*: *Das ist nicht ein Tisch*. O certo é *kein*.
 
 ::: atencao
-*n*uma frase simples, o nicht nunca fica entre o sujeito e o verbo. O verbo está na posição 2, e o *nicht* vem depois.
+numa frase simples, o *nicht* nunca fica entre o sujeito e o verbo. O verbo está na posição 2, e o *nicht* vem depois.
 :::
 
 

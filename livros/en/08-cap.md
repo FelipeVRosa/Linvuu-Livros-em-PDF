@@ -30,7 +30,7 @@ Repare que *was, went, took, left, had, saw, were* são verbos que mudaram de fo
 
 ## 2. A armadilha do português
 
-O português tem dois passados para ações terminadas: "fui" e "ia" (pretérito perfeito e imperfeito), e cada verbo muda de forma em seis pessoas: fui, foste, foi, fomos, foram. O inglês tem uma única forma para todas as pessoas (com uma exceção, o verbo *be*): {{I went, you went, he went, we went, they went.}} Isso facilita. A armadilha é outra, e tem duas partes.
+O português tem dois passados principais: "fui" e "ia" (pretérito perfeito e imperfeito), e cada verbo muda de forma em seis pessoas: fui, foste, foi, fomos, fostes, foram. O inglês tem uma única forma para todas as pessoas (com uma exceção, o verbo *be*): {{I went, you went, he went, we went, they went.}} Isso facilita. A armadilha é outra, e tem duas partes.
 
 **Primeira armadilha: o *did* já carrega o passado.** Em português, a pergunta "Você foi?" mantém o verbo no passado. Em inglês, o passado vai para o auxiliar *did*, e o verbo principal **volta à forma simples**:
 
@@ -257,7 +257,7 @@ Com *could* (passado de *can*), a regra é a mesma do passado simples: {{I could
 
 9.  Where \_\_\_\_ you \_\_\_\_ (leave) your keys?
 
-10. It \_\_\_\_ (be) a cold day, but we \_\_\_\_ (be) not tired.
+10. It \_\_\_\_ (be) a cold day, but we \_\_\_\_ (not/be) tired.
 
 **Degrau 3. Produza.**
 
@@ -311,7 +311,7 @@ O terceiro é a pronúncia do *-ed*. Se você disser *worked* com duas sílabas,
 
 **Do capítulo 6.** Escolha: *This is Anna and \_\_\_\_ (her / his) brother Tom. Those are \_\_\_\_ (their / theirs) bags.*
 
-**Do capítulo 5.** Escolha entre presente simples e contínuo: *She usually (take / is taking) the bus, but today she (walks / is walking).*
+**Do capítulo 5.** Escolha entre presente simples e contínuo: *She usually (takes / is taking) the bus, but today she (walks / is walking).*
 
 **Do capítulo 3.** Complete: *He \_\_\_\_ (not/like) coffee. \_\_\_\_ (do/does) she work here?*
 

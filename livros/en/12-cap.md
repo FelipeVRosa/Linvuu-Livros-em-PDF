@@ -36,7 +36,7 @@ Repare: Mark diz {{I've seen the castle}} (já viu, não importa quando) e logo 
 
 ## 2. A armadilha do português
 
-O português resolve tudo isso com três tempos de que você nem se dá conta. Dizemos "moro aqui há cinco anos" (presente), "já fui a Paris" (pretérito perfeito), "acabei de chegar" (pretérito perfeito). Ninguém precisa pensar em outro tempo.
+O português resolve tudo isso com dois tempos de que você nem se dá conta. Dizemos "moro aqui há cinco anos" (presente), "já fui a Paris" (pretérito perfeito), "acabei de chegar" (pretérito perfeito). Ninguém precisa pensar em outro tempo.
 
 O inglês tem um tempo a mais, o {{present perfect}} (presente perfeito), que liga o passado ao agora. A pergunta não é "quando aconteceu?", mas "o que isso significa hoje?".
 
@@ -71,7 +71,7 @@ Perguntas:
 
 Quais frases do passado simples têm um momento marcado ({{last night}}, {{on Monday}}, {{yesterday}})?
 
-Na frase de Rome, qual das duas ainda mora lá? Como você sabe?
+Nas frases sobre Roma, qual das duas ainda mora lá? Como você sabe?
 
 Se você notou que o passado simples fecha o episódio e o {{present perfect}} deixa o episódio aberto para o presente, entendeu a ideia central.
 
@@ -156,7 +156,7 @@ Depois de {{since}} pode vir um momento ({{since 2024}}) ou uma pequena oração
 Os verbos mais comuns nesse uso descrevem estados: {{live, work, study, know, have, be}}. {{I've known her since school.}} {{We've had this car for six years.}}
 
 ::: atencao
-Nunca use o presente simples nesse caso. ~~I live here since 2021~~ e ~~I am here for three days~~ estão errados. Escreva {{I've lived here since 2021}} e {{I've been here for three days}}.
+Nunca use o presente simples nesse caso. ~~I live here since 2021~~ e ~~I am here for three days~~ (no sentido de "estou aqui há três dias") estão errados. Escreva {{I've lived here since 2021}} e {{I've been here for three days}}.
 :::
 
 **Quando usar o passado simples.** Se a frase diz quando o fato aconteceu, ou se o contexto fecha o período, use passado simples.
@@ -186,7 +186,7 @@ Palavras que pedem passado simples: {{yesterday, last week/month/year, in 2019, 
 | Has he called? | Yes, he has. / No, he hasn't. |
 | How long have they lived here? | For six years. / Since 2020. |
 
-**Palavras de ligação.** Com o {{present perfect}} aparecem muito {{recently}} ({{I've recently moved}}), {{so far}} ("até agora": {{I've visited three cities so far}}), {{lately}} ("ultimamente") e {{before}} ({{I've never done this before}}).
+**Outras palavras frequentes.** Com o {{present perfect}} aparecem muito {{recently}} ({{I've recently moved}}), {{so far}} ("até agora": {{I've visited three cities so far}}), {{lately}} ("ultimamente") e {{before}} ({{I've never done this before}}).
 
 ## 6. Frases de ouro
 

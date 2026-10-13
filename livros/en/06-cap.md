@@ -26,13 +26,13 @@ Rafa e Emma dividem um quarto num albergue em Lisboa. Na hora de sair, os dois p
 
 Em português: Com licença, Emma. Esse carregador é seu? / Não, o meu é branco. Aquele ali na cama provavelmente é do Tom. Ele é o cara do beliche de cima. / Certo. E estas chaves? São suas? / Não, as minhas estão na minha bolsa. Olha, tem um nome nesta etiqueta: "Lucas". Talvez sejam dele. / O Lucas é seu amigo? / Não, ele é irmão da Sara. Ela e as amigas dela estão no quarto ao lado. / Vou levar as chaves para a recepção. Aliás, de quem é aquela jaqueta ali? / Aquela? É minha! É uma jaqueta verde velha, mas eu adoro.
 
-Repare em três coisas. Primeiro, o inglês tem uma palavra para cada dono: *your charger, her friends, his brother* (no caso, *Sara's brother*). Segundo, *mine, yours* e *his* aparecem sozinhos, sem substantivo depois. Terceiro, *this* e *these* falam do que está perto, *that* do que está longe, e no fim da cena aparece *an old green jacket*: dois adjetivos, os dois antes do substantivo.
+Repare em três coisas. Primeiro, o inglês tem uma palavra para cada dono: *your charger, my keys, her friends* (e, para pessoas, *Sara's brother*). Segundo, *mine, yours* e *his* aparecem sozinhos, sem substantivo depois. Terceiro, *this* e *these* falam do que está perto, *that* do que está longe, e no fim da cena aparece *an old green jacket*: dois adjetivos, os dois antes do substantivo.
 
 ## 2. A armadilha do português
 
 O português tem um problema que o inglês não tem, e o inglês tem outro que o português não tem.
 
-**Problema do português: "dele" e "dela".** Em português, "seu carro" pode ser do ele, da ela, do você, do senhor. Para não confundir, a gente troca por "o carro dele", "o carro dela". O inglês faz essa separação sempre, e a escolha depende de **quem é o dono**, não de quem ou o que é possuído:
+**Problema do português: "dele" e "dela".** Em português, "seu carro" pode ser dele, dela, de você, do senhor. Para não confundir, a gente troca por "o carro dele", "o carro dela". O inglês faz essa separação sempre, e a escolha depende de **quem é o dono**, não de quem ou o que é possuído:
 
 | Dono | Inglês | Português |
 |---|---|---|
@@ -113,7 +113,7 @@ Os sete possessivos são *my, your, his, her, its, our, their*. Não há "meu/mi
 | {{her name}} | a dona é mulher |
 | {{his name}} | o dono é homem |
 | {{its name}} | o dono é coisa, animal ou lugar (*The hotel has its own restaurant.*) |
-| {{our flat}} | nós |
+| {{our apartment}} | nós |
 | {{their kids}} | eles ou elas |
 
 Há um fato que o português não tem: o inglês usa possessivo para **partes do corpo e roupas**, onde o português diria "o": {{I wash my hands.}} (lavo as mãos). {{She brushes her teeth.}} (escova os dentes). {{He puts on his jacket.}} (veste a jaqueta).
@@ -142,7 +142,7 @@ A pergunta que combina com tudo isso é *Whose...?* (de quem): {{Whose bag is th
 | a casa dos meus pais | {{my parents' house}} |
 | os brinquedos das crianças | {{the children's toys}} |
 
-Nos dois últimos exemplos há uma diferença de forma. Se o dono já termina em *-s* por ser plural regular, só se acrescenta o apóstrofo: *parents'*. Se o plural é irregular (*children, men, women, people*), volta o *'s*: *children's, women's*. Nomes próprios que terminam em *s* aceitam as duas formas na escrita: *James's book* ou *James' book*; na fala, a primeira costuma ser dita como "Jaimz-iz".
+Nos dois últimos exemplos há uma diferença de forma. Se o dono já termina em *-s* por ser plural regular, só se acrescenta o apóstrofo: *parents'*. Se o plural é irregular (*children, men, women, people*), volta o *'s*: *children's, women's*. Nomes próprios que terminam em *s* aceitam as duas formas na escrita: *James's book* ou *James' book*; na fala, a primeira costuma ser dita `DJÊIM-zɪz`.
 
 Você também pode usar *'s* sem substantivo, quando ele é óbvio: {{Whose coat is this? It's Ana's.}} / {{I'm at my mother's tonight.}} (na casa da minha mãe).
 
@@ -154,10 +154,10 @@ O *'s* também aparece em *he's, she's, it's, what's, there's* (do *is*, capítu
 
 | Caminho | Exemplo | Quando |
 |---|---|---|
-| substantivo + substantivo | {{the kitchen door, a phone number, a shoe shop}} | o primeiro diz o tipo; o primeiro substantivo **fica no singular** |
+| substantivo + substantivo | {{the kitchen door, a phone number, a shoe store}} | o primeiro diz o tipo; o primeiro substantivo **fica no singular** |
 | substantivo + *of* + substantivo | {{the end of the film, the name of the street}} | a ideia é "parte de" ou "nome de" |
 
-Cuidado com a ordem e com o singular. "Loja de sapatos" é {{a shoe shop}}, não ~~a shoes shop~~. "Número de telefone" é {{a phone number}}.
+Cuidado com a ordem e com o singular. "Loja de sapatos" é {{a shoe store}}, não ~~a shoes store~~. "Número de telefone" é {{a phone number}}.
 
 Um uso a mais: com **tempo**, o *'s* aparece em {{today's news}}, {{yesterday's game}}, {{tomorrow's meeting}}. Vale decorar como bloco.
 
@@ -203,7 +203,7 @@ Exemplos reais:
 | {{a beautiful old Italian car}} | um belo carro italiano antigo |
 | {{a long hot summer}} | um verão longo e quente |
 
-Para o dia a dia, guarde o essencial: **opinião vem antes de fato** (*nice* antes de *big*), e **cor vem perto do substantivo**. Com um ou dois adjetivos você está seguro; com três, olhe a tabela. Entre dois adjetivos da mesma categoria, coloque *and* ou vírgula: {{a big, beautiful house}} ou {{a big and beautiful house}}.
+Para o dia a dia, guarde o essencial: **opinião vem antes de fato** (*nice* antes de *big*), e **cor vem perto do substantivo**. Com um ou dois adjetivos você está seguro; com três, olhe a tabela. Entre dois adjetivos da mesma categoria, coloque *and* ou vírgula: {{a quiet, comfortable room}} ou {{a quiet and comfortable room}}.
 
 ::: atencao
 Antes de *a/an*, a vogal do **primeiro** adjetivo decide: *an old car*, mas *a nice old car*. A palavra que vem logo depois do artigo é a que conta.
@@ -221,7 +221,7 @@ Quando as três ideias aparecem juntas, a ordem é: demonstrativo ou possessivo 
 | Whose bag is this? | De quem é esta bolsa? |
 | That's mine. | Aquilo é meu. |
 | She's a friend of mine. | Ela é uma amiga minha. |
-| My phone's dead. Can I use yours? | Meu celular morreu. Posso usar o seu? |
+| My phone's dead. Can I use yours? | Meu celular descarregou. Posso usar o seu? |
 | Those are my parents' keys. | Aquelas são as chaves dos meus pais. |
 | It's a small, quiet street. | É uma rua pequena e tranquila. |
 | What's your phone number? | Qual é o seu número de telefone? |
@@ -319,7 +319,7 @@ O terceiro é o adjetivo plural: *blues, news, nices*. O inglês não faz isso, 
 
 **Do capítulo 5.** Complete com o presente contínuo: *Right now, my sister \_\_\_\_ (work) and my parents \_\_\_\_ (watch) TV.*
 
-**Do capítulo 4.** Responda: *Is there some milk in the fridge?* Troque para a negativa: *There isn't \_\_\_\_ milk.*
+**Do capítulo 4.** Responda: *Is there any milk in the fridge?* Troque para a negativa: *There isn't \_\_\_\_ milk.*
 
 **Do capítulo 3.** Passe para a terceira pessoa: *I work in a hotel.* → *She \_\_\_\_ in a hotel.* / *I don't like coffee.* → *He \_\_\_\_ like coffee.*
 

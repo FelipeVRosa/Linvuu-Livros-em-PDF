@@ -51,7 +51,7 @@ Para soletrar, Camila usou os **nomes alemães das letras**. Eles não são os n
 | Y     | üpsilon | ü-psi-lon          |
 | Z     | zet     | tsét               |
 
-O alemão tem ainda quatro sinais que ficam fora da fila: **ä** (dito “A-Umlaut”), **ö** (“OUmlaut”), **ü** (“U-Umlaut”) e **ß** (dito “Eszett”).
+O alemão tem ainda quatro sinais que ficam fora da fila: **ä** (dito “A-Umlaut”), **ö** (“O-Umlaut”), **ü** (“U-Umlaut”) e **ß** (dito “Eszett”).
 
 ## 2. A armadilha do português
 
@@ -117,7 +117,7 @@ Se as suas respostas bateram com “Em 30 segundos”, você acabou de deduzir a
 
 ## 5. Por dentro
 
-**Vogal longa ou curta.** Três sinais indicam vogal longa: um **h** depois dela (Zahl), a vogal dobrada (Staat, Tee) e uma única consoante antes de outra vogal (Tag, Vater). Duas consoantes depois da vogal indicam vogal curta (Stadt, Mitte). O som muda o sentido:
+**Vogal longa ou curta.** Três sinais indicam vogal longa: um **h** depois dela (Zahl), a vogal dobrada (Staat, Tee) e uma única consoante depois dela (Tag, Vater). Duas consoantes depois da vogal indicam vogal curta (Stadt, Mitte). O som muda o sentido:
 
 | Longa           | Curta          |
 |-----------------|----------------|

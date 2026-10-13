@@ -41,6 +41,8 @@ Em português, o gosto tem um sujeito humano: **eu** gosto **de** café. A pesso
 | Ele gosta de dançar. | ~~Él gusta de bailar.~~ | **Le gusta** bailar. |
 | Nós gostamos do filme. | ~~Nosotros gustamos el filme.~~ | **Nos gusta** la película. |
 
+(*Gustar de* + algo existe, mas é construção de registro escrito; na fala, use o molde *le gusta*.)
+
 Pense assim: *me gusta el café* = "o café me agrada". A coisa decide se o verbo é *gusta* (singular) ou *gustan* (plural). A pessoa decide só o pronome (*me, te, le, nos, os, les*).
 
 Há uma segunda armadilha, nas respostas curtas. Em português dizemos "eu também" e "eu também não" para tudo. Em espanhol, com *gustar* a resposta natural é **a mí también** e **a mí tampoco**, porque o "eu" aqui não é o sujeito da frase anterior.

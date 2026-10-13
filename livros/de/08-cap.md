@@ -99,7 +99,7 @@ Se você viu que só o masculino ganha *-en* (*den*, *einen*), descobriu a regra
 | ihr        | euch      |
 | sie / Sie  | sie / Sie |
 
-4.  Perguntas: **Wer?** pergunta pelo sujeito (nominativo). **Wen?** pergunta pela pessoaobjeto (acusativo). **Was?** serve aos dois, para coisas.
+4.  Perguntas: **Wer?** pergunta pelo sujeito (nominativo). **Wen?** pergunta pela pessoa-objeto (acusativo). **Was?** serve aos dois, para coisas.
 
 5.  Depois de *sein*, *werden*, *bleiben* e *heißen*, o nominativo continua: *Das ist ein Tisch.*
 :::::
@@ -116,7 +116,7 @@ Se você viu que só o masculino ganha *-en* (*den*, *einen*), descobriu a regra
 
 **Quando o objeto é um pronome.** *Ich liebe dich.* *Tom sucht mich.* *Camila kennt ihn.* Os pronomes *mich, dich, uns, euch* têm forma própria.
 
-**Es gibt.** *Es gibt* quer dizer “havia, há” e pede acusativo: *Es gibt einen Supermarkt.* *Gibt es hier einen Supermarkt?*
+**Es gibt.** *Es gibt* quer dizer “há, existe” e pede acusativo: *Es gibt einen Supermarkt.* *Gibt es hier einen Supermarkt?*
 
 **Aqui entra o keinen do capítulo 6.** *Ich habe keinen Hunger* usa *keinen* porque *Hunger* é masculino e está no acusativo.
 
@@ -150,7 +150,9 @@ Se você viu que só o masculino ganha *-en* (*den*, *einen*), descobriu a regra
 
 6.  Das ist \_\_\_\_ Stuhl. (ein, einen)
 
-7.  \_\_\_\_ besuchst du? (Wer, Wen) **Degrau 2. Complete.**
+7.  \_\_\_\_ besuchst du? (Wer, Wen)
+
+**Degrau 2. Complete.**
 
 Pronomes: Ich liebe \_\_\_\_ (du). Tom sucht \_\_\_\_ (ich). Camila kennt \_\_\_\_ (er). Wir besuchen \_\_\_\_ (sie, plural).
 
@@ -166,7 +168,9 @@ Escreva uma conversa de brechó de seis falas, entre você e um vendedor.
 
 Escreva três perguntas com *Wen* ou *Was*: *Wen besuchst du? Was suchst du?*
 
-Diga o que você tem em casa: *Ich habe einen …, eine …, ein …* **Degrau 4. Corrija o erro típico.** Uma delas está certa.
+Diga o que você tem em casa: *Ich habe einen …, eine …, ein …*
+
+**Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
 1.  Ich kaufe der Tisch.
 
@@ -200,9 +204,7 @@ antes de usar *ein*, pergunte qual é o gênero. Se for *der* e a palavra for ob
 
 **Do capítulo 5.** Diga o artigo: \_\_\_\_ Schrank, \_\_\_\_ Lampe, \_\_\_\_ Fenster, \_\_\_\_ Stühle.
 
-**Do capítulo 4.** Faça a pergunta: *Ich suche einen Tisch.* → *Was …?* *Camila besucht Jonas.* →
-
-*Wen …?*
+**Do capítulo 4.** Faça a pergunta: *Ich suche einen Tisch.* → *Was …?* *Camila besucht Jonas.* → *Wen …?*
 
 **Do capítulo 3.** Comece pelo objeto: *Ich kaufe den Tisch.* → *Den Tisch …*
 

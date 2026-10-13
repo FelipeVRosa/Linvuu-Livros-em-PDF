@@ -46,7 +46,7 @@ Duas armadilhas curtas:
 
 *   **Porque.** O português tem *porque* e *por que*. O francês tem {{pourquoi}} (pergunta) e {{parce que}} (resposta): {{Pourquoi tu pleures ? Parce que je suis triste.}}
 
-*   **Se + subjuntivo futuro.** “Se chover, fico em casa” usa um verbo que não existe em francês. O francês diz {{S'il pleut, je reste à la maison}}, com o **presente**. Compare com o capítulo 13: depois de {{quand}}, futuro; depois de {{si}}, presente.
+*   **Se + subjuntivo futuro.** “Se chover, fico em casa” usa um tempo verbal (o futuro do subjuntivo) que não existe em francês. O francês diz {{S'il pleut, je reste à la maison}}, com o **presente**. Compare com o capítulo 13: depois de {{quand}}, futuro; depois de {{si}}, presente.
 
 ## 3. Descubra você mesmo
 
@@ -114,13 +114,13 @@ Se você viu que **qui + verbo** e **que + sujeito + verbo**, e que o *où* acei
 
 ### Os pronomes relativos
 
-**Qui: sujeito.** Substitui quem ou o quê faz a ação. Vem logo antes do verbo e **nunca elide**: {{L'homme qui arrive est mon cousin.}}
+**Qui: sujeito.** Substitui quem ou o que faz a ação. Vem logo antes do verbo e **nunca elide**: {{L'homme qui arrive est mon cousin.}}
 
 **Que: objeto direto.** Substitui o que sofre a ação. Vem antes do sujeito da oração relativa e elide diante de vogal: {{Le livre que tu lis est intéressant. Le film qu'il a vu était bon.}}
 
 **Teste rápido.** Olhe o que vem **depois** da palavra:
 
-*   Se vem um **verbo** (ou *ne*), é {{qui}}: {{le café qui est au coin}}.
+*   Se vem um **verbo** (ou *ne*, ou um pronome complemento como *me*, *te*, *lui*), é {{qui}}: {{le café qui est au coin}}.
 
 *   Se vem um **sujeito** (nome ou pronome), é {{que}}: {{le café que tu aimes}}.
 
@@ -340,7 +340,7 @@ Digo uma condição com *si* + presente e o resultado.
 ::::: gabarito
 **Degrau 1.** 1 que (depois vem *j'*, sujeito). 2 qui (depois vem verbo). 3 où (lugar). 4 parce que (*à cause de* pede nome, não frase). 5 veux (*si* + presente). 6 voudrais (*veux* seria seco). 7 pourtant (oposição). 8 donc (consequência).
 
-**Degrau 2.** 1 qui. 2 que. 3 où. 4 où (lugar: *le café où nous avons rencontré Paul*). 5 que. 6 voudrais. 7 devrais. 8 Pourriez. 9 mange. 10 fait, irons.
+**Degrau 2.** 1 qui. 2 que. 3 où. 4 où (lugar: *le café où nous avons rencontré Paul*). 5 que. 6 voudrais. 7 devrais. 8 Pourriez. 9 mange. 10 fait, irons (*allons* também é aceitável: *si* + presente admite resultado no presente).
 
 **Degrau 3.** Respostas pessoais. Modelos: {{J'ai une amie qui parle trois langues. Voilà le sac que j'ai acheté à Paris. C'est la rue où j'habite.}} Confira: *qui* + verbo; *que* + sujeito; *où* para lugar; nenhum *si* + futuro; nenhum pedido com *je veux*.
 
@@ -360,7 +360,7 @@ Digo uma condição com *si* + presente e o resultado.
 
 7.  La robe que j'ai achetée est jolie. (concorda com *robe*, antecedente de *que*)
 
-**Retorno.** Capítulo 13: Je la lui donne. J'en ai trois. Nous y allons. Capítulo 12: Il faisait froid et nous restions à la maison. Capítulo 11: Nous sommes allés au marché et nous avons acheté du pain.
+**Retorno.** Capítulo 13: Je le lui donne. J'en ai trois. Nous y allons. Capítulo 12: Il faisait froid et nous restions à la maison. Capítulo 11: Nous sommes allés au marché et nous avons acheté du pain.
 :::::
 
 ## Revisão A2
@@ -369,7 +369,7 @@ Você chegou ao fim do livro. Esta lista junta os doze pontos que sustentam o n�
 
 1.  **Cap. 1.** Leio em voz alta uma frase curta sem pronunciar letras finais mudas, e distingo *u* de *ou* e as vogais nasais.
 
-2.  **Cap. 2.** Me apresento com *je suis / j'ai … ans*, uso *tu* e *vous* conforme a situação e digo *il y a*.
+2.  **Cap. 2.** Eu me apresento com *je suis / j'ai … ans*, uso *tu* e *vous* conforme a situação e digo *il y a*.
 
 3.  **Cap. 3.** Escolho *le, la, l', les, un, une, des, du, de la* e faço o plural.
 

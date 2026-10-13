@@ -122,7 +122,7 @@ Atenção a dois verbos que **não levam preposição** em francês, embora o po
 | Português | Francês |
 |---|---|
 | olhar **para** a TV | {{regarder la télé}} |
-| procurar **por** um plano | {{chercher un plan}} |
+| procurar **por** um mapa | {{chercher un plan}} |
 
 E dois que se usam com {{à}}: {{habiter à Lyon}} (morar em Lyon), {{rester à l'hôtel}}.
 

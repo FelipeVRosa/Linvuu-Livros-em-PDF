@@ -26,7 +26,7 @@ Camila e Elisa contam o fim de semana.
 
 Em português: Oi, Camila! O que você fez no sábado? / Fui a Florença com a Marta. Saímos cedo e chegamos às dez. / Que legal! Vocês viram os Uffizi? / Sim, vimos os Uffizi e comemos um bife. Depois voltei para casa de trem. / E no domingo? / Dormi até o meio-dia! Não fiz nada. E você? Saiu? / Não, fiquei em casa. Li um livro e escrevi para a minha avó. Ainda não terminei a lição de casa. / Eu também não! Ainda não abri o livro de italiano.
 
-Repare: todas as frases têm **duas partes**: *ho, hai, abbiamo, sono, siamo, sei* + uma forma terminada em **-ato, -uto, -ito** ou irregular (*fatto, letto, scritto, aperto*). E quando o auxiliar é *essere*, a segunda parte muda: *sono andat**a**, siamo partit**e**, sei uscit**a**.*
+Repare: as frases no passado têm **duas partes**: *ho, hai, abbiamo, sono, siamo, sei* + uma forma terminada em **-ato, -uto, -ito** ou irregular (*fatto, letto, scritto, aperto*). E quando o auxiliar é *essere*, a segunda parte muda: *sono andat**a**, siamo partit**e**, sei uscit**a**.*
 
 ## 2. A armadilha do português
 
@@ -38,7 +38,7 @@ O *passato prossimo* tem a mesma forma do pretérito perfeito composto do portug
 | já comi                            | ho già mangiato                       |
 | tenho comido (várias vezes, até agora) | mangio spesso / ultimamente mangio fuori |
 
-1.  **"Tenho comido" não é "ho mangiato".** Em português, "tenho comido" exprime repetição até hoje. Em italiano, *ho mangiato* é uma ação **terminada**, equivalente ao "comi" e ao "já comi". Para repetição até agora, o italiano usa o presente: *{{Ultimamente mangio fuori}}.* Quem escreve *~~Ho mangiato spesso fuori~~* para dizer "tenho comido muito fora" mudou o sentido.
+1.  **"Tenho comido" não é "ho mangiato".** Em português, "tenho comido" exprime repetição até hoje. Em italiano, *ho mangiato* é uma ação **terminada**, equivalente ao "comi" e ao "já comi". Para repetição até agora, o italiano prefere o presente (*{{Ultimamente mangio fuori}}*) ou põe um marcador como *ultimamente* junto do passato prossimo (*{{Ultimamente ho mangiato spesso fuori}}*). Sem esse marcador, *Ho mangiato spesso fuori* soa como um período já encerrado ("comi fora com frequência").
 
 2.  **Dois auxiliares.** O português só tem "ter" para formar o composto. O italiano tem *avere* **e** *essere*, e é preciso escolher a cada verbo. Quem aplica "ter" a todos os verbos erra em *~~ho andato~~* (certo: *sono andato*).
 
@@ -242,7 +242,7 @@ Escreva um diálogo de seis falas entre duas pessoas que acabam de voltar de uma
 
 ## 8. O erro típico
 
-O erro mais frequente é **usar *avere* com verbos de movimento** (*~~ho andato~~*), porque em português só há "ter". O segundo é **esquecer a concordância com *essere*** (*~~Maria è andato~~*). O terceiro é **regularizar o particípio** (*~~scrivuto~~, ~~fato~~, ~~vedeto~~*). E o quarto: usar o passato prossimo para dizer "tenho feito", quando o italiano pede o presente.
+O erro mais frequente é **usar *avere* com verbos de movimento** (*~~ho andato~~*), porque em português só há "ter". O segundo é **esquecer a concordância com *essere*** (*~~Maria è andato~~*). O terceiro é **regularizar o particípio** (*~~scrivuto~~, ~~fato~~, ~~vedeto~~*). E o quarto: usar o passato prossimo sozinho para dizer "tenho feito", quando o italiano prefere o presente (ou um marcador como *ultimamente*).
 
 ::: erros
 | Errado                     | Certo                    | Por quê                                          |

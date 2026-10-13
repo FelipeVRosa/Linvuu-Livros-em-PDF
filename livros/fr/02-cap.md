@@ -131,7 +131,7 @@ Na fala cotidiana, {{on}} quase substitui {{nous}}. Você vai ouvir {{On est cin
 
 | Pronome | Forma | Som aproximado |
 |---|---|---|
-| {{je}} | {{suis}} | "jü-sui" |
+| {{je}} | {{suis}} | "jeu-süi" |
 | {{tu}} | {{es}} | "tü-é" |
 | {{il / elle / on}} | {{est}} | "i-lé", "é-lé", "õ-nét" |
 | {{nous}} | {{sommes}} | "nu-som" |
@@ -182,7 +182,7 @@ Usos do {{avoir}}:
 
 ### Homófonos para decorar
 
-Na fala, {{on}} e {{ont}} soam iguais ("õ"), e {{son}} e {{sont}} também. Quem distingue é o contexto: {{on est}} (a gente é) × {{ils ont}} (eles têm); {{ils sont}} (eles são) × {{son frère}} (o irmão dele/dela, capítulo 7). O mesmo vale para {{a}} (tem) e {{à}} (a, em, para) do capítulo 1. Escrevendo, troque por {{avait}} ou por {{avoir}} para testar: se couber, é {{a}}.
+Na fala, {{on}} e {{ont}} soam iguais ("õ"), e {{son}} e {{sont}} também. Quem distingue é o contexto: {{on est}} (a gente é) × {{ils ont}} (eles têm); {{ils sont}} (eles são) × {{son frère}} (o irmão dele/dela, capítulo 7). O mesmo vale para {{a}} (tem) e {{à}} (a, em, para) do capítulo 1. Escrevendo, troque por {{avait}} para testar: se couber, é {{a}}.
 
 ### C'est × il est
 
@@ -206,7 +206,7 @@ Há ainda o {{il}} impessoal: {{Il est tard}} (é tarde), {{Il est huit heures}}
 
 {{Il y a}} diz que algo **existe ou está presente**: {{Il y a un café près d'ici.}} {{Il y a des chambres libres.}} Ele não varia: o mesmo para um ou mil. A pergunta se faz com a entonação: {{Il y a un supermarché ?}}
 
-Como falar rápido, {{il y a}} soa "i-li-a", e muitas vezes só "ilya".
+Na fala rápida, {{il y a}} soa "i-li-a", e muitas vezes só "ilya".
 
 | Português | Francês |
 |---|---|
@@ -227,7 +227,7 @@ Para ênfase, depois de {{c'est}}, depois de {{avec}} e como resposta curta, o f
 | resposta curta | {{Qui est là ? — Moi.}} | Quem está aí? Eu. |
 | com {{c'est}} | {{C'est moi.}} | Sou eu. |
 | ênfase | {{Moi, je suis brésilienne.}} | Eu, sou brasileira. |
-| depois de {{et}} / {{avec}} | {{Hugo et moi.}} {{Avec toi.}} | Hugo e eu. Contigo. |
+| depois de {{et}} / {{avec}} | {{Hugo et moi.}} {{Avec toi.}} | Hugo e eu. Com você. |
 
 ## 6. Frases de ouro
 
@@ -379,7 +379,7 @@ Digo {{il y a}} e {{j'ai faim}} sem pensar em português.
 1. J'ai vingt ans. (idade com {{avoir}})
 2. Je suis brésilienne. (sujeito obrigatório)
 3. Il est médecin. / C'est un médecin.
-4. Il y a un café dans la rue.
+4. Il y a un café dans la rue. (existência; lida como posse, "ele é dono de um café na rua", a frase original seria possível, mas não é o sentido treinado aqui)
 5. Está certa ({{avoir faim}}).
 6. Tu es d'où ?
 7. Il est médecin. / C'est un médecin. (sem artigo, {{il est}}; com artigo, {{c'est}})

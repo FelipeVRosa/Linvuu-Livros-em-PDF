@@ -6,9 +6,19 @@
 
 Camila encontra Tom na cozinha. Depois, o gerente passa para ver se está tudo bem.
 
-**Tom:** Hallo! Ich bin Tom. Wie heißt du? **Camila:** Ich heiße Camila. Woher kommst du? **Tom:** Ich komme aus Irland, aber ich wohne jetzt in München. Und du? **Camila:** Ich komme aus Brasilien. Ich lerne hier Deutsch. **Tom:** Toll! Hast du Hunger? Kochen wir zusammen? **Camila:** Ja, gern!
-
 ::: dialogo
+**Tom:** Hallo! Ich bin Tom. Wie heißt du?
+
+**Camila:** Ich heiße Camila. Woher kommst du?
+
+**Tom:** Ich komme aus Irland, aber ich wohne jetzt in München. Und du?
+
+**Camila:** Ich komme aus Brasilien. Ich lerne hier Deutsch.
+
+**Tom:** Toll! Hast du Hunger? Kochen wir zusammen?
+
+**Camila:** Ja, gern!
+
 **Herr Weber:** Guten Abend, Frau Souza. Wohnen Sie gern hier?
 
 **Camila:** Ja, sehr gern.
@@ -131,7 +141,9 @@ Se você completou *komme, kommst, kommt*, descobriu a regra.
 
 4.  Você fala com dois amigos: \_\_\_\_ habt Zeit. (du, ihr, Sie)
 
-5.  Você fala com um colega de classe da sua idade: \_\_\_\_ lernst Deutsch. (du, ihr, Sie) **Degrau 2. Complete.**
+5.  Você fala com um colega de classe da sua idade: \_\_\_\_ lernst Deutsch. (du, ihr, Sie)
+
+**Degrau 2. Complete.**
 
 Terminações: ich lern\_\_, du wohn\_\_, er komm\_\_, wir lern\_\_, ihr arbeit\_\_, Sie wohn\_\_, du heiß\_\_.
 

@@ -55,7 +55,7 @@ Qual palavra não muda de lugar em nenhuma das quatro?
 
 O que acontece com *Tom* quando outra coisa abre a frase?
 
-Na frase 4, quantas palavras virão antes do verbo?
+Na frase 4, quantas palavras vêm antes do verbo?
 
 Se você notou que o verbo fica em segundo lugar e o sujeito troca de lado, descobriu a regra.
 
@@ -118,7 +118,7 @@ Se você notou que o verbo fica em segundo lugar e o sujeito troca de lado, desc
 
 4.  Qual é a posição 1 em *Tom und Camila kochen heute*?
 
-5.  Quantos blocos virão antes do verbo em *Heute Abend kocht Tom*?
+5.  Quantos blocos vêm antes do verbo em *Heute Abend kocht Tom*?
 
 **Degrau 2. Complete.**
 

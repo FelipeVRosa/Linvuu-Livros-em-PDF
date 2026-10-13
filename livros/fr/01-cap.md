@@ -26,7 +26,7 @@ Camila chega a um albergue em Lyon, no fim da tarde, e faz o check-in.
 
 Em português: Bom dia, tenho uma reserva. / Bom dia. Seu nome, por favor? / Camila Souza. / Como se escreve? / S, O, U, Z, A. Souza. / Obrigado. A senhora é brasileira? / Sou, sou de Recife. Tenho um amigo aqui, ele se chama Hugo. / Ótimo. Aqui está a sua chave. Boa estadia!
 
-Repare que quase nada do que você *ouve* nessa cena está escrito do jeito que o português faria. {{Bonjour}} soa "bõ-jur", com um *n* que não se ouve. {{Vous êtes}} soa como "vu-zét". {{Un ami}} soa como "unâmi", embora haja um espaço entre as palavras. {{Réservation}}, {{clé}} e {{séjour}} trazem um acento que muda a vogal. Este capítulo ensina a ver a página e ouvir a palavra ao mesmo tempo.
+Repare que quase nada do que você *ouve* nessa cena está escrito do jeito que o português faria. {{Bonjour}} soa "bõ-jur", com um *n* que não se ouve. {{Vous êtes}} soa como "vu-zét". {{Un ami}} soa como "ẽ-na-mi", embora haja um espaço entre as palavras. {{Réservation}}, {{clé}} e {{séjour}} trazem um acento que muda a vogal. Este capítulo ensina a ver a página e ouvir a palavra ao mesmo tempo.
 
 ## 2. A armadilha do português
 
@@ -64,8 +64,8 @@ Leia as palavras abaixo em voz alta, na coluna da direita já com o som que o fr
 | {{tout}} | "tu" |
 | {{bon}} | "bõ" (sem pronunciar o *n*) |
 | {{bonne}} | "bón" (aqui o *n* aparece) |
-| {{vin}} | "vé" (nasal, parecido com o "em" de "bem", sem o "i" final) |
-| {{vingt}} | "vé" |
+| {{vin}} | "vẽ" (nasal, parecido com o "em" de "bem", sem o "i" final) |
+| {{vingt}} | "vẽ" |
 | {{les amis}} | "lé-za-mi" |
 | {{les héros}} | "lé ê-rô" (sem ligação) |
 
@@ -101,17 +101,17 @@ O alfabeto tem as mesmas 26 letras do português, e você vai precisar do nome d
 | B | "bê" | K | "ká" | T | "tê" |
 | C | "sê" | L | "él" | U | "ü" (como em {{tu}}) |
 | D | "dê" | M | "ém" | V | "vê" |
-| E | "eu" fechado e arredondado | N | "én" | W | "dubleví" |
+| E | "eu" fechado e arredondado | N | "én" | W | "dublevê" |
 | F | "éf" | O | "ô" | X | "iks" |
 | G | "jê" | P | "pê" | Y | "i-grék" |
 | H | "ash" | Q | "kü" | Z | "zéd" |
 | I | "i" | R | "ér" (com o *r* da garganta) | | |
 
-Note três letras traiçoeiras: **G** se diz "jê" (e **J** "ji"), **E** se diz "eu" e **H** se diz "ash". Em {{Souza}}, o nome de Camila no cenário, a recepcionista ouve "ess, ô, ü, zéd, a".
+Note três letras traiçoeiras: **G** se diz "jê" (e **J** "ji"), **E** se diz "eu" e **H** se diz "ash". Em {{Souza}}, o nome de Camila no cenário, a recepcionista ouve "éss, ô, ü, zéd, a".
 
 ### Os acentos
 
-O francês usa cinco sinais sobre as letras e um embaixo. Eles **não indicam sílaba tônica**, como no português. Indicam qual vogal é.
+O francês usa quatro sinais sobre as letras e um embaixo. Eles **não indicam sílaba tônica**, como no português. Indicam qual vogal é.
 
 | Sinal | Exemplo | Efeito |
 |---|---|---|
@@ -123,7 +123,7 @@ O francês usa cinco sinais sobre as letras e um embaixo. Eles **não indicam s�
 | **ç** (cedilha) | {{français}}, {{garçon}}, {{ça}} | o *c* soa "s" antes de *a, o, u* |
 | **ë, ï** (trema) | {{Noël}}, {{naïf}} | a vogal se pronuncia separada da anterior |
 
-Uma dica que ajuda a lembrar: o circunflexo muitas vezes marca um *s* que existia e sumiu, e esse *s* aparece em português: {{forêt}} ("floresta"), {{hôtel}} (compare "hospital"), {{fête}} ("festa"), {{île}} ("ilha"). É um truque de memória, não uma regra, mas funciona bem.
+Uma dica que ajuda a lembrar: o circunflexo muitas vezes marca um *s* que existia e sumiu, e esse *s* aparece em português: {{forêt}} ("floresta"), {{hôtel}} (compare "hospital"), {{fête}} ("festa"), {{château}} ("castelo"). É um truque de memória, não uma regra, mas funciona bem.
 
 ::: atencao
 o *c* seguido de *e, i* já soa "s" ({{ceci}}), mas diante de *a, o, u* precisa da cedilha para soar "s": {{ça}}, {{garçon}}, {{reçu}}. Sem cedilha, {{ca}} soaria "ka". Nunca ponha cedilha antes de *e* ou *i*.
@@ -218,7 +218,7 @@ A sequência **{{ill}}** é um ponto à parte: em muitas palavras soa "i" semivo
 
 ### Letras finais mudas
 
-Em francês, a regra de base é: **a consoante final de uma palavra não se pronuncia**. Exceções: *c, r, f, l* (a sigla CaReFuL, como se fosse o inglês "careful" para guardar), mas mesmo aqui há erros:
+Em francês, a regra de base é: **a consoante final de uma palavra não se pronuncia**. Exceções: *c, r, f, l* (a sigla CaReFuL, como se fosse o inglês "careful" para guardar), mas mesmo aqui há exceções:
 
 | Consoante final muda | Consoante final que soa |
 |---|---|
@@ -247,7 +247,7 @@ Para o brasileiro: não fale o *e* mudo como "i" ({{table}} "tábli") nem como "
 |---|---|---|
 | {{s}}, {{x}}, {{z}} | "z" | {{vous avez}} "vu-za-vê", {{les amis}} "lé-za-mi" |
 | {{t}}, {{d}} | "t" | {{petit ami}} "pe-ti-ta-mi", {{grand homme}} "grã-tom" |
-| {{n}} | "n" | {{un ami}} "ẽ-na-mi" (o *un* perde a nasal) |
+| {{n}} | "n" | {{un ami}} "ẽ-na-mi" (o *un* continua nasal e o *n* soa) |
 | {{f}} em *neuf* | "v" | {{neuf heures}} "neu-veur" |
 
 **Liaison obrigatória** (sempre):
@@ -320,7 +320,7 @@ a ligação não é uma regra para "falar bonito". Se você omite a liaison obri
 **Degrau 3. Produza.**
 
 1. Soletre seu nome e sobrenome em francês, em voz alta, usando os nomes das letras.
-2. Grave-se lendo cinco palavras da cena. Compare com a transcrição da seção 3 deste capítulo.
+2. Grave-se lendo cinco palavras da cena. Compare com as transcrições deste capítulo.
 3. Escreva três frases curtas com liaison obrigatória: uma com {{nous}}, uma com {{vous}} e uma com {{ils}}.
 4. Escreva duas palavras que contêm nasal e duas que contêm *u* francês.
 

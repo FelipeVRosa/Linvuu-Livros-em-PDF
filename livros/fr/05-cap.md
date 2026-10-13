@@ -93,7 +93,7 @@ O {{ne}} (ou {{n'}}) vai logo antes do verbo conjugado e o {{pas}} vai logo depo
 | {{Elle habite à Lyon.}} | {{Elle n'habite pas à Lyon.}} |
 | {{On mange ici.}} | {{On ne mange pas ici.}} |
 
-A **elisão** é obrigatória diante de vogal ou *h* mudo: {{n'ai}}, {{n'aime}}, {{n'habite}}. Pronuncie junto: {{je n'ai pas}} "jê-nê-pá", {{il n'habite pas}} "il-na-bit-pa".
+A **elisão** é obrigatória diante de vogal ou *h* mudo: {{n'ai}}, {{n'aime}}, {{n'habite}}. Pronuncie junto: {{je n'ai pas}} "jeu-nê-pa", {{il n'habite pas}} "il-na-bit-pa".
 
 Quando há **dois verbos** (um verbo conjugado + infinitivo), o {{ne… pas}} cerca **só o verbo conjugado**: {{Je ne veux pas manger}}, {{Tu ne peux pas entrer}}, {{Nous n'allons pas manger}}. A negação do futuro próximo também cerca o verbo {{aller}}: {{Je ne vais pas manger}}.
 
@@ -367,7 +367,7 @@ Faço a mesma pergunta de três jeitos.
 ::::: gabarito
 **Degrau 1.** 1 {{ne}} (diante de consoante). 2 {{n'}} (diante de vogal). 3 {{rien}} (comer = coisa; {{personne}} é pessoa). 4 {{de}} (indefinido vira {{de}}). 5 {{Si}} (contradiz negativa). 6 {{Parles-tu français ?}} 7 {{Quand}} ("Ce soir" responde a quando). 8 {{Parce que}} (resposta).
 
-**Degrau 2.** 1 ne, pas. 2 n'a, de. 3 ne, pas, de. 4 n'aime, pas. 5 ne, pas, de. 6 ne, jamais, d'. 7 Est-ce que tu habites à Lyon ? 8 Travaillez-vous ici ? 9 Va-t-il à la gare ? 10 Où est-ce que tu habites ?
+**Degrau 2.** 1 ne, pas. 2 n'a, de. 3 ne, pas, de. 4 n', pas. 5 ne, pas, de. 6 ne, jamais, d'. 7 Est-ce que tu habites à Lyon ? 8 Travaillez-vous ici ? 9 Va-t-il à la gare ? 10 Où est-ce que tu habites ?
 
 **Degrau 3.** Respostas pessoais. Confira: {{ne}} presente; {{de}} depois da negação nos indefinidos/partitivos; o hífen e o {{-t-}} na inversão.
 

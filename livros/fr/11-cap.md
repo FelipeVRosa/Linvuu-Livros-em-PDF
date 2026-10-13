@@ -24,7 +24,7 @@ Inès e Marc trabalham juntos em Lyon. É segunda de manhã e eles contam o fim 
 
 Em português: E aí, o fim de semana? Você saiu? / Sábado, sim. Fui à feira, comprei queijo e, à noite, jantamos na casa da Léa. / Vocês comeram bem? / Muito bem. Mas eu não dormi muito. E você? / Eu fiquei em casa. Terminei meu livro e vi um filme. No domingo, minha irmã veio. / A que horas ela chegou? / Por volta do meio-dia. A gente passeou no parque e depois ela foi embora.
 
-Repare: todos os verbos da cena têm **duas peças**: um auxiliar ({{ai, avons, avez, suis, est, sommes}}) e uma forma terminada em *-é*, *-i* ou *-u*. Em {{Je suis allé}} e {{Elle est arrivée}} o auxiliar é *être*, e o particípio ganhou um *-e* quando quem fala é uma mulher. Em {{J'ai acheté}} e {{Nous avons dîné}} o auxiliar é *avoir* e nada muda no fim.
+Repare: todos os verbos da cena têm **duas peças**: um auxiliar ({{ai, avons, avez, suis, est, sommes}}) e uma forma terminada em *-é*, *-i* ou *-u*. Em {{Je suis allé}} e {{Elle est arrivée}} o auxiliar é *être*, e o particípio ganhou um *-e* quando o sujeito é feminino ({{Elle est arrivée}}, {{je suis restée}}). Em {{J'ai acheté}} e {{Nous avons dîné}} o auxiliar é *avoir* e nada muda no fim.
 
 ## 2. A armadilha do português
 
@@ -41,7 +41,7 @@ Três hábitos do português atrapalham:
 | Ontem eu fui ao cinema. | {{Hier, je suis allé au cinéma.}} | *aller*, com *être* |
 | Eu fui professor por dois anos. | {{J'ai été professeur pendant deux ans.}} | *être*, com *avoir* |
 
-3.  **Confundir com “tenho comido”.** O pretérito perfeito composto do português (*tenho feito*) indica repetição até hoje. O passé composto francês é o pretérito simples: uma coisa que aconteceu e acabou. {{J'ai mangé}} é *comi*, não *tenho comido*.
+3.  **Confundir com “tenho comido”.** O pretérito perfeito composto do português (*tenho feito*) indica repetição até hoje. O passé composé francês é o pretérito simples: uma coisa que aconteceu e acabou. {{J'ai mangé}} é *comi*, não *tenho comido*.
 
 Por fim, o francês escolhe o auxiliar. Em português só existe *ter* (*tinha comido*, *tinha ido*). Em francês, a maioria dos verbos pede *avoir*, e um grupo pequeno, mas frequente, pede *être*.
 
@@ -122,7 +122,7 @@ alguns verbos da lista de *être* podem ter objeto direto, e então mudam para *
 | {{vouloir}} | {{voulu}} | {{devoir}} | {{dû}} |
 | {{savoir}} | {{su}} | {{ouvrir}} | {{ouvert}} |
 
-Repare que *avoir* tem o particípio {{eu}}, que se pronuncia como a letra *u*: {{j'ai eu}} soa como “jê u”.
+Repare que *avoir* tem o particípio {{eu}}, que se pronuncia como a letra *u*: {{j'ai eu}} soa como “jê ü”.
 
 **Como a concordância funciona.** Com *être*, o particípio é um adjetivo do sujeito: acrescente *-e* para feminino e *-s* para plural.
 

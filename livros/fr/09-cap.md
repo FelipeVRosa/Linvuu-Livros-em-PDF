@@ -159,10 +159,10 @@ O milhar na escrita francesa leva espaço, não ponto: *1 000 euros*. A vírgula
 
 As letras finais mudas do capítulo 1 voltam aqui.
 
--   **Sozinho ou no fim da frase:** *six* `sis`, *dix* `dis`, *huit* `üit`, *cinq* `sẽk`, *neuf* `nêf`.
--   **Antes de consoante:** a consoante some em *six*, *dix*: *six livres* `si`, *dix livres* `di`. Em *huit*, *cinq* e *neuf*, o mais seguro para o iniciante é pronunciar a consoante final: *huit livres*, *cinq livres*, *neuf livres*.
--   **Antes de vogal (liaison):** *six ans* `si-zã`, *dix euros* `di-zeu-rô`, *neuf ans* `nê-vã` (o *f* vira *v*), *neuf heures* `nê-vër`.
--   **Vingt:** sozinho, *vingt* soa `vẽ`; de 21 a 29, o *t* soa: *vingt-deux* `vẽt-deu`. Em *quatre-vingts* e *quatre-vingt-un*, o *t* não soa: `katr-vẽ`, `katr-vẽ-ẽ`. Diante de vogal, *quatre-vingts ans* faz liaison: `katr-vẽ-zã`.
+-   **Sozinho ou no fim da frase:** *six* "sis", *dix* "dis", *huit* "üit", *cinq* "sẽk", *neuf* "neuf" (com o *f*).
+-   **Antes de consoante:** a consoante some em *six*, *dix* e *huit*: *six livres* "si", *dix livres* "di", *huit livres* "üi". Em *neuf* o *f* sempre soa (*neuf livres*); em *cinq* o *k* hoje costuma soar (*cinq livres*), e esse é o mais seguro para o iniciante.
+-   **Antes de vogal (liaison):** *six ans* "si-zã", *dix euros* "di-zeu-rô", *neuf ans* "neu-vã" (o *f* vira *v*), *neuf heures* "neu-veur".
+-   **Vingt:** sozinho, *vingt* soa "vẽ"; de 21 a 29, o *t* soa: *vingt-deux* "vẽt-deu". Em *quatre-vingts* e *quatre-vingt-un*, o *t* não soa: "katr-vẽ", "katr-vẽ-ẽ". Diante de vogal, *quatre-vingts ans* faz liaison: "katr-vẽ-zã".
 
 Nos números de telefone, o francês lê aos pares: 06 12 34 56 78 = *zéro six, douze, trente-quatre, cinquante-six, soixante-dix-huit*.
 
@@ -188,7 +188,7 @@ A resposta sempre começa com ***Il est***:
 
 **Duas maneiras de dizer as horas.** Na fala cotidiana, usa-se o relógio de 12 horas com *et quart, et demie, moins le quart*. Em horários de trem, avião e cinema, usa-se o de 24 horas: *quinze heures trente* (15h30), *vingt heures quinze* (20h15). Nesse caso, não se usa *quart*, *demie*, *moins*: diz-se o número.
 
-**Para marcar um horário**, use ***à***: *Le cours commence **à** neuf heures. Le train part **à** quatorze heures trente.* Para a pergunta, *à quelle heure* : *À quelle heure tu manges ?*
+**Para marcar um horário**, use ***à***: *Le cours commence **à** neuf heures. Le train part **à** quatorze heures trente.* Para a pergunta, *à quelle heure*: *À quelle heure tu manges ?*
 
 **Partes do dia.** *Le matin* (de manhã), *l'après-midi* (à tarde), *le soir* (à noite), *la nuit* (de madrugada, à noite). *Ce matin, ce soir, cet après-midi* (capítulo 7).
 
@@ -317,7 +317,7 @@ Escreva as datas de três feriados ou eventos importantes para você.
 
 ## 8. O erro típico
 
-O erro que mais custa caro está nas horas: **dizer a hora pelo português**, com "são" ou "é": *~~Ils sont huit heures~~*, *~~C'est huit heures~~*. A frase tem de começar por *Il est*. O segundo erro é **não achar o 70, 80 e 90**: *~~septante~~* na França (válido na Bélgica e na Suíça), ou *~~quatre-vingt-un euros~~* sem pensar. O terceiro é **perder o *s* de *quatre-vingts* e de *cents***: *~~quatre-vingt euros~~*, *~~deux cent euros~~*.
+O erro que mais custa caro está nas horas: **dizer a hora pelo português**, com "são" ou "é": *~~Ils sont huit heures~~*, *~~C'est huit heures~~*. A frase tem de começar por *Il est*. O segundo erro é **não achar o 70, 80 e 90**: *~~septante~~* na França (válido na Bélgica e na Suíça), ou *~~quatre-vingts-un euros~~* sem pensar (o certo é *quatre-vingt-un euros*). O terceiro é **perder o *s* de *quatre-vingts* e de *cents***: *~~quatre-vingt euros~~*, *~~deux cent euros~~*.
 
 ::: erros
 | Errado | Certo | Por quê |
@@ -345,7 +345,7 @@ O erro que mais custa caro está nas horas: **dizer a hora pelo português**, co
 | Quando | O que fazer |
 |--------|-------------|
 | Dia 1 | Leia a Cena em voz alta e diga os números em voz alta, de 60 a 100. |
-| Dia 3 | Diga, em voz alta, a hora todo tempo em que olhar o relógio. |
+| Dia 3 | Diga, em voz alta, a hora toda vez que olhar o relógio. |
 | Dia 7 | Refaça o Degrau 4 sem a chave. |
 | Dia 14 | Escreva e leia a sua agenda de uma semana, com dias, datas e horas. |
 

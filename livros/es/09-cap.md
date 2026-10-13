@@ -50,7 +50,7 @@ O português brasileiro cortou o pronome de muitos verbos que o espanhol mantém
 
 Há ainda um falso amigo traiçoeiro: o português “acordar” (despertar) **não** é *acordar* em espanhol. O espanhol *despertarse* é “acordar”. O espanhol *acordar* quer dizer “combinar, chegar a um acordo”. E *acordarse de* é “lembrar-se de”. Para “lembrar” sem pronome existe *recordar*: {{Recuerdo todo}} e {{Me acuerdo de todo}} significam o mesmo.
 
-Terceiro, a **posição**. No português de Portugal, o pronome pode vir depois do verbo (“levanto-me”). No Brasil, ele costuma vir antes, quando aparece. O espanhol sempre o põe **antes** do verbo conjugado: ~~levanto me~~, ~~levántome~~ não existem na língua de hoje.
+Terceiro, a **posição**. No português de Portugal, o pronome pode vir depois do verbo (“levanto-me”). No Brasil, ele costuma vir antes, quando aparece. O espanhol sempre o põe **antes** do verbo conjugado (a exceção é o imperativo afirmativo, *levántate*, que fica para o capítulo 13): ~~levanto me~~, ~~levántome~~ não existem na língua de hoje.
 
 ## 3. Descubra você mesmo
 
