@@ -172,7 +172,7 @@ That includes things far in distance (the building at the end of the street), fa
 
 ### Essa × aquela in a real choice
 
-Hold two shirts, one in each hand, in a shop in Recife. In the textbook, your hand has {{esta camisa}} and the display behind the cashier has {{aquela camisa}}. In speech, you say {{essa camisa}} for the one in your hand, and {{aquela}} for the one behind the counter. If the clerk points to a shirt next to you and asks {{Quer experimentar essa?}}, the {{essa}} points to something close to you both.
+Hold a shirt in your hand in a shop in Recife. In the textbook, your hand has {{esta camisa}} and the display behind the cashier has {{aquela camisa}}. In speech, you say {{essa camisa}} for the one in your hand, and {{aquela}} for the one behind the counter. If the clerk points to a shirt next to you and asks {{Quer experimentar essa?}}, the {{essa}} points to something close to you both.
 
 ::: comparacao
 | In English | In Portuguese |
@@ -197,7 +197,7 @@ The same happens with {{este/esta/isto}}: {{deste}}, {{desta}}, {{disto}}, {{nes
 - {{Você gosta dessa música?}} (Do you like this song?)
 - {{Não tenho nada a ver com aquilo.}} (I have nothing to do with that.)
 
-With {{a}} (to), the feminine forms of {{aquele}} fuse too and take a grave accent: {{Vou àquela festa}}. This is the mark you saw in Lesson 1 under "acento grave", and you will meet it in reading before you use it in speech.
+With {{a}} (to), {{aquele}}, {{aquela}} and {{aquilo}} fuse too and take a grave accent: {{àquele}}, {{àquela}}, {{àquilo}}: {{Vou àquela festa}}. This is the mark you saw in Lesson 1 under "acento grave", and you will meet it in reading before you use it in speech.
 
 ## 8.6 Aqui, aí, ali, lá: the place words that go with them
 
@@ -234,10 +234,10 @@ In English you *like* something. The verb takes a direct object. In Portuguese, 
 
 | Person | Form | Guide |
 |---|---|---|
-| eu | {{gosto}} | `GOHS-too` |
-| você, ele, ela, a gente | {{gosta}} | `GOHS-tah` |
+| eu | {{gosto}} | `GAWS-too` |
+| você, ele, ela, a gente | {{gosta}} | `GAWS-tah` |
 | nós | {{gostamos}} | `gohs-TAH-mooss` |
-| vocês, eles, elas | {{gostam}} | `GOHS-tah~oo` |
+| vocês, eles, elas | {{gostam}} | `GAWS-tah~oo` |
 
 Then add {{de}} and the thing. If a noun with an article follows, {{de}} fuses with the article as in 8.4:
 
@@ -261,11 +261,11 @@ Put the intensity next to the verb, never before it:
 
 | Portuguese | Guide | Meaning |
 |---|---|---|
-| {{Gosto muito de samba.}} | `GOHS-too MOO~ee-too djee SAH~-bah` | I like samba a lot. |
-| {{Gosto bastante.}} | `GOHS-too bahs-TAH~-tchee` | I like it quite a lot. |
-| {{Gosto um pouco.}} | `GOHS-too oo~ POH-koo` | I like it a little. |
-| {{Não gosto muito.}} | `NOW~ GOHS-too MOO~ee-too` | I do not like it much. |
-| {{Não gosto nada.}} | `NOW~ GOHS-too NAH-dah` | I do not like it at all. |
+| {{Gosto muito de samba.}} | `GAWS-too MOO~ee-too djee SAH~-bah` | I like samba a lot. |
+| {{Gosto bastante.}} | `GAWS-too bahs-TAH~-tchee` | I like it quite a lot. |
+| {{Gosto um pouco.}} | `GAWS-too oo~ POH-koo` | I like it a little. |
+| {{Não gosto muito.}} | `NOW~ GAWS-too MOO~ee-too` | I do not like it much. |
+| {{Não gosto nada.}} | `NOW~ GAWS-too NAH-dah` | I do not like it at all. |
 | {{Adoro viajar.}} | `ah-DAW-roo vee-ah-ZHAR` | I love traveling. |
 | {{Detesto esperar.}} | `deh-TEHS-too ehs-peh-RAR` | I hate waiting. |
 | {{Odeio fila.}} | `oh-DAY-oo FEE-lah` | I hate lines. |
@@ -280,7 +280,7 @@ Be careful with people. {{Eu gosto de você}} is gentle: it means *I like you* a
 
 ## 8.8 Preferir: choosing between two things
 
-{{Preferir}} `preh-feh-REER` is an {{-ir}} verb whose stem keeps the same vowel. Its present tense is regular enough to learn at a glance:
+{{Preferir}} `preh-feh-REER` is an {{-ir}} verb whose stem vowel changes from {{e}} to {{i}} in the {{eu}} form only ({{prefiro}}). The rest of its present tense is regular:
 
 | Person | Form | Guide |
 |---|---|---|
@@ -325,7 +325,7 @@ In everyday Brazilian speech you will also hear {{Prefiro café do que chá}} an
 | little, few | {{pouco}} | {{pouca}} | {{poucos}} | {{poucas}} |
 
 - {{Tem muito trânsito hoje.}} (There is a lot of traffic today.)
-- {{Tem muita gente na praia.}} (There are lots of people at the beach.) Notice that {{gente}} is singular, so the verb is singular.
+- {{Tem muita gente na praia.}} (There are lots of people at the beach.) Notice that {{gente}} is feminine singular, so it takes {{muita}}.
 - {{Tenho muitos amigos aqui.}} (I have many friends here.)
 - {{Ela tem poucas amigas.}} (She has few female friends.)
 - {{Temos pouco tempo.}} (We have little time.)
@@ -374,7 +374,7 @@ Read this text aloud, then answer the two questions after it.
 
 Translation: *I live with two friends in Belo Horizonte. The apartment is small, but the living room is big and has a lot of light. In my bedroom there is a bed, a table and my blue backpack. Rafael's glasses are always in the living room, Clara's charger is always in the kitchen and my phone is never with me! I like my friends a lot, but I prefer it when the house is calm. That sofa over there is old, but it is my favorite place. I love reading on it.*
 
-1. Why is it {{os óculos do Rafael}} and not "os óculos dele" in the second sentence? (Both are possible; one uses the name, one the pronoun.)
+1. Why is it {{os óculos do Rafael}} and not "os óculos dele" in the fourth sentence? (Both are possible; one uses the name, one the pronoun.)
 2. What does {{muita luz}} agree with?
 
 New words in the text: {{a cama}} `ah KAH-mah` (bed), {{a cozinha}} `ah koh-ZEE-nyah` (kitchen), {{o sofá}} `oo soh-FAH` (sofa), {{calma}} `KAH-oo-mah` (calm), {{sempre}} `SEH~-pree` (always), {{nunca}} `NOO~-kah` (never).
@@ -485,7 +485,7 @@ Complete or correct.
 31. Check that your sentence 1 has a possessive that agrees with the noun, sentence 2 has {{de}} after {{gostar}}, and sentence 3 uses {{prefiro}} without {{mais}}. A model: {{Minha irmã mora em Londres. Eu gosto de cozinhar. Prefiro café a chá.}}
 :::
 
-## 8.13 Look back
+## 8.13 Return
 
 Before you go on, answer from earlier lessons, without looking:
 

@@ -193,7 +193,7 @@ You will hear both. Use the formal command (with {{por favor}}) with strangers, 
 | {{Vire à direita.}} | `VEE-ree ah djee-RAY-tah` | Turn right. |
 | {{Vire à esquerda.}} | `VEE-ree ah ehs-KER-dah` | Turn left. |
 | {{Atravesse a rua.}} | `ah-trah-VEH-see ah HOO-ah` | Cross the street. |
-| {{É logo ali.}} | `eh LOH-goo ah-LEE` | It's right over there. |
+| {{É logo ali.}} | `eh LAW-goo ah-LEE` | It's right over there. |
 
 ## 13.4 Asking politely
 
@@ -481,7 +481,7 @@ Give the command for {{você}} unless stated otherwise.
 36. Check that you used {{mais ... do que}} (or {{melhor}}), that your request has {{queria}}, {{poderia}} or {{gostaria}}, and that the command has the correct form. A model: {{O Rio é maior do que Belo Horizonte. Você poderia me ajudar, por favor? Vem cá!}}
 :::
 
-## 13.10 Look back
+## 13.10 Return
 
 Before you go on, answer from earlier lessons, without looking:
 

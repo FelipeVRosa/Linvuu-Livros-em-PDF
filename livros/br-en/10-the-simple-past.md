@@ -59,7 +59,7 @@ Take the infinitive, remove {{-ar}}, {{-er}} or {{-ir}}, and add the endings. Sa
 | nós | {{falamos}} `fah-LAH-mooss` | {{comemos}} `koh-MEH-mooss` | {{abrimos}} `ah-BREE-mooss` |
 | vocês, eles, elas | {{falaram}} `fah-LAH-rah~oo` | {{comeram}} `koh-MEH-rah~oo` | {{abriram}} `ah-BREE-rah~oo` |
 
-Spend a minute on this table. The {{-er}} and {{-ir}} endings are **identical** ({{-i, -eu / -iu, -emos / -imos, -eram / -iram}}) except for two letters. The {{-ar}} group has its own endings.
+Spend a minute on this table. The {{-er}} and {{-ir}} endings are **identical** ({{-i, -eu / -iu, -emos / -imos, -eram / -iram}}) except that {{-ir}} verbs have {{i}} where {{-er}} verbs have {{e}}. The {{-ar}} group has its own endings.
 
 ::: passo 1 Learn the {{eu}} and {{você}} endings first
 They are the ones you will use most: {{-ei}} / {{-ou}} for {{-ar}}, {{-i}} / {{-eu}} (or {{-iu}}) for {{-er}} and {{-ir}}. Say them in pairs: {{falei, falou}}; {{comi, comeu}}; {{abri, abriu}}.
@@ -123,7 +123,7 @@ Some of the most frequent verbs in the language are irregular in the past. You a
 
 ### A group with a new stem: ter, estar, fazer, dizer, poder, querer, saber, pôr, trazer
 
-These verbs change the stem of the past tense. Their endings follow one regular pattern: {{-e}} (or nothing), {{-e}} (or nothing), {{-emos}}, {{-eram}}, with a circumflex only in {{pôde}} and {{pôs}}. The stem is the same for the whole tense.
+These verbs change the stem of the past tense. Their endings follow one regular pattern: {{-e}} (or nothing), {{-e}} (or nothing), {{-emos}}, {{-eram}}, with a circumflex only in {{pôde}} and {{pôs}}. The stem is the same for the whole tense, except that some verbs change its vowel in the {{você/ele}} form: {{tive}} / {{teve}}, {{fiz}} / {{fez}}, {{pude}} / {{pôde}}, {{pus}} / {{pôs}}.
 
 | Infinitive | eu | você, ele, ela | nós | eles |
 |---|---|---|---|---|
@@ -277,7 +277,7 @@ Translation: *Last year I took an unforgettable trip. I arrived in Rio de Janeir
 
 Find the three irregular verbs. (They are {{fiz}}, {{fomos}} and {{vi}}.)
 
-New words: {{inesquecível}} `ee-nehs-keh-SEE-vehw`, {{viagem}} `vee-AH-zheh~ee`, {{a garota}} `ah gah-ROH-tah` (girl), {{chover}} `shoh-VER` (to rain), {{jogar cartas}} `zhoh-GAR KAR-tahss` (to play cards).
+New words: {{inesquecível}} `ee-nehs-keh-SEE-veh-oo`, {{viagem}} `vee-AH-zheh~ee`, {{a garota}} `ah gah-RAW-tah` (girl), {{chover}} `shoh-VER` (to rain), {{jogar cartas}} `zhoh-GAR KAR-tahss` (to play cards).
 
 ## 10.10 The mistakes English speakers make
 
@@ -388,7 +388,7 @@ Choose the correct form, or translate.
 32. Check the tense endings and that you used {{fui, fiz, vi}}-type forms correctly. A model: {{No sábado eu fui ao cinema. Vi um filme brasileiro. No domingo fiz o almoço e li um livro.}}
 :::
 
-## 10.12 Look back
+## 10.12 Return
 
 Before you go on, answer from earlier lessons, without looking:
 

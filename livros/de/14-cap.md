@@ -6,9 +6,19 @@
 
 Na festa, Camila e Jonas tentam descobrir de quem são as coisas.
 
-**Camila:** Wessen Jacke ist das? **Jonas:** Das ist Toms Jacke. Die Tasche gehört Lena. **Camila:** Und wem gehört das Auto vor der Tür? **Jonas:** Das ist das Auto des
+::: dialogo
+**Camila:** Wessen Jacke ist das?
 
-Nachbarn. Er kommt heute nicht, wegen des Wetters. **Camila:** Trotz des Regens sind viele Gäste da! Kennst du den Studenten dort? **Jonas:** Ja, das ist der Kollege von Tom. Er hilft Lena in der Küche.
+**Jonas:** Das ist Toms Jacke. Die Tasche gehört Lena.
+
+**Camila:** Und wem gehört das Auto vor der Tür?
+
+**Jonas:** Das ist das Auto des Nachbarn. Er kommt heute nicht, wegen des Wetters.
+
+**Camila:** Trotz des Regens sind viele Gäste da! Kennst du den Studenten dort?
+
+**Jonas:** Ja, das ist der Kollege von Tom. Er hilft Lena in der Küche.
+:::
 
 Em português: De quem é essa jaqueta? / É a jaqueta do Tom. A bolsa é da Lena. / E de quem é o carro em frente à porta? / É o carro do vizinho. Ele não vem hoje, por causa do tempo. / Apesar da chuva, há muitos convidados! Você conhece aquele estudante ali? / Conheço, é o colega do Tom. Ele está ajudando a Lena na cozinha.
 
@@ -101,9 +111,7 @@ Se você notou *des* + final **-s/-es** no masculino e no neutro, *der* no femin
 
 **Quando usar genitivo e quando usar von.** O genitivo aparece muito na escrita e na fala formal. Na conversa, *von* + dativo é o mais comum: *das Auto von meinem Bruder*. Para plural sem artigo e para nomes, *von* é praticamente obrigatório: *die Freunde von Lena*.
 
-**Quais são os masculinos fracos.** São seres vivos masculinos, e entram em grupos:
-
-terminados em **-e** (*der Junge, der Kunde, der Kollege*), em **-ent, -ist, -ant, -at** (*der Student, der Tourist*), e algumas palavras soltas: *der Mensch, der Herr, der Nachbar, der Name*. É preferível aprender com a anotação do dicionário: *der Student, -en, -en*.
+**Quais são os masculinos fracos.** Quase todos são seres vivos masculinos, e entram em grupos: terminados em **-e** (*der Junge, der Kunde, der Kollege*), em **-ent, -ist, -ant, -at** (*der Student, der Tourist*), e algumas palavras soltas: *der Mensch, der Herr, der Nachbar, der Name*. É preferível aprender com a anotação do dicionário: *der Student, -en, -en*.
 
 **Cuidado: nem todo masculino de pessoa é fraco.** *Der Lehrer, der Brasilianer, der Mann* se declinam normalmente: *den Lehrer, dem Lehrer, des Lehrers*.
 
@@ -153,7 +161,7 @@ Genitivo: das Auto (mein Vater), die Tasche (meine Mutter), das Haus (die Eltern
 
 Nomes: Tom → \_\_\_\_ Haus. Lena → \_\_\_\_ Tasche. Max → das Auto \_\_\_\_ Max.
 
-Masculinos fracos: Ich helfe dem \_\_\_\_ (Kunde). Ich kenne den \_\_\_\_ (Kunde). Das ist die Meinung des \_\_\_\_ (Name).
+Masculinos fracos: Ich helfe dem \_\_\_\_ (Kunde). Ich kenne den \_\_\_\_ (Kunde). Das ist die Bedeutung des \_\_\_\_ (Name).
 
 **Degrau 3. Produza.**
 
@@ -257,7 +265,7 @@ Digo *wegen des Wetters* e *trotz des Regens*. Declino *der Student* nos quatro 
 | bleiben              | ficar, permanecer     |
 | das Fahrrad          | bicicleta             |
 
-Também aparecem no Degrau 2: *die Meinung* (opinião) e *sein Wissen* (o seu conhecimento).
+Também aparecem no capítulo: *die Bedeutung* (significado), no Degrau 2, e *das Wissen* (conhecimento), em *meines Wissens*.
 
 ## Chave comentada do capítulo 14
 

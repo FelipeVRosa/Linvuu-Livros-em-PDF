@@ -35,7 +35,7 @@ New words from the scene:
 | {{cair}} | `kah-EER` | to fall |
 | {{quebrar}} | `keh-BRAR` | to break |
 | {{o susto}} | `oo SOOS-too` | scare, fright |
-| {{o senhor, a senhora}} | `oo seh-NYOR, ah seh-NYOH-rah` | you (polite, for an older or respected person) |
+| {{o senhor, a senhora}} | `oo seh-NYOR, ah seh-NYAW-rah` | you (polite, for an older or respected person) |
 
 ## 11.2 The trap: English has three ways to say it, Portuguese has one tense and a choice
 
@@ -382,7 +382,7 @@ Complete.
 31. {{tinha saído}}.
 :::
 
-## 11.10 Look back
+## 11.10 Return
 
 Before you go on, answer from earlier lessons, without looking:
 

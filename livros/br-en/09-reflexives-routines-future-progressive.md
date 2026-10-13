@@ -140,9 +140,9 @@ Here is the vocabulary of a normal day. Say each phrase in the first person, wit
 | {{tomar café da manhã}} | `toh-MAR kah-FEH dah mah-NYAH~` | to have breakfast |
 | {{ir para o trabalho}} | `eer PAH-rah oo trah-BAH-lyoo` | to go to work |
 | {{chegar em casa}} | `sheh-GAR eh~ee KAH-zah` | to get home |
-| {{almoçar}} | `ahl-moh-SAR` | to have lunch |
+| {{almoçar}} | `ah-oo-moh-SAR` | to have lunch |
 | {{jantar}} | `zhah~-TAR` | to have dinner |
-| {{voltar}} | `vol-TAR` | to come back |
+| {{voltar}} | `voh-oo-TAR` | to come back |
 | {{assistir}} | `ah-sees-TCHEER` | to watch (TV, a series) |
 | {{dormir}} | `dor-MEER` | to sleep |
 
@@ -169,7 +169,7 @@ Some forms to know in the present tense:
 | {{primeiro}} | `pree-MAY-roo` | first |
 | {{por último}} | `por OOL-tchee-moo` | lastly |
 
-Notice {{de manhã}} but {{à tarde}} and {{à noite}}. The first one uses {{de}}, and the other two use {{a}} + {{a}} = {{à}}. You also met {{à}} in Lesson 1: that is the grave accent. For exact times use {{às}}: {{às sete}}, {{às oito e meia}}, {{ao meio-dia}} (at noon).
+Notice {{de manhã}} but {{à tarde}} and {{à noite}}. The first one uses {{de}}, and the other two use {{a}} + {{a}} = {{à}}. You also met {{à}} in Lesson 5: that is the grave accent. For exact times use {{às}}: {{às sete}}, {{às oito e meia}}, {{ao meio-dia}} (at noon).
 
 ### How often?
 
@@ -391,7 +391,7 @@ Give the gerund, or complete the sentence.
 3. {{se}}: {{a gente}} takes {{se}}.
 4. {{nos}}: {{Nós nos divertimos muito nas festas.}}
 5. {{se}}.
-6. {{me}}: {{Eu não me lembro dele.}} (Without the pronoun, {{Eu não lembro dele}}, also correct.)
+6. {{me}}: {{Eu não me lembro do nome dele.}} (Without the pronoun, {{Eu não lembro do nome dele}}, also correct.)
 7. {{se}}: {{Como você se chama?}}
 8. {{me}}: {{Vou me deitar cedo hoje.}}
 9. (a) {{acordo}}.
@@ -419,7 +419,7 @@ Give the gerund, or complete the sentence.
 31. (a) and (c). The double negative in (b) is wrong because {{nunca}} before the verb replaces {{não}}.
 :::
 
-## 9.11 Look back
+## 9.11 Return
 
 Before you go on, answer from earlier lessons, without looking:
 

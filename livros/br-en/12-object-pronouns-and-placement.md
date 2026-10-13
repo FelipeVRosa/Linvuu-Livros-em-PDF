@@ -267,7 +267,7 @@ Requests are where these pronouns work hardest. These are the sentences you will
 | {{Você pode me ajudar?}} | | Can you help me? |
 | {{Me dá um minuto.}} | | Give me a minute. |
 | {{Me passa o sal?}} | | Can you pass me the salt? |
-| {{Me empresta a caneta?}} | `meh~-PREHS-tah ah kah-NEH-tah` | Can you lend me the pen? |
+| {{Me empresta a caneta?}} | `mee eh~-PREHS-tah ah kah-NEH-tah` | Can you lend me the pen? |
 | {{Me manda uma mensagem.}} | `mee MAH~-dah OO-mah meh~-SAH-zheh~ee` | Send me a message. |
 | {{Me liga quando chegar.}} | | Call me when you arrive. |
 | {{Posso te ligar?}} | | Can I call you? |
@@ -393,7 +393,7 @@ Complete.
 28. Check that the pronoun comes before the verb. A model: {{Me liga quando chegar. Te vejo amanhã. Vou te mandar a foto.}}
 :::
 
-## 12.12 Look back
+## 12.12 Return
 
 Before you go on, answer from earlier lessons, without looking:
 
