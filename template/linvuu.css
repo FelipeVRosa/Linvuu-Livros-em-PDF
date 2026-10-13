@@ -1,0 +1,254 @@
+/*
+  Linvuu · kit de marca · CSS portátil
+  Uso: <link rel="stylesheet" href="linvuu.css"> + as fontes do <head> (ver modelos/).
+  Fonte da verdade dos valores: src/tokens.css e marca/MARCA.md.
+*/
+
+/* ---------- Fontes (Google Fonts; em PDF impresso, o navegador embute as fontes) ---------- */
+@import url("https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400..700&family=Source+Sans+3:wght@400..700&family=Literata:opsz,wght@7..72,400..700&family=Caveat:wght@500..700&display=swap");
+
+/* ---------- 1. Tokens ---------- */
+:root {
+  /* Paleta de marca (só estas quatro) */
+  --verde-floresta: #1E3B2F;
+  --papel: #F5F1E8;
+  --grafite: #1D1F1C;
+  --ocre: #B7791F;
+
+  /* Derivados */
+  --verde-900: #152A21;
+  --verde-700: #2D4D3F;
+  --verde-200: #C9D3C9;
+  --verde-100: #E4E6DA;
+  --papel-claro: #FAF8F2;
+  --papel-escuro: #EAE4D6;
+  --papel-borda: #DCD5C4;
+  --grafite-80: #3E403B;
+  --grafite-65: #5C5E57;
+  --grafite-50: #80817A;
+  --ocre-escuro: #94611A;   /* só traços e linhas */
+  --ocre-claro: #EFDFC2;
+
+  /* Erro (uso mínimo) */
+  --tijolo: #8C2F1E;
+  --tijolo-claro: #F2DED6;
+
+  /* Semânticos */
+  --bg: var(--papel);
+  --bg-elevado: var(--papel-claro);
+  --bg-recuado: var(--papel-escuro);
+  --bg-marca: var(--verde-floresta);
+  --fg-1: var(--grafite);
+  --fg-2: var(--grafite-80);
+  --fg-3: var(--grafite-65);
+  --fg-sobre-marca: var(--papel);
+  --fg-sobre-marca-2: var(--verde-200);
+  --linha: rgba(29, 31, 28, .14);
+  --linha-forte: rgba(29, 31, 28, .58);
+  --progresso: var(--ocre);
+  --erro: var(--tijolo);
+  --erro-bg: var(--tijolo-claro);
+  --ok: var(--verde-floresta);
+  --ok-bg: var(--verde-100);
+
+  /* Fontes */
+  --font-display: 'Newsreader', 'Literata', Georgia, serif;
+  --font-cirilico: 'Literata', 'Newsreader', Georgia, serif;
+  --font-body: 'Source Sans 3', ui-sans-serif, system-ui, sans-serif;
+  --font-alvo: 'Literata', 'Newsreader', Georgia, serif;
+  --font-mao: 'Caveat', 'Bradley Hand', cursive;
+
+  /* Escala (px) */
+  --t-display-xl: 96px;
+  --t-display-l: 72px;
+  --t-display-m: 56px;
+  --t-h1: 44px;
+  --t-h2: 34px;
+  --t-h3: 24px;
+  --t-h4: 19px;
+  --t-lead: 20px;
+  --t-body: 17px;
+  --t-small: 15px;
+  --t-caption: 14px;
+  --t-eyebrow: 13px;
+  --t-alvo: 22px;
+  --t-alvo-l: 30px;
+
+  /* Espaço (px) */
+  --s-1: 4px; --s-2: 8px; --s-3: 12px; --s-4: 16px; --s-5: 24px;
+  --s-6: 32px; --s-7: 48px; --s-8: 64px; --s-9: 96px; --s-10: 128px;
+
+  /* Forma */
+  --r-control: 2px;
+  --r-max: 4px;
+  --borda: 1px solid var(--linha);
+  --sombra-flutuante: 0 1px 0 rgba(29, 31, 28, .04), 0 12px 32px -12px rgba(29, 31, 28, .22);
+
+  --max: 1200px;
+  --max-texto: 68ch;
+  --margem-a4: 18mm;
+}
+
+/* ---------- 2. Base ---------- */
+*, *::before, *::after { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--fg-1);
+  font-family: var(--font-body);
+  font-size: var(--t-body);
+  line-height: 1.6;
+  font-weight: 400;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+img, svg { display: block; max-width: 100%; }
+a { color: var(--verde-floresta); text-underline-offset: 3px; }
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
+  outline: 2px solid var(--ocre);
+  outline-offset: 2px;
+}
+
+/* ---------- 3. Tipografia ---------- */
+.lv-h1, h1 { font: 600 var(--t-h1)/1.12 var(--font-display); letter-spacing: -.015em; margin: 0 0 var(--s-5); }
+.lv-h2, h2 { font: 600 var(--t-h2)/1.12 var(--font-display); letter-spacing: -.015em; margin: var(--s-7) 0 var(--s-4); }
+.lv-h3, h3 { font: 600 var(--t-h3)/1.12 var(--font-display); letter-spacing: -.015em; margin: var(--s-5) 0 var(--s-3); }
+.lv-h4, h4 { font: 600 var(--t-h4)/1.12 var(--font-display); letter-spacing: -.015em; margin: var(--s-4) 0 var(--s-2); }
+.lv-display { font: 600 var(--t-display-l)/1.02 var(--font-display); letter-spacing: -.025em; margin: 0; }
+.lv-display-xl { font: 600 var(--t-display-xl)/1.02 var(--font-display); letter-spacing: -.025em; margin: 0; }
+.lv-lead { font-size: var(--t-lead); line-height: 1.6; color: var(--fg-2); max-width: var(--max-texto); }
+.lv-small { font-size: var(--t-small); color: var(--fg-3); }
+.lv-nota { font-size: var(--t-caption); color: var(--fg-3); }
+.lv-eyebrow {
+  font: 600 var(--t-eyebrow)/1.3 var(--font-body);
+  letter-spacing: .14em;
+  text-transform: uppercase;
+  color: var(--verde-floresta);
+  margin: 0 0 var(--s-2);
+}
+.lv-alvo { font-family: var(--font-alvo); font-size: var(--t-alvo); line-height: 1.5; }
+.lv-alvo-l { font-family: var(--font-alvo); font-size: var(--t-alvo-l); line-height: 1.4; }
+.lv-cirilico { font-family: var(--font-cirilico); }
+.lv-mao { font-family: var(--font-mao); color: var(--verde-floresta); font-size: 30px; line-height: 1.2; }
+p { max-width: var(--max-texto); margin: 0 0 var(--s-4); }
+
+/* ---------- 4. Superfícies e layout ---------- */
+.lv-container { max-width: var(--max); margin: 0 auto; padding: 0 clamp(20px, 4vw, 40px); }
+.lv-secao { padding: clamp(64px, 9vw, 128px) 0; }
+.lv-cartao { background: var(--bg-elevado); border: var(--borda); padding: var(--s-5); }
+.lv-cartao-marca { background: var(--verde-floresta); color: var(--fg-sobre-marca); padding: var(--s-5); }
+.lv-grade { display: grid; gap: var(--s-5); grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); }
+.lv-divisor { border: 0; height: 0; margin: var(--s-6) 0; }
+
+/* ---------- 5. Logotipo e símbolo ---------- */
+.lv-logo { height: 28px; width: auto; }
+.lv-simbolo { width: 40px; height: 40px; }
+
+/* ---------- 6. Barra de progresso desenhada à mão ---------- */
+.lv-progresso { position: relative; width: 100%; max-width: 420px; height: 18px; }
+.lv-progresso-svg { width: 100%; height: 18px; overflow: visible; }
+.lv-progresso-svg path { stroke: var(--ocre); }
+/* Versão CSS com preenchimento proporcional: defina --nivel de 0 a 1 */
+.lv-progresso-css { --nivel: .4; position: relative; height: 4px; width: 100%; max-width: 420px; background: var(--linha); border-radius: 2px; }
+.lv-progresso-css::after {
+  content: ""; position: absolute; left: 0; top: 50%;
+  width: calc(var(--nivel) * 100%); height: 5px;
+  transform: translateY(-50%) rotate(-.6deg);
+  background: var(--ocre); border-radius: 3px;
+}
+
+/* ---------- 7. Blocos didáticos ---------- */
+.lv-passo { display: grid; grid-template-columns: 56px 1fr; gap: var(--s-4); align-items: start; margin: var(--s-5) 0; }
+.lv-passo-num {
+  font: 700 var(--t-h3)/1 var(--font-body);
+  color: var(--verde-floresta);
+  border-bottom: 2px solid var(--ocre);
+  padding-bottom: 4px;
+  width: fit-content;
+}
+.lv-passo h4 { margin-top: 0; }
+
+.lv-comparacao { width: 100%; border-collapse: collapse; margin: var(--s-5) 0; font-size: var(--t-small); }
+.lv-comparacao th, .lv-comparacao td { text-align: left; padding: var(--s-3) var(--s-4); border-bottom: 1px solid var(--linha); vertical-align: top; }
+.lv-comparacao thead th { font: 600 var(--t-eyebrow)/1.3 var(--font-body); letter-spacing: .14em; text-transform: uppercase; color: var(--verde-floresta); border-bottom: 2px solid var(--verde-floresta); }
+.lv-comparacao td.lv-alvo { font-size: var(--t-alvo); }
+
+.lv-erros { width: 100%; border-collapse: collapse; margin: var(--s-5) 0; font-size: var(--t-small); }
+.lv-erros th, .lv-erros td { text-align: left; padding: var(--s-3) var(--s-4); border-bottom: 1px solid var(--linha); vertical-align: top; }
+.lv-erros thead th { font: 600 var(--t-eyebrow)/1.3 var(--font-body); letter-spacing: .14em; text-transform: uppercase; color: var(--fg-3); border-bottom: 2px solid var(--grafite); }
+.lv-erros td.errado { color: var(--erro); text-decoration: line-through; text-decoration-thickness: 1px; }
+.lv-erros td.certo { color: var(--verde-floresta); font-weight: 600; }
+
+.lv-dica, .lv-atencao { padding: var(--s-4) var(--s-5); margin: var(--s-5) 0; border-left: 3px solid var(--verde-floresta); background: var(--papel-claro); }
+.lv-dica .lv-eyebrow, .lv-atencao .lv-eyebrow { margin-bottom: var(--s-2); }
+.lv-atencao { border-left-color: var(--tijolo); background: var(--tijolo-claro); }
+.lv-atencao .lv-eyebrow { color: var(--tijolo); }
+
+.lv-exercicio { border: var(--borda); padding: var(--s-5); margin: var(--s-5) 0; background: var(--bg-elevado); }
+.lv-exercicio ol { padding-left: 0; list-style: none; margin: 0; counter-reset: ex; }
+.lv-exercicio li { counter-increment: ex; padding: var(--s-3) 0; border-top: 1px solid var(--linha); }
+.lv-exercicio li::before { content: counter(ex) ". "; font-weight: 700; color: var(--verde-floresta); }
+.lv-opcao { display: inline-block; border: 1px solid var(--linha-forte); padding: 6px 12px; margin: 4px 6px 0 0; border-radius: var(--r-control); font-size: var(--t-small); }
+.lv-opcao.certa { border-color: var(--verde-floresta); background: var(--ok-bg); color: var(--verde-900); font-weight: 600; }
+.lv-opcao.errada { border-color: var(--tijolo); background: var(--erro-bg); color: var(--erro); }
+.lv-resposta { margin-top: var(--s-3); font-size: var(--t-small); color: var(--fg-2); border-left: 2px solid var(--ocre); padding-left: var(--s-3); }
+
+/* ---------- 8. Mapa mental ---------- */
+.lv-mapa { position: relative; display: grid; grid-template-columns: 1fr 1.2fr 1fr; gap: var(--s-5); align-items: center; }
+.lv-no-central {
+  background: var(--verde-floresta); color: var(--papel);
+  padding: var(--s-5) var(--s-6); text-align: center;
+  font: 600 var(--t-h2)/1.15 var(--font-display); letter-spacing: -.015em;
+}
+.lv-no { background: var(--papel-claro); border: 1px solid var(--verde-floresta); padding: var(--s-3) var(--s-4); font-weight: 600; }
+.lv-sub { font-size: var(--t-small); color: var(--fg-2); padding: 2px 0 2px var(--s-4); border-left: 2px solid var(--ocre); margin: 6px 0; }
+
+/* ---------- 9. Botões e campos ---------- */
+.lv-btn {
+  display: inline-flex; align-items: center; justify-content: center; gap: var(--s-2);
+  font: 600 var(--t-small)/1 var(--font-body);
+  padding: 14px 22px; border-radius: var(--r-control); border: 1px solid transparent;
+  background: var(--verde-floresta); color: var(--papel); text-decoration: none; cursor: pointer;
+  transition: background 150ms ease;
+}
+.lv-btn:hover { background: var(--verde-900); }
+.lv-btn-linha { background: transparent; color: var(--verde-floresta); border-color: var(--verde-floresta); }
+.lv-btn-linha:hover { background: var(--verde-100); }
+.lv-campo {
+  font: 400 var(--t-body)/1.4 var(--font-body); color: var(--fg-1);
+  background: var(--papel-claro); border: 1px solid var(--linha-forte);
+  border-radius: var(--r-control); padding: 12px 14px; width: 100%;
+}
+
+/* ---------- 10. Rodapé de página e cabeçalho ---------- */
+.lv-cabecalho { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); padding-bottom: var(--s-3); border-bottom: 1px solid var(--linha); margin-bottom: var(--s-6); }
+.lv-rodape { display: flex; align-items: center; justify-content: space-between; gap: var(--s-4); margin-top: var(--s-7); padding-top: var(--s-3); border-top: 1px solid var(--linha); font-size: var(--t-caption); color: var(--fg-3); }
+
+/* ---------- 11. Responsivo (celular) ---------- */
+@media (max-width: 720px) {
+  :root { --t-display-xl: 64px; --t-display-l: 52px; --t-display-m: 42px; --t-h1: 34px; --t-h2: 27px; --t-h3: 21px; }
+  .lv-passo { grid-template-columns: 1fr; gap: var(--s-2); }
+  .lv-mapa { grid-template-columns: 1fr; }
+  .lv-cabecalho, .lv-rodape { flex-direction: column; align-items: flex-start; }
+}
+
+
+/* ---------- 13. Folhas (modelos) ---------- */
+.lv-folha { max-width: 174mm; margin: 0 auto; padding: 0; }
+@media screen { .lv-folha { padding: var(--s-6) var(--s-4) var(--s-7); } }
+.lv-folha .lv-h1 { margin-top: var(--s-4); }
+.lv-secao-folha { margin: var(--s-6) 0; }
+.lv-paisagem .lv-mapa { min-height: 150mm; }
+
+/* ---------- 12. Impressão A4 ---------- */
+@page { size: A4; margin: var(--margem-a4); }
+@media print {
+  body { background: var(--papel); }
+  .lv-nao-imprimir { display: none !important; }
+  .lv-quebra { break-before: page; }
+  .lv-evitar-quebra, .lv-passo, .lv-exercicio, .lv-dica, .lv-atencao, .lv-comparacao, .lv-erros { break-inside: avoid; }
+  h1, h2, h3, h4 { break-after: avoid; }
+}
+@page paisagem { size: A4 landscape; margin: 14mm 18mm; }
+.lv-paisagem { page: paisagem; }

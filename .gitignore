@@ -1,0 +1,6 @@
+node_modules/
+saida/*-corpo*.html
+saida/*-corpo*.pdf
+saida/*-rodape*
+saida/*-capa-*.pdf
+saida/*.png

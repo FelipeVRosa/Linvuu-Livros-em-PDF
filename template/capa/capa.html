@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<title>Capa e contracapa · Coleção Linvuu</title>
+<style>
+@font-face{font-family:'Newsreader';font-style:normal;font-weight:200 800;src:url('../fontes/newsreader-latin-opsz-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+20AC,U+2122,U+2212}
+@font-face{font-family:'Newsreader';font-style:normal;font-weight:200 800;src:url('../fontes/newsreader-latin-ext-opsz-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+1E00-1EFF,U+2020,U+20A0-20AB}
+@font-face{font-family:'Newsreader';font-style:italic;font-weight:200 800;src:url('../fontes/newsreader-latin-opsz-italic.woff2') format('woff2')}
+@font-face{font-family:'Literata';font-weight:200 900;src:url('../fontes/literata-cyrillic-wght-normal.woff2') format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+2116}
+@font-face{font-family:'Source Sans 3';font-weight:200 900;src:url('../fontes/source-sans-3-latin-wght-normal.woff2') format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+2000-206F,U+20AC,U+2122,U+2212}
+@font-face{font-family:'Source Sans 3';font-weight:200 900;src:url('../fontes/source-sans-3-latin-ext-wght-normal.woff2') format('woff2');unicode-range:U+0100-02BA,U+1E00-1EFF}
+*{box-sizing:border-box;margin:0;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+html,body{background:#888}
+/* 216 x 303 mm = A4 mais ou menos 3 mm de sangria em cada lado (210 x 297 final) */
+.p{position:relative;width:216mm;height:303mm;overflow:hidden;font-family:'Source Sans 3',sans-serif;page-break-after:always}
+.serif{font-family:'Newsreader','Literata',Georgia,serif;font-optical-sizing:auto}
+body.vit #cab,body.vit #sub,body.vit .foto::after{display:none!important}
+body.vit .foto{height:176mm}body.vit .painel{top:176mm;padding:11mm 19mm 15mm}
+body.vit #saud{font-size:64px}body.vit #idioma{font-size:150px;margin-top:2mm}
+body.vit #nivel{font-size:46px;gap:4.5mm}body.vit #nivel .serif{font-size:80px}
+body.vit #wm{height:68px}body.vit .traco{margin-top:6mm;height:28px}
+.sel{font-size:19px;font-weight:600;letter-spacing:.26em;text-transform:uppercase}
+.foto{position:absolute;left:0;top:0;width:100%;height:182mm;background:#C9D3C9 center/cover no-repeat}
+.foto::after{content:"";position:absolute;inset:0;background:linear-gradient(to bottom,rgba(20,28,24,.55) 0,rgba(20,28,24,.28) 22mm,rgba(20,28,24,0) 46mm)}
+.painel{position:absolute;left:0;right:0;top:182mm;bottom:0;background:#1E3B2F;color:#F5F1E8;padding:10mm 21mm 17mm;display:flex;flex-direction:column}
+.traco{position:relative;width:110mm;height:24px;margin-top:5mm}
+.traco i{position:absolute;left:0;right:0;top:50%;border-top:1px dashed rgba(245,241,232,.45)}
+.traco b{position:absolute;left:0;top:0;bottom:0;overflow:hidden}
+.ocre{fill:#B7791F}
+@page{size:216mm 303mm;margin:0}
+</style>
+</head>
+<body>
+<!-- CAPA -->
+<section class="p" id="capa">
+  <div class="foto" id="foto"></div>
+  <div id="cab" style="position:absolute;left:21mm;right:21mm;top:21mm;display:flex;justify-content:space-between;align-items:baseline;padding-bottom:4mm;border-bottom:1px solid rgba(245,241,232,.7);color:#F5F1E8;text-shadow:0 0 14px rgba(0,0,0,.35)">
+    <span class="sel" data-t="colecao">Coleção Linvuu</span><span id="vol" style="font-size:19px;font-weight:600;letter-spacing:.2em;text-transform:uppercase"></span>
+  </div>
+  <div class="painel">
+    <p class="serif" id="saud" style="font-style:italic;font-weight:400;font-size:46px;line-height:1;color:#C9D3C9"></p>
+    <h1 class="serif" id="idioma" style="margin-top:3mm;font-weight:500;font-size:118px;letter-spacing:-0.025em;line-height:.95"></h1>
+    <p id="sub" data-t="sub" class="serif" style="margin-top:4mm;font-style:italic;font-weight:400;font-size:32px;line-height:1.25;color:#F5F1E8">Gramática prática</p>
+    <div style="margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;gap:10mm">
+      <div>
+        <p id="nivel" style="display:flex;align-items:baseline;gap:3.5mm;font-size:30px;font-weight:600"></p>
+        <div class="traco"><i></i><b id="barra"><svg viewBox="0 0 400 20" preserveAspectRatio="none" width="100%" height="100%" style="display:block"><path class="ocre" d="M2,11 C40,8.6 90,8.2 140,8.9 C190,9.6 240,7.6 290,7.9 C330,8.1 370,8.8 397,9.6 C399,10 399,11.4 396.5,11.6 C360,12.4 320,11.6 280,11.8 C230,12.1 180,13.4 130,12.6 C80,11.9 40,12.6 4,13.4 C1,13.5 0.5,11.3 2,11 Z"/></svg></b></div>
+      </div>
+      <img id="wm" src="linvuu-wordmark-papel.svg" alt="Linvuu" style="height:50px;width:auto">
+    </div>
+  </div>
+</section>
+<!-- CONTRACAPA -->
+<section class="p" id="contracapa" style="background:#F5F1E8;color:#1D1F1C">
+  <div style="position:absolute;inset:21mm;display:flex;flex-direction:column">
+    <div style="padding-bottom:5mm;border-bottom:1px solid rgba(29,31,28,.3)"><span class="sel" data-t="colecao" style="color:#1E3B2F">Coleção Linvuu</span></div>
+    <h2 class="serif" id="titulo2" style="margin-top:30mm;font-weight:500;font-size:68px;letter-spacing:-0.02em;line-height:1.02;color:#1E3B2F;max-width:150mm"></h2>
+    <div style="width:70mm;height:18px;margin-top:7mm"><svg viewBox="0 0 400 20" preserveAspectRatio="none" width="100%" height="100%" style="display:block"><path class="ocre" d="M3,10.4 C55,9.2 105,10.6 160,9.6 C215,8.6 255,8.9 305,9.4 C345,9.8 375,8.8 397,8.4 C399.5,8.5 399.6,10.6 397,11.1 C372,12 342,12.6 300,12.3 C255,12 212,12.6 158,13 C104,13.4 52,12.2 5,13 C1.5,13 0.8,10.7 3,10.4 Z"/></svg></div>
+    <ul style="list-style:none;padding:0;margin-top:20mm;display:grid;grid-template-columns:repeat(3,1fr);gap:8mm">
+      <li data-t="b1" style="border-top:1px solid #1D1F1C;padding-top:4mm;font-size:20px;font-weight:600;line-height:1.3">x</li>
+      <li data-t="b2" style="border-top:1px solid #1D1F1C;padding-top:4mm;font-size:20px;font-weight:600;line-height:1.3">x</li>
+      <li data-t="b3" style="border-top:1px solid #1D1F1C;padding-top:4mm;font-size:20px;font-weight:600;line-height:1.3">x</li>
+    </ul>
+    <p data-t="corpo" style="margin-top:16mm;font-size:19px;line-height:1.6;max-width:140mm">x</p>
+    <p style="margin-top:auto;font-size:14px;line-height:1.5;color:#3E403B;max-width:150mm"><span data-t="nota">x</span><span id="credito"></span></p>
+    <div style="display:flex;justify-content:space-between;align-items:flex-end;margin-top:8mm;padding-top:6mm;border-top:1px solid rgba(29,31,28,.3)">
+      <img src="linvuu-wordmark-verde.svg" alt="Linvuu" style="height:27px;width:auto">
+      <span style="font-size:13px;color:#3E403B">linvuu.com.br</span>
+    </div>
+  </div>
+</section>
+<script>
+// Parâmetros: ?idioma=Francês&saudacao=Bonjour&lang=fr&nivel=A1&vol=1&de=1&ate=18&foto=fotos/x.jpg&pos=50%25%2040%25&credito=...
+const q = new URLSearchParams(location.search);
+const TX = {
+  pt: { colecao: 'Coleção Linvuu', sub: 'Gramática prática, do zero ao A2', nivel: 'Nível', vol: 'Volume', b1: 'Explicação clara, no seu idioma', b2: 'Gramática prática, com tabelas', b3: 'Exercícios com gabarito', corpo: 'A Linvuu é uma plataforma de idiomas feita para quem fala português: explicação clara, no seu idioma, e prática desde a primeira aula. Este livro acompanha o curso online e serve para estudar e para consultar.', nota: 'Material de estudo da Linvuu. O certificado de nível é emitido pela Linvuu e não é uma certificação oficial.' },
+  en: { colecao: 'Linvuu Collection', sub: 'Practical grammar, from zero to A2', nivel: 'Level', vol: 'Volume', b1: 'Clear explanations in plain English', b2: 'Practical grammar with tables', b3: 'Exercises with answer keys', corpo: 'Linvuu is a language platform built for adults who need to speak for real. Every rule comes with the reason behind it, the mistakes learners typically make, and practice with answers. This book goes with the online course and works for study and for reference.', nota: 'Linvuu study material. Level certificates are issued by Linvuu and are not an official qualification.' },
+  es: { colecao: 'Colección Linvuu', sub: 'Gramática práctica, de cero a A2', nivel: 'Nivel', vol: 'Volumen', b1: 'Explicación clara, en tu idioma', b2: 'Gramática práctica, con tablas', b3: 'Ejercicios con soluciones', corpo: 'Linvuu es una plataforma de idiomas para adultos que necesitan hablar de verdad. Cada regla llega con su porqué, los errores típicos y práctica con soluciones. Este libro acompaña al curso en línea y sirve para estudiar y para consultar.', nota: 'Material de estudio de Linvuu. El certificado de nivel lo emite Linvuu y no es una titulación oficial.' },
+}[new URLSearchParams(location.search).get('edicao') || 'pt'];
+document.querySelectorAll('[data-t]').forEach((e) => { e.textContent = TX[e.dataset.t]; });
+const g = (k, d) => q.get(k) || d;
+if (q.get('vitrine')) document.body.classList.add('vit');
+const idioma = g('idioma', 'Francês'), nivel = g('nivel', 'A1-A2'), vol = g('vol', '1');
+document.getElementById('idioma').textContent = idioma;
+document.getElementById('saud').textContent = g('saudacao', 'Bonjour');
+document.getElementById('saud').lang = g('lang', 'fr');
+document.getElementById('vol').textContent = `${TX.vol} ${vol}`;
+document.getElementById('nivel').innerHTML = `<span>${TX.vol} ${vol}</span><span style="opacity:.45">·</span><span style="font-weight:400;color:#C9D3C9">${TX.nivel}</span><span class="serif" style="font-size:56px;font-weight:500;letter-spacing:-.01em;line-height:1">${nivel.split(/\s*[-–.\/]\s*/).join('<span style="font-weight:400;opacity:.55;padding:0 .18em">–</span>')}</span>`;
+document.getElementById('barra').style.width = g('prog', '33') + '%';
+document.getElementById('titulo2').textContent = g('titulo2', 'Fale de verdade.');
+const f = document.getElementById('foto');
+if (q.get('foto')) { f.style.backgroundImage = `url('${q.get('foto')}')`; f.style.backgroundPosition = g('pos', '50% 50%'); }
+if (q.get('credito')) document.getElementById('credito').textContent = ` ${q.get('edicao')==='en'?'Cover photo':q.get('edicao')==='es'?'Foto de portada':'Foto da capa'}: ${q.get('credito')} (Pexels).`;
+document.fonts.ready.then(() => { document.body.dataset.pronto = '1'; });
+</script>
+</body>
+</html>
