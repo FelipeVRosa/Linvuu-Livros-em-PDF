@@ -105,7 +105,7 @@
    },
    {
     "de": "usw.",
-    "pt": "etc. (e assim por diante, nos ordinais)"
+    "pt": "etc."
    },
    {
     "de": "erstens",
@@ -217,11 +217,11 @@
    },
    {
     "de": "fünf Minuten vor/nach eins (ein Uhr)",
-    "pt": "cinco para / cinco depois da uma"
+    "pt": "cinco para a uma / uma e cinco"
    },
    {
     "de": "Viertel vor/nach zwei (zwei Uhr)",
-    "pt": "quinze para / quinze depois das duas (duas e quinze / quinze para as duas)"
+    "pt": "quinze para as duas / duas e quinze"
    },
    {
     "de": "halb drei",
@@ -403,7 +403,7 @@
    },
    {
     "de": "der Morgen, -",
-    "pt": "a manhã (de manhãzinha)"
+    "pt": "a manhã (cedo)"
    },
    {
     "de": "der Vormittag, -e",
@@ -419,11 +419,11 @@
    },
    {
     "de": "der Abend, -e",
-    "pt": "a noite (início da noite), o entardecer"
+    "pt": "a noite (do fim da tarde até a hora de dormir)"
    },
    {
     "de": "die Nacht, ¨-e",
-    "pt": "a noite (madrugada)"
+    "pt": "a noite (hora de dormir); a madrugada"
    },
    {
     "de": "die Mitternacht",
@@ -455,11 +455,11 @@
    },
    {
     "de": "abends, am Abend",
-    "pt": "à noite (no início da noite)"
+    "pt": "à noite"
    },
    {
     "de": "nachts, in der Nacht",
-    "pt": "à noite, de madrugada"
+    "pt": "de madrugada; durante a noite"
    },
    {
     "de": "um Mitternacht",
@@ -586,11 +586,11 @@
   "itens": [
    {
     "de": "1 Euro = 100 Cent",
-    "pt": "1 euro = 100 centavos (cents)"
+    "pt": "1 euro = 100 cents (centavos)"
    },
    {
     "de": "1 Franke = 100 Rappen",
-    "pt": "1 franco suíço = 100 rappen"
+    "pt": "1 franco suíço = 100 rappen (centavos)"
    },
    {
     "de": "ein Meter = 1 m",
@@ -646,7 +646,7 @@
    },
    {
     "de": "ein Pfund = 500 g",
-    "pt": "uma libra alemã (meio quilo) = 500 g"
+    "pt": "meio quilo (500 g)"
    },
    {
     "de": "ein Kilo(gramm) = 1 kg",
@@ -914,7 +914,7 @@
    },
    {
     "de": "die Durchsage, -n",
-    "pt": "o aviso (anúncio)"
+    "pt": "o aviso (pelo alto-falante)"
    },
    {
     "de": "die Lösung, -en",
@@ -971,7 +971,7 @@
    },
    {
     "de": "Auszubildender, -e / Auszubildende, -",
-    "pt": "aprendiz / aprendiz (estagiário(a) de formação profissional)"
+    "pt": "aprendiz (em formação profissional técnica) / aprendiz (mulher)"
    },
    {
     "de": "Autor, -en / Autorin, -nen",
@@ -979,7 +979,7 @@
    },
    {
     "de": "Babysitter, -",
-    "pt": "babá (masculino ou feminino)"
+    "pt": "babá"
    },
    {
     "de": "Bäcker, - / Bäckerin, -nen",
@@ -987,11 +987,11 @@
    },
    {
     "de": "Doktor, -en / Doktorin, -nen",
-    "pt": "doutor / doutora"
+    "pt": "médico / médica (coloq.); doutor / doutora"
    },
    {
     "de": "Fahrer, - / Fahrerin, -nen",
-    "pt": "motorista"
+    "pt": "motorista / motorista (mulher)"
    },
    {
     "de": "Friseur, -e / Friseurin, -nen",
@@ -999,7 +999,7 @@
    },
    {
     "de": "Handwerker, - / Handwerkerin, -nen",
-    "pt": "artesão / artesã (operário especializado)"
+    "pt": "profissional de ofício (encanador, eletricista etc.) / profissional de ofício (mulher)"
    },
    {
     "de": "Hausmann, ¨-er / Hausfrau, -en",
@@ -1011,7 +1011,7 @@
    },
    {
     "de": "Kaufmann, Kaufleute / Kauffrau, -en",
-    "pt": "comerciante, empresário / comerciante, empresária"
+    "pt": "comerciante / comerciante (mulher)"
    },
    {
     "de": "Kellner, - / Kellnerin, -nen",
@@ -1038,8 +1038,8 @@
     "pt": "mecânico / mecânica"
    },
    {
-    "de": "Model, -s, -le",
-    "pt": "modelo (manequim)"
+    "de": "Model, -s",
+    "pt": "modelo (de moda)"
    },
    {
     "de": "Musiker, - / Musikerin, -nen",
@@ -1210,7 +1210,7 @@
    },
    {
     "de": "das Sekretariat, -e",
-    "pt": "a secretaria"
+    "pt": "a secretaria (da escola)"
    },
    {
     "de": "der Stundenplan, ¨-e",

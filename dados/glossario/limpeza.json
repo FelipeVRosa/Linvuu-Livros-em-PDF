@@ -1,0 +1,1520 @@
+{
+ "corrigir": [
+  {
+   "k": "anmeldung",
+   "de": "die Anmeldung, -en"
+  },
+  {
+   "k": "arbeitsplatz",
+   "de": "der Arbeitsplatz, ¨-e"
+  },
+  {
+   "k": "arzt",
+   "de": "der Arzt, ¨-e"
+  },
+  {
+   "k": "ausstellung",
+   "de": "die Ausstellung, -en"
+  },
+  {
+   "k": "babysitter",
+   "de": "der Babysitter, -"
+  },
+  {
+   "k": "bruder",
+   "de": "der Bruder, ¨-"
+  },
+  {
+   "k": "chef",
+   "de": "der Chef, -s / die Chefin, -nen",
+   "pt": "chefe"
+  },
+  {
+   "k": "empfänger",
+   "de": "der Empfänger, -"
+  },
+  {
+   "k": "erdgeschoss",
+   "de": "das Erdgeschoss, -e"
+  },
+  {
+   "k": "ermäßigung",
+   "de": "die Ermäßigung, -en"
+  },
+  {
+   "k": "erwachsene",
+   "de": "der Erwachsene, -n"
+  },
+  {
+   "k": "flughafen",
+   "de": "der Flughafen, ¨-"
+  },
+  {
+   "k": "garten",
+   "de": "der Garten, ¨-"
+  },
+  {
+   "k": "hausaufgabe",
+   "de": "die Hausaufgabe, -n"
+  },
+  {
+   "k": "hausfrau",
+   "de": "die Hausfrau, -en",
+   "pt": "dona de casa"
+  },
+  {
+   "k": "hausmann",
+   "de": "der Hausmann, ¨-er"
+  },
+  {
+   "k": "information",
+   "de": "die Information, -en"
+  },
+  {
+   "k": "kaufhaus",
+   "de": "das Kaufhaus, ¨-er"
+  },
+  {
+   "k": "kindergarten",
+   "de": "der Kindergarten, ¨-"
+  },
+  {
+   "k": "lehrer",
+   "de": "der Lehrer, -"
+  },
+  {
+   "k": "medikament",
+   "de": "das Medikament, -e"
+  },
+  {
+   "k": "mutter",
+   "de": "die Mutter, ¨-"
+  },
+  {
+   "k": "nachbar",
+   "de": "der Nachbar, -n / die Nachbarin, -nen"
+  },
+  {
+   "k": "nehmen",
+   "de": "nehmen, nimmt, hat genommen",
+   "pt": "pegar; tomar (remédio, ônibus); escolher (Ich nehme…)"
+  },
+  {
+   "k": "schinken",
+   "de": "der Schinken, -"
+  },
+  {
+   "k": "setzen",
+   "de": "setzen (sich), setzt, hat gesetzt",
+   "pt": "sentar-se; pôr, colocar (sentado)"
+  },
+  {
+   "k": "sohn",
+   "de": "der Sohn, ¨-e"
+  },
+  {
+   "k": "stock",
+   "de": "der Stock, ¨-e",
+   "pt": "andar (de prédio)"
+  },
+  {
+   "k": "tochter",
+   "de": "die Tochter, ¨-"
+  },
+  {
+   "k": "treffen",
+   "de": "treffen (sich), trifft, hat getroffen",
+   "pt": "encontrar; (sich treffen) encontrar-se"
+  },
+  {
+   "k": "unterschrift",
+   "de": "die Unterschrift, -en"
+  },
+  {
+   "k": "vater",
+   "de": "der Vater, ¨-"
+  },
+  {
+   "k": "verkäufer",
+   "de": "der Verkäufer, -"
+  },
+  {
+   "k": "verspätung",
+   "de": "die Verspätung, -en"
+  },
+  {
+   "k": "wagen",
+   "de": "der Wagen, -"
+  },
+  {
+   "k": "wort",
+   "de": "das Wort, ¨-er"
+  },
+  {
+   "k": "rezeption",
+   "de": "die Rezeption, -en"
+  },
+  {
+   "k": "fitsein",
+   "de": "fit sein, ist fit, war fit, ist fit gewesen"
+  },
+  {
+   "k": "doppelzimmer",
+   "de": "das Doppelzimmer, -"
+  },
+  {
+   "k": "bewölktdiewolke",
+   "de": "bewölkt",
+   "pt": "nublado"
+  },
+  {
+   "k": "interessieren",
+   "de": "interessieren (sich), interessiert, hat interessiert",
+   "pt": "interessar; (sich interessieren für) interessar-se por"
+  },
+  {
+   "k": "partner",
+   "de": "der Partner, -",
+   "pt": "parceiro; companheiro"
+  },
+  {
+   "k": "dafürdagegensein",
+   "de": "dafür/dagegen sein, ist dafür/dagegen, war dafür/dagegen, ist dafür/dagegen gewesen"
+  },
+  {
+   "k": "dabspdarauf",
+   "de": "da(r)- (z. B. darauf, darüber)",
+   "pt": "da(r)- + preposição = isso (darauf: nisso, sobre isso; darüber: sobre isso)"
+  },
+  {
+   "k": "wegweg",
+   "de": "weg/weg- (wegbringen/-fahren/-gehen/-laufen/-machen/-nehmen/-werfen)",
+   "pt": "embora; fora (wegwerfen: jogar fora; weggehen: ir embora)"
+  },
+  {
+   "k": "ihrihmihn",
+   "pt": "ihr: (a) ela, lhe / ihm: (a) ele, lhe / ihn: o, ele (objeto direto)"
+  },
+  {
+   "k": "kein",
+   "de": "kein, -e",
+   "pt": "nenhum, nenhuma; não (um/uma)"
+  },
+  {
+   "k": "viel",
+   "de": "viel, -e",
+   "pt": "muito; (viele) muitos"
+  },
+  {
+   "k": "aufjedenkeinenfall",
+   "de": "auf jeden/keinen Fall"
+  },
+  {
+   "k": "feier",
+   "pt": "festa; comemoração (Feierabend: fim do expediente; Feiertag: feriado)"
+  },
+  {
+   "k": "freund",
+   "de": "der Freund, -e / die Freundin, -nen"
+  },
+  {
+   "k": "student",
+   "de": "der Student, -en / die Studentin, -nen",
+   "pt": "estudante (universitário) / estudante (universitária)"
+  },
+  {
+   "k": "tourist",
+   "de": "der Tourist, -en / die Touristin, -nen",
+   "pt": "turista"
+  },
+  {
+   "k": "ganz",
+   "pt": "inteiro, todo; bem, bastante (ganz gut); completamente"
+  },
+  {
+   "k": "gleich",
+   "pt": "já, logo (Ich komme gleich); igual, mesmo (gleich alt)"
+  },
+  {
+   "k": "all",
+   "pt": "todo; tudo (alles); todos (alle)"
+  },
+  {
+   "k": "als",
+   "pt": "do que (comparação); como (arbeitet als …); quando (passado)"
+  },
+  {
+   "k": "anzeige",
+   "pt": "anúncio (de jornal, classificado)"
+  },
+  {
+   "k": "anrede",
+   "pt": "forma de tratamento (em cartas)"
+  },
+  {
+   "k": "aufstehen",
+   "pt": "levantar-se (da cama)"
+  },
+  {
+   "k": "auskunft",
+   "pt": "informação; balcão de informações"
+  },
+  {
+   "k": "bescheid",
+   "de": "der Bescheid (bekommen/geben/sagen)",
+   "pt": "aviso (Bescheid sagen/geben: avisar; Bescheid bekommen: ser avisado)"
+  },
+  {
+   "k": "bekommen",
+   "pt": "receber; ganhar; conseguir"
+  },
+  {
+   "k": "da",
+   "pt": "aí; ali; (da sein) estar presente"
+  },
+  {
+   "k": "dabei",
+   "pt": "junto; consigo (Hast du … dabei?); (dabei sein) participar"
+  },
+  {
+   "k": "dein",
+   "pt": "teu, tua; seu, sua (de você)"
+  },
+  {
+   "k": "der",
+   "pt": "o, a (artigo); esse, essa (demonstr.); que (relativo)"
+  },
+  {
+   "k": "doch",
+   "pt": "sim (resposta a pergunta negativa); mas, afinal (ênfase)"
+  },
+  {
+   "k": "dort",
+   "pt": "lá; ali (dorthin: para lá; dorther: de lá)"
+  },
+  {
+   "k": "dürfen",
+   "pt": "poder (ter permissão); (nicht dürfen) não poder, ser proibido"
+  },
+  {
+   "k": "echt",
+   "pt": "verdadeiro; autêntico; (coloq.) realmente"
+  },
+  {
+   "k": "es",
+   "pt": "ele, ela (neutro); isso; (sujeito impessoal: es regnet)"
+  },
+  {
+   "k": "feuer",
+   "pt": "fogo; (Haben Sie Feuer?) fogo, isqueiro"
+  },
+  {
+   "k": "fliegen",
+   "pt": "voar; (abfliegen) partir de avião, decolar"
+  },
+  {
+   "k": "fahren",
+   "pt": "ir (de veículo); dirigir; (abfahren) partir, sair"
+  },
+  {
+   "k": "gern",
+   "pt": "com prazer (gern + verbo: gostar de) / lieber: de preferência / am liebsten: o que mais gosta"
+  },
+  {
+   "k": "gut",
+   "pt": "bom; bem / melhor / (am besten) o melhor"
+  },
+  {
+   "k": "gleis",
+   "pt": "plataforma, linha (de trem); trilho"
+  },
+  {
+   "k": "haben",
+   "pt": "ter"
+  },
+  {
+   "k": "heft",
+   "pt": "caderno"
+  },
+  {
+   "k": "herausraus",
+   "pt": "para fora (Komm raus!: vem pra fora!)"
+  },
+  {
+   "k": "hereinrein",
+   "pt": "para dentro (Herein!: entre!)"
+  },
+  {
+   "k": "karte",
+   "pt": "cartão (postal, de crédito); ingresso; cardápio"
+  },
+  {
+   "k": "keller",
+   "pt": "porão"
+  },
+  {
+   "k": "kiosk",
+   "pt": "banca (de jornal); quiosque"
+  },
+  {
+   "k": "klasse",
+   "pt": "turma; classe (escola, trem)"
+  },
+  {
+   "k": "kurz",
+   "pt": "curto; breve; (kurz sprechen) rapidinho"
+  },
+  {
+   "k": "lampe",
+   "pt": "luminária; abajur; luz"
+  },
+  {
+   "k": "leidtunleidtun",
+   "pt": "lamentar (Es tut mir leid: sinto muito)"
+  },
+  {
+   "k": "lieb",
+   "pt": "querido (Liebe Susanne: Querida Susanne); amável"
+  },
+  {
+   "k": "lust",
+   "pt": "vontade (Lust haben: ter vontade, estar a fim)"
+  },
+  {
+   "k": "maldasmal",
+   "pt": "vez (das Mal, zweimal); (partícula) só, aí (Komm mal her!)"
+  },
+  {
+   "k": "mögen",
+   "pt": "gostar de"
+  },
+  {
+   "k": "möchten",
+   "pt": "gostaria de; querer (forma educada)"
+  },
+  {
+   "k": "müssen",
+   "pt": "ter que; precisar; (nicht müssen) não precisar"
+  },
+  {
+   "k": "sollen",
+   "pt": "dever (por ordem, conselho ou combinado); (Soll ich …?) quer que eu …?"
+  },
+  {
+   "k": "wollen",
+   "pt": "querer; ter a intenção de"
+  },
+  {
+   "k": "werden",
+   "pt": "tornar-se; ficar (+ adj.); (futuro) ir + infinitivo"
+  },
+  {
+   "k": "tun",
+   "pt": "fazer; (weh tun) doer; (leid tun) sentir muito"
+  },
+  {
+   "k": "wehtun",
+   "pt": "doer; machucar (alguém)"
+  },
+  {
+   "k": "man",
+   "pt": "se (impessoal: man sagt = diz-se); a gente; você (genérico)"
+  },
+  {
+   "k": "manch",
+   "pt": "alguns, algumas; certos, certas"
+  },
+  {
+   "k": "nähe",
+   "pt": "proximidade (in der Nähe: perto)"
+  },
+  {
+   "k": "note",
+   "pt": "nota (escolar)"
+  },
+  {
+   "k": "ordnung",
+   "pt": "ordem; (in Ordnung) tudo bem, certo"
+  },
+  {
+   "k": "reihe",
+   "pt": "fileira; fila; vez (an der Reihe sein)"
+  },
+  {
+   "k": "rest",
+   "pt": "resto; restante"
+  },
+  {
+   "k": "schloss",
+   "pt": "castelo; palácio; fechadura"
+  },
+  {
+   "k": "schmecken",
+   "pt": "ter gosto, sabor; estar gostoso (Schmeckt’s?)"
+  },
+  {
+   "k": "sein",
+   "pt": "ser; estar; (possessivo) seu, sua, dele"
+  },
+  {
+   "k": "selbstständig",
+   "pt": "autônomo (profissional); independente"
+  },
+  {
+   "k": "sitzen",
+   "pt": "estar sentado; ficar sentado"
+  },
+  {
+   "k": "sprechstunde",
+   "pt": "horário de atendimento (consultório, escritório)"
+  },
+  {
+   "k": "stehen",
+   "pt": "estar em pé; estar (colocado); estar escrito (in der Zeitung)"
+  },
+  {
+   "k": "tafel",
+   "pt": "lousa, quadro (escolar); painel (Infotafel)"
+  },
+  {
+   "k": "termin",
+   "pt": "hora marcada; compromisso; consulta (médica)"
+  },
+  {
+   "k": "uhr",
+   "pt": "relógio; hora (vier Uhr: quatro horas)"
+  },
+  {
+   "k": "wäsche",
+   "pt": "roupa (para lavar ou lavada)"
+  },
+  {
+   "k": "weich",
+   "pt": "macio; mole"
+  },
+  {
+   "k": "vermieter",
+   "pt": "locador / locadora (proprietário do imóvel)"
+  },
+  {
+   "k": "wiederhören",
+   "pt": "(Auf Wiederhören!) até logo, tchau (ao telefone)"
+  },
+  {
+   "k": "wiedersehen",
+   "pt": "(Auf Wiedersehen!) até logo; tchau"
+  },
+  {
+   "k": "zu",
+   "pt": "para (direção); a (zu Fuß: a pé); demais (zu teuer)"
+  },
+  {
+   "k": "zettel",
+   "pt": "papelzinho; bilhete; lembrete"
+  },
+  {
+   "k": "mailbox",
+   "pt": "caixa postal (do celular)"
+  },
+  {
+   "k": "ausland",
+   "pt": "exterior (estrangeiro)"
+  },
+  {
+   "k": "apparat",
+   "pt": "aparelho; câmera (Fotoapparat); (am Apparat) ao telefone"
+  },
+  {
+   "k": "backen",
+   "pt": "assar (bolo, pão)"
+  },
+  {
+   "k": "baden",
+   "pt": "tomar banho (de banheira); nadar, banhar-se (lago, mar)"
+  },
+  {
+   "k": "flohmarkt",
+   "pt": "mercado de pulgas; feira de usados"
+  },
+  {
+   "k": "führerschein",
+   "pt": "carteira de motorista (CNH)"
+  },
+  {
+   "k": "geehrt",
+   "pt": "prezado(a) (em cartas: Sehr geehrte …)"
+  },
+  {
+   "k": "gefallen",
+   "pt": "agradar (Das gefällt mir: eu gosto disso)"
+  },
+  {
+   "k": "ein",
+   "pt": "um, uma; (einer, eins) um (pronome)"
+  },
+  {
+   "k": "mein",
+   "pt": "meu, minha"
+  },
+  {
+   "k": "unser",
+   "pt": "nosso, nossa"
+  },
+  {
+   "k": "euer",
+   "pt": "seu, sua (de vocês); vosso"
+  },
+  {
+   "k": "bisschen",
+   "pt": "(ein bisschen) um pouco"
+  },
+  {
+   "k": "schimpfen",
+   "pt": "reclamar; brigar com (alguém); xingar"
+  },
+  {
+   "k": "kontrollieren",
+   "pt": "verificar; checar; controlar"
+  },
+  {
+   "k": "neblig",
+   "pt": "com neblina; nebuloso"
+  },
+  {
+   "k": "ansage",
+   "pt": "anúncio (falado); aviso"
+  },
+  {
+   "k": "krankenkasse",
+   "pt": "seguro-saúde; plano de saúde"
+  },
+  {
+   "k": "vorbei",
+   "pt": "passando (por); terminado (vorbei sein)"
+  },
+  {
+   "k": "sonst",
+   "pt": "senão; além disso (Sonst noch etwas? mais alguma coisa?)"
+  },
+  {
+   "k": "wahr",
+   "pt": "verdadeiro (Das ist wahr: é verdade)"
+  },
+  {
+   "k": "erreichen",
+   "pt": "alcançar; conseguir pegar (trem); contatar (alguém)"
+  },
+  {
+   "k": "merken",
+   "pt": "notar, perceber; (sich merken) guardar na memória"
+  },
+  {
+   "k": "tragen",
+   "pt": "carregar; usar, vestir (roupa)"
+  },
+  {
+   "k": "torte",
+   "pt": "torta; bolo (confeitado)"
+  },
+  {
+   "k": "apartment",
+   "pt": "apartamento (pequeno)"
+  },
+  {
+   "k": "bogen",
+   "pt": "folha (Antwortbogen: folha de respostas)"
+  },
+  {
+   "k": "einzel",
+   "pt": "individual; separado (einzeln: um por um)"
+  }
+ ],
+ "dividir": [
+  {
+   "k": "ankommen",
+   "novos": [
+    {
+     "k": "ankommenv",
+     "de": "ankommen, kommt an, ist angekommen",
+     "pt": "chegar",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "dieankunft",
+     "de": "die Ankunft, ¨-e",
+     "pt": "chegada",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "antworten",
+   "novos": [
+    {
+     "k": "antwortenv",
+     "de": "antworten, antwortet, hat geantwortet",
+     "pt": "responder",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "dieantwort",
+     "de": "die Antwort, -en",
+     "pt": "resposta",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "bank",
+   "novos": [
+    {
+     "k": "bankgeld",
+     "de": "die Bank, -en",
+     "pt": "banco (instituição financeira)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "banksitz",
+     "de": "die Bank, ¨-e",
+     "pt": "banco (assento)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "anrufbeantworter",
+   "novos": [
+    {
+     "k": "deranrufbeantworter",
+     "de": "der Anrufbeantworter, -",
+     "pt": "secretária eletrônica",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "beeilen",
+   "novos": [
+    {
+     "k": "sichbeeilen",
+     "de": "beeilen (sich), beeilt, hat beeilt",
+     "pt": "apressar-se",
+     "lvl": [
+      "A2"
+     ]
+    },
+    {
+     "k": "beenden",
+     "de": "beenden, beendet, hat beendet",
+     "pt": "terminar; concluir",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "bekanntderdiebekannte",
+   "novos": [
+    {
+     "k": "bekanntadj",
+     "de": "bekannt",
+     "pt": "conhecido; famoso",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "bekanntepessoa",
+     "de": "der/die Bekannte, -n",
+     "pt": "conhecido / conhecida (pessoa)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "bewerben",
+   "novos": [
+    {
+     "k": "sichbewerben",
+     "de": "bewerben (sich), bewirbt, hat beworben",
+     "pt": "candidatar-se (a uma vaga)",
+     "lvl": [
+      "A2"
+     ]
+    },
+    {
+     "k": "diebewerbung",
+     "de": "die Bewerbung, -en",
+     "pt": "candidatura (a uma vaga)",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "dorf",
+   "novos": [
+    {
+     "k": "dasdorf",
+     "de": "das Dorf, ¨-er",
+     "pt": "vilarejo; aldeia",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "ehefrau",
+   "novos": [
+    {
+     "k": "dieehefrau",
+     "de": "die Ehefrau, -en",
+     "pt": "esposa",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "derehemann",
+     "de": "der Ehemann, ¨-er",
+     "pt": "marido",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "derehepartner",
+     "de": "der Ehepartner, -",
+     "pt": "cônjuge",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "eigeneigentlich",
+   "novos": [
+    {
+     "k": "eigen",
+     "de": "eigen-",
+     "pt": "próprio",
+     "lvl": [
+      "A2"
+     ]
+    },
+    {
+     "k": "eigentlich",
+     "de": "eigentlich",
+     "pt": "na verdade; na realidade",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "mail",
+   "novos": [
+    {
+     "k": "dieemail",
+     "de": "die E-Mail, -s",
+     "pt": "e-mail",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "entschuldi",
+   "novos": [
+    {
+     "k": "dieentschuldigung",
+     "de": "die Entschuldigung, -en",
+     "pt": "desculpa; (Entschuldigung!) desculpe!, com licença",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "erlauben",
+   "novos": [
+    {
+     "k": "erlaubenv",
+     "de": "erlauben, erlaubt, hat erlaubt",
+     "pt": "permitir",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "erlaubtsein",
+     "de": "erlaubt sein, ist erlaubt, war erlaubt, ist erlaubt gewesen",
+     "pt": "ser permitido",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "rad",
+   "novos": [
+    {
+     "k": "dasfahrrad",
+     "de": "das (Fahr)Rad, ¨-er",
+     "pt": "bicicleta",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "ziehen",
+   "novos": [
+    {
+     "k": "anausziehen",
+     "de": "(an-)/(aus)ziehen, zieht (an/aus), hat/ist (an/aus)gezogen",
+     "pt": "(anziehen) vestir; (ausziehen) tirar (roupa), (ist ausgezogen) mudar-se",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "anseinaussein",
+   "novos": [
+    {
+     "k": "anseinausseinv",
+     "de": "an sein / aus sein",
+     "pt": "estar ligado, aceso / estar desligado, apagado; (aus sein) ter acabado",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "fertigsein",
+   "novos": [
+    {
+     "k": "fertigseinv",
+     "de": "fertig sein, ist fertig, war fertig, ist fertig gewesen",
+     "pt": "estar pronto; ter terminado",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "gültigsein",
+   "novos": [
+    {
+     "k": "gültigseinv",
+     "de": "gültig sein, ist gültig, war gültig, ist gültig gewesen",
+     "pt": "ser válido; valer",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "geburtsjahr",
+   "novos": [
+    {
+     "k": "dasgeburtsjahr",
+     "de": "das Geburtsjahr, -e",
+     "pt": "ano de nascimento",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "dergeburtsort",
+     "de": "der Geburtsort, -e",
+     "pt": "local de nascimento",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "dergeburtstag",
+     "de": "der Geburtstag, -e",
+     "pt": "aniversário",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "jeder",
+   "novos": [
+    {
+     "k": "jederjedejedes",
+     "de": "jeder, -e, -s",
+     "pt": "cada; todo (jeden Tag: todo dia)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "derdiejugendliche",
+   "novos": [
+    {
+     "k": "jugendlicherdie",
+     "de": "der/die Jugendliche, -n",
+     "pt": "jovem; adolescente",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "lebensmittel",
+   "novos": [
+    {
+     "k": "dielebensmittel",
+     "de": "die Lebensmittel (Pl.)",
+     "pt": "alimentos; mantimentos",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "mittel",
+   "novos": [
+    {
+     "k": "dasmittel",
+     "de": "das Mittel, -",
+     "pt": "remédio (contra algo); meio; produto (Waschmittel)",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "nächste",
+   "novos": [
+    {
+     "k": "nächstees",
+     "de": "nächst-, nächste, -er, -es",
+     "pt": "próximo; seguinte",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "partnerin",
+   "novos": [
+    {
+     "k": "diepartnerin",
+     "de": "die Partnerin, -nen",
+     "pt": "parceira; companheira",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "pommesfrites",
+   "novos": [
+    {
+     "k": "diepommesfrites",
+     "de": "die Pommes frites (Pl.)",
+     "pt": "batata frita",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "see",
+   "novos": [
+    {
+     "k": "dersee",
+     "de": "der See, -n",
+     "pt": "lago",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "diesee",
+     "de": "die See (Sg.)",
+     "pt": "mar",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "sie",
+   "novos": [
+    {
+     "k": "sieela",
+     "de": "sie",
+     "pt": "ela; eles, elas",
+     "lvl": [
+      "A1"
+     ]
+    },
+    {
+     "k": "sieformal",
+     "de": "Sie",
+     "pt": "o senhor, a senhora; você (tratamento formal)",
+     "lvl": [
+      "A1"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "tschüss",
+   "novos": [
+    {
+     "k": "tschuesstschues",
+     "de": "tschüss/tschüs",
+     "pt": "tchau",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "umziehen",
+   "novos": [
+    {
+     "k": "umziehenv",
+     "de": "umziehen, zieht um, ist umgezogen",
+     "pt": "mudar-se (de casa)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "sichumziehen",
+     "de": "sich umziehen, zieht sich um, zog sich um, hat sich umgezogen",
+     "pt": "trocar de roupa",
+     "lvl": [
+      "A2"
+     ]
+    },
+    {
+     "k": "derumzug",
+     "de": "der Umzug, ¨-e",
+     "pt": "mudança (de casa)",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "verbietenverbotensein",
+   "novos": [
+    {
+     "k": "verbietenverboten",
+     "de": "verbieten / verboten sein",
+     "pt": "proibir / ser proibido; (verboten) proibido",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "welcher",
+   "novos": [
+    {
+     "k": "welcherwelchewelches",
+     "de": "welcher, -e, -s",
+     "pt": "qual; que",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "werwen",
+   "novos": [
+    {
+     "k": "werwenwem",
+     "de": "wer (wen, wem)",
+     "pt": "quem (wen: acusativo; wem: dativo)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "zumbeispiel",
+   "novos": [
+    {
+     "k": "zbzumbeispiel",
+     "de": "zum Beispiel (z. B.)",
+     "pt": "por exemplo (p. ex.)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "arm",
+   "novos": [
+    {
+     "k": "derarm",
+     "de": "der Arm, -e",
+     "pt": "braço",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "armadj",
+     "de": "arm",
+     "pt": "pobre",
+     "lvl": [
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "bitte",
+   "novos": [
+    {
+     "k": "diebitte",
+     "de": "die Bitte, -n",
+     "pt": "pedido",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "bittepartikel",
+     "de": "bitte",
+     "pt": "por favor; (Bitte!) de nada; (Wie bitte?) como?",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "essen",
+   "novos": [
+    {
+     "k": "essenv",
+     "de": "essen, isst, hat gegessen",
+     "pt": "comer",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "dasessen",
+     "de": "das Essen, -",
+     "pt": "comida; refeição",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "leben",
+   "novos": [
+    {
+     "k": "lebenv",
+     "de": "leben, lebt, hat gelebt",
+     "pt": "viver; morar",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    },
+    {
+     "k": "dasleben",
+     "de": "das Leben, -",
+     "pt": "vida",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "billig",
+   "novos": [
+    {
+     "k": "billigadj",
+     "de": "billig",
+     "pt": "barato",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "einladung",
+   "novos": [
+    {
+     "k": "dieeinladung",
+     "de": "die Einladung, -en",
+     "pt": "convite",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "fisch",
+   "novos": [
+    {
+     "k": "derfisch",
+     "de": "der Fisch, -e",
+     "pt": "peixe",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "gemüse",
+   "novos": [
+    {
+     "k": "dasgemuese",
+     "de": "das Gemüse (Sg.)",
+     "pt": "legumes; verduras",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "hallo",
+   "novos": [
+    {
+     "k": "halloint",
+     "de": "hallo",
+     "pt": "oi; olá",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "kuchen",
+   "novos": [
+    {
+     "k": "derkuchen",
+     "de": "der Kuchen, -",
+     "pt": "bolo",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "nie",
+   "novos": [
+    {
+     "k": "nieadv",
+     "de": "nie",
+     "pt": "nunca",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "schreiben",
+   "novos": [
+    {
+     "k": "schreibenv",
+     "de": "schreiben, schreibt, hat geschrieben",
+     "pt": "escrever",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "stelle",
+   "novos": [
+    {
+     "k": "diestelle",
+     "de": "die Stelle, -n",
+     "pt": "vaga, emprego; lugar, ponto",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "und",
+   "novos": [
+    {
+     "k": "undkonj",
+     "de": "und",
+     "pt": "e",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  },
+  {
+   "k": "weit",
+   "novos": [
+    {
+     "k": "weitadj",
+     "de": "weit",
+     "pt": "longe; largo (roupa)",
+     "lvl": [
+      "A1",
+      "A2"
+     ]
+    }
+   ]
+  }
+ ],
+ "remover": [
+  "ankunft",
+  "antwort",
+  "beantworter",
+  "bekannt",
+  "derdiebekannte",
+  "ehemann",
+  "email",
+  "entschuldigung",
+  "fahrrad",
+  "abfahren",
+  "abfliegen",
+  "anziehen",
+  "ausziehen",
+  "ansein",
+  "aussein",
+  "fertig",
+  "gültig",
+  "geburtsort",
+  "geburtstag",
+  "hatgenommen",
+  "jed",
+  "jugendliche",
+  "lebens",
+  "nächst",
+  "pommesfritesdie",
+  "trifft",
+  "tschüs",
+  "verboten",
+  "welch",
+  "wer",
+  "zumbeispielzb",
+  "besser",
+  "lieber"
+ ]
+}

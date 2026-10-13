@@ -51,7 +51,7 @@ for e in ent:
     if L != letra:
         letra = L; out.append(f'<div class="lt">{esc(L)}</div>')
     a, b = lema(e['de'])
-    out.append(f'<p class="g"><b>{esc(a)}</b><span class="f">{esc(b)}</span> {esc(pt[e["k"]])} <i class="lv">{chip(e["lvl"])}</i></p>')
+    out.append(f'<p class="g"><b>{esc(a)}</b><span class="f">{esc(b)}</span> – {esc(pt[e["k"]])} <i class="lv">{chip(e["lvl"])}</i></p>')
 alfa = '\n'.join(out)
 gr = []
 for g in grupos:
