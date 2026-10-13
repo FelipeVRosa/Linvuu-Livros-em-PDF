@@ -50,7 +50,7 @@ Veja que o italiano **usa as suas próprias letras para os sons que o português
 | Hábito brasileiro | O que acontece | O que o italiano pede |
 |---|---|---|
 | *ti, di* soam "tchi, dji" no Rio e em São Paulo (tia, dia) | {{dire}} vira "djire" | *t* e *d* secos: "ti" de {{tigre}}, "di" de {{dire}} |
-| vogal final átona reduzida (leite, pote) | {{bene}} vira "béni", {{molto}} vira "móltu" | todas as vogais soam inteiras: "BÊ-ne", "MÓL-to" |
+| vogal final átona reduzida (leite, pote) | {{bene}} vira "béni", {{molto}} vira "môltu" | todas as vogais soam inteiras: "BÉ-ne", "MÔL-to" |
 | *l* final ou diante de consoante soa "u" (sol, alto) | {{alto}} vira "áuto" | *l* sempre é *l*: "AL-to" |
 | *s* antes de consoante soa "x" em várias regiões (esta, mesmo) | {{questo}} vira "kuéxto" | *s* é "s" ou "z", nunca "x": "KUES-to" |
 | vogal nasal (campo, tanto) | o *m* e o *n* nasalizam a vogal | a vogal fica limpa e o *m*/*n* soa por inteiro |
@@ -93,7 +93,7 @@ Se você notou que a **vogal que vem depois** manda no som do *c*, do *g* e do *
 3. Para ter "tch" ou "dj" diante de a, o, u, coloca um **i** mudo: *cia, cio, ciu* ({{ciao}}) e *gia, gio, giu* ({{giorno}}).
 4. *gn* é "nh" ({{gnocchi}}). *gli* é "lh" ({{figlio}}). *sc* + e, i é "x" ({{scena}}); *sch* + e, i é "sk" ({{schiena}}).
 5. Consoante dobrada **soa dobrada**: segure-a. {{Sette}} não é {{sete}}.
-6. Todas as vogais soam por inteiro, inclusive a última. {{Bene}} é BÊ-ne.
+6. Todas as vogais soam por inteiro, inclusive a última. {{Bene}} é BÉ-ne.
 7. A sílaba forte é quase sempre a **penúltima** ({{CA-sa}}, {{a-MI-co}}). Se o acento está escrito no fim da palavra, a voz cai ali: {{cit-TÀ}}, {{caf-FÈ}}.
 :::::
 
@@ -168,11 +168,11 @@ O "x" de {{pesce}} ou {{scena}} é longo entre vogais. Pense em "peshshe".
 
 ### QU, GU, H
 
-*qu* é "kw": o *u* soa. Em português, "que" e "qui" têm *u* mudo ("kê", "ki"). No italiano, {{questo}} é KUES-to, {{quando}} é KUAN-do, {{qui}} é KUI. O mesmo vale para *gu*: {{guerra}} é GUER-ra, {{guida}} é GUI-da. O português diz "gê" e "gi" em "guerra" e "guia", sem som de *u*. Para dizer "ki" em italiano, escreve-se {{chi}}. Compare {{chi}} (KI, "quem") e {{qui}} (KUI, "aqui").
+*qu* é "kw": o *u* soa. Em português, "que" e "qui" têm *u* mudo ("kê", "ki"). No italiano, {{questo}} é KUES-to, {{quando}} é KUAN-do, {{qui}} é KUI. O mesmo vale para *gu*: {{guerra}} é GWÉR-ra, {{guida}} é GWI-da. O português diz "gê" e "gi" em "guerra" e "guia", sem som de *u*. Para dizer "ki" em italiano, escreve-se {{chi}}. Compare {{chi}} (KI, "quem") e {{qui}} (KUI, "aqui").
 
 O *h* **nunca soa**. Ele só aparece:
 - em *ch* e *gh*, para endurecer;
-- em quatro formas do verbo *avere*: {{ho}}, {{hai}}, {{ha}}, {{hanno}} (capítulo 2). O *h* ali separa essas palavras de {{o}} ("ou"), {{ai}} ("aos"), {{a}} ("a") e {{anno}} ("ano"). Escrito e lido, parece igual, mas {{ha}} = verbo e {{a}} = preposição;
+- em quatro formas do verbo *avere*: {{ho}}, {{hai}}, {{ha}}, {{hanno}} (capítulo 2). O *h* ali separa essas palavras de {{o}} ("ou"), {{ai}} ("aos"), {{a}} ("a") e {{anno}} ("ano"). Na fala, soam iguais, mas {{ha}} = verbo e {{a}} = preposição;
 - em algumas interjeições ({{ah}}, {{oh}}) e palavras estrangeiras ({{hotel}}, {{hostess}}).
 
 ### O R, o L e o S
@@ -200,7 +200,7 @@ Quase qualquer consoante pode ser dobrada. O *h* não se dobra, e o *q* se dobra
 | {{pala}} (pá) | {{palla}} (bola) |
 | {{copia}} (cópia) | {{coppia}} (casal) |
 
-*gn*, *gli* e *sc* + e, i, entre vogais, são sempre longos, mesmo escritos "simples". Isso explica por que {{bagno}} e {{famiglia}} soam mais "pesados" que "banho" e "família". O *z* entre vogais (pizza, stazione) também soa longo.
+*gn*, *gli* e *sc* + e, i, entre vogais, são sempre longos, mesmo escritos "simples". Isso explica por que {{bagno}} e {{famiglia}} soam mais "pesados" que "banho" e "família". O *z* simples entre vogais (grazie, stazione) também soa longo.
 
 ### Acento tônico e acento escrito
 
@@ -212,7 +212,7 @@ Em português, a sílaba forte é fácil de achar: ou há acento escrito (café,
 | Penúltima | {{CA-sa}}, {{a-MI-co}}, {{ita-LIA-no}} | a mais comum; sem acento |
 | Antepenúltima | {{TE-le-fo-no}}, {{NU-me-ro}}, {{MU-si-ca}} | sem acento escrito; precisa ser aprendida |
 
-Os acentos escritos obrigatórios caem **só na última vogal** de palavras com mais de uma sílaba: {{città}}, {{caffè}}, {{perché}}, {{università}}, {{papà}}, {{virtù}}, {{così}}, {{però}}. O acento grave (`à è ì ò ù`) é o mais comum; o agudo (`é`) aparece em {{perché}}, {{né}}, {{sé}} e alguns outros, e marca um *e* fechado. Em palavras de uma sílaba, o acento só aparece para separar duas palavras iguais na escrita:
+Os acentos escritos obrigatórios caem **só na última vogal** de palavras com mais de uma sílaba: {{città}}, {{caffè}}, {{perché}}, {{università}}, {{papà}}, {{virtù}}, {{così}}, {{però}}. O acento grave (`à è ì ò ù`) é o mais comum; o agudo (`é`) aparece em {{perché}}, {{né}}, {{sé}} e alguns outros, e marca um *e* fechado. Em palavras de uma sílaba, o acento aparece em dois casos: quando a palavra termina em ditongo com a voz na última vogal ({{più}}, {{può}}, {{già}}, {{giù}}, {{ciò}}) e para separar duas palavras iguais na escrita:
 
 | Sem acento | Com acento |
 |---|---|
@@ -419,7 +419,7 @@ Soletro meu nome com o alfabeto italiano.
 1. Ho un amico a Roma. (*amico* é masculino: sem apóstrofo)
 2. Che bella città! (acento final)
 3. Mi piace il caffè. (acento final e *ff*)
-4. Un'amica di Luca è qui. (*amica* é feminino: *un'* com apóstrofo)
+4. Un'amica di Luca è qui. (*amica* é feminino: *un'* com apóstrofo; *una amica* não chega a ser erro grave, mas a forma usual e recomendada é *un'amica*)
 5. Está certa.
 6. Sono di Recife. (sem *ç*)
 7. Dov'è la stazione? (*è* com acento grave)

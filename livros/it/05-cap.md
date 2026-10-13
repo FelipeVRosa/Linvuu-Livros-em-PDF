@@ -111,7 +111,7 @@ Três cuidados.
 
 **A dobra se ouve.** Em {{alla}}, {{dalla}}, {{nella}}, {{sulla}}, {{allo}}, {{dallo}}, {{nello}}, {{sullo}}, {{dello}}, {{della}}, o *l* é longo, como no capítulo 1. Compare {{ala}} ("asa") com {{alla}} ("à"). Em {{al}}, {{dal}}, {{nel}}, {{sul}}, {{del}}, o *l* é simples.
 
-**Nem todas as preposições se fundem.** {{Per}}, {{con}} e {{tra}} / {{fra}} ficam separadas na escrita atual: {{con il treno}}, {{per la strada}}. Existe uma forma antiga, {{col}}, que você pode ver, mas não precisa usar.
+**Nem todas as preposições se fundem.** {{Per}}, {{con}} e {{tra}} / {{fra}} ficam separadas na escrita atual: {{con il treno}}, {{per la strada}}. Existe a forma {{col}} (= {{con il}}), ainda comum na fala, que você vai ver, mas não precisa usar.
 
 **Sem artigo, sem fusão.** A fusão só acontece diante de **artigo definido**. Se não há artigo, a preposição fica sozinha: {{in Italia}}, {{a Roma}}, {{in via Garibaldi}}.
 
@@ -236,7 +236,7 @@ Os lugares de natureza pedem {{a}} com o mar e o lago, mas {{in}} com a montanha
 5. Domenica siamo \_\_\_\_ mare. (al, nel, sul)
 6. Vengo \_\_\_\_ Brasile. (da, dal, di)
 7. Questa è la casa \_\_\_\_ Luca. (di, da, a)
-8. Parto \_\_\_\_ due giorni. (per, tra, da)
+8. Parto \_\_\_\_ due giorni (daqui a dois dias). (per, tra, da)
 
 **Degrau 2. Complete.** Use a preposição entre parênteses, com o artigo, se for preciso.
 
@@ -369,5 +369,5 @@ Convido alguém: {{Vieni da me?}} e respondo: {{Vengo da te.}}
 6. Está certa. (cidade com {{a}}, transporte com {{in}} sem artigo)
 7. Sono da Luca. (nome próprio sem artigo)
 
-**Retorno.** Capítulo 1: *alla* (AL-la) e *dello* (DEL-lo) e *della* têm *l* longo; *ala* (A-la) tem *l* simples. *Gli amici* soa "lhi a-MI-tchi" porque *gli* é "lh" (o mesmo som de *figlio*). Capítulo 3: I libri sono sui tavoli. Lo zaino. L'amica. Capítulo 4: Noi andiamo dal medico. Tu vieni da me? Loro partono per Roma.
+**Retorno.** Capítulo 1: *alla* (AL-la) e *dello* (DEL-lo) e *della* têm *l* longo; *ala* (A-la) tem *l* simples. *Gli amici* soa "lhi a-MI-tchi" porque *gli* é "lh" (o mesmo som de *figlio*). Capítulo 3: I libri sono sui tavoli (ou sul tavolo, se a mesa for uma só). Lo zaino. L'amica. Capítulo 4: Noi andiamo dal medico. Tu vieni da me? Loro partono per Roma.
 :::::

@@ -24,7 +24,7 @@ Camila mostra o quarto e uma foto de casa.
 
 Em português: Você tem um quarto bonito! / Obrigada! Tenho uma mesa nova e uma luminária pequena. / E quem é o rapaz da foto? / É o meu irmão mais novo, o Pedro. / E a casa ali? / É a nossa casa antiga, com o jardim grande e as flores coloridas. / Que bonito! Você tem uma família ótima.
 
-Repare nos finais: *schönes, neuen, kleine, junge, jüngerer, altes, großen, bunten, tolle*. Nove adjetivos, sete finais diferentes. A regra vem a seguir.
+Repare nos finais: *schönes, neuen, kleine, junge, jüngerer, altes, großen, bunten, tolle*. Nove adjetivos, quatro finais diferentes. A regra vem a seguir.
 
 ## 2. A armadilha do português
 
@@ -34,14 +34,12 @@ O português põe o adjetivo **depois** do substantivo e muda só gênero e núm
 
 2.  **O adjetivo sozinho depois de *sein* não muda.** *Der Tisch ist groß.* Nunca *große* ali.
 
-3.  **Muitos finais.** Em português, “novo” tem quatro formas. Em alemão, *neu* tem se*is: neu (sem final), neue, neuer, neues, neuen, neuem*.
+3.  **Muitos finais.** Em português, “novo” tem quatro formas. Em alemão, *neu* tem seis: *neu* (sem final), *neue*, *neuer*, *neues*, *neuen*, *neuem*.
 
 ::: atencao
-sem artigo ou sem sinal de gênero e caso, o adjetivo assume o papel.
+sem artigo ou sem sinal de gênero e caso, o adjetivo assume o papel. Com sinal, o adjetivo descansa no *-e* ou no *-en*.
 :::
 
-
-Com sinal, o adjetivo descansa no *-e* ou no *-en*.
 
 ## 3. Descubra você mesmo
 
@@ -70,9 +68,7 @@ Se você notou que o adjetivo assume o sinal de gênero quando o artigo não o m
 ::::: dica
 Faça três perguntas, nesta ordem.
 
-1.  **O que vem antes do adjetivo?** *der/die/das/dieser/jeder* → grupo A.
-
-*ein/kein/mein/dein…* → grupo B. **Nada** → grupo C.
+1.  **O que vem antes do adjetivo?** *der/die/das/dieser/jeder* → grupo A. *ein/kein/mein/dein…* → grupo B. **Nada** → grupo C.
 
 2.  **Qual é o gênero e o caso do substantivo?**
 
@@ -97,7 +93,7 @@ Faça três perguntas, nesta ordem.
 
 5.  **Atalho 2:** o grupo B é igual ao A, **menos** nominativo masculino (*-er*), nominativo neutro (*-es*) e acusativo neutro (*-es*). São exatamente as casas em que *ein/kein/mein* não mostram o gênero.
 
-6.  **Atalho 3:** o grupo C repete as terminações do artigo*: der → -er, die → -e, das → -es, den → -en, dem → -em, der (dativo) → -er. No nominativo, no acusativo e no dativo, não há exceçã*o.
+6.  **Atalho 3:** o grupo C repete as terminações do artigo: *der* → *-er*, *die* → *-e*, *das* → *-es*, *den* → *-en*, *dem* → *-em*, *der* (dativo) → *-er*. No nominativo, no acusativo e no dativo, não há exceção.
 
 7.  Dois adjetivos seguidos levam o mesmo final: *ein neues, großes Zimmer*.
 
@@ -120,7 +116,7 @@ Faça três perguntas, nesta ordem.
 
 **Advérbios antes do adjetivo.** Intensificadores como *sehr* e *ganz* não mudam: *ein sehr schöner Tag*.
 
-**Adjetivo sem substantivo.** Se o substantivo já foi dito, o final continua: *Ich nehme das rote.* (Ficamos com a vermelha.)
+**Adjetivo sem substantivo.** Se o substantivo já foi dito, o final continua: *Ich nehme das rote.* (Fico com a vermelha.)
 
 **Expressões prontas.** *Guten Morgen*, *guten Tag*, *gute Nacht*: são frases presas com final de acusativo ou nominativo.
 
@@ -283,5 +279,5 @@ Digo *der neue Tisch* e *mit dem neuen Tisch*. Digo *kalter Kaffee* e *kalte Mil
 
 7.  Está certa.
 
-**Retorno.** Capítulo 12: größere, höchste. Capítulo 11: neues. Capítulo 10: alten. Capítulo 9: alten. Capítulo 8: neue.
+**Retorno.** Capítulo 12: größere, höchste (revisão de comparativo e superlativo; *große* e *hohe* também estão gramaticalmente certos). Capítulo 11: neues. Capítulo 10: alten. Capítulo 9: alten. Capítulo 8: neue.
 :::::

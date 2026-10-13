@@ -37,7 +37,7 @@ O português também separa os dois passados, e isso ajuda muito: você já sent
 | eu vivia | {{vivía}} | **acento** no *í* |
 | eu via | {{veía}} | ver mantém o *e*: **ve-ía** |
 | eu ia (de ir) | {{iba}} | ir tem terminação própria: *-aba* |
-| nós falávamos | {{hablábamos}} | acento na sílaba *-bá-* |
+| nós falávamos | {{hablábamos}} | acento no *á* de *-ábamos* |
 
 No português, *ia* serve a dois verbos: “eu ia” (de *ir*) e “eu comia, eu vivia” (de *comer* e *viver*). No espanhol, os dois se separam: **{{iba}}** é de *ir*, e **{{comía}}**, **{{vivía}}** são de *comer* e *vivir*. Quem escreve *ia* ou *via* em espanhol está escrevendo português.
 
@@ -169,7 +169,7 @@ O pronome acompanha o verbo conjugado ou gruda no gerúndio, como no capítulo 9
 | poder | **Podía** nadar. *(era capaz)* | **Pude** nadar. *(consegui, daquela vez)* |
 | conocer | **Conocía** a Marta. *(já a conhecia)* | **Conocí** a Marta. *(encontrei pela primeira vez)* |
 
-O português tem o mesmo jogo (“sabia” e “soube”). Preste só atenção à forma espanhola irregular do indefinido (*supe, quise, pude, conocí*).
+O português tem o mesmo jogo (“sabia” e “soube”). Preste só atenção à forma espanhola irregular do indefinido (*supe, quise, pude*; *conocí* é regular).
 
 **Serve para o que contamos antes.** O *imperfecto* também aparece em relatos de hábitos que já acabaram, e é a forma natural para dizer “antes eu…, agora…”: *Antes fumaba; ahora no.* *Antes trabajaba en un banco; ahora tengo mi propia tienda.*
 

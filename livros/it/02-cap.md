@@ -216,7 +216,7 @@ A pronúncia é TCHÈ, e {{ci sono}} é "tchi SÔ-no". O apóstrofo de {{c'è}} 
 2. Tu \_\_\_\_ stanco? (sei, è, siete)
 3. Io \_\_\_\_ venticinque anni. (sono, ho, ha)
 4. \_\_\_\_ una farmacia qui vicino? (Ci sono, C'è, Sono)
-5. \_\_\_\_ due camere libere. (C'è, Ci sono, Hanno)
+5. \_\_\_\_ due camere libere. (C'è, Ci sono, È)
 6. Signora, \_\_\_\_ di Roma? (sei, è, ha)
 7. Noi \_\_\_\_ fame. (abbiamo, siamo, hanno)
 8. Voi \_\_\_\_ amici di Luca? (siete, avete, sono)

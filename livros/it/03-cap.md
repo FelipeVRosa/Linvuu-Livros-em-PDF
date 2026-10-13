@@ -45,7 +45,7 @@ O português tem quatro artigos definidos: **o, a, os, as**. Escolher entre eles
 | feminino singular | a | {{la}}, {{l'}} |
 | feminino plural | as | {{le}} |
 
-**O artigo olha para a frente.** Em português, "o" fica "o" diante de "livro", de "estudante", de "zaino", de "amigo". Em italiano, o artigo de {{libro}} é {{il}}; o de {{studente}} é {{lo}}; o de {{amico}} é {{l'}}. A mesma palavra pode pedir outro artigo se você puser um adjetivo na frente: {{lo studente}}, mas {{il bravo studente}}. Por isso, o artigo é o **último** a ser escolhido. Primeiro você olha a palavra que vem logo depois dele.
+**O artigo olha para a frente.** Em português, "o" fica "o" diante de "livro", de "estudante", de "amigo". Em italiano, o artigo de {{libro}} é {{il}}; o de {{studente}} é {{lo}}; o de {{amico}} é {{l'}}. A mesma palavra pode pedir outro artigo se você puser um adjetivo na frente: {{lo studente}}, mas {{il bravo studente}}. Por isso, o artigo é o **último** a ser escolhido. Primeiro você olha a palavra que vem logo depois dele.
 
 **O plural não é só um *s*.** O português acrescenta *-s* e o artigo vira "os, as". O italiano troca a **vogal final** do substantivo e também troca o artigo.
 
@@ -251,7 +251,7 @@ Em {{l'uovo}} → {{le uova}}, o artigo e o gênero acompanham o plural: **{{le 
 
 ### Quando usar o artigo
 
-Como em português: com substantivos que designam coisa específica ou categoria geral: {{Il caffè è caldo}}; {{I gatti sono animali}}; {{L'italiano è una lingua bella}}. Não se usa com **nomes próprios de pessoa** ({{Marina}}), **cidades** ({{Roma}}) e **depois de *parlare* + idioma** ({{Parlo italiano}}). Com **países**, leva artigo: {{il Brasile}}, {{l'Italia}}, {{la Francia}}, {{gli Stati Uniti}}. Com **títulos**, leva artigo quando se fala *sobre* a pessoa, e não leva quando se fala *com* ela: {{Il signor Rossi è qui}} × {{Buongiorno, signor Rossi}}.
+Como em português: com substantivos que designam coisa específica ou categoria geral: {{Il caffè è caldo}}; {{I gatti sono animali}}; {{L'italiano è una bella lingua}}. Não se usa com **nomes próprios de pessoa** ({{Marina}}), **cidades** ({{Roma}}) e **depois de *parlare* + idioma** ({{Parlo italiano}}). Com **países**, leva artigo: {{il Brasile}}, {{l'Italia}}, {{la Francia}}, {{gli Stati Uniti}}. Com **títulos**, leva artigo quando se fala *sobre* a pessoa, e não leva quando se fala *com* ela: {{Il signor Rossi è qui}} × {{Buongiorno, signor Rossi}}.
 
 ## 6. Frases de ouro
 

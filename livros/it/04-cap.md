@@ -160,7 +160,7 @@ Três observações, ligadas ao capítulo 1.
 
 **O acento escrito em {{dà}}.** {{Dà}} (ele dá) leva acento para se distinguir de {{da}} (preposição, capítulo 5). {{Do}} (eu dou) e {{dai}} (tu dás) não levam; mas {{dai}} também é a contração de {{da}} + {{i}} (capítulo 5), e o contexto resolve.
 
-**{{Fare}}, {{dire}} e {{bere}} usam a raiz antiga.** Vêm de formas latinas mais longas (*facere*, *dicere*, *bibere*), e por isso as raízes *fac-*, *dic-* e *bev-* reaparecem em {{facciamo, fanno}}, {{diciamo, dicono}} e {{bevo, beviamo}}. Não há regra para memorizar; é preciso decorar a tabela.
+**{{Fare}}, {{dire}} e {{bere}} usam a raiz antiga.** Vêm de formas latinas mais longas (*facere*, *dicere*, *bibere*), e por isso as raízes *fac-*, *dic-* e *bev-* reaparecem em {{faccio, facciamo}}, {{diciamo, dicono}} e {{bevo, beviamo}}. Não há regra para memorizar; é preciso decorar a tabela.
 
 Um oitavo verbo que você vai ouvir todos os dias: {{uscire}} ("sair"): {{esco, esci, esce, usciamo, uscite, escono}}. Os verbos modais (potere, volere, dovere) são do capítulo 9.
 

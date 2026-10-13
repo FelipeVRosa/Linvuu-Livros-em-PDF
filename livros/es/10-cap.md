@@ -229,7 +229,7 @@ Com marcadores de tempo **terminado** (*ayer, anoche, el año pasado, hace dos a
 
 Note a diferença: {{Todavía no vivo aquí}} (ainda não moro aqui, vou me mudar) e {{Ya no vivo aquí}} (antes morava, agora não). *Aún* tem o mesmo sentido que *todavía* e, com esse sentido, leva acento; sem acento, *aun* quer dizer “até” ou “mesmo”.
 
-**Fue: ser ou ir?** As formas *fui, fuiste, fue, fuimos, fuisteis, fueron* servem aos dois verbos. Quem decide é a frase: depois de *a* + lugar, é *ir*; depois de adjetivo ou profissão, é *ser*.
+**Fue: ser ou ir?** As formas *fui, fuiste, fue, fuimos, fuisteis, fueron* servem aos dois verbos. Quem decide é a frase: seguido de *a* + lugar, é *ir*; seguido de adjetivo ou profissão, é *ser*.
 
 | Frase | Verbo | Português |
 |---|---|---|
@@ -410,7 +410,7 @@ Reconheço *fue* de *ser* e de *ir* pelo contexto.
 ::::: gabarito
 **Degrau 1.** 1 fui (*ayer* = terminado). 2 viví (*hace dos años* = terminado). 3 vi (*la semana pasada*). 4 hemos (auxiliar *haber*, não *tener*). 5 hecho. 6 fue (*ser*). 7 busqué (*qu* mantém o som do *c*). 8 se acostó (acento na terceira pessoa).
 
-**Degrau 2.** 1 comí. 2 llegaste. 3 salió. 4 fueron. 5 hice. 6 tuvimos. 7 he visto. 8 han estado. 9 ha escrito (na América, muita gente diz *todavía no escribió*). 10 pidió (*e → i* na terceira pessoa).
+**Degrau 2.** 1 comí. 2 llegaste. 3 salió. 4 fueron. 5 hice. 6 tuvimos. 7 he visto (na América também *ya vi*). 8 han estado (na América também *nunca estuvieron*). 9 ha escrito (na América, muita gente diz *todavía no escribió*). 10 pidió (*e → i* na terceira pessoa).
 
 **Degrau 3.** Respostas pessoais. Confira: indefinido com marcador terminado; *he/has/ha + particípio* com *nunca, alguna vez, ya, todavía no*; particípios irregulares (*hecho, visto, escrito*); nada entre *haber* e o particípio; em frases com *hoy / esta semana*, ambas as escolhas valem, desde que coerentes com a região que você citou.
 

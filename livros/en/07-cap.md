@@ -99,15 +99,15 @@ Se você viu que o verbo depois de um modal é sempre o verbo simples, sem nada,
 | permissão | {{You can use my phone.}} | você pode usar meu celular |
 | possibilidade, pedido | {{Can you help me?}} | você pode me ajudar? |
 
-A forma é igual para todas as pessoas. Na fala, *can* soa fraco (*kən*) e *can't* soa forte e com a vogal longa, o que ajuda a diferenciar. Na escrita, a forma completa da negativa é *cannot*, uma palavra só (formal) ou *can not* (raro); na vida real, é sempre *can't*. As respostas curtas usam o modal: {{Can you swim? Yes, I can. / No, I can't.}}
+A forma é igual para todas as pessoas. Na fala, *can* soa fraco (`kən`) e *can't* soa forte, com a vogal plena (`kænt`; o t final quase não se ouve), o que ajuda a diferenciar. Na escrita, a forma completa da negativa é *cannot*, uma palavra só (mais formal) ou *can not* (raro); na fala e na escrita informal, use *can't*. As respostas curtas usam o modal: {{Can you swim? Yes, I can. / No, I can't.}}
 
-Para pedir uma língua ou um ofício, *can* + verbo: {{Can you drive?}} {{I can't cook.}}
+Para falar de uma habilidade (um idioma, um ofício), *can* + verbo: {{Can you drive?}} {{I can't cook.}}
 
 ### Could para pedir
 
 *Could* aqui **não** é passado: é um pedido mais polido que *can*. {{Could you open the window, please?}} {{Could I have the bill, please?}} A resposta típica a um pedido é *Sure*, *Of course* ou *Sorry, I can't*. O passado de *can* (*could* = "conseguia") vem junto com o passado simples, no capítulo 8; por enquanto, guarde *could* só como pedido educado.
 
-Para pedir a algum desconhecido, na dúvida, *Could you ...?* está sempre seguro. Entre amigos, *Can you ...?* é perfeito.
+Para pedir algo a um desconhecido, na dúvida, *Could you ...?* está sempre seguro. Entre amigos, *Can you ...?* é perfeito.
 
 ### Must, have to e don't have to
 
@@ -137,7 +137,7 @@ Aqui está a **armadilha central do capítulo**:
 
 *Must* (afirmativa) é obrigatório. *Mustn't* **não** é "não é obrigatório": é "é proibido". Para "não é preciso", use *don't have to*. Os dois sentidos em português se confundem ("você não precisa" é diferente de "você não pode"), e o brasileiro que escreve ~~You mustn't pay~~ está dizendo "é proibido pagar".
 
-*Must* não tem passado nem infinitivo. Quando precisar dessas formas, use *have to*. O passado dele é *had to*, que você vê no capítulo 8.
+*Must* não tem passado nem infinitivo. Quando precisar dessas formas, use *have to*. O passado dele é *had to* ({{I had to work yesterday.}}).
 
 ::: atencao
 Na pergunta, a gente quase não usa *must*: ~~Must I go?~~ é raro e formal. Diga {{Do I have to go?}} Para "tenho que ir?", essa é a forma natural.
@@ -201,7 +201,7 @@ Não confunda **Do you like coffee?** (você gosta de café, em geral) com **Wou
 | Inglês | Português |
 |---|---|
 | Can I help you? | Posso ajudar? |
-| Could I have the bill, please? | Posso ter a conta, por favor? |
+| Could I have the bill, please? | Pode trazer a conta, por favor? |
 | I'd like a table for two. | Eu queria uma mesa para dois. |
 | You can't park here. | Você não pode estacionar aqui. |
 | You don't have to pay. | Você não precisa pagar. |

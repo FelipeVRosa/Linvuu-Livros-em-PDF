@@ -24,7 +24,7 @@ Camila e Diego escolhem onde ficar em Cartagena.
 
 Em português: O albergue do centro custa quarenta dólares por noite, e o da praia só trinta. / O da praia é mais barato, mas fica mais longe. E as avaliações do centro são melhores. / Embora seja mais caro, prefiro o do centro: tem café da manhã e wi-fi. / O da praia não tem café da manhã, mas uma cozinha para os hóspedes. / Então, para mim, o do centro. Pagamos por três noites? / Sim, reservo pela internet agora, porque restam poucas camas. / Obrigado por procurar. Você é tão rápida quanto um buscador.
 
-Quatro blocos aparecem juntos: *más barato… que*, *mejores*, *tan rápida como* (comparação); *por noche, por tres noches, por internet, gracias por*, *para mí* (por e para); *porque, aunque, pero, sino* (conectores).
+Quatro blocos aparecem juntos: *más barato*, *más lejos*, *mejores*, *tan rápida como* (comparação); *por noche, por tres noches, por internet, gracias por*, *para mí* (por e para); *porque, aunque, pero, sino* (conectores).
 
 ## 2. A armadilha do português
 
@@ -41,7 +41,7 @@ Esse capítulo junta três pontos em que o português dá uma ajuda enganosa.
 | melhor | **mejor** (nunca *~~más bueno~~*) |
 | pior | **peor** (nunca *~~más malo~~*) |
 
-**2. Melhor e pior.** Ninguém diz “mais bom” em português: diz “melhor”. O espanhol é igual na ideia, mas o aluno que pensa por partes monta *~~más bueno~~* (“mais” + “bom”). Para qualidade, a forma é *Este café es mejor que el otro.*
+**2. Melhor e pior.** Ninguém diz “mais bom” em português: diz “melhor”. O espanhol é igual na ideia, mas o aluno que pensa por partes monta *~~más bueno~~* (“mais” + “bom”). Para qualidade, a forma é *Este café es mejor que el otro.* (*Más bueno* e *más malo* só se usam para a bondade ou a maldade de uma pessoa, como em *es más bueno que el pan*; fora disso, *mejor* e *peor*.)
 
 **3. Por e para: o português usa as mesmas palavras, mas escolhe diferente.** Em português, “por” e “para/pra” também existem. Mas o espanhol marca algumas coisas com *por* onde o português usaria outra palavra, e vice-versa. Exemplos: “de manhã” é *por la mañana*; “pelo telefone” é *por teléfono*; “obrigado pela ajuda” é *gracias por la ayuda*; “para o domingo” é *para el domingo*. Quem escolhe pelo ouvido erra.
 
@@ -80,7 +80,7 @@ Se você viu que *más… que* compara, *tan/tanto… como* iguala, *para* apont
    - *tanto/a/os/as + substantivo + como:* *tantos amigos como tú.*
    - *verbo + tanto como:* *Trabaja tanto como yo.*
 
-3. **Formas próprias:** *bueno → mejor; malo → peor; grande → mayor* (idade) ou *más grande* (tamanho); *pequeño → menor* (idade) ou *más pequeño*. **Nunca** *~~más bueno~~* nem *~~más malo~~*.
+3. **Formas próprias:** *bueno → mejor; malo → peor; grande → mayor* (idade) ou *más grande* (tamanho); *pequeño → menor* (idade) ou *más pequeño*. Para qualidade, **nunca** *~~más bueno~~* nem *~~más malo~~*.
 
 4. **Números:** *más de / menos de* + número. *Hay más de veinte personas.*
 
@@ -279,7 +279,7 @@ O erro que mais denuncia o brasileiro é **traduzir a comparação palavra por p
 
 ## 9. Retorno
 
-**Do capítulo 13.** Troque o objeto por pronome e dê a ordem: *Compra el billete. No hagas ruido. Dime la verdad.* → Cómpralo. No lo hagas. Dímela.
+**Do capítulo 13.** Troque o objeto por pronome e dê a ordem: *Compra el billete. No hagas ruido. Dime la verdad.*
 
 **Do capítulo 12.** Coloque no futuro: *Voy a tener más tiempo. Hace más calor.* Depois faça uma suposição: *¿Dónde está Pablo?*
 
@@ -363,7 +363,7 @@ Leia cada afirmação e responda com sinceridade. Para cada “ainda não”, vo
 
 | N. | Já consigo… | Onde rever |
 |----|-------------|------------|
-| 1 | Pronunciar *j, g, ll, ñ, rr* e acentuar corretamente palavras com til. | Capítulo 1 |
+| 1 | Pronunciar *j, g, ll, ñ, rr* e pôr o acento escrito (a *tilde*) onde ele é necessário. | Capítulo 1 |
 | 2 | Escolher entre *ser* e *estar* nos usos centrais, e usar o artigo certo. | Capítulo 2 |
 | 3 | Concordar gênero e número, e saber que *la leche* e *el color* não seguem o português. | Capítulo 3 |
 | 4 | Conjugar os verbos regulares e os irregulares comuns no presente (*pienso, puedo, voy, hago*). | Capítulo 4 |

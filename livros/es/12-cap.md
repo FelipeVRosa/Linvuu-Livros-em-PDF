@@ -32,7 +32,7 @@ Repare que a cena usa **três** maneiras de falar do futuro: *voy a ir* (plano),
 
 Aqui o português ajuda mais do que atrapalha, com um tropeço pequeno e dois cuidados maiores.
 
-**A boa notícia.** “Vou fazer” e *voy a hacer* têm a mesma estrutura: verbo *ir* + preposição + infinitivo. O português falado usa muito essa forma, e o espanhol falado também.
+**A boa notícia.** “Vou fazer” e *voy a hacer* têm quase a mesma estrutura: verbo *ir* + infinitivo. O português falado usa muito essa forma, e o espanhol falado também.
 
 **O tropeço pequeno.** O português não tem a preposição. O espanhol exige o **a**: *voy a hacer*, nunca *~~voy hacer~~*. Quem esquece o *a* escreve português.
 

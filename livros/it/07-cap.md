@@ -163,7 +163,7 @@ Com *mamma* e *papà* o artigo é o uso normal na escrita (*la mia mamma, il mio
 
 **Possessivo no predicado e como pronome.** Depois de *essere*, é comum dispensar o artigo: *{{Questa borsa è mia.}}* *{{Quei libri sono tuoi.}}* Como pronome, leva artigo: *{{Il mio è rosso, il tuo è blu.}}*
 
-**Um + possessivo: "um amigo meu".** Em italiano o possessivo vem entre o artigo e o substantivo: *{{un mio amico}}, {{una mia collega}}, {{due miei amici}}.* Não existe *~~un amico mio~~* neste uso (só como vocativo: *amico mio!*).
+**Um + possessivo: "um amigo meu".** Em italiano o possessivo vem entre o artigo e o substantivo: *{{un mio amico}}, {{una mia collega}}, {{due miei amici}}.* Também se diz *{{un amico mio}}*, com o possessivo depois e um pouco mais de ênfase; *{{un mio amico}}* é a forma mais neutra.
 
 **A casa mia.** Com *casa* e algumas expressões fixas, o possessivo vem depois e sem artigo: *{{a casa mia}}, {{a casa tua}}, {{a casa sua}}.* *{{Vieni a casa mia?}}* ("Você vem à minha casa?")
 
@@ -256,7 +256,7 @@ O erro mais frequente é **tirar o artigo do possessivo** (*~~mio libro~~*), por
 | ~~Quel zaino~~          | Quello zaino         | *z* e *s*+consoante pedem a forma de *lo*        |
 | ~~Un bello albergo~~    | Un bell'albergo      | antes de vogal, *bell'*                          |
 | ~~I miei sorelle~~      | Le mie sorelle       | o possessivo concorda com o possuído             |
-| ~~Un amico mio~~        | Un mio amico         | possessivo entre artigo e substantivo            |
+| ~~Loro padre~~          | Il loro padre        | *loro* sempre leva artigo, mesmo com parente     |
 :::
 
 ## 9. Retorno
@@ -330,7 +330,7 @@ Digo *un mio amico* e *a casa mia* na posição certa.
 ::::: gabarito
 **Degrau 1.** 1 La mia (amiga não é parente; a regra do parente vale só para a família). 2 Mia (*madre*, parente no singular). 3 simpatiche (só feminino). 4 bell' (antes de vogal). 5 Quello (*z* de *zaino*). 6 I miei (plural leva artigo). 7 mia (concorda com *borsa*, feminino; depois de *essere* o artigo costuma cair). 8 un mio.
 
-**Degrau 2.** alta, grandi, stanchi, blu. Un bel libro. Una bell'idea. Dei bei amici. Due begli zaini. Quell'appartamento. Quegli studenti. Quello zaino. Quelle case. Le mie sorelle. Tuo padre. La loro casa.
+**Degrau 2.** alta, grandi, stanchi, blu. Un bel libro. Una bell'idea (ou *bella idea*; a elisão é facultativa). Dei begli amici (*begli* antes de vogal). Due begli zaini. Quell'appartamento. Quegli studenti. Quello zaino. Quelle case. Le mie sorelle. Tuo padre. La loro casa.
 
 **Degrau 3.** Respostas pessoais. Confira o artigo do possessivo, a concordância dos adjetivos e *quel/quello/quell'/quei/quegli* conforme o substantivo.
 

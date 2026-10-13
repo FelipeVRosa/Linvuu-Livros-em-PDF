@@ -30,7 +30,7 @@ Bruno chega a Bolonha sem reserva e fala com Giulia, na recepção.
 
 Em português: Boa noite! O senhor tem reserva? / Não, não tenho reserva. Tem algum quarto livre? / Sim, tem um quarto duplo. Quantas noites? / Duas. Onde se toma café da manhã? / Lá embaixo, no bar. Mas agora não tem nada para comer: o bar está fechado. / Não faz mal. O wi-fi funciona? / Sim, funciona. Não tem nenhum problema. O senhor viaja sozinho? / Sim, viajo sozinho. Não conheço ninguém aqui. / Então hoje à noite tem um jantar em grupo. Por que o senhor não vem? / Por que não? Obrigado!
 
-Repare: a negação é sempre **{{non}}** antes do verbo (*non ho, non c'è, non conosco*). Quando a frase tem "nada" ou "ninguém", o italiano diz {{non}} **e** {{niente}} ou {{nessuno}}: *non c'è niente, non conosco nessuno*. E há duas perguntas com *perché*: uma pergunta ("por que não vem?") e uma resposta possível ("porque…").
+Repare: a negação é sempre **{{non}}** antes do verbo (*non ho, non c'è, non conosco*). Quando a frase tem "nada" ou "ninguém", o italiano diz {{non}} **e** {{niente}} ou {{nessuno}}: *non c'è niente, non conosco nessuno*. E *perché* aparece duas vezes, nas duas como "por que" (*Perché non viene?*, *Perché no?*); numa resposta, a mesma palavra quer dizer "porque".
 
 ## 2. A armadilha do português
 
@@ -110,7 +110,7 @@ Se você viu que *non* fica colado ao verbo, que a palavra negativa depois do ve
 
 **A ordem na pergunta com interrogativo.** O verbo vem logo depois do interrogativo e o sujeito, se aparece, vem depois do verbo: *{{Dove abita Marco?}} {{Che cosa fa Giulia?}} {{Quando parte il treno?}}* Dizer *~~Dove Marco abita?~~* soa estranho em italiano padrão. Quando o sujeito é um pronome, normalmente ele some, como você viu no capítulo 2: *{{Dove abiti?}}*, e não *Dove tu abiti?*, que só aparece se você quiser contrastar com outra pessoa.
 
-**Che cosa, cosa, che.** Os três significam "o quê" e são intercambiáveis na conversa: *Che cosa vuoi? Cosa vuoi? Che vuoi?* A forma mais completa é *che cosa*; a mais curta, *cosa*, é a mais comum na fala. Antes de substantivo, só *che* funciona: *{{Che lavoro fai?}} {{Che musica ascolti?}}* ("Que trabalho você faz?", "Que música você escuta?").
+**Che cosa, cosa, che.** Os três significam "o quê" e são intercambiáveis na conversa: *Che cosa vuoi? Cosa vuoi? Che vuoi?* A forma mais completa é *che cosa*; a mais curta, *cosa*, é a mais comum na fala. Antes de substantivo, das três só *che* funciona: *{{Che lavoro fai?}} {{Che musica ascolti?}}* ("Que trabalho você faz?", "Que música você escuta?").
 
 **Quanto concorda.** *Quanto* concorda com o substantivo que vem depois, como um adjetivo: *{{quanto tempo}}, {{quanta pazienza}}, {{quanti anni}}, {{quante lingue}}*. Quando não há substantivo, fica *quanto*: *{{Quanto costa?}}* ("Quanto custa?").
 
@@ -144,7 +144,7 @@ Se você viu que *non* fica colado ao verbo, que a palavra negativa depois do ve
 **Respostas curtas.** Em italiano, *niente*, *nessuno* e *mai* podem ser uma resposta inteira, sem *non*: *{{Cosa fai? — Niente.}} {{Chi c'è? — Nessuno.}} {{Vai al mare? — Mai.}}*
 
 ::: atencao
-*Perché* tem acento agudo (*é* fechado, parecido com o "é" de "você"), sempre no final: *perché*, e não *~~perche~~* ou *~~perchè~~*. O mesmo vale para *affinché* e *poiché*, que você verá mais tarde. A pergunta e a resposta são a mesma palavra, então o contexto diz qual é qual.
+*Perché* tem acento agudo (*é* fechado, parecido com o "ê" de "você"), sempre no final: *perché*, e não *~~perche~~* ou *~~perchè~~*. O mesmo vale para *affinché* e *poiché*, que você verá mais tarde. A pergunta e a resposta são a mesma palavra, então o contexto diz qual é qual.
 :::
 
 ## 6. Frases de ouro
@@ -318,7 +318,7 @@ Peço para repetir com *Scusi, come?* e respondo *Perché no?* sem travar.
 ::::: gabarito
 **Degrau 1.** 1 non (*no* é só resposta). 2 nessuno (o contexto fala de pessoas). 3 mai. 4 Quante (*lingue* é feminino plural). 5 Qual (*Qual è*; *Che è* não existe). 6 chi (*Con chi*, pessoa). 7 non (*No, non ho fame*; o *no* inicial é a resposta, o *non* nega o verbo). 8 (a): com *nessuno* antes do verbo, não há *non*.
 
-**Degrau 2.** 1 Dove. 2 Quanti (*anni* é masculino plural). 3 Che cosa (também valem *Cosa* e *Che*). 4 Perché. 5 Quando. 6 chi. 7 Qual (*Qual è*, sem apóstrofo). 8 niente. 9 Nessuno (negativa antes do verbo, sem *non*). 10 mai.
+**Degrau 2.** 1 Dove. 2 Quanti (*anni* é masculino plural). 3 Che cosa (também valem *Cosa* e *Che*). 4 Perché. 5 Quando. 6 chi. 7 Qual (*Qual è*, sem apóstrofo). 8 niente (ou *nulla*). 9 Nessuno (negativa antes do verbo, sem *non*). 10 mai (também é possível *più*: *Non fumo più*, "não fumo mais").
 
 **Degrau 3.** Respostas pessoais. Confira: interrogativo no início, verbo logo depois; *non* antes do verbo; *mai* depois do verbo, com *non* antes. Modelo de resposta negativa: *No, non ho fame. No, non parlo tedesco. Non c'è nessuno.*
 
