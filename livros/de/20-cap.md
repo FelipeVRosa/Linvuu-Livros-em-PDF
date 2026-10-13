@@ -26,9 +26,7 @@ Camila, Lena, Jonas e Tom combinam o fim de semana.
 **Tom:** Ja! Ich freue mich sehr darauf.
 :::
 
-Em português: Oi, Camila! Você está animada para o fim de semana? / Muito! Eu me interesso pela exposição no museu. Você também está esperando o Tom? / Sim, a gente se encontra às dez na estação. Você vem também, né? / Claro. Mas preciso me apressar. Só vou me vestir rápido. / Você está lembrando da sua jaqueta? Está frio! / Obrigada, Jonas!
-
-Estou lembrando. / Oi! Desculpem, eu me atrasei. Sobre o que vocês estão falando? / Estamos falando do fim de semana. Você também está animado? / Sim! Estou muito animado.
+Em português: Oi, Camila! Você está animada para o fim de semana? / Muito! Eu me interesso pela exposição no museu. Você também está esperando o Tom? / Sim, a gente se encontra às dez na estação. Você vem também, né? / Claro. Mas preciso me apressar. Só vou me vestir rápido. / Você está lembrando da sua jaqueta? Está frio! / Obrigada, Jonas! Estou lembrando. / Oi! Desculpem, eu me atrasei. Sobre o que vocês estão falando? / Estamos falando do fim de semana. Você também está animado? / Sim! Estou muito animado.
 
 Repare: o pronome (*dich, mich, uns*) vem logo depois do verbo, e cada verbo tem a sua preposição (*freuen auf, interessieren für, warten auf, denken an, sprechen über*).
 
@@ -144,11 +142,11 @@ Se você notou que o pronome acompanha o sujeito, que ele fica antes do infiniti
 
 **Freuen auf ou freuen über.** *Ich freue mich auf das Wochenende* (ainda vai chegar). *Ich freue mich über das Geschenk* (já recebi).
 
-**Reflexivo ou não.** Muitos verbos existem nos dois modos, com sentidos diferentes. *Ich wasche das Auto* (outra coisa). *Ich wasche mich* (a mim mesmo). *Ich ziehe das Kind an* (vesti outra pessoa). *Ich ziehe mich an* (me vesti).
+**Reflexivo ou não.** Muitos verbos existem nos dois modos, com sentidos diferentes. *Ich wasche das Auto* (outra coisa). *Ich wasche mich* (a mim mesmo). *Ich ziehe das Kind an* (visto outra pessoa). *Ich ziehe mich an* (me visto).
 
 **“Sich” também para *Sie*.** *Setzen Sie sich!* O *sich* serve para *er, sie, es, sie* e *Sie*.
 
-**Subordinadas.** No capítulo 24, o pronome reflexivo continua logo depois do conector: *weil ich mich freue.*
+**Subordinadas.** No capítulo 24, o pronome reflexivo continua logo depois do sujeito: *weil ich mich freue.*
 
 ## 6. Frases de ouro
 
@@ -279,9 +277,6 @@ Faço uma pergunta com *Worauf, Woran, Worüber*.
 | sich fühlen             | sentir-se                 |
 | sich beeilen            | apressar-se               |
 | sich ausruhen           | descansar                 |
-
-| Alemão                       | Português          |
-|------------------------------|--------------------|
 | sich entschuldigen           | desculpar-se       |
 | sich anziehen (zieht an)     | vestir-se          |
 | sich waschen (wäscht)        | lavar-se           |
@@ -337,5 +332,5 @@ Faço uma pergunta com *Worauf, Woran, Worüber*.
 
 7.  Setz dich!
 
-**Retorno.** Capítulo 19: hatte. Capítulo 18: ist … gegangen. Capítulo 17: ruft … an. Capítulo 16: liest. Capítulo 15: müssen.
+**Retorno.** Capítulo 19: hatte. Capítulo 18: ist … gegangen (ou *sind … gegangen*, se for *sie* plural). Capítulo 17: ruft … an. Capítulo 16: liest (ou *lesen*, se for *sie* plural ou *Sie*). Capítulo 15: müssen.
 :::::

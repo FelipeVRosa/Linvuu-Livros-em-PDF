@@ -20,7 +20,7 @@ Os amigos se reúnem no aniversário de Camila.
 
 Em português: Feliz aniversário, Camila! Estou te dando este livro. / Que gentileza! Você mesmo escolheu? / Sim, comprei semana passada em Berlim. Minha irmã me recomendou. / E eu te dou amanhã o meu presente. Ainda não embrulhei. / Vocês são muito queridos. Hoje à noite eu mostro para minha mãe na chamada de vídeo.
 
-Repare: em *schenke dir dieses Buch*, a pessoa (*dir*) vem antes da coisa. Em *habe es mir empfohlen*, os dois são pronomes e o *es* vem antes do *mir*. Em *zeige ich es meiner Mutter*, o pronome *es* vem antes do substantivo *meiner Mutter*. E em *habe es letzte Woche in Berlin gekauft*, o tempo vem antes do lugar.
+Repare: em *schenke dir dieses Buch*, a pessoa (*dir*) vem antes da coisa. Em *hat es mir empfohlen*, os dois são pronomes e o *es* vem antes do *mir*. Em *zeige ich es meiner Mutter*, o pronome *es* vem antes do substantivo *meiner Mutter*. E em *habe es letzte Woche in Berlin gekauft*, o tempo vem antes do lugar.
 
 ## 2. A armadilha do português
 
@@ -336,7 +336,7 @@ Coloco o *nicht* num lugar que soa certo.
 ::::: gabarito
 **Degrau 1.** 1 (a) (a pessoa antes da coisa). 2 (a) (pronome antes do substantivo). 3 (a) (acusativo antes do dativo). 4 (a) (tempo, modo, lugar). 5 (a). 6 (a). 7 deshalb (*weil* mandaria o verbo para o fim).
 
-**Degrau 2.** 1 Ich gebe dem Mann das Buch. 2 Ich habe es ihm gestern gegeben. 3 Wir sind am Samstag mit dem Auto nach Wien gefahren. 4 Ich gebe es ihm. 5 Ich zeige es meiner Mutter. 6 Ich schenke ihr ein Buch. 7 Ich habe das Buch nicht gelesen. 8 Ich kann heute nicht kommen. 9 Er arbeitet nicht in Wien. 10 Ich kenne ihn nicht. 11 trotzdem. 12 deshalb.
+**Degrau 2.** 1 Ich gebe dem Mann das Buch. 2 Ich habe es ihm gestern gegeben. 3 Wir sind am Samstag mit dem Auto nach Wien gefahren. 4 Ich gebe es ihm (ou, trocando só um: Ich gebe es dem Kind / Ich gebe ihm das Buch). 5 Ich zeige es meiner Mutter (ou, trocando os dois: Ich zeige es ihr). 6 Ich schenke ihr ein Buch (ou, trocando os dois: Ich schenke es ihr). 7 Ich habe das Buch nicht gelesen. 8 Ich kann heute nicht kommen. 9 Er arbeitet nicht in Wien. 10 Ich kenne ihn nicht. 11 trotzdem. 12 deshalb.
 
 **Degrau 3.** Respostas pessoais. Confira: pronome antes de substantivo; acusativo e depois dativo entre pronomes; tempo, modo, lugar; *nicht* antes do particípio, do adjetivo, do lugar; verbo logo depois de *deshalb* e *trotzdem*.
 

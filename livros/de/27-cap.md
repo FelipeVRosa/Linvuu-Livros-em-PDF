@@ -11,7 +11,7 @@ Camila, Jonas e Lena esperam o trem na plataforma. Ele está atrasado.
 
 **Jonas:** Wir warten halt. Das ist die Bahn, das weißt du ja.
 
-**Lena:** Komm, wir trinken doch einen Kaffee. Da vorne ist ein Café.
+**Lena:** Komm, trinken wir doch einen Kaffee. Da vorne ist ein Café.
 
 **Camila:** Das Café sieht aber teuer aus.
 
@@ -32,7 +32,7 @@ Três armadilhas.
 
 2.  **O aluno apaga as partículas.** Para quem aprende pela gramática, elas parecem “palavras que sobram”. Mas um falante nativo as usa o tempo todo, e a fala sem elas soa fria e brusca. *Komm her!* é uma ordem seca. *Komm mal her!* é um pedido natural.
 
-3.  **O aluno põe partículas no lugar errado.** Elas ficam no meio da frase, depois do verbo e dos pronomes, antes da informação principal. Não abrem a frase, não ficam no fim e não são acentuadas. *Du weißt **ja**, ich bin müde.*
+3.  **O aluno põe partículas no lugar errado.** Elas ficam no meio da frase, depois do verbo e dos pronomes, antes da informação principal. Não abrem a frase, não vêm depois do bloco do fim (infinitivo, particípio, prefixo) e não são acentuadas. *Du weißt **ja**, ich bin müde.* Só ficam no fim quando não há mais nada depois do verbo: *Warte **mal**! Wie heißt du **denn**?*
 
 | Português aproximado                  | Alemão                               | Efeito                    |
 |---------------------------------------|--------------------------------------|---------------------------|
@@ -78,7 +78,7 @@ Se você notou que a gramática não muda, que a partícula fica depois do verbo
 ::::: dica
 1.  **Partículas modais** são palavrinhas que colocam um tom na frase. A gramática continua igual.
 
-2.  **Onde ficam:** no meio da frase, depois do verbo e dos pronomes. Não abrem a frase e não ficam no fim.
+2.  **Onde ficam:** no meio da frase, depois do verbo e dos pronomes. Não abrem a frase e não vêm depois do infinitivo, do particípio ou do prefixo (*Warte mal!* e *Wie heißt du denn?* terminam na partícula porque não há mais nada depois).
 
 3.  **Oito para começar:**
 
@@ -212,7 +212,7 @@ Escreva um mini-diálogo de seis falas em que alguém espera algo (um ônibus, u
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **traduzir cada partícula por uma palavra do português** e escolher a errada: *denn* como “pois” em pergunta, *aber* como “mas”. O segundo é **pôr a partícula no lugar errado**, no começo ou no fim da frase. O terceiro é **não usar nenhuma**, e soar brusco: *Komm her! Warte! Wie heißt du?*
+O erro que mais custa caro é **traduzir cada partícula por uma palavra do português** e escolher a errada: *denn* como “pois” em pergunta, *aber* como “mas”. O segundo é **pôr a partícula no lugar errado**, no começo da frase ou depois do infinitivo. O terceiro é **não usar nenhuma**, e soar brusco: *Komm her! Warte! Wie heißt du?*
 
 ::: erros
 | Errado                          | Certo                           | Por quê                                               |
@@ -225,7 +225,7 @@ O erro que mais custa caro é **traduzir cada partícula por uma palavra do port
 :::
 
 ::: atencao
-partícula não abre a frase, não fica no fim e não leva acento. Se não tiver certeza, deixe de fora.
+partícula não abre a frase, não vem depois do infinitivo, do particípio ou do prefixo e não leva acento. Se não tiver certeza, deixe de fora.
 :::
 
 ## 9. Retorno
@@ -252,7 +252,7 @@ partícula não abre a frase, não fica no fim e não leva acento. Se não tiver
 ::::: resumo
 Partículas modais dão o tom da frase e não mudam a gramática.
 
-Elas ficam no meio, depois do verbo e dos pronomes, sem acento. Não abrem a frase e não ficam no fim.
+Elas ficam no meio, depois do verbo e dos pronomes, sem acento. Não abrem a frase e não vêm depois do infinitivo, do particípio ou do prefixo.
 
 *Mal* suaviza ordens e pedidos. *Doch* convida e lembra. *Ja* lembra o que se sabe. *Eben/halt* resignam. *Denn* mostra curiosidade em pergunta. *Aber* exclama surpresa. *Schon* tranquiliza.
 

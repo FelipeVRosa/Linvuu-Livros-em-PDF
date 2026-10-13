@@ -114,7 +114,7 @@ Agora a frase *Wo ist der Mann, der den Rucksack gebracht hat?* O homem (*der Ma
 
 **Was depois de alles, etwas, nichts.** Se a palavra anterior não é um substantivo com gênero, mas *alles, etwas, nichts, vieles* ou um superlativo como *das Beste*, use *was*: *Alles, was ich habe, ist hier. Das ist das Beste, was ich kenne.* Note que *Das ist alles, **das** ich weiß* está errado.
 
-**Com preposição (só para reconhecer).** Com preposição, o pronome muda de caso e a preposição vem na frente. A forma é a do dativo do capítulo 9 e a preposição segue o capítulo 10: *der Mann, mit **dem** ich arbeite; die Frau, mit **der** ich arbeite; das Kind, mit **dem** ich spiele; die Leute, mit **denen** ich arbeite*. Neste capítulo, leia essas formas como blocos. Para falar de “cujo” (*dessen, deren*), o assunto fica para depois.
+**Com preposição (só para reconhecer).** Com preposição, o pronome muda de caso e a preposição vem na frente. O caso é o que a preposição pede (capítulo 10); com preposição de dativo, a forma é a do artigo no dativo (capítulo 9), menos no plural, que vira *denen*: *der Mann, mit **dem** ich arbeite; die Frau, mit **der** ich arbeite; das Kind, mit **dem** ich spiele; die Leute, mit **denen** ich arbeite*. Neste capítulo, leia essas formas como blocos. Para falar de “cujo” (*dessen, deren*), o assunto fica para depois.
 
 | Caso     | masculino | feminino | neutro | plural |
 |----------|-----------|----------|--------|--------|
@@ -263,7 +263,7 @@ A oração relativa é subordinada: verbo conjugado no fim. A vírgula é obriga
 
 Depois de *alles, etwas, nichts* e superlativos: *was*.
 
-Com preposição, o pronome fica no dativo (*mit dem, mit der, mit denen*), a ser lido como bloco.
+Com preposição de dativo, o pronome fica no dativo (*mit dem, mit der, mit denen*), a ser lido como bloco.
 
 **Já consigo?**
 
@@ -321,7 +321,7 @@ Ponho as vírgulas e o verbo no fim.
 
 3.  Das ist das Buch, das ich lesen muss.
 
-4.  Ich suche einen Rucksack, der schwarz ist. (o rucksack é o sujeito de *ist*)
+4.  Ich suche einen Rucksack, der schwarz ist. (*Rucksack* é o sujeito de *ist*)
 
 5.  Está certa.
 

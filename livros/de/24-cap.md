@@ -100,7 +100,7 @@ Se você notou que o verbo conjugado vai para o fim, que a vírgula separa as du
 
 **Verbo no fim, sem exceção.** Só o verbo **conjugado** vai para o fim. O resto da frase não muda de lugar: *Ich bleibe zu Hause, weil ich heute nicht arbeiten kann.* Quando há dois verbos juntos, o conjugado vem por último: *weil ich arbeiten **muss**, weil er das Buch gelesen **hat**, dass wir morgen fahren **werden**.* Lembra da moldura do capítulo 15? Aqui ela se fecha com o verbo conjugado, não com o infinitivo.
 
-**Os outros capítulos voltam aqui.** O verbo separável (capítulo 17) cola o prefixo de novo: *Ich stehe früh auf*, mas *weil ich früh **aufstehe***. O Perfekt (capítulo 18) manda o auxiliar para o fim: *weil ich gegessen **habe***. O pretérito (capítulo 19) fica no fim: *weil ich müde **war***. O reflexivo (capítulo 20) fica logo depois do conector: *weil ich **mich** freue*. E o *werden* do futuro (capítulo 21) também: *dass ich bleiben **werde***, mas isso soa raro na fala; o presente com uma palavra de tempo resolve (*dass ich morgen bleibe*).
+**Os outros capítulos voltam aqui.** O verbo separável (capítulo 17) cola o prefixo de novo: *Ich stehe früh auf*, mas *weil ich früh **aufstehe***. O Perfekt (capítulo 18) manda o auxiliar para o fim: *weil ich gegessen **habe***. O pretérito (capítulo 19) fica no fim: *weil ich müde **war***. O reflexivo (capítulo 20) fica logo depois do sujeito: *weil ich **mich** freue*. E o *werden* do futuro (capítulo 21) também: *dass ich bleiben **werde***, mas isso soa raro na fala; o presente com uma palavra de tempo resolve (*dass ich morgen bleibe*).
 
 **Weil responde a warum.** Lembra do capítulo 4? *Warum kommst du nicht? – **Weil** ich krank bin.* Na fala, a resposta curta, só com *weil*, é comum. Já *denn* (capítulo 23) mantém a ordem normal: *Ich komme nicht, denn ich bin krank.* As duas frases dizem a mesma coisa, mas o verbo muda de lugar.
 
@@ -123,7 +123,7 @@ Quando o fato é um estado do passado, *als* continua valendo: *Als ich klein wa
 | Wo wohnt Tom?       | Ich weiß nicht,   | Ich weiß nicht, wo Tom wohnt.               |
 | Wann fährt der Zug? | Kannst du mir sagen, | Kannst du mir sagen, wann der Zug fährt? |
 | Hat er Zeit?        | Ich frage ihn,    | Ich frage ihn, ob er Zeit hat.              |
-| Kommst du mit?      | Weißt du,         | Weißt du, ob Tom mitkommt?                  |
+| Kommt Tom mit?      | Weißt du,         | Weißt du, ob Tom mitkommt?                  |
 
 Repare que a pergunta indireta só tem ponto de interrogação quando a frase principal é uma pergunta (*Weißt du, …?*, *Kannst du mir sagen, …?*). Com *Ich weiß nicht, …*, termina em ponto.
 

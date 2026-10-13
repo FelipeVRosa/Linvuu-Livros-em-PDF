@@ -6,11 +6,23 @@
 
 Lena encontra Camila no café e pergunta como foi o dia anterior.
 
-**Lena:** Hallo Camila! Was hast du gestern gemacht? **Camila:** Ich bin früh aufgestanden. Dann habe ich Pedro angerufen. Wir haben lange gesprochen. **Lena:** Und danach?
+::: dialogo
+**Lena:** Hallo Camila! Was hast du gestern gemacht?
 
-**Camila:** Jonas und ich sind in die Stadt gefahren. Wir haben eingekauft. Ich habe ein
+**Camila:** Ich bin früh aufgestanden. Dann habe ich Pedro angerufen. Wir haben lange gesprochen.
 
-Buch gekauft. **Lena:** Seid ihr ins Museum gegangen? **Camila:** Ja! Wir haben viele Bilder gesehen. Aber ich habe meine Tasche vergessen. **Lena:** Oh nein! Hast du sie gefunden? **Camila:** Ja, Jonas hat sie gefunden. Wir sind nach Hause gekommen und haben Pasta gekocht.
+**Lena:** Und danach?
+
+**Camila:** Jonas und ich sind in die Stadt gefahren. Wir haben eingekauft. Ich habe ein Buch gekauft.
+
+**Lena:** Seid ihr ins Museum gegangen?
+
+**Camila:** Ja! Wir haben viele Bilder gesehen. Aber ich habe meine Tasche vergessen.
+
+**Lena:** Oh nein! Hast du sie gefunden?
+
+**Camila:** Ja, Jonas hat sie gefunden. Wir sind nach Hause gekommen und haben Pasta gekocht.
+:::
 
 Em português: Oi, Camila! O que você fez ontem? / Eu acordei cedo. Depois liguei para o Pedro. A gente conversou bastante. / E depois? / O Jonas e eu fomos para o centro. A gente fez compras. Eu comprei um livro. / Vocês foram ao museu? / Fomos! A gente viu muitos quadros. Mas eu esqueci a minha bolsa. / Ai, não! Você achou? / Sim, o Jonas achou. A gente voltou para casa e cozinhou massa.
 
@@ -20,7 +32,7 @@ Repare: o verbo auxiliar (*habe, hast, hat, haben, bin, sind*) está na posiçã
 
 Três armadilhas.
 
-1.  **Uma palavra viram duas.** Em português, “comi, fui, liguei” são uma palavra só. Em alemão, o passado da fala tem sempre duas peças: *haben* ou *sein* e o particípio. *Ich habe gegessen.* *Ich bin gegangen.* O aluno escreve só uma peça: *Ich gegessen*.
+1.  **Uma palavra vira duas.** Em português, “comi, fui, liguei” são uma palavra só. Em alemão, o passado da fala tem sempre duas peças: *haben* ou *sein* e o particípio. *Ich habe gegessen.* *Ich bin gegangen.* O aluno escreve só uma peça: *Ich gegessen*.
 
 2.  **O particípio vai para o fim.** Como nos modais, o auxiliar fica na posição 2 e o particípio no fim. O que vem no meio (*gestern, Pedro, nach Hause*) fica dentro da moldura: *Ich habe gestern Pedro angerufen.*
 
@@ -126,7 +138,7 @@ Se você notou a moldura, o *ge-* no meio dos separáveis, a falta do *ge-* em *
 
 **O mesmo verbo, dois auxiliares.** Alguns verbos mudam de auxiliar quando mudam de sentido. *Ich bin nach Berlin gefahren* (movimento, sem objeto). *Ich habe das Auto gefahren* (tenho um objeto no acusativo). *Ich habe geschlafen* (dormi), mas *Ich bin eingeschlafen* (adormeci: mudança de estado).
 
-Palavras de tempo. Palavras de tempo ficam dentro da moldura: *Ich habe heute Morgen Pedro angerufen.* *Gestern bin ich ins Museum gegangen.* (Com *gestern* na posição 1, o auxiliar vem logo depois, na 2.)
+**Palavras de tempo.** Palavras de tempo ficam dentro da moldura: *Ich habe heute Morgen Pedro angerufen.* *Gestern bin ich ins Museum gegangen.* (Com *gestern* na posição 1, o auxiliar vem logo depois, na 2.)
 
 **Haben, sein e os modais.** Para *haben*, *sein* e os modais, a fala usa mais o pretérito (capítulo 19): *Ich war müde. Ich hatte Hunger.* Por enquanto, saiba reconhecer. Você lê a explicação no próximo capítulo.
 
@@ -292,7 +304,7 @@ Pergunto a um colega o que ele fez. Escolho *haben* ou *sein* sem pensar.
 ::::: gabarito
 **Degrau 1.** 1 (b). 2 haben. 3 ist. 4 gemacht. 5 besucht. 6 angerufen. 7 gegessen.
 
-**Degrau 2.** gelernt, gearbeitet, gesehen, geschlafen, eingekauft, verstanden, studiert, geblieben. Ich habe Pasta gekocht. Du hast einen Apfel gegessen. Wir sind nach Berlin gefahren. Er ist um sieben Uhr aufgestanden. Sie hat mich angerufen. habe, ist, sind, habt. Was hast du gemacht? Wohin bist du gefahren?
+**Degrau 2.** gelernt, gearbeitet, gesehen, geschlafen, eingekauft, verstanden, studiert, geblieben. Ich habe Pasta gekocht. Du hast einen Apfel gegessen. Wir sind nach Berlin gefahren. Er ist um sieben Uhr aufgestanden. Sie hat mich angerufen. habe, ist (ou *sind*, se for *sie* plural ou *Sie*), sind, habt. Was hast du gemacht? Wohin bist du gefahren?
 
 **Degrau 3.** Respostas pessoais. Confira o auxiliar na posição 2, o particípio no fim e o auxiliar certo.
 

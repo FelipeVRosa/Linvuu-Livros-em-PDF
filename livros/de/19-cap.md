@@ -129,7 +129,7 @@ Se você notou que *ich = er*, que o modal perde o trema e ganha *-te*, que os r
 
 No sul da Alemanha, na Áustria e na Suíça, a fala usa mais o Perfekt, até para histórias. No norte, o pretérito aparece mais.
 
-**O quárteto.** No capítulo 18, você aprendeu o trio (infinitivo, 3ª pessoa, particípio). Agora ele vira um **quárteto**: *gehen — geht — ging — ist gegangen.* *Essen — isst — aß — hat gegessen.* Os dicionários trazem as quatro formas.
+**O quarteto.** No capítulo 18, você aprendeu o trio (infinitivo, 3ª pessoa, particípio). Agora ele vira um **quarteto**: *gehen — geht — ging — ist gegangen.* *Essen — isst — aß — hat gegessen.* Os dicionários trazem as quatro formas.
 
 **Cuidado com *konnte* e *könnte*.** O pretérito do modal não tem trema: *Ich konnte* = eu pude, eu consegui. *Ich könnte* (com trema) é outro tempo, o Konjunktiv II (capítulo 22), que significa “poderia”. Não troque um pelo outro.
 
@@ -247,7 +247,7 @@ Regulares: radical + *-te*. Irregulares: vogal nova, sem *-te*.
 
 *Ich = er*, sem terminação.
 
-Outros verbos: Perfekt na fala; pretérito em histórias e textos. O quárteto: infinitivo, 3ª pessoa, pretérito, particípio.
+Outros verbos: Perfekt na fala; pretérito em histórias e textos. O quarteto: infinitivo, 3ª pessoa, pretérito, particípio.
 
 **Já consigo?**
 
@@ -270,9 +270,6 @@ Escolho entre Perfekt e pretérito conforme a situação.
 | sollen — sollte | dever             |
 | dürfen — durfte | poder (permissão) |
 | mögen — mochte  | gostar de         |
-
-| Alemão               | Português       |
-|----------------------|-----------------|
 | gehen — ging         | ir              |
 | kommen — kam         | vir             |
 | sehen — sah          | ver             |
@@ -313,9 +310,7 @@ Escolho entre Perfekt e pretérito conforme a situação.
 ::::: gabarito
 **Degrau 1.** 1 war. 2 hatten. 3 konnte. 4 musstest. 5 ging. 6 machte. 7 (a).
 
-**Degrau 2.** war, warst, war, waren, wart; hatte, hattest, hatte, hatten, hattet. Ich war müde.
-
-Wir hatten keine Zeit. Er konnte nicht kommen. Ihr musstet lange warten. Sie wollte nach Hause gehen. Du durftest nicht bleiben. kaufte, wohnte, arbeitete, kochte, fragte. Er ging nach Hause. Sie sah einen Film. Wir fuhren nach Berlin. Ich las viel.
+**Degrau 2.** war, warst, war, waren, wart; hatte, hattest, hatte, hatten, hattet. Ich war müde. Wir hatten keine Zeit. Er konnte nicht kommen. Ihr musstet lange warten. Sie wollte nach Hause gehen. Du durftest nicht bleiben. kaufte, wohnte, arbeitete, kochte, fragte. Er ging nach Hause. Sie sah einen Film. Wir fuhren nach Berlin. Ich las viel.
 
 **Degrau 3.** Respostas pessoais. Confira *ich = er*, o *-te* nos regulares e a vogal nova nos irregulares.
 

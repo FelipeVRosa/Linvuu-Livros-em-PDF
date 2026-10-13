@@ -6,11 +6,21 @@
 
 Jonas faz o check-in em Viena. Depois, Camila dá um conselho a Lena.
 
-**Rezeption:** Guten Tag! Was kann ich für Sie tun? **Jonas:** Guten Tag! Ich hätte gern ein
+::: dialogo
+**Rezeption:** Guten Tag! Was kann ich für Sie tun?
 
-Zimmer für zwei Nächte. **Rezeption:** Gern. Hätten Sie lieber ein Zimmer mit
+**Jonas:** Guten Tag! Ich hätte gern ein Zimmer für zwei Nächte.
 
-Frühstück? **Jonas:** Ja, bitte. Wo kann ich parken? **Rezeption:** Dort hinten. Könnten Sie bitte hier unterschreiben? **Jonas:** Gern. Könnten Sie mir auch einen Stadtplan geben? **Rezeption:** Natürlich. Hier, bitte.
+**Rezeption:** Gern. Hätten Sie lieber ein Zimmer mit Frühstück?
+
+**Jonas:** Ja, bitte. Wo kann ich parken?
+
+**Rezeption:** Dort hinten. Könnten Sie bitte hier unterschreiben?
+
+**Jonas:** Gern. Könnten Sie mir auch einen Stadtplan geben?
+
+**Rezeption:** Natürlich. Hier, bitte.
+:::
 
 ::: dialogo
 **Lena:** Ich bin so müde.
@@ -30,9 +40,7 @@ Repare: *hätte gern, hätten Sie, könnten Sie, solltest, würde ich, könnten,
 
 Três armadilhas.
 
-1.  **O “-ria” português vira *würde* + infinitivo.** O português forma o condicional com uma só palavra: “faria, iria, gostaria”. Em alemão, a maioria dos verbos usa *würde* + infinitivo no fim: *Ich würde nach Berlin fahren.* Só *haben, sein* e os modais têm forma própria:
-
-*hätte, wäre, könnte, müsste, sollte.*
+1.  **O “-ria” português vira *würde* + infinitivo.** O português forma o condicional com uma só palavra: “faria, iria, gostaria”. Em alemão, a maioria dos verbos usa *würde* + infinitivo no fim: *Ich würde nach Berlin fahren.* Só *haben, sein* e os modais têm forma própria: *hätte, wäre, könnte, müsste, sollte.*
 
 2.  **O trema separa passado de “poderia”.** *Ich konnte* = eu pude (capítulo 19). *Ich könnte* = eu poderia. Do mesmo modo: *Ich hatte* (tinha) e *ich hätte* (teria); *ich war* (era) e *ich wäre* (seria).
 
@@ -129,7 +137,7 @@ Se você notou o trema, o infinitivo no fim depois de *würde* e o *mit* + dativ
 
 **Hätte e wäre no lugar de *würde*.** *Ich würde haben* e *ich würde sein* soam estranhos. Diga *ich hätte* e *ich wäre*. Com modais, também: *ich könnte*, e não *ich würde können*.
 
-**Sollte e wollte.** Sem trema, *sollte* e *wollte* têm a mesma forma do pretérito. O contexto decide: *Du solltest mehr schlafen* é conselho. *Ich sollte gestern kommen* é passado (pediram-me para vir).
+**Sollte e wollte.** Sem trema, *sollte* e *wollte* têm a mesma forma do pretérito. O contexto decide: *Du solltest mehr schlafen* é conselho. *Ich sollte gestern kommen* é passado (me pediram para vir).
 
 **Möchte já é Konjunktiv II.** *Möchte* vem de *mögen* e é a forma educada de “querer” desde o capítulo 15.
 
@@ -181,9 +189,7 @@ Transforme em pedido educado: Hilf mir! / Mach das Fenster zu! / Ich will einen 
 
 Complete o conselho: Du \_\_\_\_ früher schlafen gehen. (sollen) An deiner Stelle \_\_\_\_ ich zu Hause bleiben. (werden)
 
-Complete a sugestão: Wir \_\_\_\_ ins Kino gehen. (können) Wie \_\_\_\_ es mit einem
-
-Spaziergang? (sein)
+Complete a sugestão: Wir \_\_\_\_ ins Kino gehen. (können) Wie \_\_\_\_ es mit einem Spaziergang? (sein)
 
 Escolha *konnte* ou *könnte*: Gestern \_\_\_\_ ich nicht kommen. / \_\_\_\_ du morgen kommen?
 

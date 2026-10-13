@@ -86,9 +86,7 @@ Se você notou que o presente + *morgen* já é futuro, que *werden* pede o infi
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Futuro de todos os dias:** presente + palavra de tempo. *Morgen fahre ich nach Berlin.*
-
-*Nächste Woche arbeite ich nicht.*
+1.  **Futuro de todos os dias:** presente + palavra de tempo. *Morgen fahre ich nach Berlin.* *Nächste Woche arbeite ich nicht.*
 
 2.  **Werden:**
 

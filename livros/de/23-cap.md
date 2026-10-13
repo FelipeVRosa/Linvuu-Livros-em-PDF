@@ -61,7 +61,9 @@ Observe as frases.
 
 4.  Wir gehen um sieben Uhr und kommen um zehn zurück.
 
-5.  Kommst du mit oder bleibst du hier? 6. Ich bin nicht müde, sondern hungrig.
+5.  Kommst du mit oder bleibst du hier?
+
+6.  Ich bin nicht müde, sondern hungrig.
 
 Perguntas:
 
