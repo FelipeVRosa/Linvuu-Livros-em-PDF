@@ -1,0 +1,1577 @@
+[
+ {
+  "k": "lang",
+  "de": "lang",
+  "pt": "comprido; longo"
+ },
+ {
+  "k": "lange",
+  "de": "lange",
+  "pt": "por muito tempo"
+ },
+ {
+  "k": "langsam",
+  "de": "langsam",
+  "pt": "devagar; lento"
+ },
+ {
+  "k": "langweilig",
+  "de": "langweilig",
+  "pt": "chato; entediante"
+ },
+ {
+  "k": "derdaslaptop",
+  "de": "der/das Laptop, -s",
+  "pt": "laptop; notebook"
+ },
+ {
+  "k": "lassen",
+  "de": "lassen, lässt, hat gelassen",
+  "pt": "deixar; mandar (fazer)"
+ },
+ {
+  "k": "laufen",
+  "de": "laufen, läuft, ist gelaufen",
+  "pt": "correr; andar a pé"
+ },
+ {
+  "k": "laut",
+  "de": "laut",
+  "pt": "alto (som); barulhento"
+ },
+ {
+  "k": "dasleben",
+  "de": "das Leben, -",
+  "pt": "vida"
+ },
+ {
+  "k": "lebenv",
+  "de": "leben, lebt, hat gelebt",
+  "pt": "viver; morar"
+ },
+ {
+  "k": "dielebensmittel",
+  "de": "die Lebensmittel (Pl.)",
+  "pt": "alimentos; mantimentos"
+ },
+ {
+  "k": "ledig",
+  "de": "ledig",
+  "pt": "solteiro"
+ },
+ {
+  "k": "leer",
+  "de": "leer",
+  "pt": "vazio"
+ },
+ {
+  "k": "legen",
+  "de": "legen, legt, hat gelegt",
+  "pt": "colocar (deitado); pôr"
+ },
+ {
+  "k": "lehrer",
+  "de": "der Lehrer, -",
+  "pt": "professor"
+ },
+ {
+  "k": "leicht",
+  "de": "leicht",
+  "pt": "leve; fácil"
+ },
+ {
+  "k": "leider",
+  "de": "leider",
+  "pt": "infelizmente; lamentavelmente"
+ },
+ {
+  "k": "leidtunleidtun",
+  "de": "leidtun/leid tun, tut leid, hat leidgetan",
+  "pt": "lamentar (Es tut mir leid: sinto muito)"
+ },
+ {
+  "k": "leihen",
+  "de": "leihen, leiht, hat geliehen",
+  "pt": "emprestar; pedir emprestado"
+ },
+ {
+  "k": "leise",
+  "de": "leise",
+  "pt": "baixinho; silencioso"
+ },
+ {
+  "k": "lernen",
+  "de": "lernen, lernt, hat gelernt",
+  "pt": "aprender; estudar"
+ },
+ {
+  "k": "lesen",
+  "de": "lesen, liest, hat gelesen",
+  "pt": "ler"
+ },
+ {
+  "k": "letzt",
+  "de": "letzt-",
+  "pt": "último"
+ },
+ {
+  "k": "leute",
+  "de": "die Leute (Pl.)",
+  "pt": "pessoas; gente"
+ },
+ {
+  "k": "licht",
+  "de": "das Licht, -er",
+  "pt": "luz"
+ },
+ {
+  "k": "lieb",
+  "de": "lieb-",
+  "pt": "querido (Liebe Susanne: Querida Susanne); amável"
+ },
+ {
+  "k": "lieben",
+  "de": "lieben, liebt, hat geliebt",
+  "pt": "amar"
+ },
+ {
+  "k": "lieblings",
+  "de": "Lieblings-",
+  "pt": "favorito (prefixo)"
+ },
+ {
+  "k": "lied",
+  "de": "das Lied, -er",
+  "pt": "canção; música"
+ },
+ {
+  "k": "liefern",
+  "de": "liefern, liefert, hat geliefert",
+  "pt": "entregar; fornecer"
+ },
+ {
+  "k": "liegen",
+  "de": "liegen, liegt, hat/ist gelegen",
+  "pt": "estar (deitado); ficar situado"
+ },
+ {
+  "k": "link",
+  "de": "der Link, -s",
+  "pt": "link"
+ },
+ {
+  "k": "links",
+  "de": "links",
+  "pt": "à esquerda"
+ },
+ {
+  "k": "lkw",
+  "de": "der Lkw, -s",
+  "pt": "caminhão"
+ },
+ {
+  "k": "löffel",
+  "de": "der Löffel, -",
+  "pt": "colher"
+ },
+ {
+  "k": "lokal",
+  "de": "das Lokal, -e",
+  "pt": "restaurante; bar; estabelecimento"
+ },
+ {
+  "k": "lösung",
+  "de": "die Lösung, -en",
+  "pt": "solução"
+ },
+ {
+  "k": "lüge",
+  "de": "die Lüge, -n",
+  "pt": "mentira"
+ },
+ {
+  "k": "lügen",
+  "de": "lügen, lügt, hat gelogen",
+  "pt": "mentir"
+ },
+ {
+  "k": "lustig",
+  "de": "lustig",
+  "pt": "engraçado; divertido"
+ },
+ {
+  "k": "lust",
+  "de": "die Lust (Sg.)",
+  "pt": "vontade (Lust haben: ter vontade, estar a fim)"
+ },
+ {
+  "k": "machen",
+  "de": "machen, macht, hat gemacht",
+  "pt": "fazer"
+ },
+ {
+  "k": "mädchen",
+  "de": "das Mädchen, -",
+  "pt": "menina"
+ },
+ {
+  "k": "magen",
+  "de": "der Magen, ¨-",
+  "pt": "estômago"
+ },
+ {
+  "k": "mailbox",
+  "de": "die Mailbox, -en",
+  "pt": "caixa postal (do celular)"
+ },
+ {
+  "k": "maldasmal",
+  "de": "mal / das Mal",
+  "pt": "vez (das Mal, zweimal); (partícula) só, aí (Komm mal her!)"
+ },
+ {
+  "k": "malen",
+  "de": "malen, malt, hat gemalt",
+  "pt": "pintar"
+ },
+ {
+  "k": "man",
+  "de": "man",
+  "pt": "se (impessoal: man sagt = diz-se); a gente; você (genérico)"
+ },
+ {
+  "k": "manch",
+  "de": "manch-",
+  "pt": "alguns, algumas; certos, certas"
+ },
+ {
+  "k": "manchmal",
+  "de": "manchmal",
+  "pt": "às vezes"
+ },
+ {
+  "k": "mann",
+  "de": "der Mann, ¨-er",
+  "pt": "homem; marido"
+ },
+ {
+  "k": "männlich",
+  "de": "männlich",
+  "pt": "masculino"
+ },
+ {
+  "k": "mannschaft",
+  "de": "die Mannschaft, -en",
+  "pt": "time; equipe"
+ },
+ {
+  "k": "mantel",
+  "de": "der Mantel, ¨-",
+  "pt": "casaco; sobretudo"
+ },
+ {
+  "k": "markt",
+  "de": "der Markt, ¨-e",
+  "pt": "mercado; feira"
+ },
+ {
+  "k": "maschine",
+  "de": "die Maschine, -n",
+  "pt": "máquina"
+ },
+ {
+  "k": "medikament",
+  "de": "das Medikament, -e",
+  "pt": "medicamento; remédio"
+ },
+ {
+  "k": "meer",
+  "de": "das Meer, -e",
+  "pt": "mar"
+ },
+ {
+  "k": "mehr",
+  "de": "mehr",
+  "pt": "mais"
+ },
+ {
+  "k": "mein",
+  "de": "mein",
+  "pt": "meu, minha"
+ },
+ {
+  "k": "meinen",
+  "de": "meinen, meint, hat gemeint",
+  "pt": "achar; querer dizer"
+ },
+ {
+  "k": "meinung",
+  "de": "die Meinung, -en",
+  "pt": "opinião"
+ },
+ {
+  "k": "meist",
+  "de": "meist-",
+  "pt": "a maioria de; a maior parte de"
+ },
+ {
+  "k": "meistens",
+  "de": "meistens",
+  "pt": "geralmente; na maioria das vezes"
+ },
+ {
+  "k": "menge",
+  "de": "die Menge, -n",
+  "pt": "quantidade; monte"
+ },
+ {
+  "k": "mensch",
+  "de": "der Mensch, -en",
+  "pt": "ser humano; pessoa"
+ },
+ {
+  "k": "merken",
+  "de": "merken, merkt, hat gemerkt",
+  "pt": "notar, perceber; (sich merken) guardar na memória"
+ },
+ {
+  "k": "messe",
+  "de": "die Messe, -n",
+  "pt": "feira (de negócios)"
+ },
+ {
+  "k": "messer",
+  "de": "das Messer, -",
+  "pt": "faca"
+ },
+ {
+  "k": "miete",
+  "de": "die Miete, -n",
+  "pt": "aluguel"
+ },
+ {
+  "k": "mieten",
+  "de": "mieten, mietet, hat gemietet",
+  "pt": "alugar (tomar em aluguel)"
+ },
+ {
+  "k": "milch",
+  "de": "die Milch (Sg.)",
+  "pt": "leite"
+ },
+ {
+  "k": "mindestens",
+  "de": "mindestens",
+  "pt": "pelo menos; no mínimo"
+ },
+ {
+  "k": "mineralwasser",
+  "de": "das Mineralwasser (Sg.)",
+  "pt": "água mineral"
+ },
+ {
+  "k": "mit",
+  "de": "mit (+ mitbringen/ -kommen/-machen/ -nehmen/-spielen)",
+  "pt": "com; junto (prefixo verbal)"
+ },
+ {
+  "k": "mitarbeiter",
+  "de": "der Mitarbeiter, -",
+  "pt": "colaborador; funcionário"
+ },
+ {
+  "k": "mitbringen",
+  "de": "mitbringen",
+  "pt": "trazer (consigo)"
+ },
+ {
+  "k": "mitkommen",
+  "de": "mitkommen",
+  "pt": "vir junto; acompanhar"
+ },
+ {
+  "k": "mitmachen",
+  "de": "mitmachen",
+  "pt": "participar"
+ },
+ {
+  "k": "mitnehmen",
+  "de": "mitnehmen",
+  "pt": "levar junto"
+ },
+ {
+  "k": "mittagessen",
+  "de": "das Mittagessen, -",
+  "pt": "almoço"
+ },
+ {
+  "k": "dasmittel",
+  "de": "das Mittel, -",
+  "pt": "remédio (contra algo); meio; produto (Waschmittel)"
+ },
+ {
+  "k": "mitte",
+  "de": "die Mitte, -n",
+  "pt": "meio; centro"
+ },
+ {
+  "k": "möbel",
+  "de": "die Möbel (Pl.)",
+  "pt": "móveis"
+ },
+ {
+  "k": "mobiltelefon",
+  "de": "das Mobiltelefon, -e",
+  "pt": "celular"
+ },
+ {
+  "k": "möchten",
+  "de": "möchten, möchte, mochte, hat gemocht",
+  "pt": "gostaria de; querer (forma educada)"
+ },
+ {
+  "k": "mode",
+  "de": "die Mode, -n",
+  "pt": "moda"
+ },
+ {
+  "k": "modern",
+  "de": "modern",
+  "pt": "moderno"
+ },
+ {
+  "k": "mögen",
+  "de": "mögen, mag, mochte, hat gemocht",
+  "pt": "gostar de"
+ },
+ {
+  "k": "möglich",
+  "de": "möglich",
+  "pt": "possível"
+ },
+ {
+  "k": "moment",
+  "de": "der Moment, -e",
+  "pt": "momento"
+ },
+ {
+  "k": "morgen",
+  "de": "morgen",
+  "pt": "amanhã"
+ },
+ {
+  "k": "motor",
+  "de": "der Motor, -en",
+  "pt": "motor"
+ },
+ {
+  "k": "motorroller",
+  "de": "der Motorroller, -",
+  "pt": "scooter; lambreta"
+ },
+ {
+  "k": "müde",
+  "de": "müde",
+  "pt": "cansado"
+ },
+ {
+  "k": "müll",
+  "de": "der Müll (Sg.)",
+  "pt": "lixo"
+ },
+ {
+  "k": "mund",
+  "de": "der Mund, ¨-er",
+  "pt": "boca"
+ },
+ {
+  "k": "museum",
+  "de": "das Museum, -een",
+  "pt": "museu"
+ },
+ {
+  "k": "musik",
+  "de": "die Musik (Sg.)",
+  "pt": "música"
+ },
+ {
+  "k": "müssen",
+  "de": "müssen, muss, musste",
+  "pt": "ter que; precisar; (nicht müssen) não precisar"
+ },
+ {
+  "k": "mutter",
+  "de": "die Mutter, ¨-",
+  "pt": "mãe"
+ },
+ {
+  "k": "mütze",
+  "de": "die Mütze, -n",
+  "pt": "gorro; boné"
+ },
+ {
+  "k": "nach",
+  "de": "nach",
+  "pt": "para (direção); depois de"
+ },
+ {
+  "k": "nachbar",
+  "de": "der Nachbar, -n / die Nachbarin, -nen",
+  "pt": "vizinho / vizinha"
+ },
+ {
+  "k": "nachricht",
+  "de": "die Nachricht, -en",
+  "pt": "notícia; mensagem"
+ },
+ {
+  "k": "nächstees",
+  "de": "nächst-, nächste, -er, -es",
+  "pt": "próximo; seguinte"
+ },
+ {
+  "k": "nähe",
+  "de": "die Nähe (Sg.)",
+  "pt": "proximidade (in der Nähe: perto)"
+ },
+ {
+  "k": "name",
+  "de": "der Name, -n",
+  "pt": "nome"
+ },
+ {
+  "k": "nass",
+  "de": "nass",
+  "pt": "molhado"
+ },
+ {
+  "k": "natürlich",
+  "de": "natürlich",
+  "pt": "naturalmente; claro"
+ },
+ {
+  "k": "natur",
+  "de": "die Natur (Sg.)",
+  "pt": "natureza"
+ },
+ {
+  "k": "neben",
+  "de": "neben",
+  "pt": "ao lado de"
+ },
+ {
+  "k": "nebenan",
+  "de": "nebenan",
+  "pt": "ao lado; na casa ao lado"
+ },
+ {
+  "k": "neblig",
+  "de": "neblig",
+  "pt": "com neblina; nebuloso"
+ },
+ {
+  "k": "nehmen",
+  "de": "nehmen, nimmt, hat genommen",
+  "pt": "pegar; tomar (remédio, ônibus); escolher (Ich nehme…)"
+ },
+ {
+  "k": "nein",
+  "de": "nein",
+  "pt": "não"
+ },
+ {
+  "k": "nennen",
+  "de": "nennen, nennt, hat genannt",
+  "pt": "chamar; nomear"
+ },
+ {
+  "k": "nervös",
+  "de": "nervös",
+  "pt": "nervoso"
+ },
+ {
+  "k": "nett",
+  "de": "nett",
+  "pt": "simpático; legal"
+ },
+ {
+  "k": "neu",
+  "de": "neu",
+  "pt": "novo"
+ },
+ {
+  "k": "nicht",
+  "de": "nicht",
+  "pt": "não"
+ },
+ {
+  "k": "nichts",
+  "de": "nichts",
+  "pt": "nada"
+ },
+ {
+  "k": "nieadv",
+  "de": "nie",
+  "pt": "nunca"
+ },
+ {
+  "k": "niemand",
+  "de": "niemand",
+  "pt": "ninguém"
+ },
+ {
+  "k": "nirgends",
+  "de": "nirgends",
+  "pt": "em lugar nenhum"
+ },
+ {
+  "k": "noch",
+  "de": "noch",
+  "pt": "ainda; mais"
+ },
+ {
+  "k": "normal",
+  "de": "normal",
+  "pt": "normal"
+ },
+ {
+  "k": "note",
+  "de": "die Note, -n",
+  "pt": "nota (escolar)"
+ },
+ {
+  "k": "notieren",
+  "de": "notieren, notiert, hat notiert",
+  "pt": "anotar"
+ },
+ {
+  "k": "notiz",
+  "de": "die Notiz, -en",
+  "pt": "anotação; nota"
+ },
+ {
+  "k": "notwendig",
+  "de": "notwendig",
+  "pt": "necessário"
+ },
+ {
+  "k": "nudel",
+  "de": "die Nudel, -n",
+  "pt": "macarrão; massa"
+ },
+ {
+  "k": "nummer",
+  "de": "die Nummer, -n",
+  "pt": "número"
+ },
+ {
+  "k": "nur",
+  "de": "nur",
+  "pt": "só; apenas"
+ },
+ {
+  "k": "nützlich",
+  "de": "nützlich",
+  "pt": "útil"
+ },
+ {
+  "k": "oben",
+  "de": "oben",
+  "pt": "em cima; no alto"
+ },
+ {
+  "k": "obst",
+  "de": "das Obst (Sg.)",
+  "pt": "fruta; frutas"
+ },
+ {
+  "k": "oder",
+  "de": "oder",
+  "pt": "ou"
+ },
+ {
+  "k": "offen",
+  "de": "offen",
+  "pt": "aberto"
+ },
+ {
+  "k": "öffnen",
+  "de": "öffnen, öffnet, hat geöffnet",
+  "pt": "abrir"
+ },
+ {
+  "k": "oft",
+  "de": "oft",
+  "pt": "frequentemente; muitas vezes"
+ },
+ {
+  "k": "ohne",
+  "de": "ohne",
+  "pt": "sem"
+ },
+ {
+  "k": "ohr",
+  "de": "das Ohr, -en",
+  "pt": "orelha; ouvido"
+ },
+ {
+  "k": "öl",
+  "de": "das Öl, -e",
+  "pt": "óleo; azeite"
+ },
+ {
+  "k": "oma",
+  "de": "die Oma, -s",
+  "pt": "vovó"
+ },
+ {
+  "k": "online",
+  "de": "online",
+  "pt": "online"
+ },
+ {
+  "k": "opa",
+  "de": "der Opa, -s",
+  "pt": "vovô"
+ },
+ {
+  "k": "orange",
+  "de": "die Orange, -n",
+  "pt": "laranja"
+ },
+ {
+  "k": "ordnung",
+  "de": "die Ordnung, -en",
+  "pt": "ordem; (in Ordnung) tudo bem, certo"
+ },
+ {
+  "k": "organisieren",
+  "de": "organisieren, organisiert, hat organisiert",
+  "pt": "organizar"
+ },
+ {
+  "k": "ort",
+  "de": "der Ort, -e",
+  "pt": "lugar; local"
+ },
+ {
+  "k": "paar",
+  "de": "das Paar, -e",
+  "pt": "casal; par"
+ },
+ {
+  "k": "packen",
+  "de": "packen, packt, hat gepackt",
+  "pt": "fazer (a mala); empacotar"
+ },
+ {
+  "k": "paket",
+  "de": "das Paket, -e",
+  "pt": "pacote; encomenda"
+ },
+ {
+  "k": "papier",
+  "de": "das Papier, -e",
+  "pt": "papel"
+ },
+ {
+  "k": "papiere",
+  "de": "die Papiere (Pl.)",
+  "pt": "documentos"
+ },
+ {
+  "k": "parfüm",
+  "de": "das Parfüm, -s",
+  "pt": "perfume"
+ },
+ {
+  "k": "parken",
+  "de": "parken, parkt, hat geparkt",
+  "pt": "estacionar"
+ },
+ {
+  "k": "park",
+  "de": "der Park, -s",
+  "pt": "parque"
+ },
+ {
+  "k": "partner",
+  "de": "der Partner, -",
+  "pt": "parceiro; companheiro"
+ },
+ {
+  "k": "diepartnerin",
+  "de": "die Partnerin, -nen",
+  "pt": "parceira; companheira"
+ },
+ {
+  "k": "party",
+  "de": "die Party, -s",
+  "pt": "festa"
+ },
+ {
+  "k": "pass",
+  "de": "der Pass, ¨-e",
+  "pt": "passaporte"
+ },
+ {
+  "k": "passen",
+  "de": "passen, passt, hat gepasst",
+  "pt": "servir (roupa); combinar"
+ },
+ {
+  "k": "passieren",
+  "de": "passieren, passiert, ist passiert",
+  "pt": "acontecer"
+ },
+ {
+  "k": "passwort",
+  "de": "das Passwort, ¨-er",
+  "pt": "senha"
+ },
+ {
+  "k": "pause",
+  "de": "die Pause, -n",
+  "pt": "pausa; intervalo"
+ },
+ {
+  "k": "person",
+  "de": "die Person, -en",
+  "pt": "pessoa"
+ },
+ {
+  "k": "pferd",
+  "de": "das Pferd, -e",
+  "pt": "cavalo"
+ },
+ {
+  "k": "pflanze",
+  "de": "die Pflanze, -n",
+  "pt": "planta"
+ },
+ {
+  "k": "pizza",
+  "de": "die Pizza, -s/-en",
+  "pt": "pizza"
+ },
+ {
+  "k": "plakat",
+  "de": "das Plakat, -e",
+  "pt": "cartaz; pôster"
+ },
+ {
+  "k": "plan",
+  "de": "der Plan, ¨-e",
+  "pt": "plano; mapa (da cidade)"
+ },
+ {
+  "k": "planen",
+  "de": "planen, plant, hat geplant",
+  "pt": "planejar"
+ },
+ {
+  "k": "platz",
+  "de": "der Platz, ¨-e",
+  "pt": "lugar; praça"
+ },
+ {
+  "k": "plötzlich",
+  "de": "plötzlich",
+  "pt": "de repente"
+ },
+ {
+  "k": "polizei",
+  "de": "die Polizei (Sg.)",
+  "pt": "polícia"
+ },
+ {
+  "k": "diepommesfrites",
+  "de": "die Pommes frites (Pl.)",
+  "pt": "batata frita"
+ },
+ {
+  "k": "portion",
+  "de": "die Portion, -en",
+  "pt": "porção"
+ },
+ {
+  "k": "poster",
+  "de": "das Poster, -",
+  "pt": "pôster"
+ },
+ {
+  "k": "postkarte",
+  "de": "die Postkarte, -n",
+  "pt": "cartão-postal"
+ },
+ {
+  "k": "postleitzahl",
+  "de": "die Postleitzahl, -en",
+  "pt": "CEP"
+ },
+ {
+  "k": "post",
+  "de": "die Post (Sg.)",
+  "pt": "correio; correspondência"
+ },
+ {
+  "k": "praktikum",
+  "de": "das Praktikum, -a",
+  "pt": "estágio"
+ },
+ {
+  "k": "praktisch",
+  "de": "praktisch",
+  "pt": "prático"
+ },
+ {
+  "k": "praxis",
+  "de": "die Praxis, -en",
+  "pt": "consultório; prática"
+ },
+ {
+  "k": "preis",
+  "de": "der Preis, -e",
+  "pt": "preço; prêmio"
+ },
+ {
+  "k": "preiswert",
+  "de": "preiswert",
+  "pt": "barato; com bom preço"
+ },
+ {
+  "k": "privat",
+  "de": "privat",
+  "pt": "privado; particular"
+ },
+ {
+  "k": "pro",
+  "de": "pro",
+  "pt": "por"
+ },
+ {
+  "k": "probieren",
+  "de": "probieren, probiert, hat probiert",
+  "pt": "experimentar; provar"
+ },
+ {
+  "k": "problem",
+  "de": "das Problem, -e",
+  "pt": "problema"
+ },
+ {
+  "k": "produkt",
+  "de": "das Produkt, -e",
+  "pt": "produto"
+ },
+ {
+  "k": "programm",
+  "de": "das Programm, -e",
+  "pt": "programa; programação"
+ },
+ {
+  "k": "projekt",
+  "de": "das Projekt, -e",
+  "pt": "projeto"
+ },
+ {
+  "k": "prospekt",
+  "de": "der Prospekt, -e",
+  "pt": "folheto"
+ },
+ {
+  "k": "prüfen",
+  "de": "prüfen, prüft, hat geprüft",
+  "pt": "verificar; examinar"
+ },
+ {
+  "k": "prüfung",
+  "de": "die Prüfung, -en",
+  "pt": "prova; exame"
+ },
+ {
+  "k": "pullover",
+  "de": "der Pullover, -",
+  "pt": "suéter; pulôver"
+ },
+ {
+  "k": "pünktlich",
+  "de": "pünktlich",
+  "pt": "pontual; na hora"
+ },
+ {
+  "k": "putzen",
+  "de": "putzen, putzt, hat geputzt",
+  "pt": "limpar"
+ },
+ {
+  "k": "qualität",
+  "de": "die Qualität, -en",
+  "pt": "qualidade"
+ },
+ {
+  "k": "quiz",
+  "de": "das Quiz (Sg.)",
+  "pt": "quiz; jogo de perguntas"
+ },
+ {
+  "k": "radfahren",
+  "de": "Rad fahren",
+  "pt": "andar de bicicleta"
+ },
+ {
+  "k": "radio",
+  "de": "das Radio, -s",
+  "pt": "rádio"
+ },
+ {
+  "k": "raten",
+  "de": "raten, rät, hat geraten",
+  "pt": "aconselhar; adivinhar"
+ },
+ {
+  "k": "rathaus",
+  "de": "das Rathaus, ¨-er",
+  "pt": "prefeitura"
+ },
+ {
+  "k": "rätsel",
+  "de": "das Rätsel, -",
+  "pt": "enigma; charada"
+ },
+ {
+  "k": "rauchen",
+  "de": "rauchen, raucht, hat geraucht",
+  "pt": "fumar"
+ },
+ {
+  "k": "raum",
+  "de": "der Raum, ¨-e",
+  "pt": "sala; espaço"
+ },
+ {
+  "k": "rechnen",
+  "de": "rechnen, rechnet, hat gerechnet",
+  "pt": "calcular"
+ },
+ {
+  "k": "rechnung",
+  "de": "die Rechnung, -en",
+  "pt": "conta; fatura"
+ },
+ {
+  "k": "rechthaben",
+  "de": "recht haben, hat recht, hatte recht, hat recht gehabt",
+  "pt": "ter razão"
+ },
+ {
+  "k": "rechts",
+  "de": "rechts",
+  "pt": "à direita"
+ },
+ {
+  "k": "reden",
+  "de": "reden, redet, hat geredet",
+  "pt": "falar; conversar"
+ },
+ {
+  "k": "regen",
+  "de": "der Regen (Sg.)",
+  "pt": "chuva"
+ },
+ {
+  "k": "regnen",
+  "de": "regnen, regnet, hat geregnet",
+  "pt": "chover"
+ },
+ {
+  "k": "reich",
+  "de": "reich",
+  "pt": "rico"
+ },
+ {
+  "k": "reifen",
+  "de": "der Reifen, -",
+  "pt": "pneu"
+ },
+ {
+  "k": "reihe",
+  "de": "die Reihe, -n",
+  "pt": "fileira; fila; vez (an der Reihe sein)"
+ },
+ {
+  "k": "reinigung",
+  "de": "die Reinigung, -en",
+  "pt": "lavanderia; limpeza"
+ },
+ {
+  "k": "reisebüro",
+  "de": "das Reisebüro, -s",
+  "pt": "agência de viagens"
+ },
+ {
+  "k": "reiseführer",
+  "de": "der Reiseführer, -",
+  "pt": "guia de viagem"
+ },
+ {
+  "k": "reise",
+  "de": "die Reise, -n",
+  "pt": "viagem"
+ },
+ {
+  "k": "reisen",
+  "de": "reisen, reist, ist gereist",
+  "pt": "viajar"
+ },
+ {
+  "k": "reis",
+  "de": "der Reis (Sg.)",
+  "pt": "arroz"
+ },
+ {
+  "k": "reiten",
+  "de": "reiten, reitet, ist geritten",
+  "pt": "andar a cavalo; cavalgar"
+ },
+ {
+  "k": "renovieren",
+  "de": "renovieren, renoviert, hat renoviert",
+  "pt": "reformar; renovar"
+ },
+ {
+  "k": "rentner",
+  "de": "der Rentner, - / die Rentnerin, -nen",
+  "pt": "aposentado / aposentada"
+ },
+ {
+  "k": "reparatur",
+  "de": "die Reparatur, -en",
+  "pt": "conserto; reparo"
+ },
+ {
+  "k": "reparieren",
+  "de": "reparieren, repariert, hat repariert",
+  "pt": "consertar"
+ },
+ {
+  "k": "reservieren",
+  "de": "reservieren, reserviert, reservierte, hat reserviert",
+  "pt": "reservar"
+ },
+ {
+  "k": "restaurant",
+  "de": "das Restaurant, -s",
+  "pt": "restaurante"
+ },
+ {
+  "k": "rest",
+  "de": "der Rest, -e",
+  "pt": "resto; restante"
+ },
+ {
+  "k": "rezept",
+  "de": "das Rezept, -e",
+  "pt": "receita"
+ },
+ {
+  "k": "rezeption",
+  "de": "die Rezeption, -en",
+  "pt": "recepção"
+ },
+ {
+  "k": "richtig",
+  "de": "richtig",
+  "pt": "certo; correto"
+ },
+ {
+  "k": "riechen",
+  "de": "riechen, riecht, hat gerochen",
+  "pt": "cheirar"
+ },
+ {
+  "k": "rind",
+  "de": "das Rind",
+  "pt": "boi; carne bovina"
+ },
+ {
+  "k": "ring",
+  "de": "der Ring, -e",
+  "pt": "anel"
+ },
+ {
+  "k": "rock",
+  "de": "der Rock, ¨-e",
+  "pt": "saia"
+ },
+ {
+  "k": "romantisch",
+  "de": "romantisch",
+  "pt": "romântico"
+ },
+ {
+  "k": "rose",
+  "de": "die Rose, -n",
+  "pt": "rosa (flor)"
+ },
+ {
+  "k": "rücken",
+  "de": "der Rücken, -",
+  "pt": "costas"
+ },
+ {
+  "k": "rucksack",
+  "de": "der Rucksack, ¨-e",
+  "pt": "mochila"
+ },
+ {
+  "k": "rufen",
+  "de": "rufen, ruft, hat gerufen",
+  "pt": "chamar; gritar"
+ },
+ {
+  "k": "ruhe",
+  "de": "die Ruhe (Sg.)",
+  "pt": "silêncio; calma"
+ },
+ {
+  "k": "ruhig",
+  "de": "ruhig",
+  "pt": "tranquilo; calmo"
+ },
+ {
+  "k": "rund",
+  "de": "rund",
+  "pt": "redondo; cerca de"
+ },
+ {
+  "k": "rundgang",
+  "de": "der Rundgang, ¨-e",
+  "pt": "passeio; visita (a pé)"
+ },
+ {
+  "k": "sache",
+  "de": "die Sache, -n",
+  "pt": "coisa; objeto"
+ },
+ {
+  "k": "saft",
+  "de": "der Saft, ¨-e",
+  "pt": "suco"
+ },
+ {
+  "k": "sagen",
+  "de": "sagen, sagt, hat gesagt",
+  "pt": "dizer"
+ },
+ {
+  "k": "salat",
+  "de": "der Salat, -e",
+  "pt": "salada; alface"
+ },
+ {
+  "k": "salz",
+  "de": "das Salz, -e",
+  "pt": "sal"
+ },
+ {
+  "k": "sammeln",
+  "de": "sammeln, sammelt, hat gesammelt",
+  "pt": "colecionar; juntar"
+ },
+ {
+  "k": "satz",
+  "de": "der Satz, ¨-e",
+  "pt": "frase; oração"
+ },
+ {
+  "k": "sauber",
+  "de": "sauber",
+  "pt": "limpo"
+ },
+ {
+  "k": "sauer",
+  "de": "sauer",
+  "pt": "azedo; irritado"
+ },
+ {
+  "k": "sbahn",
+  "de": "die S-Bahn",
+  "pt": "trem urbano; metrô de superfície"
+ },
+ {
+  "k": "schade",
+  "de": "schade",
+  "pt": "pena; que pena"
+ },
+ {
+  "k": "schädlich",
+  "de": "schädlich",
+  "pt": "prejudicial; nocivo"
+ },
+ {
+  "k": "schaffen",
+  "de": "schaffen, schafft, hat geschafft",
+  "pt": "conseguir; dar conta"
+ },
+ {
+  "k": "schalter",
+  "de": "der Schalter, -",
+  "pt": "guichê; interruptor"
+ },
+ {
+  "k": "scharf",
+  "de": "scharf",
+  "pt": "picante; afiado"
+ },
+ {
+  "k": "scheinen",
+  "de": "scheinen, scheint, hat geschienen",
+  "pt": "brilhar; parecer"
+ },
+ {
+  "k": "schenken",
+  "de": "schenken, schenkt, hat geschenkt",
+  "pt": "presentear; dar de presente"
+ },
+ {
+  "k": "schere",
+  "de": "die Schere, -n",
+  "pt": "tesoura"
+ },
+ {
+  "k": "schicken",
+  "de": "schicken, schickt, hat geschickt",
+  "pt": "enviar; mandar"
+ },
+ {
+  "k": "schiff",
+  "de": "das Schiff, -e",
+  "pt": "navio; barco"
+ },
+ {
+  "k": "schild",
+  "de": "das Schild, -er",
+  "pt": "placa; letreiro"
+ },
+ {
+  "k": "schimpfen",
+  "de": "schimpfen, schimpft, hat geschimpft",
+  "pt": "reclamar; brigar com (alguém); xingar"
+ },
+ {
+  "k": "schinken",
+  "de": "der Schinken, -",
+  "pt": "presunto"
+ },
+ {
+  "k": "schirm",
+  "de": "der Schirm",
+  "pt": "guarda-chuva"
+ },
+ {
+  "k": "schlafen",
+  "de": "schlafen, schläft, hat geschlafen",
+  "pt": "dormir"
+ },
+ {
+  "k": "schlafzimmer",
+  "de": "das Schlafzimmer, -",
+  "pt": "quarto (de dormir)"
+ },
+ {
+  "k": "schlecht",
+  "de": "schlecht",
+  "pt": "ruim; mau"
+ },
+ {
+  "k": "schließen",
+  "de": "schließen, schließt, hat geschlossen",
+  "pt": "fechar"
+ },
+ {
+  "k": "schlimm",
+  "de": "schlimm",
+  "pt": "grave; ruim"
+ },
+ {
+  "k": "schloss",
+  "de": "das Schloss, ¨-er",
+  "pt": "castelo; palácio; fechadura"
+ },
+ {
+  "k": "schluss",
+  "de": "der Schluss, ¨-e",
+  "pt": "fim; final"
+ },
+ {
+  "k": "schlüssel",
+  "de": "der Schlüssel, -",
+  "pt": "chave"
+ },
+ {
+  "k": "schmecken",
+  "de": "schmecken, schmeckt, hat geschmeckt",
+  "pt": "ter gosto, sabor; estar gostoso (Schmeckt’s?)"
+ },
+ {
+  "k": "schmerz",
+  "de": "der Schmerz, -en",
+  "pt": "dor"
+ },
+ {
+  "k": "schmutzig",
+  "de": "schmutzig",
+  "pt": "sujo"
+ },
+ {
+  "k": "schnee",
+  "de": "der Schnee (Sg.)",
+  "pt": "neve"
+ },
+ {
+  "k": "schneiden",
+  "de": "schneiden (sich), schneidet, hat geschnitten",
+  "pt": "cortar; cortar-se"
+ },
+ {
+  "k": "schneien",
+  "de": "schneien, schneit, hat geschneit",
+  "pt": "nevar"
+ },
+ {
+  "k": "schnell",
+  "de": "schnell",
+  "pt": "rápido; depressa"
+ },
+ {
+  "k": "schokolade",
+  "de": "die Schokolade (Sg.)",
+  "pt": "chocolate"
+ },
+ {
+  "k": "schon",
+  "de": "schon",
+  "pt": "já"
+ },
+ {
+  "k": "schön",
+  "de": "schön",
+  "pt": "bonito; bom; lindo"
+ },
+ {
+  "k": "schrank",
+  "de": "der Schrank, ¨-e",
+  "pt": "armário"
+ },
+ {
+  "k": "schrecklich",
+  "de": "schrecklich",
+  "pt": "terrível; horrível"
+ },
+ {
+  "k": "schreibenv",
+  "de": "schreiben, schreibt, hat geschrieben",
+  "pt": "escrever"
+ },
+ {
+  "k": "schriftlich",
+  "de": "schriftlich",
+  "pt": "por escrito"
+ },
+ {
+  "k": "schuh",
+  "de": "der Schuh, -e",
+  "pt": "sapato"
+ },
+ {
+  "k": "schule",
+  "de": "die Schule, -n",
+  "pt": "escola"
+ },
+ {
+  "k": "schüler",
+  "de": "der Schüler, - / die Schülerin, -nen",
+  "pt": "aluno / aluna"
+ },
+ {
+  "k": "schwach",
+  "de": "schwach",
+  "pt": "fraco"
+ },
+ {
+  "k": "schwanger",
+  "de": "schwanger",
+  "pt": "grávida"
+ },
+ {
+  "k": "schwein",
+  "de": "das Schwein, -e",
+  "pt": "porco"
+ },
+ {
+  "k": "schwer",
+  "de": "schwer",
+  "pt": "pesado; difícil"
+ },
+ {
+  "k": "schwester",
+  "de": "die Schwester, -n",
+  "pt": "irmã"
+ },
+ {
+  "k": "schwierig",
+  "de": "schwierig",
+  "pt": "difícil"
+ },
+ {
+  "k": "schwimmbad",
+  "de": "das Schwimmbad, ¨-er",
+  "pt": "piscina"
+ },
+ {
+  "k": "schwimmen",
+  "de": "schwimmen, schwimmt, ist geschwommen",
+  "pt": "nadar"
+ },
+ {
+  "k": "dersee",
+  "de": "der See, -n",
+  "pt": "lago"
+ },
+ {
+  "k": "diesee",
+  "de": "die See (Sg.)",
+  "pt": "mar"
+ },
+ {
+  "k": "sehen",
+  "de": "sehen, sieht, hat gesehen",
+  "pt": "ver"
+ },
+ {
+  "k": "sehenswürdigkeit",
+  "de": "die Sehenswürdigkeit, -en",
+  "pt": "ponto turístico; atração"
+ },
+ {
+  "k": "sehr",
+  "de": "sehr",
+  "pt": "muito"
+ },
+ {
+  "k": "seife",
+  "de": "die Seife, -n",
+  "pt": "sabonete; sabão"
+ },
+ {
+  "k": "sein",
+  "de": "sein, ist, war, ist gewesen",
+  "pt": "ser; estar; (possessivo) seu, sua, dele"
+ },
+ {
+  "k": "seit",
+  "de": "seit",
+  "pt": "desde (tempo)"
+ }
+]
