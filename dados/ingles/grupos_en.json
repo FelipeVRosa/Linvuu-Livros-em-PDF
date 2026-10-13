@@ -1,0 +1,1320 @@
+[
+ {
+  "titulo_en": "Numbers",
+  "titulo_pt": "Números",
+  "itens": [
+   {
+    "en": "one",
+    "pt": "um"
+   },
+   {
+    "en": "two",
+    "pt": "dois"
+   },
+   {
+    "en": "three",
+    "pt": "três"
+   },
+   {
+    "en": "four",
+    "pt": "quatro"
+   },
+   {
+    "en": "five",
+    "pt": "cinco"
+   },
+   {
+    "en": "six",
+    "pt": "seis"
+   },
+   {
+    "en": "seven",
+    "pt": "sete"
+   },
+   {
+    "en": "eight",
+    "pt": "oito"
+   },
+   {
+    "en": "nine",
+    "pt": "nove"
+   },
+   {
+    "en": "ten",
+    "pt": "dez"
+   },
+   {
+    "en": "eleven",
+    "pt": "onze"
+   },
+   {
+    "en": "twelve",
+    "pt": "doze"
+   },
+   {
+    "en": "thirteen",
+    "pt": "treze"
+   },
+   {
+    "en": "fourteen",
+    "pt": "catorze"
+   },
+   {
+    "en": "fifteen",
+    "pt": "quinze"
+   },
+   {
+    "en": "sixteen",
+    "pt": "dezesseis"
+   },
+   {
+    "en": "seventeen",
+    "pt": "dezessete"
+   },
+   {
+    "en": "eighteen",
+    "pt": "dezoito"
+   },
+   {
+    "en": "nineteen",
+    "pt": "dezenove"
+   },
+   {
+    "en": "twenty",
+    "pt": "vinte"
+   },
+   {
+    "en": "twenty-one",
+    "pt": "vinte e um"
+   },
+   {
+    "en": "thirty",
+    "pt": "trinta"
+   },
+   {
+    "en": "forty",
+    "pt": "quarenta"
+   },
+   {
+    "en": "fifty",
+    "pt": "cinquenta"
+   },
+   {
+    "en": "sixty",
+    "pt": "sessenta"
+   },
+   {
+    "en": "seventy",
+    "pt": "setenta"
+   },
+   {
+    "en": "eighty",
+    "pt": "oitenta"
+   },
+   {
+    "en": "ninety",
+    "pt": "noventa"
+   },
+   {
+    "en": "one hundred / a hundred",
+    "pt": "cem (100)"
+   },
+   {
+    "en": "one hundred (and) one",
+    "pt": "cento e um (101)"
+   },
+   {
+    "en": "two hundred",
+    "pt": "duzentos (200)"
+   },
+   {
+    "en": "one thousand / a thousand",
+    "pt": "mil (1.000)"
+   },
+   {
+    "en": "two thousand (and) one",
+    "pt": "dois mil e um (2.001)"
+   },
+   {
+    "en": "one million / a million",
+    "pt": "um milhão (1.000.000)"
+   },
+   {
+    "en": "one billion / a billion",
+    "pt": "um bilhão (1.000.000.000)"
+   },
+   {
+    "en": "first (1st)",
+    "pt": "primeiro(a)"
+   },
+   {
+    "en": "second (2nd)",
+    "pt": "segundo(a)"
+   },
+   {
+    "en": "third (3rd)",
+    "pt": "terceiro(a)"
+   },
+   {
+    "en": "fourth (4th)",
+    "pt": "quarto(a)"
+   },
+   {
+    "en": "fifth (5th)",
+    "pt": "quinto(a)"
+   },
+   {
+    "en": "etc.",
+    "pt": "etc."
+   },
+   {
+    "en": "first(ly), in the first place",
+    "pt": "primeiro, em primeiro lugar"
+   },
+   {
+    "en": "second(ly), in the second place",
+    "pt": "segundo, em segundo lugar"
+   },
+   {
+    "en": "third(ly), in the third place",
+    "pt": "terceiro, em terceiro lugar"
+   },
+   {
+    "en": "fourth(ly), in the fourth place",
+    "pt": "quarto, em quarto lugar"
+   },
+   {
+    "en": "once",
+    "pt": "uma vez"
+   },
+   {
+    "en": "twice",
+    "pt": "duas vezes"
+   },
+   {
+    "en": "three times",
+    "pt": "três vezes"
+   },
+   {
+    "en": "four times",
+    "pt": "quatro vezes"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Dates",
+  "titulo_pt": "Data",
+  "itens": [
+   {
+    "en": "a half / half",
+    "pt": "meio; meia (ver Horas)"
+   },
+   {
+    "en": "a quarter / quarter",
+    "pt": "um quarto; quarto (ver Horas)"
+   },
+   {
+    "en": "1999 = nineteen ninety-nine",
+    "pt": "ano 1999"
+   },
+   {
+    "en": "2014 = two thousand fourteen / twenty fourteen",
+    "pt": "ano 2014"
+   },
+   {
+    "en": "1848 = eighteen forty-eight",
+    "pt": "ano 1848"
+   },
+   {
+    "en": "today is March 1st / March first",
+    "pt": "hoje é 1º de março"
+   },
+   {
+    "en": "Berlin, April 12, 2002 = April twelfth, two thousand two",
+    "pt": "Berlim, 12 de abril de 2002"
+   },
+   {
+    "en": "today is 2/20/2012 (US) = February twentieth, twenty twelve",
+    "pt": "hoje é 20/02/2012 (formato americano: mês/dia/ano)"
+   },
+   {
+    "en": "Berlin, 3/14/2013 (US) = March fourteenth, twenty thirteen",
+    "pt": "Berlim, 14/03/2013 (formato americano: mês/dia/ano)"
+   },
+   {
+    "en": "May 1 / May first",
+    "pt": "1º de maio"
+   },
+   {
+    "en": "20 February 2012 (UK) = the twentieth of February",
+    "pt": "20 de fevereiro de 2012 (formato britânico: dia/mês/ano)"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Time",
+  "titulo_pt": "Horas",
+  "itens": [
+   {
+    "en": "0:03 = twelve oh three a.m.",
+    "pt": "0h03"
+   },
+   {
+    "en": "7:15 = seven fifteen / a quarter past seven",
+    "pt": "7h15"
+   },
+   {
+    "en": "1:17 p.m. = thirteen seventeen (24-hour clock)",
+    "pt": "13h17 (relógio de 24 horas)"
+   },
+   {
+    "en": "24:00 = midnight / twenty-four hundred hours (24-hour clock)",
+    "pt": "24h00 (meia-noite)"
+   },
+   {
+    "en": "one o'clock",
+    "pt": "uma hora"
+   },
+   {
+    "en": "five past one / five minutes after one",
+    "pt": "cinco para a uma / uma e cinco"
+   },
+   {
+    "en": "a quarter past two / two fifteen",
+    "pt": "quinze para as duas / duas e quinze"
+   },
+   {
+    "en": "half past two / two thirty",
+    "pt": "duas e meia (em alemão, \"halb drei\" = meia para as três)"
+   },
+   {
+    "en": "7:03 = seven oh three",
+    "pt": "7h03"
+   },
+   {
+    "en": "3:15 = three fifteen / a quarter past three",
+    "pt": "3h15"
+   },
+   {
+    "en": "3:30 p.m. = fifteen thirty (24-hour clock) / half past three",
+    "pt": "15h30 (relógio de 24 horas) / três e meia"
+   },
+   {
+    "en": "1:00 p.m. = thirteen hundred (24-hour clock) / one o'clock",
+    "pt": "13h00 (relógio de 24 horas) / uma hora"
+   },
+   {
+    "en": "11:30 = eleven thirty / half past eleven",
+    "pt": "onze e meia"
+   },
+   {
+    "en": "2:05 p.m. = fourteen oh five (24-hour clock) / five past two",
+    "pt": "14h05 (relógio de 24 horas) / duas e cinco"
+   },
+   {
+    "en": "2:55 p.m. = fourteen fifty-five (24-hour clock) / five to three",
+    "pt": "14h55 (relógio de 24 horas) / cinco para as três"
+   },
+   {
+    "en": "10:15 = a quarter past ten",
+    "pt": "dez e quinze"
+   },
+   {
+    "en": "6:45 = a quarter to seven",
+    "pt": "quinze para as sete (6h45)"
+   },
+   {
+    "en": "8:40 p.m. = twenty hundred forty (24-hour clock) / twenty to nine",
+    "pt": "20h40 (relógio de 24 horas) / vinte para as nove"
+   },
+   {
+    "en": "24-hour clock",
+    "pt": "relógio de 24 horas (hora \"oficial\")"
+   },
+   {
+    "en": "a.m. / p.m.",
+    "pt": "da manhã / da tarde ou noite"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Units of time",
+  "titulo_pt": "Unidades de tempo",
+  "itens": [
+   {
+    "en": "second",
+    "pt": "o segundo"
+   },
+   {
+    "en": "minute",
+    "pt": "o minuto"
+   },
+   {
+    "en": "hour",
+    "pt": "a hora"
+   },
+   {
+    "en": "day",
+    "pt": "o dia"
+   },
+   {
+    "en": "week",
+    "pt": "a semana"
+   },
+   {
+    "en": "year",
+    "pt": "o ano"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Days of the week",
+  "titulo_pt": "Dias da semana",
+  "itens": [
+   {
+    "en": "weekday",
+    "pt": "dia da semana"
+   },
+   {
+    "en": "weekend",
+    "pt": "o fim de semana"
+   },
+   {
+    "en": "on the weekend / at the weekend",
+    "pt": "no fim de semana"
+   },
+   {
+    "en": "Sunday",
+    "pt": "o domingo"
+   },
+   {
+    "en": "Monday",
+    "pt": "a segunda-feira"
+   },
+   {
+    "en": "Tuesday",
+    "pt": "a terça-feira"
+   },
+   {
+    "en": "Wednesday",
+    "pt": "a quarta-feira"
+   },
+   {
+    "en": "Thursday",
+    "pt": "a quinta-feira"
+   },
+   {
+    "en": "Friday",
+    "pt": "a sexta-feira"
+   },
+   {
+    "en": "Saturday",
+    "pt": "o sábado"
+   },
+   {
+    "en": "on Mondays, on Monday",
+    "pt": "às segundas-feiras, na segunda-feira"
+   },
+   {
+    "en": "on Tuesdays, on Tuesday",
+    "pt": "às terças-feiras, na terça-feira"
+   },
+   {
+    "en": "on Wednesdays, on Wednesday",
+    "pt": "às quartas-feiras, na quarta-feira"
+   },
+   {
+    "en": "on Thursdays, on Thursday",
+    "pt": "às quintas-feiras, na quinta-feira"
+   },
+   {
+    "en": "on Fridays, on Friday",
+    "pt": "às sextas-feiras, na sexta-feira"
+   },
+   {
+    "en": "on Saturdays, on Saturday",
+    "pt": "aos sábados, no sábado"
+   },
+   {
+    "en": "on Sundays, on Sunday",
+    "pt": "aos domingos, no domingo"
+   },
+   {
+    "en": "workday / working day",
+    "pt": "o dia útil"
+   },
+   {
+    "en": "holiday / public holiday",
+    "pt": "o feriado"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Parts of the day",
+  "titulo_pt": "Períodos do dia",
+  "itens": [
+   {
+    "en": "day",
+    "pt": "o dia"
+   },
+   {
+    "en": "morning",
+    "pt": "a manhã (cedo)"
+   },
+   {
+    "en": "late morning / before noon",
+    "pt": "a manhã (até o meio-dia)"
+   },
+   {
+    "en": "noon / midday",
+    "pt": "o meio-dia"
+   },
+   {
+    "en": "afternoon",
+    "pt": "a tarde"
+   },
+   {
+    "en": "evening",
+    "pt": "a noite (do fim da tarde até a hora de dormir)"
+   },
+   {
+    "en": "night",
+    "pt": "a noite (hora de dormir); a madrugada"
+   },
+   {
+    "en": "midnight",
+    "pt": "a meia-noite"
+   },
+   {
+    "en": "daily / every day",
+    "pt": "diariamente"
+   },
+   {
+    "en": "during the day / in the daytime",
+    "pt": "durante o dia"
+   },
+   {
+    "en": "in the morning",
+    "pt": "de manhã, pela manhã"
+   },
+   {
+    "en": "before noon / in the late morning",
+    "pt": "durante a manhã, antes do meio-dia"
+   },
+   {
+    "en": "at noon",
+    "pt": "ao meio-dia"
+   },
+   {
+    "en": "in the afternoon",
+    "pt": "à tarde"
+   },
+   {
+    "en": "in the evening",
+    "pt": "à noite"
+   },
+   {
+    "en": "at night",
+    "pt": "de madrugada; durante a noite"
+   },
+   {
+    "en": "at midnight",
+    "pt": "à meia-noite"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Months",
+  "titulo_pt": "Meses",
+  "itens": [
+   {
+    "en": "January",
+    "pt": "janeiro"
+   },
+   {
+    "en": "February",
+    "pt": "fevereiro"
+   },
+   {
+    "en": "March",
+    "pt": "março"
+   },
+   {
+    "en": "April",
+    "pt": "abril"
+   },
+   {
+    "en": "May",
+    "pt": "maio"
+   },
+   {
+    "en": "June",
+    "pt": "junho"
+   },
+   {
+    "en": "July",
+    "pt": "julho"
+   },
+   {
+    "en": "August",
+    "pt": "agosto"
+   },
+   {
+    "en": "September",
+    "pt": "setembro"
+   },
+   {
+    "en": "October",
+    "pt": "outubro"
+   },
+   {
+    "en": "November",
+    "pt": "novembro"
+   },
+   {
+    "en": "December",
+    "pt": "dezembro"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Seasons",
+  "titulo_pt": "Estações do ano",
+  "itens": [
+   {
+    "en": "spring",
+    "pt": "a primavera"
+   },
+   {
+    "en": "summer",
+    "pt": "o verão"
+   },
+   {
+    "en": "fall / autumn",
+    "pt": "o outono (fall é o termo americano)"
+   },
+   {
+    "en": "winter",
+    "pt": "o inverno"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Holidays and celebrations",
+  "titulo_pt": "Feriados e festas",
+  "itens": [
+   {
+    "en": "Carnival / Mardi Gras",
+    "pt": "o carnaval"
+   },
+   {
+    "en": "Easter",
+    "pt": "a Páscoa"
+   },
+   {
+    "en": "Christmas",
+    "pt": "o Natal"
+   },
+   {
+    "en": "New Year's Day / New Year's Eve",
+    "pt": "o Ano-Novo / a véspera de Ano-Novo"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Currencies, measures and weights",
+  "titulo_pt": "Moedas, medidas e pesos",
+  "itens": [
+   {
+    "en": "1 euro = 100 cents",
+    "pt": "1 euro = 100 cents (centavos)"
+   },
+   {
+    "en": "1 dollar = 100 cents",
+    "pt": "1 dólar = 100 cents (centavos)"
+   },
+   {
+    "en": "1 pound = 100 pence",
+    "pt": "1 libra esterlina = 100 pence"
+   },
+   {
+    "en": "1 Swiss franc = 100 rappen (Franke/Rappen)",
+    "pt": "1 franco suíço = 100 rappen (centavos)"
+   },
+   {
+    "en": "one meter = 1 m",
+    "pt": "um metro"
+   },
+   {
+    "en": "one centimeter = 1 cm",
+    "pt": "um centímetro"
+   },
+   {
+    "en": "one meter fifteen = 1.15 m",
+    "pt": "um metro e quinze"
+   },
+   {
+    "en": "1.50 m = one meter fifty",
+    "pt": "um metro e cinquenta"
+   },
+   {
+    "en": "two hundred kilometers = 200 km",
+    "pt": "duzentos quilômetros"
+   },
+   {
+    "en": "2 km = two kilometers",
+    "pt": "dois quilômetros"
+   },
+   {
+    "en": "one square meter = 1 m²",
+    "pt": "um metro quadrado"
+   },
+   {
+    "en": "one degree below zero / minus one degree = -1°",
+    "pt": "um grau abaixo de zero / menos um grau"
+   },
+   {
+    "en": "four degrees above zero / plus four degrees = +4°",
+    "pt": "quatro graus acima de zero / mais quatro graus"
+   },
+   {
+    "en": "10 degrees Celsius",
+    "pt": "10 graus Celsius"
+   },
+   {
+    "en": "50 degrees Fahrenheit (US)",
+    "pt": "50 graus Fahrenheit (EUA)"
+   },
+   {
+    "en": "one percent = 1%",
+    "pt": "um por cento"
+   },
+   {
+    "en": "one liter = 1 l",
+    "pt": "um litro"
+   },
+   {
+    "en": "one gram = 1 g",
+    "pt": "um grama"
+   },
+   {
+    "en": "half a kilo = 500 g",
+    "pt": "meio quilo (500 g; em alemão, ein Pfund)"
+   },
+   {
+    "en": "one kilo(gram) = 1 kg",
+    "pt": "um quilo(grama)"
+   },
+   {
+    "en": "one pound = 1 lb (US)",
+    "pt": "uma libra (EUA; cerca de 454 g)"
+   },
+   {
+    "en": "one ounce = 1 oz (US)",
+    "pt": "uma onça (EUA; cerca de 28 g)"
+   },
+   {
+    "en": "one mile = 1 mi (US)",
+    "pt": "uma milha (EUA; cerca de 1,6 km)"
+   },
+   {
+    "en": "one foot = 1 ft (US)",
+    "pt": "um pé (EUA; cerca de 30 cm)"
+   },
+   {
+    "en": "one inch = 1 in (US)",
+    "pt": "uma polegada (EUA; cerca de 2,5 cm)"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Countries and nationalities",
+  "titulo_pt": "Países e nacionalidades",
+  "itens": [
+   {
+    "en": "Germany",
+    "pt": "Alemanha"
+   },
+   {
+    "en": "a German / the Germans",
+    "pt": "um alemão, uma alemã / os alemães"
+   },
+   {
+    "en": "German (adj.)",
+    "pt": "alemão(ã) (adjetivo)"
+   },
+   {
+    "en": "in German",
+    "pt": "em alemão"
+   },
+   {
+    "en": "Austria",
+    "pt": "Áustria"
+   },
+   {
+    "en": "an Austrian",
+    "pt": "um austríaco / uma austríaca"
+   },
+   {
+    "en": "Austrian (adj.)",
+    "pt": "austríaco(a) (adjetivo)"
+   },
+   {
+    "en": "Switzerland",
+    "pt": "Suíça"
+   },
+   {
+    "en": "a Swiss / the Swiss",
+    "pt": "um suíço / uma suíça"
+   },
+   {
+    "en": "Swiss (adj.)",
+    "pt": "suíço(a) (adjetivo)"
+   },
+   {
+    "en": "Luxembourg",
+    "pt": "Luxemburgo"
+   },
+   {
+    "en": "a Luxembourger",
+    "pt": "um luxemburguês / uma luxemburguesa"
+   },
+   {
+    "en": "Luxembourg (adj.), Luxembourgish",
+    "pt": "luxemburguês(esa) (adjetivo)"
+   },
+   {
+    "en": "Europe",
+    "pt": "Europa"
+   },
+   {
+    "en": "a European",
+    "pt": "um europeu / uma europeia"
+   },
+   {
+    "en": "European (adj.)",
+    "pt": "europeu(eia) (adjetivo)"
+   },
+   {
+    "en": "Turkey",
+    "pt": "Turquia"
+   },
+   {
+    "en": "a Turk",
+    "pt": "um turco / uma turca"
+   },
+   {
+    "en": "Turkish (adj.)",
+    "pt": "turco(a) (adjetivo)"
+   },
+   {
+    "en": "Finland",
+    "pt": "Finlândia"
+   },
+   {
+    "en": "a Finn",
+    "pt": "um finlandês / uma finlandesa"
+   },
+   {
+    "en": "Finnish (adj.)",
+    "pt": "finlandês(esa) (adjetivo)"
+   },
+   {
+    "en": "Mexico",
+    "pt": "México"
+   },
+   {
+    "en": "a Mexican",
+    "pt": "um mexicano / uma mexicana"
+   },
+   {
+    "en": "Mexican (adj.)",
+    "pt": "mexicano(a) (adjetivo)"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Colors",
+  "titulo_pt": "Cores",
+  "itens": [
+   {
+    "en": "black",
+    "pt": "preto"
+   },
+   {
+    "en": "white",
+    "pt": "branco"
+   },
+   {
+    "en": "gray (US) / grey (UK)",
+    "pt": "cinza"
+   },
+   {
+    "en": "red",
+    "pt": "vermelho"
+   },
+   {
+    "en": "blue",
+    "pt": "azul"
+   },
+   {
+    "en": "yellow",
+    "pt": "amarelo"
+   },
+   {
+    "en": "green",
+    "pt": "verde"
+   },
+   {
+    "en": "brown",
+    "pt": "marrom"
+   },
+   {
+    "en": "purple",
+    "pt": "lilás; roxo"
+   },
+   {
+    "en": "orange",
+    "pt": "laranja"
+   },
+   {
+    "en": "pink",
+    "pt": "rosa"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Compass directions",
+  "titulo_pt": "Pontos cardeais",
+  "itens": [
+   {
+    "en": "north",
+    "pt": "o norte"
+   },
+   {
+    "en": "south",
+    "pt": "o sul"
+   },
+   {
+    "en": "west",
+    "pt": "o oeste"
+   },
+   {
+    "en": "east",
+    "pt": "o leste"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Abbreviations and acronyms",
+  "titulo_pt": "Abreviações e siglas",
+  "itens": [
+   {
+    "en": "approx. (approximately)",
+    "pt": "aprox. (cerca de)"
+   },
+   {
+    "en": "i.e. (that is)",
+    "pt": "ou seja (isto é)"
+   },
+   {
+    "en": "high-speed train (ICE: German Intercity-Express)",
+    "pt": "trem de alta velocidade alemão (ICE, Intercity-Express)"
+   },
+   {
+    "en": "truck (US) / lorry (UK)",
+    "pt": "caminhão (Lkw em alemão)"
+   },
+   {
+    "en": "PC (personal computer)",
+    "pt": "computador (PC)"
+   },
+   {
+    "en": "text message / SMS",
+    "pt": "mensagem de texto (SMS)"
+   },
+   {
+    "en": "etc. (and so on)",
+    "pt": "etc. (e assim por diante)"
+   },
+   {
+    "en": "restroom (US) / WC / toilet (UK)",
+    "pt": "banheiro (WC)"
+   },
+   {
+    "en": "e.g. (for example)",
+    "pt": "p. ex. (por exemplo)"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Exam instructions",
+  "titulo_pt": "Linguagem de instruções da prova",
+  "itens": [
+   {
+    "en": "answer sheet",
+    "pt": "a folha de respostas"
+   },
+   {
+    "en": "task / exercise",
+    "pt": "a tarefa, o exercício"
+   },
+   {
+    "en": "example",
+    "pt": "o exemplo"
+   },
+   {
+    "en": "announcement",
+    "pt": "o aviso (pelo alto-falante)"
+   },
+   {
+    "en": "solution / answer",
+    "pt": "a solução, a resposta"
+   },
+   {
+    "en": "to mark / to check",
+    "pt": "marcar"
+   },
+   {
+    "en": "examiner",
+    "pt": "o examinador / a examinadora"
+   },
+   {
+    "en": "exam / test",
+    "pt": "a prova, o exame"
+   },
+   {
+    "en": "point",
+    "pt": "o ponto"
+   },
+   {
+    "en": "part",
+    "pt": "a parte"
+   },
+   {
+    "en": "test",
+    "pt": "o teste"
+   },
+   {
+    "en": "text",
+    "pt": "o texto"
+   },
+   {
+    "en": "dictionary",
+    "pt": "o dicionário"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Professions",
+  "titulo_pt": "Profissões",
+  "itens": [
+   {
+    "en": "employee",
+    "pt": "funcionário(a), empregado(a)"
+   },
+   {
+    "en": "doctor / physician",
+    "pt": "médico(a)"
+   },
+   {
+    "en": "apprentice / trainee",
+    "pt": "aprendiz (em formação profissional técnica)"
+   },
+   {
+    "en": "author",
+    "pt": "autor(a)"
+   },
+   {
+    "en": "babysitter",
+    "pt": "babá"
+   },
+   {
+    "en": "baker",
+    "pt": "padeiro(a)"
+   },
+   {
+    "en": "doctor (title) / Dr.",
+    "pt": "doutor(a)"
+   },
+   {
+    "en": "driver",
+    "pt": "motorista"
+   },
+   {
+    "en": "hairdresser / hairstylist",
+    "pt": "cabeleireiro(a)"
+   },
+   {
+    "en": "tradesperson / skilled worker (plumber, electrician etc.)",
+    "pt": "profissional de ofício (encanador, eletricista etc.)"
+   },
+   {
+    "en": "stay-at-home dad / stay-at-home mom (homemaker)",
+    "pt": "dono(a) de casa"
+   },
+   {
+    "en": "journalist",
+    "pt": "jornalista"
+   },
+   {
+    "en": "businessperson / merchant",
+    "pt": "comerciante"
+   },
+   {
+    "en": "waiter / waitress (server)",
+    "pt": "garçom / garçonete"
+   },
+   {
+    "en": "cook / chef",
+    "pt": "cozinheiro(a)"
+   },
+   {
+    "en": "nurse",
+    "pt": "enfermeiro(a)"
+   },
+   {
+    "en": "artist",
+    "pt": "artista"
+   },
+   {
+    "en": "teacher",
+    "pt": "professor(a)"
+   },
+   {
+    "en": "mechanic",
+    "pt": "mecânico(a)"
+   },
+   {
+    "en": "model",
+    "pt": "modelo (de moda)"
+   },
+   {
+    "en": "musician",
+    "pt": "músico(a)"
+   },
+   {
+    "en": "police officer",
+    "pt": "policial"
+   },
+   {
+    "en": "retiree / retired person",
+    "pt": "aposentado(a)"
+   },
+   {
+    "en": "singer",
+    "pt": "cantor(a)"
+   },
+   {
+    "en": "actor / actress",
+    "pt": "ator / atriz"
+   },
+   {
+    "en": "technician",
+    "pt": "técnico(a)"
+   },
+   {
+    "en": "salesperson / sales clerk",
+    "pt": "vendedor(a)"
+   },
+   {
+    "en": "chair of a department / chairperson",
+    "pt": "presidente, chefe (de departamento)"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Family members",
+  "titulo_pt": "Membros da família",
+  "itens": [
+   {
+    "en": "brother",
+    "pt": "o irmão"
+   },
+   {
+    "en": "cousin (male or female)",
+    "pt": "o primo / a prima"
+   },
+   {
+    "en": "parents",
+    "pt": "os pais"
+   },
+   {
+    "en": "grandson",
+    "pt": "o neto"
+   },
+   {
+    "en": "granddaughter",
+    "pt": "a neta"
+   },
+   {
+    "en": "siblings",
+    "pt": "os irmãos (irmãos e irmãs)"
+   },
+   {
+    "en": "grandparents",
+    "pt": "os avós"
+   },
+   {
+    "en": "grandmother (grandma)",
+    "pt": "a avó (vovó)"
+   },
+   {
+    "en": "grandfather (grandpa)",
+    "pt": "o avô (vovô)"
+   },
+   {
+    "en": "child / kid",
+    "pt": "a criança, o filho / a filha"
+   },
+   {
+    "en": "mother (mom)",
+    "pt": "a mãe (mamãe)"
+   },
+   {
+    "en": "uncle",
+    "pt": "o tio"
+   },
+   {
+    "en": "sister",
+    "pt": "a irmã"
+   },
+   {
+    "en": "son",
+    "pt": "o filho"
+   },
+   {
+    "en": "aunt",
+    "pt": "a tia"
+   },
+   {
+    "en": "daughter",
+    "pt": "a filha"
+   },
+   {
+    "en": "father (dad)",
+    "pt": "o pai (papai)"
+   },
+   {
+    "en": "relative",
+    "pt": "o parente / a parente"
+   }
+  ]
+ },
+ {
+  "titulo_en": "Marital status",
+  "titulo_pt": "Estado civil",
+  "itens": [
+   {
+    "en": "single",
+    "pt": "solteiro(a)"
+   },
+   {
+    "en": "married",
+    "pt": "casado(a)"
+   },
+   {
+    "en": "separated",
+    "pt": "separado(a)"
+   },
+   {
+    "en": "divorced",
+    "pt": "divorciado(a)"
+   }
+  ]
+ },
+ {
+  "titulo_en": "School and school subjects",
+  "titulo_pt": "Escola e disciplinas escolares",
+  "itens": [
+   {
+    "en": "Abitur (German school-leaving exam)",
+    "pt": "exame final do ensino médio alemão (Abitur)"
+   },
+   {
+    "en": "principal",
+    "pt": "o diretor / a diretora"
+   },
+   {
+    "en": "homework",
+    "pt": "a lição de casa"
+   },
+   {
+    "en": "class",
+    "pt": "a classe, a turma, a sala de aula"
+   },
+   {
+    "en": "class trip / field trip",
+    "pt": "a viagem de turma (excursão escolar)"
+   },
+   {
+    "en": "school office",
+    "pt": "a secretaria (da escola)"
+   },
+   {
+    "en": "class schedule",
+    "pt": "o horário de aulas"
+   },
+   {
+    "en": "biology",
+    "pt": "biologia"
+   },
+   {
+    "en": "chemistry",
+    "pt": "química"
+   },
+   {
+    "en": "German (school subject)",
+    "pt": "alemão (disciplina)"
+   },
+   {
+    "en": "English",
+    "pt": "inglês"
+   },
+   {
+    "en": "French",
+    "pt": "francês"
+   },
+   {
+    "en": "geography",
+    "pt": "geografia"
+   },
+   {
+    "en": "history",
+    "pt": "história"
+   },
+   {
+    "en": "art",
+    "pt": "artes (educação artística)"
+   },
+   {
+    "en": "Latin",
+    "pt": "latim"
+   },
+   {
+    "en": "math",
+    "pt": "matemática"
+   },
+   {
+    "en": "music",
+    "pt": "música"
+   },
+   {
+    "en": "physics",
+    "pt": "física"
+   },
+   {
+    "en": "religion",
+    "pt": "religião (ensino religioso)"
+   },
+   {
+    "en": "social studies / civics",
+    "pt": "estudos sociais (educação cívica)"
+   },
+   {
+    "en": "physical education (P.E.) / sports",
+    "pt": "educação física, esporte"
+   }
+  ]
+ }
+]
