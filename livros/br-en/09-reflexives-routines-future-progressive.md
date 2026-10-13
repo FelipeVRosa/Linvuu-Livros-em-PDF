@@ -151,7 +151,7 @@ Some forms to know in the present tense:
 | Verb | eu | você, ele, ela, a gente | nós | vocês, eles |
 |---|---|---|---|---|
 | {{sair}} | {{saio}} `SAH-yoo` | {{sai}} `sie` | {{saímos}} `sah-EE-mooss` | {{saem}} `SAH-eh~ee` |
-| {{dormir}} | {{durmo}} `DOOR-moo` | {{dorme}} `DOR-mee` | {{dormimos}} | {{dormem}} |
+| {{dormir}} | {{durmo}} `DOOR-moo` | {{dorme}} `DAWR-mee` | {{dormimos}} | {{dormem}} |
 | {{pegar}} | {{pego}} `PEH-goo` | {{pega}} | {{pegamos}} | {{pegam}} |
 
 {{Sair}} is irregular in the {{eu}} form ({{saio}}) and in {{nós}} ({{saímos}}, with the accent). {{Dormir}} changes {{o}} to {{u}} in {{eu durmo}}, the same type of change as {{sinto}} and {{visto}}. Everything else is regular.

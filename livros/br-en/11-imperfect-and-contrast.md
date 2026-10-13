@@ -29,7 +29,7 @@ New words from the scene:
 | {{a infância}} | `ah ee~-FAH~-see-ah` | childhood |
 | {{a fazenda}} | `ah fah-ZEH~-dah` | farm, ranch |
 | {{o quintal}} | `oo kee~-TAH-oo` | backyard |
-| {{enorme}} | `eh-NOR-mee` | enormous |
+| {{enorme}} | `eh-NAWR-mee` | enormous |
 | {{o cavalo}} | `oo kah-VAH-loo` | horse |
 | {{o braço}} | `oo BRAH-soo` | arm |
 | {{cair}} | `kah-EER` | to fall |

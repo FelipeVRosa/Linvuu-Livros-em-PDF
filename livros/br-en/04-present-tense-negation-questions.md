@@ -109,7 +109,7 @@ Start with the infinitives below. Each one follows the endings in 4.3.
 | {{ficar}} | `fee-KAR` | to stay, to be located | {{assistir}} | `ah-sees-TCHEER` | to watch |
 | {{viajar}} | `vee-ah-ZHAR` | to travel | {{dividir}} | `djee-vee-DJEER` | to divide, to share |
 
-Two verbs from the scene work with a small word after them. **{{Gostar}}** (to like) and **{{precisar}}** (to need) take **de**: {{Gosto de café}}, {{Preciso de ajuda}} (I need help). Other verbs, like {{esperar}} (to wait), {{pagar}} (to pay) and {{ajudar}} (to help), take no preposition in Portuguese: {{Espero o ônibus}}, {{Pago a conta}}, {{Ajudo o Pedro}}. You will meet more of these in Lesson 8.
+Two common verbs work with a small word after them. **{{Gostar}}** (to like) and **{{precisar}}** (to need) take **de**: {{Gosto de café}}, {{Preciso de ajuda}} (I need help). Other verbs, like {{esperar}} (to wait), {{pagar}} (to pay) and {{ajudar}} (to help), take no preposition in Portuguese: {{Espero o ônibus}}, {{Pago a conta}}, {{Ajudo o Pedro}}. You will meet more of these in Lesson 8.
 
 Two more useful ones, with a meaning you cannot guess: {{tomar café}} `toh-MAR kah-FEH` (to have coffee; also *to drink*, *to take*) and {{pegar o ônibus}} `peh-GAR oo OH-nee-booss` (to catch the bus). Brazilians say {{tomar}} for drinks and medicines, {{pegar}} for transport, and {{comer}} for food.
 
@@ -264,7 +264,7 @@ Read the text aloud, first with the guide and then without it.
 
 > {{Eu sou o Rafael. Moro em Salvador e trabalho num banco. De manhã, tomo café e pego o ônibus. No almoço, como arroz e feijão com os colegas. À noite, assisto a uma série. Aos sábados, ensino capoeira.}}
 
-Guide: `EH-oo SOH oo hah-fah-EH-oo. MAW-roo eh~ee sah-oo-vah-DOR ee trah-BAH-lyoo noo~ BAH~-koo. djee mah-NYAH~, TOH-moo kah-FEH ee PEH-goo oo OH-nee-booss. noo ah-oo-MOH-soo, KOH-moo ah-HOSS ee fay-ZHOW~ koh~ ooss koh-LEH-gahss. ah NOY-tchee, ah-SEES-too ah OO-mah SEH-ree-ee. ah-ooss SAH-bah-dooss, eh~-SEE-noo kah-poh-AY-rah.`
+Guide: `EH-oo SOH oo hah-fah-EH-oo. MAW-roo eh~ee sah-oo-vah-DOR ee trah-BAH-lyoo noo~ BAH~-koo. djee mah-NYAH~, TOH-moo kah-FEH ee PEH-goo oo OH-nee-booss. noo ah-oo-MOH-soo, KOH-moo ah-HOHSS ee fay-ZHOW~ koh~ ooss koh-LEH-gahss. ah NOY-tchee, ah-SEES-too ah OO-mah SEH-ree-ee. owss SAH-bah-dooss, eh~-SEE-noo kah-poh-AY-rah.`
 
 Translation: *I am Rafael. I live in Salvador and work at a bank. In the morning, I have coffee and catch the bus. At lunch, I eat rice and beans with my colleagues. At night, I watch a series. On Saturdays, I teach capoeira.*
 

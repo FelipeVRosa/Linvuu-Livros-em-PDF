@@ -60,7 +60,7 @@ Observe as palavras.
 
 4.  der Monat + die Miete = **die** Monatsmiete
 
-5.  die Kaffee + die Tasse = **die** Kaffeetasse
+5.  der Kaffee + die Tasse = **die** Kaffeetasse
 
 6.  das Kind + das Zimmer = **das** Kinderzimmer
 
@@ -94,7 +94,7 @@ Se você notou que o artigo vem da última parte, que o primeiro elemento só es
 
 4.  **Prefixos úteis:** *un-* (contrário: *freundlich → unfreundlich*), *Haupt-* (principal: *der Hauptbahnhof*), *Vor-* e *Nach-* (*der Vorname, der Nachname*), *Mit-* (junto: *der Mitbewohner*).
 
-5.  **Falsos amigos:** *bekommen* é “receber”; *das Gift* é “veneno”; *der Rock* é “saia”; *die Dose* é “lata”; *die Art* é “tipo”; *die Rente* é “aposentadoria”; *der Konkurs* é “falência”; *das Gymnasium* é o “ensino médio”.
+5.  **Falsos amigos:** *bekommen* é “receber”; *das Gift* é “veneno”; *der Rock* é “saia”; *die Dose* é “lata”; *die Art* é “tipo”; *die Rente* é “aposentadoria”; *der Konkurs* é “falência”; *das Gymnasium* é a “escola secundária” que vai do 5º ano até o *Abitur*.
 :::::
 
 ## 5. Por dentro
@@ -107,11 +107,11 @@ Se você notou que o artigo vem da última parte, que o primeiro elemento só es
 | radical do verbo + substantivo | das Schlafzimmer (schlafen), das Fahrrad (fahren), die Waschmaschine (waschen) |
 | adjetivo + substantivo     | die Großstadt, der Schnellzug                |
 
-O primeiro elemento só **especifica** o segundo: um *Kaffeetasse* é uma xícara, não um café. Por isso o gênero e o plural sempre vêm da última parte: *das Zimmer → das Kinderzimmer, die Kinderzimmer*.
+O primeiro elemento só **especifica** o segundo: uma *Kaffeetasse* é uma xícara, não um café. Por isso o gênero e o plural sempre vêm da última parte: *das Zimmer → das Kinderzimmer, die Kinderzimmer*.
 
 **Palavras longas, passo a passo.** *Fahrkartenautomat.* Comece pelo fim: *Automat* (máquina). Depois: *Fahrkarten* (bilhetes, plural de *die Fahrkarte*). E *Fahrkarte* tem *Fahr-* (de *fahren*) + *Karte*. Resposta: a máquina de bilhetes. O mesmo vale para *Krankenversicherung* (krank + en + Versicherung): o seguro-saúde.
 
-**Letra de ligação.** Três casos para guardar.
+**Letra de ligação.** Quatro casos para guardar.
 
 - **-s-** depois de feminino com *-ung, -heit, -keit, -schaft, -ion*: *Wohnungs-, Gesundheits-, Freundschafts-*. Também em outros: *Arbeitszeit, Geburtstagsgeschenk, Liebesbrief*.
 - **-n-, -en-:** *Küchentisch, Krankenhaus*.
@@ -160,7 +160,7 @@ Para “tornar-se”, use *werden* (capítulo 21: *Er wird Arzt*). Para “prese
 | die Art          | arte           | **tipo, espécie, maneira**             | Was für eine Art von Musik ist das?          |
 | die Rente        | renda          | **aposentadoria**, pensão              | Mein Opa bekommt eine Rente.                 |
 | der Konkurs      | concurso       | **falência**                           | Die Firma hat Konkurs gemacht.               |
-| das Gymnasium    | ginásio        | **ensino médio** (até o *Abitur*)      | Mein Neffe geht auf das Gymnasium.           |
+| das Gymnasium    | ginásio        | **escola secundária** (do 5º ano até o *Abitur*) | Mein Neffe geht auf das Gymnasium.           |
 
 Para os falsos amigos, o português tem as palavras certas: “dose de remédio” é *die Dosis*, “arte” é *die Kunst*, “renda” é *das Einkommen*, “concurso” é *der Wettbewerb*, “ginásio esportivo” é *die Sporthalle*.
 
@@ -177,7 +177,7 @@ Para os falsos amigos, o português tem as palavras certas: “dose de remédio�
 | Vorsicht, das ist Gift!                        | Cuidado, isto é veneno!                      |
 | Ich kaufe eine Dose Tomaten.                   | Compro uma lata de tomates.                  |
 | Mein Opa bekommt eine Rente.                   | Meu avô recebe aposentadoria.                |
-| Mein Neffe geht auf das Gymnasium.             | Meu sobrinho está no ensino médio.           |
+| Mein Neffe geht auf das Gymnasium.             | Meu sobrinho estuda no Gymnasium (escola secundária). |
 
 ## 7. Treino em quatro degraus
 
@@ -305,7 +305,7 @@ Entre as partes pode haver *-s-, -n-, -er-* ou nada. Aprenda a palavra inteira, 
 
 Sufixos: *-ung, -er/-in, -heit/-keit, -lich/-ig, -los, -bar*. Prefixos: *un-, Haupt-, Vor-, Nach-, Mit-*.
 
-Falsos amigos: *bekommen* = receber, *Gift* = veneno, *Rock* = saia, *Dose* = lata, *Art* = tipo, *Rente* = aposentadoria, *Konkurs* = falência, *Gymnasium* = ensino médio.
+Falsos amigos: *bekommen* = receber, *Gift* = veneno, *Rock* = saia, *Dose* = lata, *Art* = tipo, *Rente* = aposentadoria, *Konkurs* = falência, *Gymnasium* = escola secundária.
 
 Amigos verdadeiros: *aktuell, sensibel, Chef, Kaution*.
 
@@ -344,7 +344,7 @@ Evito cinco falsos amigos nas minhas frases.
 | die Art                     | tipo, maneira                       |
 | die Rente                   | aposentadoria                       |
 | der Konkurs                 | falência                            |
-| das Gymnasium               | ensino médio                        |
+| das Gymnasium               | escola secundária (até o *Abitur*)  |
 | aktuell                     | atual                               |
 | sensibel                    | sensível                            |
 | arbeitslos                  | desempregado                        |

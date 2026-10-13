@@ -17,11 +17,11 @@ Look at these words. You can already read most of them, and Brazilians use them 
 
 | English | Portuguese | How it sounds |
 |---|---|---|
-| chocolate | {{chocolate}} | `sho-ko-LAH-tchee` |
+| chocolate | {{chocolate}} | `shoh-koh-LAH-tchee` |
 | hotel | {{hotel}} | `oh-TEH-oo` |
 | banana | {{banana}} | `bah-NAH-nah` |
 | family | {{família}} | `fah-MEE-lyah` |
-| important | {{importante}} | `eem-por-TAH~-tchee` |
+| important | {{importante}} | `ee~-por-TAH~-tchee` |
 | restaurant | {{restaurante}} | `heh-stow-RAH~-tchee` |
 | animal | {{animal}} | `ah-nee-MAH-oo` |
 | nation | {{nação}} | `nah-SOW~` |
@@ -49,7 +49,7 @@ Next to many Portuguese words you will see a guide like `bah-NAH-nah`. It is an 
 | `h` | the Brazilian *r* at the start of a word: like English *h* in *hot* | {{rua}} `HOO-ah` |
 | `oo` at the end | the Portuguese final *l* or *-o*: like *oo* in *zoo* | {{Brasil}} `brah-ZEE-oo` |
 
-The guide is a bridge, not the destination. After a few weeks you will stop needing it. Its limits are honest ones: it cannot show the difference between the open and the closed *e* or *o* (the accent marks do that, see 1.5), and it cannot show the melody of a sentence. For those, listen.
+The guide is a bridge, not the destination. After a few weeks you will stop needing it. For **o**, the guide writes the open sound as `aw` ({{avó}} `ah-VAW`, {{hora}} `AW-rah`) and the closed sound as `oh` ({{avô}} `ah-VOH`, {{bolo}} `BOH-loo`). Its limits are honest ones: it cannot show the difference between the open and the closed *e*, which are both written `eh` (the accent marks help, see 1.5), and it cannot show the melody of a sentence. For those, listen.
 
 ## 1.4 The alphabet and the letter names
 
@@ -66,10 +66,10 @@ Portuguese uses the same 26 letters as English. The letters **k**, **w** and **y
 | G g | {{gê}} | `zheh` | {{gato}} (cat) |
 | H h | {{agá}} | `ah-GAH` | {{hotel}} (hotel) |
 | I i | {{i}} | `ee` | {{ilha}} (island) |
-| J j | {{jota}} | `ZHOH-tah` | {{janeiro}} (January) |
+| J j | {{jota}} | `ZHAW-tah` | {{janeiro}} (January) |
 | K k | {{cá}} | `kah` | {{kiwi}} (kiwi) |
 | L l | {{ele}} | `EH-lee` | {{livro}} (book) |
-| M m | {{eme}} | `EH~-mee` | {{mãe}} (mother) |
+| M m | {{eme}} | `EH-mee` | {{mãe}} (mother) |
 | N n | {{ene}} | `EH-nee` | {{nome}} (name) |
 | O o | {{ó}} | `aw` | {{obrigado}} (thank you) |
 | P p | {{pê}} | `peh` | {{pão}} (bread) |
@@ -81,14 +81,14 @@ Portuguese uses the same 26 letters as English. The letters **k**, **w** and **y
 | V v | {{vê}} | `veh` | {{vinho}} (wine) |
 | W w | {{dáblio}} | `DAH-blee-oo` | {{web}} (web) |
 | X x | {{xis}} | `sheess` | {{xícara}} (cup) |
-| Y y | {{ípsilon}} | `EEP-see-lon` | {{yoga}} (yoga) |
+| Y y | {{ípsilon}} | `EEP-see-loh~` | {{yoga}} (yoga) |
 | Z z | {{zê}} | `zeh` | {{zero}} (zero) |
 
 ::: atencao
 Four names trip up English speakers every time. **G** is not *gee*: it is {{gê}}. **J** is not *jay*: it is {{jota}}. **E** is not *ee*: it is {{é}}. **I** is not *eye*: it is {{i}}, like the *ee* in *see*. Say them out loud ten times; people will hear them constantly.
 :::
 
-**The letter H is silent.** {{Hotel}} `oh-TEH-oo`, {{hoje}} `OH-zhee`, {{homem}} `OH~-meh~ee`. It only does something inside two digraphs: {{ch}} `sh` and {{lh}} `ly`, and {{nh}} `ny` (see 1.8).
+**The letter H is silent.** {{Hotel}} `oh-TEH-oo`, {{hoje}} `OH-zhee`, {{homem}} `OH-meh~ee`. It only does something inside three digraphs: {{ch}} `sh` and {{lh}} `ly`, and {{nh}} `ny` (see 1.8).
 
 To spell an e-mail, say {{arroba}} for @ and {{ponto}} for the dot: {{ana ponto silva arroba exemplo ponto com ponto bê erre}} is ana.silva@exemplo.com.br.
 
@@ -167,7 +167,7 @@ The *m* or *n* is not a separate consonant sound. It is only the sign that the v
 Three endings need special attention because you will use them all the time:
 
 - **-ão** (stressed): {{pão}}, {{não}}, {{coração}}. A nasal *ow*, one syllable.
-- **-am** and **-em** (unstressed endings of third-person plural verbs): {{falam}} `FAH-lah~oo` ends in a short nasal *ow*; {{comem}} `KOH-meh~ee` ends in a nasal *ay*.
+- **-am** and **-em** (unstressed endings of third-person plural verbs): {{falam}} `FAH-lah~oo` ends in a short nasal *ow*; {{comem}} `KAW-meh~ee` ends in a nasal *ay*.
 - **-ões** and **-ães**: the plural of words in {{-ão}}: {{limões}} `lee-MOH~eess`, {{pães}} `PAH~eess`.
 
 ::: comparacao
@@ -261,7 +261,7 @@ This happens in {{dia}}, in {{tarde}} `TAR-djee` (afternoon) and in {{boa noite}
 The letter **r** has several sounds, and English speakers usually make the wrong one everywhere. Forget the English *r* completely (the one with the tongue curled back). Portuguese has two main sounds:
 
 ::: passo 1 The "h" R: at the start of a word, after n, l, s, and in rr
-This sound is a breath from the back of the throat, close to the English *h* in *hot*. In Rio it is a little rougher, in São Paulo it is softer, in the countryside of São Paulo and Minas it may be a retroflex sound, and all of them are understood.
+This sound is a breath from the back of the throat, close to the English *h* in *hot*. In Rio it is a little rougher, in São Paulo it is softer, and all of them are understood.
 
 {{rua}} `HOO-ah` (street), {{rio}} `HEE-oo` (river), {{carro}} `KAH-hoo` (car), {{Israel}} `ees-hah-EH-oo`, {{honra}} `OH~-hah` (honor)
 :::
@@ -269,10 +269,10 @@ This sound is a breath from the back of the throat, close to the English *h* in 
 ::: passo 2 The tap R: between vowels, and after a consonant inside a word
 This is a quick flick of the tongue tip against the ridge behind the upper teeth. English makes the same sound in American *butter*, *ladder* and *better*.
 
-{{caro}} `KAH-roo` (expensive), {{hora}} `OH-rah` (hour), {{para}} `PAH-rah`, {{obrigado}}, {{três}} `trehss`, {{livro}}
+{{caro}} `KAH-roo` (expensive), {{hora}} `AW-rah` (hour), {{para}} `PAH-rah`, {{obrigado}}, {{três}} `trehss`, {{livro}}
 :::
 
-At the **end of a word** (**falar**, **comer**, **amor**), the r varies a lot: a soft tap, an *h*, or almost nothing in fast speech. In this book, the guide writes it as a plain `r` and you can use any of the three. Remember the two examples that show the difference: {{caro}} `KAH-roo` (expensive) and {{carro}} `KAH-hoo` (car). One extra *r* changes the sound **and** the meaning.
+At the **end of a word** (**falar**, **comer**, **amor**), the r varies a lot: a soft tap, an *h*, a retroflex sound close to the English *r* (in the countryside of São Paulo and in parts of Minas), or almost nothing in fast speech. In this book, the guide writes it as a plain `r` and you can use any of the three. Remember the two examples that show the difference: {{caro}} `KAH-roo` (expensive) and {{carro}} `KAH-hoo` (car). One extra *r* changes the sound **and** the meaning.
 
 ## 1.10 Stress: which syllable is strong
 
@@ -283,7 +283,7 @@ If the word has an accent mark (**´**, **^**, or the tilde **~** in some words)
 :::
 
 ::: passo 2 With no mark, look at the ending
-If the word ends in **-a, -e, -o, -as, -es, -os, -am, -em, -ens**, the stress falls on the **second-to-last** syllable: {{casa}} `KAH-zah`, {{amigo}} `ah-MEE-goo`, {{obrigado}} `oh-bree-GAH-doo`, {{tarde}} `TAR-djee`, {{homem}} `OH~-meh~ee`, {{falam}} `FAH-lah~oo`.
+If the word ends in **-a, -e, -o, -as, -es, -os, -am, -em, -ens**, the stress falls on the **second-to-last** syllable: {{casa}} `KAH-zah`, {{amigo}} `ah-MEE-goo`, {{obrigado}} `oh-bree-GAH-doo`, {{tarde}} `TAR-djee`, {{homem}} `OH-meh~ee`, {{falam}} `FAH-lah~oo`.
 
 If the word ends in **-i, -is, -u, -us, -l, -r, -z, -im, -um, -ão, -ã**, the stress falls on the **last** syllable: {{falar}} `fah-LAR`, {{Brasil}} `brah-ZEE-oo`, {{feliz}} `feh-LEES`, {{aqui}} `ah-KEE`, {{jardim}} `zhar-DJEE~` (garden), {{irmã}} `eer-MAH~` (sister), {{coração}} `koh-rah-SOW~`.
 :::
@@ -331,7 +331,7 @@ You will use these in your first hour in Brazil. Say each one aloud three times.
 | {{Com licença.}} | `koh~ lee-SEH~-sah` | Excuse me (to pass or to enter). |
 | {{Desculpe. / Desculpa.}} | `djees-KOOL-pee / djees-KOOL-pah` | Sorry. |
 | {{Tchau!}} | `tchow` | Bye! |
-| {{Até logo.}} | `ah-TEH LOH-goo` | See you soon. |
+| {{Até logo.}} | `ah-TEH LAW-goo` | See you soon. |
 
 ::: passo 1 Use bom dia, boa tarde and boa noite by the clock
 {{Bom dia}} until about noon, {{boa tarde}} from noon until it gets dark, {{boa noite}} after that. Notice that **dia** is masculine and takes {{bom}}, while **tarde** and **noite** are feminine and take {{boa}}. Brazilians use {{boa noite}} both to arrive and to leave, unlike English, which splits *good evening* and *good night*.
@@ -351,7 +351,7 @@ Read the text aloud, slowly, then read it again, with the guide covered. The fir
 
 > {{Eu sou a Marina. Moro em São Paulo, no Brasil. Hoje é domingo e a minha família vem aqui em casa. A minha mãe faz um bolo de chocolate, o meu pai prepara um café e o meu irmão traz pão. Tudo está pronto e a minha família está muito feliz.}}
 
-Guide: `EH-oo SOH ah mah-REE-nah. MOH-roo eh~ee sow~ POW-loo, noo brah-ZEE-oo. OH-zhee eh doh-MEE~-goo ee ah MEE-nyah fah-MEE-lyah veh~ee ah-KEE eh~ee KAH-zah. ah MEE-nyah MAH~ee fahss oo~ BOH-loo djee sho-ko-LAH-tchee, oo MEH-oo pie pree-PAH-rah oo~ kah-FEH, oo MEH-oo eer-MOW~ trahss POW~. TOO-doo ehs-TAH PROH~-too ee ah MEE-nyah fah-MEE-lyah ehs-TAH MOO~ee-too feh-LEES.`
+Guide: `EH-oo SOH ah mah-REE-nah. MAW-roo eh~ee sow~ POW-loo, noo brah-ZEE-oo. OH-zhee eh doh-MEE~-goo ee ah MEE-nyah fah-MEE-lyah veh~ee ah-KEE eh~ee KAH-zah. ah MEE-nyah MAH~ee fahss oo~ BOH-loo djee shoh-koh-LAH-tchee, oo MEH-oo pie pree-PAH-rah oo~ kah-FEH ee oo MEH-oo eer-MOW~ trahss POW~. TOO-doo ehs-TAH PROH~-too ee ah MEE-nyah fah-MEE-lyah ehs-TAH MOO~ee-too feh-LEES.`
 
 Translation: *I am Marina. I live in São Paulo, in Brazil. Today is Sunday and my family comes here to the house. My mother makes a chocolate cake, my father prepares a coffee and my brother brings bread. Everything is ready and my family is very happy.*
 
@@ -462,7 +462,7 @@ For each word, choose the stressed syllable.
 - **R:** initial and **rr** = *h*; between vowels = tap.
 - **T, D before *i*:** *tch*, *dj*: {{dia}}, {{noite}}.
 - **Final L** = *oo*: {{Brasil}} `brah-ZEE-oo`.
-- **Stress:** accent mark wins; otherwise **-a, -e, -o, -s, -m** = second-to-last; **-i, -u, -l, -r, -z, -ão** = last.
+- **Stress:** accent mark wins; otherwise **-a, -e, -o** (also with **-s**), **-am, -em, -ens** = second-to-last; **-i, -u** (also with **-s**), **-l, -r, -z, -im, -um, -ão, -ã** = last.
 - **Politeness:** {{bom dia}} (masc.), {{boa tarde}}, {{boa noite}} (fem.); {{obrigado}} (man), {{obrigada}} (woman).
 :::
 

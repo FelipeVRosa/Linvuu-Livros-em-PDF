@@ -41,7 +41,7 @@ English builds every sentence from the same bricks: a subject, a verb, and a for
 2. **"You" is one word.** English has a single *you*. Portuguese has {{você}} for one person and {{vocês}} for several, and the verb changes with them.
 3. **Adjectives are not frozen.** *Tall* is *tall* for a man, a woman or ten people. Portuguese adjectives take the gender and number of the person described: {{alto}}, {{alta}}, {{altos}}, {{altas}}.
 
-There is a fourth trap, and you will meet it in 2.11: English says "I am twenty", Portuguese says "I have twenty years".
+There is a fourth trap, and you will meet it in 2.10: English says "I am twenty", Portuguese says "I have twenty years".
 
 ## 2.3 The subject pronouns
 
@@ -163,7 +163,7 @@ Here are the matching questions. Memorize them as blocks:
 | {{Quem é ele?}} | `KEH~ee eh EH-lee` | Who is he? |
 
 ::: passo 1 Use "de" with a city and "do/da" with a country
-Cities take plain {{de}}: {{Sou de São Paulo}}, {{Sou de Londres}}. Most country names take an article, and {{de}} fuses with it: {{de + o = do}}, {{de + a = da}}. So {{Sou do Brasil}}, {{Sou do Canadá}}, {{Sou da Alemanha}}, {{Sou da França}}. Portugal and a few others take no article: {{Sou de Portugal}}. Lesson 3 explains these fusions, called contractions. For now learn the countries in the table in 2.10 together with their {{do/da}}.
+Cities take plain {{de}}: {{Sou de São Paulo}}, {{Sou de Londres}}. Most country names take an article, and {{de}} fuses with it: {{de + o = do}}, {{de + a = da}}. So {{Sou do Brasil}}, {{Sou do Canadá}}, {{Sou da Alemanha}}, {{Sou da França}}. Portugal and a few others take no article: {{Sou de Portugal}}. Lesson 3 explains these fusions, called contractions. For now learn the countries in the table in 2.8 together with their {{do/da}}.
 :::
 
 ::: passo 2 Say your profession with no article
@@ -270,7 +270,7 @@ Nationalities are adjectives, so they agree. They are written with a **small let
 | {{o Brasil}} | `brah-ZEE-oo` | {{brasileiro / brasileira}} | `brah-zee-LAY-roo` |
 | {{os Estados Unidos}} | `ehs-TAH-dooss oo-NEE-dooss` | {{americano / americana}} | `ah-meh-ree-KAH-noo` |
 | {{o Canadá}} | `kah-nah-DAH` | {{canadense}} | `kah-nah-DEH~-see` |
-| {{a Inglaterra}} | `ee~-gleh-TEH-hah` | {{inglês / inglesa}} | `ee~-GLEHSS` |
+| {{a Inglaterra}} | `ee~-glah-TEH-hah` | {{inglês / inglesa}} | `ee~-GLEHSS` |
 | {{a Irlanda}} | `eer-LAH~-dah` | {{irlandês / irlandesa}} | `eer-lah~-DEHSS` |
 | {{a Austrália}} | `ow-STRAH-lee-ah` | {{australiano / australiana}} | `ow-strah-lee-AH-noo` |
 | {{a Alemanha}} | `ah-leh-MAH-nyah` | {{alemão / alemã}} | `ah-leh-MOW~` |

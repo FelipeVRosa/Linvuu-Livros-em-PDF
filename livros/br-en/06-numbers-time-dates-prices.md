@@ -115,7 +115,7 @@ The hundreds are the part where English speakers make mistakes, because there is
 | 600 | {{seiscentos / seiscentas}} | `say-SEH~-tooss` |
 | 700 | {{setecentos / setecentas}} | `seh-tchee-SEH~-tooss` |
 | 800 | {{oitocentos / oitocentas}} | `oy-too-SEH~-tooss` |
-| 900 | {{novecentos / novecentas}} | `noh-vee-SEH~-tooss` |
+| 900 | {{novecentos / novecentas}} | `naw-vee-SEH~-tooss` |
 | 1,000 | {{mil}} | `MEE-oo` |
 
 ::: passo 1 Use "cem" and "cento" correctly
@@ -227,11 +227,11 @@ In daily speech Brazilians drop {{-feira}}: {{segunda}}, {{terça}}, {{quarta}},
 | {{janeiro}} | `zhah-NAY-roo` | {{julho}} | `ZHOO-lyoo` |
 | {{fevereiro}} | `feh-veh-RAY-roo` | {{agosto}} | `ah-GOHS-too` |
 | {{março}} | `MAR-soo` | {{setembro}} | `seh-TEH~-broo` |
-| {{abril}} | `ah-BREE-oo` | {{outubro}} | `ow-TOO-broo` |
+| {{abril}} | `ah-BREE-oo` | {{outubro}} | `oh-TOO-broo` |
 | {{maio}} | `MIE-oo` | {{novembro}} | `noh-VEH~-broo` |
 | {{junho}} | `ZHOO-nyoo` | {{dezembro}} | `deh-ZEH~-broo` |
 
-The months are not capitalized either. Use **em** with a month: {{em maio}}, {{em dezembro}}. The seasons: {{o verão}} `oo veh-ROW~` (summer), {{o outono}} `oo ow-TOH-noo` (autumn), {{o inverno}} `oo ee~-VEHR-noo` (winter), {{a primavera}} `ah pree-mah-VEH-rah` (spring). In Brazil, which is in the Southern Hemisphere, summer runs from December to March, and the New Year is celebrated in the heat. Say {{no verão}}, {{no inverno}}, {{na primavera}}.
+The months are not capitalized either. Use **em** with a month: {{em maio}}, {{em dezembro}}. The seasons: {{o verão}} `oo veh-ROW~` (summer), {{o outono}} `oo oh-TOH-noo` (autumn), {{o inverno}} `oo ee~-VEHR-noo` (winter), {{a primavera}} `ah pree-mah-VEH-rah` (spring). In Brazil, which is in the Southern Hemisphere, summer runs from December to March, and the New Year is celebrated in the heat. Say {{no verão}}, {{no inverno}}, {{na primavera}}.
 
 ### Saying the date
 
@@ -245,7 +245,7 @@ The pattern is **cardinal number + {{de}} + month**: {{vinte e cinco de dezembro
 
 ## 6.9 Prices and money
 
-The Brazilian currency is the {{real}} `hay-AH-oo` (plural {{reais}} `hay-IESS`), written R$. A hundredth is a {{centavo}} `seh~-TAH-voo`. Notice that Brazilians write the decimal comma: R$ 12,50.
+The Brazilian currency is the {{real}} `heh-AH-oo` (plural {{reais}} `heh-IESS`), written R$. A hundredth is a {{centavo}} `seh~-TAH-voo`. Notice that Brazilians write the decimal comma: R$ 12,50.
 
 | Written | Said |
 |---|---|
@@ -312,7 +312,7 @@ Read the text aloud, first with the guide, then without it.
 
 > {{O café da Rua das Flores abre às sete da manhã e fecha às nove da noite, de segunda a sábado. No domingo, abre ao meio-dia. Um café custa quatro reais e cinquenta centavos. Um pão de queijo custa seis reais.}}
 
-Guide: `oo kah-FEH dah HOO-ah dahss FLOH-reess AH-bree ahss SEH-tchee dah mah-NYAH~ ee FEH-shah ahss NAW-vee dah NOY-tchee, djee seh-GOO~-dah ah SAH-bah-doo. noo doh-MEE~-goo, AH-bree ow MAY-oo DJEE-ah. oo~ kah-FEH KOOS-tah KWAH-troo hay-IESS ee see~-KWEH~-tah seh~-TAH-vooss. oo~ POW~ djee KAY-zhoo KOOS-tah SAYSS hay-IESS.`
+Guide: `oo kah-FEH dah HOO-ah dahss FLOH-reess AH-bree ahss SEH-tchee dah mah-NYAH~ ee FEH-shah ahss NAW-vee dah NOY-tchee, djee seh-GOO~-dah ah SAH-bah-doo. noo doh-MEE~-goo, AH-bree ow MAY-oo DJEE-ah. oo~ kah-FEH KOOS-tah KWAH-troo heh-IESS ee see~-KWEH~-tah seh~-TAH-vooss. oo~ POW~ djee KAY-zhoo KOOS-tah SAYSS heh-IESS.`
 
 Translation: *The café on Flowers Street opens at seven in the morning and closes at nine at night, from Monday to Saturday. On Sunday, it opens at noon. A coffee costs four reais fifty. A cheese bread costs six reais.*
 

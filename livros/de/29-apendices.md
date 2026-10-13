@@ -119,7 +119,7 @@ Exemplos do capítulo 13: *der rote Rucksack* (A), *ein blaues Auto* (B), *viele
 
 ### Comparativo e superlativo
 
-Capítulo 12. O comparativo é adjetivo + **-er** e leva **als**. O superlativo é **am** + adjetivo + **-sten** (**-esten** depois de d, t, s, ß, z, sch). A igualdade usa **so … wie**. Muitos adjetivos curtos ganham trema (*alt, jung, groß, lang, kurz, warm, kalt, stark*). Antes do substantivo, o comparativo e o superlativo também recebem o final do quadro acima: *die größere Wohnung*.
+Capítulo 12. O comparativo é adjetivo + **-er** e leva **als**. O superlativo é **am** + adjetivo + **-sten** (**-esten** depois de d, t, s, ß, z, sch; exceção: *am größten*). A igualdade usa **so … wie**. Muitos adjetivos curtos ganham trema (*alt, jung, groß, lang, kurz, warm, kalt, stark*). Antes do substantivo, o comparativo e o superlativo também recebem o final do quadro acima: *die größere Wohnung*.
 
 | Positivo | Comparativo | Superlativo |
 |---|---|---|
@@ -502,7 +502,7 @@ Os termos da escola brasileira vêm na primeira coluna. Quando o livro dá nome 
 | sujeito | das Subjekt | |
 | objeto direto | das Akkusativobjekt | |
 | objeto indireto | das Dativobjekt | |
-| adjunto adverbial de tempo, modo, lugar | die Temporal-, Modal- e Lokalangabe | a ordem está no capítulo 26 |
+| adjunto adverbial de tempo, modo, lugar | die Temporal-, Modal- und Lokalangabe | a ordem está no capítulo 26 |
 | pergunta de sim ou não | die Ja-Nein-Frage | verbo na posição 1 (capítulo 4) |
 | pergunta com palavra interrogativa | die W-Frage | |
 | negação | die Verneinung | *nicht* e *kein* (capítulo 6) |

@@ -83,10 +83,10 @@ Four common adjectives have their own comparative forms. Using {{mais}} with the
 
 | Adjective | Comparative | Guide | Example |
 |---|---|---|---|
-| {{bom}} (good) | {{melhor}} (better) | `meh-LYOR` | {{Este café é melhor do que aquele.}} |
-| {{mau, ruim}} (bad) | {{pior}} (worse) | `pyor` | {{O tempo hoje está pior do que ontem.}} |
-| {{grande}} (big) | {{maior}} (bigger) | `mah-YOR` | {{A minha casa é maior do que a sua.}} |
-| {{pequeno}} (small) | {{menor}} (smaller) | `meh-NOR` | {{O quarto é menor do que a sala.}} |
+| {{bom}} (good) | {{melhor}} (better) | `meh-LYAWR` | {{Este café é melhor do que aquele.}} |
+| {{mau, ruim}} (bad) | {{pior}} (worse) | `pyawr` | {{O tempo hoje está pior do que ontem.}} |
+| {{grande}} (big) | {{maior}} (bigger) | `mah-YAWR` | {{A minha casa é maior do que a sua.}} |
+| {{pequeno}} (small) | {{menor}} (smaller) | `meh-NAWR` | {{O quarto é menor do que a sala.}} |
 
 {{Melhor}} and {{pior}} also work as adverbs: {{Ela fala melhor do que eu}} (She speaks better than I do); {{Eu durmo pior no calor}} (I sleep worse in the heat). For size, {{maior}} and {{menor}} are the usual words. For age, {{mais velho}} and {{mais novo}}: {{Meu irmão é mais novo do que eu}}.
 
@@ -140,8 +140,8 @@ The command for {{você}} and {{vocês}} is built from the {{eu}} form of the pr
 | {{abrir}} | {{abro}} | {{abra}} `AH-brah` | {{abram}} `AH-brah~oo` | open |
 | {{fazer}} | {{faço}} | {{faça}} `FAH-sah` | {{façam}} | do |
 | {{dizer}} | {{digo}} | {{diga}} `DJEE-gah` | {{digam}} | say |
-| {{ter}} | {{tenho}} | {{tenha}} `TEH~-nyah` | {{tenham}} | have |
-| {{vir}} | {{venho}} | {{venha}} `VEH~-nyah` | {{venham}} | come |
+| {{ter}} | {{tenho}} | {{tenha}} `TEH-nyah` | {{tenham}} | have |
+| {{vir}} | {{venho}} | {{venha}} `VEH-nyah` | {{venham}} | come |
 | {{ver}} | {{vejo}} | {{veja}} `VEH-zhah` | {{vejam}} | see |
 | {{trazer}} | {{trago}} | {{traga}} `TRAH-gah` | {{tragam}} | bring |
 | {{sair}} | {{saio}} | {{saia}} `SAH-yah` | {{saiam}} | leave |

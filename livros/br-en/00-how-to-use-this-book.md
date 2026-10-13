@@ -37,7 +37,7 @@ The two main standards are the same language, in the way American and British En
 
 Since the 2009 spelling reform, the two spellings are almost identical, with a few words that still differ ({{fato}} in Brazil, {{facto}} in Portugal). When the European form matters, the book gives it in a short note, and that is all. If you later move to Lisbon, you will need a few weeks to adjust your ear, not a new course.
 
-Brazil itself has many accents: the singing *s* of Rio, the open vowels of the Northeast, the clear *r* of the South. The pronunciation guides in this book describe the standard you hear in São Paulo and on national television, which is understood everywhere.
+Brazil itself has many accents: the *sh*-like *s* of Rio, the open vowels of the Northeast, the clear *r* of the South. The pronunciation guides in this book describe the standard you hear in São Paulo and on national television, which is understood everywhere.
 
 ## 0.3 What A1 and A2 mean
 
@@ -55,7 +55,7 @@ Next to new Portuguese words you will see a guide in backticks, like `bah-NAH-na
 
 Lesson 1 explains the whole system in section 1.3 and teaches the sounds behind it. If a guide ever looks strange, go back to that table. After a few weeks you will stop needing the guides, and the book gradually gives them only for new words.
 
-One honest limit: a guide cannot show the melody of a sentence or the difference between an open and a closed vowel. Use the audio for those.
+For **o**, the guide writes the open sound as `aw` and the closed sound as `oh`. One honest limit: a guide cannot show the melody of a sentence or the difference between an open and a closed **e** (both are written `eh`). Use the audio for those.
 
 ## 0.5 What you will find in each lesson
 

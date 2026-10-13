@@ -124,7 +124,7 @@ A few more {{eu}} forms to learn as you meet them: {{peço}} (from {{pedir}}, to
 Look at the pattern in the {{eu}} forms: they end in **-go** ({{digo}}, {{trago}}), **-ço** ({{conheço}}, {{peço}}), **-ho** ({{venho}}, {{tenho}}, {{ponho}}), **-io** ({{leio}}, {{saio}}), or have a vowel change ({{sei}}, {{vou}}, {{dou}}, {{estou}}). When you meet a new verb, learn the {{eu}} form with the infinitive.
 
 ::: dica
-A spelling reform note. The third-person plural of {{ler}}, {{ver}} and {{crer}} is {{leem}}, {{veem}}, {{creem}}, with no circumflex since 2009. The circumflex survives only in the pair {{tem / têm}} and {{vem / vêm}}, and in {{pôr}}, to separate it from the preposition {{por}}.
+A spelling reform note. The third-person plural of {{ler}}, {{ver}} and {{crer}} is {{leem}}, {{veem}}, {{creem}}, with no circumflex since 2009. Among these marks that distinguish words, the circumflex survives only in the pairs {{tem / têm}} and {{vem / vêm}} (and their compounds, like {{contém / contêm}}), in {{pôr}}, to separate it from the preposition {{por}}, and in {{pôde}} (past: *could*), to separate it from {{pode}}.
 :::
 
 ## 7.7 The modal verbs: poder, querer, saber, dever, precisar

@@ -75,7 +75,7 @@ The plural past has an extra syllable, and the stress moves.
 | Present | Past |
 |---|---|
 | {{falam}} `FAH-lah~oo` | {{falaram}} `fah-LAH-rah~oo` |
-| {{comem}} `KOH-meh~ee` | {{comeram}} `koh-MEH-rah~oo` |
+| {{comem}} `KAW-meh~ee` | {{comeram}} `koh-MEH-rah~oo` |
 | {{abrem}} `AH-breh~ee` | {{abriram}} `ah-BREE-rah~oo` |
 
 For the singular, listen to where the stress is: {{ele fala}} `FAH-lah` (present) and {{ele falou}} `fah-LOH` (past).

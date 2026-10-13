@@ -33,7 +33,7 @@ Count the small words in this scene: {{o}}, {{a}}, {{as}}, {{os}}, {{um}}, {{uma
 | {{ótimo / ótima}} | `AW-tchee-moo` | great |
 | {{o interior}} | `ee~-teh-ree-OR` | the countryside, inland |
 | {{moço}} | `MOH-soo` | young man (a friendly way to address a man) |
-| {{Fica trinta reais.}} | `FEE-kah TREE~-tah hay-IESS` | It comes to thirty reais. |
+| {{Fica trinta reais.}} | `FEE-kah TREE~-tah heh-IESS` | It comes to thirty reais. |
 
 ## 3.2 The trap: everything has a gender
 
@@ -290,7 +290,7 @@ You can now build complete phrases. Read each aloud.
 | {{Tem uns amigos aqui.}} | There are some friends here. |
 | {{As crianças gostam do parque.}} | The children like the park. |
 
-Four new things hide in these sentences, all of which you will meet again: {{moro}} and {{preciso}} are present-tense verbs (Lesson 4), {{fica}} and {{tem}} (Lessons 5 and 7) say where things are and what exists. Treat them as blocks for now.
+Four new things hide in these sentences, all of which you will meet again: {{moro}} and {{preciso}} are present-tense verbs (Lesson 4), {{fica}} and {{tem}} (Lesson 5) say where things are and what exists. Treat them as blocks for now.
 
 ### Vocabulary: things you will name every day
 
@@ -299,10 +299,10 @@ Learn every noun with its article.
 | Masculine | Guide | Feminine | Guide |
 |---|---|---|---|
 | {{o celular}} | `oo seh-loo-LAR` | {{a mala}} | `ah MAH-lah` |
-| {{o passaporte}} | `oo pah-sah-POR-tchee` | {{a mesa}} | `ah MEH-zah` |
+| {{o passaporte}} | `oo pah-sah-PAWR-tchee` | {{a mesa}} | `ah MEH-zah` |
 | {{o dinheiro}} | `oo djee-NYAY-roo` | {{a cadeira}} | `ah kah-DAY-rah` |
 | {{o cartão}} | `oo kar-TOW~` | {{a janela}} | `ah zhah-NEH-lah` |
-| {{o ônibus}} | `oo OH-nee-booss` | {{a porta}} | `ah POR-tah` |
+| {{o ônibus}} | `oo OH-nee-booss` | {{a porta}} | `ah PAWR-tah` |
 | {{o banheiro}} | `oo bah-NYAY-roo` | {{a sacola}} | `ah sah-KAW-lah` |
 | {{o café}} | `oo kah-FEH` | {{a conta}} | `ah KOH~-tah` |
 | {{o pão}} | `oo POW~` | {{a água}} | `ah AH-gwah` |
@@ -363,7 +363,7 @@ Write the plural, with its article.
 :::
 
 ::: exercicio Part C: Fuse the words
-Complete with the contraction of em, de or por with the article. If no contraction is needed, write "X".
+Complete with the contraction of em, de or por with the article. If no contraction is needed, write the preposition alone.
 
 19. Moro ____ Brasil. (em + o)
 20. Ela é ____ Bahia. (de + a)
@@ -425,7 +425,7 @@ Each sentence has one mistake. Correct it, then read the right version aloud.
 21. {{da}}.
 22. {{pelo}}.
 23. {{no}}.
-24. X: with a city that has no article, only {{em}}.
+24. {{em}}: with a city that has no article, there is no contraction; {{em}} stays alone.
 25. {{do}}: the specific coffee here.
 26. {{dos}}.
 27. {{O}}: countries take the article.
