@@ -7,7 +7,7 @@
 Marina faz compras numa barraca de feira em Bolonha, para o jantar do albergue.
 
 ::: dialogo
-**Venditore:** {{Buongiorno! Dica, signora.}}
+**Venditore:** {{Buongiorno! Prego, signora.}}
 
 **Marina:** {{Buongiorno. Prendo il pane e le uova, per favore.}}
 
@@ -19,14 +19,14 @@ Marina faz compras numa barraca de feira em Bolonha, para o jantar do albergue.
 
 **Marina:** {{Due arance, grazie. E gli spinaci: sono freschi?}}
 
-**Venditore:** {{Freschissimi, signora.}}
+**Venditore:** {{Sì, sono freschi di stamattina.}}
 
 **Marina:** {{Allora un chilo. Quanto costa tutto?}}
 
 **Venditore:** {{Dodici euro.}}
 :::
 
-Em português: Bom dia! Pois não, senhora. / Bom dia. Vou levar o pão e os ovos, por favor. / Quantos ovos? / Seis. E depois o açúcar e uma laranja. / Aqui estão os ovos, o pão e o açúcar. Uma laranja ou duas? / Duas laranjas, obrigada. E os espinafres: estão frescos? / Fresquíssimos, senhora. / Então um quilo. Quanto custa tudo? / Doze euros.
+Em português: Bom dia! Pois não, senhora. / Bom dia. Vou levar o pão e os ovos, por favor. / Quantos ovos? / Seis. E depois o açúcar e uma laranja. / Aqui estão os ovos, o pão e o açúcar. Uma laranja ou duas? / Duas laranjas, obrigada. E os espinafres: estão frescos? / Sim, são fresquinhos de hoje de manhã. / Então um quilo. Quanto custa tudo? / Doze euros.
 
 A cena traz quase todas as formas deste capítulo. {{Il pane}} e {{lo zucchero}} são ambos masculinos, mas o artigo é diferente. {{Un'arancia}} tem apóstrofo; {{due arance}} não tem *un*. {{Le uova}} é plural de {{l'uovo}}, uma palavra que muda de gênero no plural. {{Gli spinaci}} usa *gli*, e não *i*. Nenhum desses artigos se traduz por um simples "o".
 
@@ -113,29 +113,15 @@ O italiano é, na maior parte, previsível como o português. A terminação diz
 
 | Terminação | Gênero | Exemplos |
 |---|---|---|
-| {{-o}} | masculino | {{il libro}}, {{il treno}}, {{il caffè}}? não, veja abaixo |
-| {{-a}} | feminino | {{la casa}}, {{la strada}}, {{la notte}}? não, veja abaixo |
-| {{-e}} | ambos | {{il nome}}, {{il padre}}; {{la notte}}, {{la madre}} |
-
-Substituindo a tabela acima por uma que não se contradiga:
-
-| Terminação | Gênero | Exemplos |
-|---|---|---|
-| {{-o}} | masculino | {{il libro}}, {{il treno}}, {{il mese}}? |
-
-Para evitar dúvidas, vá direto às terminações com regra firme.
-
-| Terminação | Gênero | Exemplos |
-|---|---|---|
 | {{-o}} | quase sempre masculino | {{il libro}}, {{il treno}}, {{il giorno}} |
 | {{-a}} | quase sempre feminino | {{la casa}}, {{la strada}}, {{la camera}} |
 | {{-e}} | masculino ou feminino; aprenda com o artigo | {{il nome}}, {{il padre}}, {{la notte}}, {{la madre}} |
 | {{-ore}} | masculino | {{il motore}}, {{il colore}}, {{il dottore}} |
-| {{-ione}}, {{-tà}}, {{-tù}} | feminino | {{la stazione}}, {{la città}}, {{la virtù}} |
+| {{-ione}}, {{-tà}}, {{-tù}} | feminino (poucas exceções, como {{il campione}}) | {{la stazione}}, {{la città}}, {{la virtù}} |
 | {{-ma}} (de origem grega) | masculino | {{il problema}}, {{il programma}}, {{il sistema}}, {{il tema}} |
 | consoante final (palavras estrangeiras) | quase sempre masculino | {{il bar}}, {{il film}}, {{il computer}}, {{lo sport}} |
 
-Exceções importantes. Quatro palavras terminadas em *-o* são femininas porque são abreviações: {{la mano}} (esta não é abreviação, é herança do latim), {{la foto}} ({{fotografia}}), {{la moto}} ({{motocicletta}}) e {{la radio}}. E {{l'auto}} ({{automobile}}) é feminino: {{l'auto nuova}}. Já {{il cinema}} é masculino por abreviação de {{cinematografo}}. Palavras em *-a* que designam homens são masculinas: {{il collega}}, {{il turista}}, {{il pianista}}, {{il dentista}}.
+Exceções importantes. Algumas palavras em *-o* são femininas: {{la mano}} e as abreviações {{la foto}} (de {{fotografia}}), {{la moto}} (de {{motocicletta}}) e {{la radio}}. {{L'auto}} (de {{automobile}}) também é feminina, e {{la mail}} costuma ser feminina. Já {{il cinema}} é masculino (de {{cinematografo}}). Palavras em *-a* que designam homens são masculinas: {{il collega}}, {{il turista}}, {{il pianista}}, {{il dentista}}.
 
 **Profissões e pessoas.** Para designar a pessoa, o gênero acompanha o sexo.
 
@@ -184,7 +170,7 @@ Para o feminino a regra é bem mais simples:
 | {{l'}} / {{le}} | antes de vogal (no plural, {{le}} não se elide) | {{l'amica}}, {{l'arancia}}, {{le amiche}}, {{le arance}} |
 
 ::: atencao
-o artigo é escolhido pela **palavra que vem logo depois**, não pelo substantivo. {{Lo studente}} → {{il bravo studente}}; {{l'amico}} → {{il vecchio amico}}; {{il treno}} → {{lo stesso treno}} ("o mesmo trem"); {{l'uovo}} → {{il bell'uovo}}? Evite se não tiver certeza: leia a palavra imediatamente seguinte.
+o artigo é escolhido pela **palavra que vem logo depois**, não pelo substantivo. {{Lo studente}} → {{il bravo studente}}; {{l'amico}} → {{il vecchio amico}}; {{il treno}} → {{lo stesso treno}} ("o mesmo trem"). Leia sempre a palavra imediatamente seguinte.
 :::
 
 ### Artigos indefinidos
@@ -220,7 +206,7 @@ O feminino de {{-ista}} faz o plural em {{-e}}: {{le turiste}}. O masculino em {
 | {{medico}} | {{medici}} | proparoxítona: -ci |
 | {{psicologo}} | {{psicologi}} | proparoxítona: -gi |
 
-A regra prática (com exceções): palavras em *-co* e *-go* que têm a sílaba forte na **penúltima** fazem o plural em *-chi* / *-ghi* ({{parco}} → {{parchi}}, {{albergo}} → {{alberghi}}, {{fungo}} → {{funghi}}); as que têm sílaba forte na **antepenúltima** fazem em *-ci* / *-gi* ({{medico}} → {{medici}}, {{simpatico}} → {{simpatici}}, {{psicologo}} → {{psicologi}}). A exceção a decorar: {{amico}} → {{amici}} (e {{nemico}} → {{nemici}}). Isso mostra por que o capítulo 1 pediu para você aprender onde cai a sílaba forte. Em dúvida, consulte um dicionário.
+A regra prática (com exceções): palavras em *-co* e *-go* que têm a sílaba forte na **penúltima** fazem o plural em *-chi* / *-ghi* ({{parco}} → {{parchi}}, {{albergo}} → {{alberghi}}, {{fungo}} → {{funghi}}); as que têm sílaba forte na **antepenúltima** fazem em *-ci* / *-gi* ({{medico}} → {{medici}}, {{simpatico}} → {{simpatici}}, {{psicologo}} → {{psicologi}}). As exceções a decorar: {{amico}} → {{amici}}, {{nemico}} → {{nemici}}, {{greco}} → {{greci}}. Isso mostra por que o capítulo 1 pediu para você aprender onde cai a sílaba forte. Em dúvida, consulte um dicionário.
 
 **-cia, -gia.** Aqui a regra é pela letra que vem **antes** do grupo:
 
@@ -413,7 +399,7 @@ Digo {{un amico}} e {{un'amica}} sem errar o apóstrofo.
 
 **Degrau 2.** 1 i medici (proparoxítona). 2 le spiagge (consoante antes de *-gia*). 3 le uova. 4 i laghi (penúltima: mantém o "g" duro). 5 le città. 6 i turisti. 7 le camicie (vogal antes de *-cia*). 8 gli uomini. 9 i film. 10 le amiche.
 
-**Degrau 3.** Respostas pessoais. Confira: {{lo}}/{{gli}} só com s+consoante, z, gn, ps; {{un'}} só com feminino. Item 3: {{I turisti sono stanchi. Le amiche sono brasiliane. Gli studenti hanno delle arance.}} (aceita-se {{Gli studenti hanno arance}}).
+**Degrau 3.** Respostas pessoais. Confira: {{lo}}/{{gli}} só com s+consoante, z, gn, ps; {{un'}} só com feminino. Item 3: {{I turisti sono stanchi. Le amiche sono brasiliane. Gli studenti hanno arance.}} (também certo: {{le arance}}).
 
 **Degrau 4.**
 
