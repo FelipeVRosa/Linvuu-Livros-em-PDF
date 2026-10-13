@@ -237,7 +237,40 @@ In speech, Brazilians often use **em** instead of **a** with movement verbs: {{V
 
 Some adverbs also fuse with {{de}}: {{aqui}} → {{daqui}} `dah-KEE`, {{aí}} → {{daí}} `dah-EE`, {{ali}} → {{dali}} `dah-LEE`, {{lá}} → {{de lá}}. You hear {{Sou daqui}} (I'm from here), {{Saio dali}}, {{Moro perto daqui}} (I live near here).
 
-## 5.9 Read a real text
+## 5.9 Tem or está? Introducing a thing, and locating a known thing
+
+One more contrast makes your Portuguese sound natural, and it needs the vocabulary of a home. First the words.
+
+| Word | Guide | Meaning |
+|---|---|---|
+| {{a sala}} | `ah SAH-lah` | the living room |
+| {{o quarto}} | `oo KWAR-too` | the bedroom |
+| {{a cozinha}} | `ah koh-ZEE-nyah` | the kitchen |
+| {{o banheiro}} | `oo bah-NYAY-roo` | the bathroom |
+| {{a varanda}} | `ah vah-RAH~-dah` | the balcony |
+| {{a cama}} | `ah KAH-mah` | the bed |
+| {{o sofá}} | `oo soh-FAH` | the sofa |
+| {{a geladeira}} | `ah zheh-lah-DAY-rah` | the refrigerator |
+| {{o chuveiro}} | `oo shoo-VAY-roo` | the shower |
+
+Now compare these two pairs.
+
+| Introduce something new with {{tem}} | Locate something known with {{estar}} |
+|---|---|
+| {{Tem um sofá na sala.}} There is a sofa in the living room. | {{O sofá está na sala.}} The sofa is in the living room. |
+| {{Tem uma geladeira na cozinha.}} There is a refrigerator in the kitchen. | {{A geladeira está na cozinha.}} The refrigerator is in the kitchen. |
+| {{Tem um banheiro aqui?}} Is there a bathroom here? | {{Onde está o banheiro?}} Where is the bathroom? |
+
+The difference is **new** against **known**. With {{tem}} you present something the listener may not know about, and the noun usually has {{um}}, {{uma}} or no article at all: {{Tem café?}} With {{estar}} (or {{ficar}}) you say where a specific thing the listener already knows is, and the noun has {{o}} or {{a}}: {{O café está na mesa}}. English does the same with *there is a coffee on the table* against *the coffee is on the table*. So do not say {{Tem o banheiro na sala}}; say {{O banheiro fica ao lado da sala}} or ask {{Onde fica o banheiro?}}
+
+A short exchange to practice, with the roles of Laura and Marcos:
+
+> {{Tem toalha no banheiro?}} Is there a towel in the bathroom?
+> {{Tem, sim. A toalha está atrás da porta.}} Yes, there is. The towel is behind the door.
+
+(New word: {{a toalha}} `ah toh-AH-lyah`, the towel.) Notice how the second answer moves from {{tem}} to {{está}} the moment the towel becomes a known object.
+
+## 5.10 Read a real text
 
 Read the text aloud, first with the guide, then without it.
 
@@ -249,7 +282,7 @@ Translation: *I am Laura and I'm in Rio de Janeiro. The apartment is small, but 
 
 Notice the choices: {{sou}} for her name, {{estou}} for her location and for tiredness, {{é pequeno}} for the apartment's size, {{fica}} for the building's position, {{tem}} for what exists, {{são simpáticas}} for the people's character.
 
-## 5.10 The mistakes English speakers make
+## 5.11 The mistakes English speakers make
 
 ::: erros
 | Wrong | Right | Why |
@@ -268,7 +301,7 @@ Notice the choices: {{sou}} for her name, {{estou}} for her location and for tir
 | {{O hotel está de o lado do banco.}} | {{O hotel fica ao lado do banco.}} | use {{ao lado de}} and fuse {{de + o = do}} |
 :::
 
-## 5.11 Practice
+## 5.12 Practice
 
 ::: exercicio Part A: Choose the right form of estar
 Write the correct form.
@@ -371,7 +404,7 @@ Each sentence has one mistake. Correct it.
 36. A model answer: {{Com licença, onde fica o banco? Onde fica a farmácia? E o supermercado, fica longe?}}
 :::
 
-## 5.12 Return
+## 5.13 Return
 
 These three questions bring back Lessons 1 to 4.
 
@@ -388,7 +421,7 @@ Check: (1) {{moro}} (`MOH-roo`), {{moramos}} (`moh-RAH-mooss`), {{moram}} (`MOH-
 | Day 7 | Say ten sentences with {{ser}} or {{estar}} and say why you chose each. |
 | Day 14 | Write a short message to a host saying that you are tired, hungry, and where the bathroom is. |
 
-## 5.13 Pocket summary: Lesson 5
+## 5.14 Pocket summary: Lesson 5
 
 ::: resumo
 - **Ser** names what something is (identity, origin, profession, lasting qualities, time, event location). **Estar** names how or where it is now (location, feeling, temporary state).
@@ -401,6 +434,6 @@ Check: (1) {{moro}} (`MOH-roo`), {{moramos}} (`moh-RAH-mooss`), {{moram}} (`MOH-
 - **Adjectives with both verbs change meaning:** {{ele é chato}} (annoying person) / {{ele está chato}} (being annoying today).
 :::
 
-## 5.14 What comes next
+## 5.15 What comes next
 
 In Lesson 6 you learn numbers from zero to a thousand, how to tell the time, say the date, and read prices. You will see the surprise of {{são duas horas}} (plural) and {{é uma hora}} (singular), and the Brazilian way of asking {{Quanto custa?}}
