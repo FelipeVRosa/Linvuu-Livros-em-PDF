@@ -201,7 +201,9 @@ und, aber, oder, denn, sondern: sujeito, verbo, ordem de sempre. *Nicht … sond
 
 **Do capítulo 22.** Complete: *Ich \_\_\_\_ gern einen Kaffee.* (haben, Konjunktiv II)
 
-**Do capítulo 21.** Complete: *Nächste Woche \_\_\_\_ wir nach Wien.* (fahren) **Do capítulo 20.** Complete: *Ich interessiere \_\_\_\_ für Musik.*
+**Do capítulo 21.** Complete: *Nächste Woche \_\_\_\_ wir nach Wien.* (fahren)
+
+**Do capítulo 20.** Complete: *Ich interessiere \_\_\_\_ für Musik.*
 
 **Do capítulo 19.** Complete: *Wir \_\_\_\_ gestern lange warten.* (müssen, pretérito)
 

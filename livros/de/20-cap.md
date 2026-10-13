@@ -234,7 +234,9 @@ verbo + preposição + caso, tudo junto. O pronome acompanha o sujeito.
 
 **Do capítulo 18.** Complete: *Sie \_\_\_\_ gestern nach Hause \_\_\_\_.* (gehen, Perfekt)
 
-**Do capítulo 17.** Complete: *Er \_\_\_\_ mich später \_\_\_\_.* (anrufen) **Do capítulo 16.** Complete: *Sie \_\_\_\_ (lesen) ein Buch.*
+**Do capítulo 17.** Complete: *Er \_\_\_\_ mich später \_\_\_\_.* (anrufen)
+
+**Do capítulo 16.** Complete: *Sie \_\_\_\_ (lesen) ein Buch.*
 
 **Do capítulo 15.** Complete: *Wir \_\_\_\_ jetzt gehen.* (müssen)
 

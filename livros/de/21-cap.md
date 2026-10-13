@@ -228,7 +228,9 @@ O erro que mais custa caro é **usar *gehen* + infinitivo como “vou + infiniti
 
 **Do capítulo 18.** Complete: *Ich \_\_\_\_ gestern viel \_\_\_\_.* (lesen, Perfekt)
 
-**Do capítulo 17.** Complete: *Wir \_\_\_\_ morgen früh \_\_\_\_.* (aufstehen) **Do capítulo 16.** Complete: *Du \_\_\_\_ (sprechen) sehr gut Deutsch.*
+**Do capítulo 17.** Complete: *Wir \_\_\_\_ morgen früh \_\_\_\_.* (aufstehen)
+
+**Do capítulo 16.** Complete: *Du \_\_\_\_ (sprechen) sehr gut Deutsch.*
 
 | Quando | O que fazer                                                     |
 |--------|-----------------------------------------------------------------|

@@ -137,7 +137,7 @@ These verbs change the stem of the past tense. Their endings follow one regular 
 | {{pôr}} | {{pus}} `pooss` | {{pôs}} `pohss` | {{pusemos}} | {{puseram}} |
 | {{trazer}} | {{trouxe}} `TROH-see` | {{trouxe}} | {{trouxemos}} | {{trouxeram}} |
 
-Notice the circumflex on {{pôde}} (past) versus {{pode}} (present), and on {{pôs}} (past) versus {{põe}} (present of {{pôr}}). That accent is the only thing that separates them in writing.
+Notice the circumflex on {{pôde}} (past) versus {{pode}} (present): that accent is the only thing that separates them in writing. Do not confuse {{pôs}} (past) with {{põe}} (present of {{pôr}}).
 
 ### A group that is nearly regular but has a different stem: ver, vir, dar, ler
 

@@ -220,7 +220,9 @@ modal na posição 2, infinitivo no fim. E *nicht müssen* não é proibição.
 
 **Do capítulo 13.** Complete: *Ich möchte einen \_\_\_\_ (neu) Tisch kaufen.*
 
-**Do capítulo 12.** Complete: *Ich kann Deutsch \_\_\_\_ (gut) als du sprechen.* (comparativo) **Do capítulo 11.** Complete: *Du kannst \_\_\_\_ (mein) Bruder helfen.*
+**Do capítulo 12.** Complete: *Ich kann Deutsch \_\_\_\_ (gut) als du sprechen.* (comparativo)
+
+**Do capítulo 11.** Complete: *Du kannst \_\_\_\_ (mein) Bruder helfen.*
 
 **Do capítulo 10.** Complete: *Wir müssen zum \_\_\_\_ (Bahnhof) gehen.* (contração: zum + ?)
 

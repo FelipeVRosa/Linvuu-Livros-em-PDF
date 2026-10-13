@@ -57,7 +57,7 @@ English separates these with **different structures**: *used to*, *would*, *was 
 | *I would go to the beach every summer.* | {{Eu ia à praia todo verão.}} |
 | *I lived in Rio for two years.* | {{Eu morei no Rio por dois anos.}} |
 
-The second trap is the other way round. Where English uses one past for two ideas, Portuguese forces you to choose. *I knew her* can mean "I was acquainted with her" or "I met her". Portuguese has {{eu a conhecia}} and {{eu a conheci}}, and they are not the same sentence. That is why this lesson is the most important one of the past tenses: it is not about forms, it is about **point of view**.
+The second trap is the other way round. Where English uses one past for two ideas, Portuguese forces you to choose. *I lived in Rio* can be the background of a story or a closed chapter of your life. Portuguese has {{eu morava no Rio}} and {{eu morei no Rio}}, and they are not the same sentence. That is why this lesson is the most important one of the past tenses: it is not about forms, it is about **point of view**.
 
 ::: comparacao
 | The simple past (Lesson 10) | The imperfect (this lesson) |
@@ -69,7 +69,7 @@ The second trap is the other way round. Where English uses one past for two idea
 
 ## 11.3 The forms: easy, and almost without exceptions
 
-Take the infinitive, remove {{-r}}, and add the endings.
+Take the infinitive, remove {{-ar}}, {{-er}} or {{-ir}}, and add the endings.
 
 | Person | {{-ar}}: {{falar}} | {{-er}}: {{comer}} | {{-ir}}: {{abrir}} |
 |---|---|---|---|
@@ -98,7 +98,7 @@ Everything else is regular. This includes verbs that are very irregular in the s
 - {{poder}}: {{podia}}; {{querer}}: {{queria}}; {{saber}}: {{sabia}}; {{estar}}: {{estava}} `ehs-TAH-vah`
 
 ::: dica
-Learn first the forms you will use for describing: {{era}}, {{tinha}}, {{estava}}, {{ia}}, {{fazia}}. They give you almost every description of the past. If you know these five, you can already say *it was late*, *I had ten years*, *I was tired*, *I was going to*, *it was cold*.
+Learn first the forms you will use for describing: {{era}}, {{tinha}}, {{estava}}, {{ia}}, {{fazia}}. They give you almost every description of the past. If you know these five, you can already say *it was late*, *I was ten*, *I was tired*, *I was going to*, *it was cold*.
 :::
 
 ## 11.4 What the imperfect does
@@ -122,7 +122,7 @@ Whatever you did regularly, you did in the imperfect. English often uses *used t
 - {{Eu jogava futebol com os meus primos.}} (I used to play football with my cousins.)
 - {{Naquela época, a gente não tinha celular.}} (In those days we did not have mobile phones.)
 
-You can also use {{costumar}} `kohs-too-MAR` (to be used to) in the imperfect, followed by an infinitive: {{Eu costumava acordar cedo}} (I used to wake up early).
+You can also use {{costumar}} `kohs-too-MAR` (to usually do, to be in the habit of) in the imperfect, followed by an infinitive: {{Eu costumava acordar cedo}} (I used to wake up early).
 :::
 
 ::: passo 3 Say what was going on when something happened
@@ -388,9 +388,9 @@ Before you go on, answer from earlier lessons, without looking:
 
 1. How do you say *I got up at seven* in the simple past? (Lesson 10; you can use {{levantar}} with or without {{me}}, Lesson 9)
 2. Give three forms of the irregular past of {{fazer}}. (Lesson 10)
-3. How do you say *I have a headache* in the present? (Lesson 5)
+3. How do you say *I am hungry* in the present? (Lesson 5)
 
-Model answers: 1. {{Eu me levantei às sete.}} / {{Levantei às sete.}} 2. {{fiz, fez, fizeram}}. 3. {{Estou com dor de cabeça.}} / {{Tenho dor de cabeça.}}
+Model answers: 1. {{Eu me levantei às sete.}} / {{Levantei às sete.}} 2. {{fiz, fez, fizeram}}. 3. {{Estou com fome.}} / {{Tenho fome.}}
 
 Come back to Part B after one day, three days, a week and two weeks, and say each sentence aloud.
 

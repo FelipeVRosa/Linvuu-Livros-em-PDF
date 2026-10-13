@@ -221,7 +221,9 @@ regular = radical + *-te*. Irregular = vogal nova, sem *-te*. *Ich = er*. E *kon
 
 **Do capítulo 18.** Complete: *Gestern \_\_\_\_ ich nach Berlin \_\_\_\_.* (fahren, Perfekt)
 
-**Do capítulo 17.** Complete: *Ich \_\_\_\_ morgen früh \_\_\_\_.* (aufstehen) **Do capítulo 16.** Complete: *Er \_\_\_\_ (sprechen) sehr schnell.*
+**Do capítulo 17.** Complete: *Ich \_\_\_\_ morgen früh \_\_\_\_.* (aufstehen)
+
+**Do capítulo 16.** Complete: *Er \_\_\_\_ (sprechen) sehr schnell.*
 
 **Do capítulo 15.** Complete: *Du \_\_\_\_ (dürfen) hier nicht parken.*
 

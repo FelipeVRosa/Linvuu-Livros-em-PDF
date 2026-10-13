@@ -239,7 +239,7 @@ After a preposition, the pronoun for "me" is {{mim}} `mee~`, not {{me}} and not 
 | us | {{nós}} / {{a gente}} | {{pra gente}}, {{sem a gente}} |
 | them | {{eles}} / {{elas}} | {{com eles}} |
 
-Three prepositions fuse with the pronouns {{com}} + {{mim}}, {{ti}} and {{nós}}:
+The preposition {{com}} fuses with the pronouns {{mim}}, {{ti}} and {{nós}}:
 
 | With… | Form | Guide | Example |
 |---|---|---|---|

@@ -208,9 +208,13 @@ movimento ou mudança = *sein*. Inseparável e *-ieren* não têm *ge-*. Separá
 
 ## 9. Retorno
 
-**Do capítulo 17.** Complete: *Ich \_\_\_\_ dich später \_\_\_\_.* (anrufen) **Do capítulo 16.** Complete: *Du \_\_\_\_ (nehmen) den Bus.*
+**Do capítulo 17.** Complete: *Ich \_\_\_\_ dich später \_\_\_\_.* (anrufen)
 
-**Do capítulo 15.** Complete: *Wir \_\_\_\_ heute nicht kommen.* (können) **Do capítulo 14.** Complete: *Wegen des \_\_\_\_ (Wetter) bleiben wir zu Hause.*
+**Do capítulo 16.** Complete: *Du \_\_\_\_ (nehmen) den Bus.*
+
+**Do capítulo 15.** Complete: *Wir \_\_\_\_ heute nicht kommen.* (können)
+
+**Do capítulo 14.** Complete: *Wegen des \_\_\_\_ (Wetter) bleiben wir zu Hause.*
 
 **Do capítulo 13.** Complete: *Ich habe einen \_\_\_\_ (groß) Hund.*
 

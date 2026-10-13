@@ -221,7 +221,9 @@ O erro que mais custa caro é **usar *würde* com *haben*, *sein* e modais**: *i
 
 ## 9. Retorno
 
-**Do capítulo 21.** Complete: *Ich \_\_\_\_ dich anrufen.* (werden) **Do capítulo 20.** Complete: *Wir treffen \_\_\_\_ um zehn Uhr.*
+**Do capítulo 21.** Complete: *Ich \_\_\_\_ dich anrufen.* (werden)
+
+**Do capítulo 20.** Complete: *Wir treffen \_\_\_\_ um zehn Uhr.*
 
 **Do capítulo 19.** Complete: *Ich \_\_\_\_ gestern keine Zeit.* (haben, pretérito)
 
@@ -247,7 +249,9 @@ Outros verbos: *würde* + infinitivo no fim.
 
 Trema separa passado de educado: *konnte* ≠ *könnte*.
 
-Conselho: *Du solltest …, An deiner Stelle würde ich …* **Já consigo?**
+Conselho: *Du solltest …, An deiner Stelle würde ich …*
+
+**Já consigo?**
 
 Peço algo num hotel ou numa loja com educação.
 
