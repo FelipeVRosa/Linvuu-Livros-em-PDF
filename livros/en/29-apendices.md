@@ -192,6 +192,23 @@ Procure a frase que parece com a sua. A tabela leva ao capítulo que explica o e
 | ~~That mustn't be true!~~ | {{That can't be true!}} | dedução negativa é {{can't}} | 25 |
 | ~~He must forgot the address.~~ | {{He must have forgotten the address.}} | {{must have}} + 3ª coluna | 25 |
 
+### Ordem das palavras, intensidade e falsos amigos
+
+| Erro | Certo | Em poucas palavras | Cap. |
+|---|---|---|---|
+| ~~I bought yesterday a new phone.~~ | {{I bought a new phone yesterday.}} | o tempo não fica entre o verbo e o objeto | 26 |
+| ~~She speaks very well English.~~ | {{She speaks English very well.}} | verbo e objeto andam juntos | 26 |
+| ~~She explained me the rules.~~ | {{She explained the rules to me.}} | {{explain}} só aceita {{to}} | 26 |
+| ~~I gave him it.~~ | {{I gave it to him.}} | com {{it}} e {{them}}, a pessoa vai com {{to}} | 26 |
+| ~~very fantastic / very terrible~~ | {{absolutely fantastic / really terrible}} | adjetivo forte não aceita {{very}} | 27 |
+| ~~much hot / much good~~ | {{very hot / very good}} | {{much}} não vai com adjetivo | 27 |
+| ~~so a good teacher~~ | {{such a good teacher}} | {{such}} antes de substantivo | 27 |
+| ~~I'm too happy to see you!~~ | {{I'm so happy to see you!}} | {{too}} indica excesso com problema | 27 |
+| ~~a ten-minutes walk~~ | {{a ten-minute walk}} | medida como adjetivo fica no singular | 28 |
+| ~~Actually I live in Recife.~~ | {{Currently I live in Recife.}} | {{actually}} é "na verdade" | 28 |
+| ~~I pretend to travel.~~ | {{I intend to travel.}} | {{pretend}} é "fingir" | 28 |
+| ~~I'll invite all my parents.~~ (querendo dizer parentes) | {{I'll invite all my relatives.}} | {{parents}} são só pai e mãe | 28 |
+
 ## Glossário dos termos gramaticais
 
 Os termos da escola brasileira vêm na primeira coluna. Quando o livro dá nome próprio a uma ideia, isso vem dito na terceira.
@@ -226,6 +243,12 @@ Os termos da escola brasileira vêm na primeira coluna. Quando o livro dá nome 
 | phrasal verb | phrasal verb | verbo + partícula, com sentido próprio (capítulo 18) |
 | question tag | question tag | "né?" em inglês: {{isn't it?}} (capítulo 20) |
 | schwa | schwa | o som fraco "ə" das sílabas sem acento |
+| objeto direto / indireto | direct / indirect object | {{gave **him** the book}}: {{him}} é o indireto e {{the book}} é o direto (capítulo 26) |
+| advérbio de frequência | adverb of frequency | {{always, usually, never}}; ficam antes do verbo principal (capítulo 26) |
+| intensificador | intensifier | {{very, really, quite, extremely}}, que aumentam ou diminuem a força de um adjetivo (capítulo 27) |
+| palavra composta | compound word | duas palavras formando uma ideia, como {{bus stop}} (capítulo 28) |
+| prefixo / sufixo | prefix / suffix | {{un-}}, {{re-}} no começo; {{-er}}, {{-ness}} no fim (capítulo 28) |
+| falso amigo | false friend | palavra parecida com o português e de sentido diferente (capítulo 28) |
 
 ## Mapa de revisão
 
@@ -258,3 +281,6 @@ Use este mapa a cada quatro capítulos, ou quando um erro voltar. Para cada cap�
 | 23 | Voz passiva e causativa | Passe para a passiva: {{They cleaned the room}}. Diga que você mandou cortar o cabelo. |
 | 24 | Discurso indireto | Conte o que alguém disse com {{told me}} e {{said}}. Relate a pergunta {{Where do you live?}}. |
 | 25 | Dedução e modais no passado | Diga {{He must be tired}} e {{He can't be at home}}. Diga {{I should have called}}. |
+| 26 | Ordem dos complementos e advérbios | Diga {{I gave him the book}} de duas maneiras. Corrija ~~I eat often pizza~~ e ~~She explained me the rules~~. |
+| 27 | Intensidade | Diga "muito bom" e "absolutamente incrível". Complete: {{It's \_\_\_\_ a good idea}} e {{It's \_\_\_\_ hot to drink}}. |
+| 28 | Compostas e falsos amigos | Diga "um passeio de vinte minutos" e "ponto de ônibus" em inglês. Para que serve {{currently}}? E {{intend}}? |

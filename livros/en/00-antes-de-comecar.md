@@ -1,6 +1,6 @@
 # Antes de começar
 
-Este livro ensina a gramática do inglês de A1 a A2, com os primeiros passos do B1, para quem fala português do Brasil. Os capítulos 1 a 21 cobrem o que se espera do A1 e do A2. Os capítulos 22 a 25 abrem o B1: hipóteses, voz passiva, discurso indireto e dedução. Se o seu objetivo é o A2, você pode parar no capítulo 21 com a base completa. Se quer seguir adiante, os quatro últimos já o colocam no caminho.
+Este livro ensina a gramática do inglês de A1 a A2, com os primeiros passos do B1, para quem fala português do Brasil. Os capítulos 1 a 21 cobrem o que se espera do A1 e do A2. Os capítulos 22 a 25 abrem o B1: hipóteses, voz passiva, discurso indireto e dedução. Os capítulos 26 a 28 são transversais e de nível A2: ordem das palavras, intensidade ("muito", "demais", "tão") e formação de palavras, com os falsos amigos. Se o seu objetivo é o A2, estude os capítulos 1 a 21 e depois os capítulos 26 a 28. Se quer seguir adiante, os capítulos 22 a 25 já o colocam no caminho do B1.
 
 Cada capítulo parte de um problema que o português cria: um hábito seu, perfeitamente razoável em português, que o inglês não aceita. Quem sabe qual é o hábito corrige o erro em semanas, e não em anos. As próximas páginas explicam como o livro é montado, quais são as cinco diferenças estruturais que mais pesam e que ritmo de estudo funciona de verdade.
 
@@ -78,6 +78,7 @@ Cinco diferenças atravessam o livro inteiro. Leia-as agora e volte a elas quand
 | Base (A1) | 1 a 8 | apresentar-se, pedir, descrever, falar da rotina e do que acontece agora |
 | Ampliação (A1–A2 e A2) | 9 a 21 | habilidades e regras, passado, comparações, planos, experiências, ligar ideias, perguntas naturais e condições reais |
 | Começo do B1 | 22 a 25 | hipóteses, voz passiva, discurso indireto e dedução |
+| Capítulos transversais (A2) | 26 a 28 | ordem das palavras, intensidade (very, so, too, enough), palavras compostas e falsos amigos; podem ser lidos logo depois do capítulo 14, se você preferir |
 
 ## Como estudar com este livro
 
@@ -89,7 +90,7 @@ Cinco diferenças atravessam o livro inteiro. Leia-as agora e volte a elas quand
 | 2 | "Por dentro", as Frases de ouro em voz alta e o Degrau 2. |
 | 3 | Os Degraus 3 e 4, a chave, "O erro típico", as perguntas da seção Retorno e o "Já consigo?". |
 
-Três sessões por semana, em dias alternados, dão um capítulo por semana. Nesse passo, os 25 capítulos levam cerca de seis meses.
+Três sessões por semana, em dias alternados, dão um capítulo por semana. Nesse passo, os 28 capítulos levam cerca de sete meses.
 
 **Quando seguir adiante.** Cada capítulo termina com três afirmações em "Já consigo?". Se você confirma duas, siga. Refaça só o Degrau 4 e deixe o resto para o Retorno. Esperar o domínio total de um capítulo antes do próximo é a forma mais comum de nunca chegar ao fim.
 

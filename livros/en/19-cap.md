@@ -124,6 +124,8 @@ Vale conhecer um detalhe sobre o pronome **{{that}}**:
 
 Quando {{which}} depois de vírgula comenta a **frase inteira** anterior, ele significa **"o que"**: {{The flight was on time, **which** was a great surprise!}} ("...o que foi uma ótima surpresa!").
 
+**{{Whom}} e preposição + relativo (mais formais).** Quando a pessoa é o **objeto** da oração, a escrita formal usa **{{whom}}**: {{The man **whom** you met yesterday is our CEO.}} Na fala, quase todo mundo diz {{who}}, {{that}} ou omite o pronome: {{The man you met yesterday...}}. Com preposição, o inglês de todo dia deixa a preposição no fim da oração ({{The company **we work for**}}, {{the person **I spoke to**}}); o inglês formal puxa a preposição para a frente do pronome: {{the company **for which** we work}}, {{the person **to whom** I spoke}}. Use a forma formal em cartas e relatórios, e a curta na conversa.
+
 ### 5.2 Mapa dos conectores de causa, resultado e contraste
 
 Variar os conectores além de *and, but, because* muda o nível do seu inglês em apresentações, reuniões e textos:
