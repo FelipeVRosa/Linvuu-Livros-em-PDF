@@ -1,6 +1,6 @@
 # Capítulo 3. Gênero, artigos e plural (A1)
 
-**Meta do capítulo.** Ao final, você escolhe entre *le, la, l', les*, *un, une, des* e *du, de la, de l'* sem tradução palavra por palavra, adivinha o gênero de muitas palavras pela terminação e forma o plural dos substantivos mais comuns.
+**Meta do capítulo.** Ao final, você escolhe entre {{le, la, l', les}}, {{un, une, des}} e {{du, de la, de l'}} sem tradução palavra por palavra, adivinha o gênero de muitas palavras pela terminação e forma o plural dos substantivos mais comuns.
 
 ## 1. Cena: na feira de domingo
 
@@ -79,7 +79,7 @@ Se você viu que **quantidade ("um pouco de, alguma") pede du/de la/des**, e **g
 4. **Partitivo (quantidade indefinida):** {{du}} (m.), {{de la}} (f.), {{de l'}} (vogal), {{des}} (plural). Para comida, bebida, matéria: {{du pain}}, {{de la salade}}, {{de l'eau}}, {{des fraises}}.
 5. **Plural:** acrescente **-s**. Os terminados em *-s, -x, -z* não mudam. *-eau* e *-eu* viram *-eaux* e *-eux*. *-al* vira *-aux*.
 6. Gênero pela terminação: *-tion, -té, -ure, -ette, -ance, -ence, -ie, -ée* são femininos; *-age, -ment, -eau, -isme, -oir, -er* são masculinos. Há exceções (seção 5).
-7. **Nunca** deixe um substantivo comum no singular sem determinante.
+7. **Em geral**, um substantivo comum no singular não aparece sem determinante.
 :::::
 
 ## 5. Por dentro
@@ -147,7 +147,7 @@ Compare:
 Para quantidades precisas, o artigo desaparece e fica só **de**: {{beaucoup de pain}}, {{un peu de salade}}, {{un kilo de fraises}}, {{une bouteille d'eau}}. Isso é frequente e vale a pena decorar o bloco: **expressão de quantidade + {{de}}**, sem artigo.
 
 ::: atencao
-{{du}} e {{des}} também são a contração de {{de}} + {{le}} e {{de}} + {{les}} (como em "venho do mercado"). Isso é outra coisa e fica para o capítulo 8. Depois de uma negação, o partitivo também muda ({{Je ne mange pas de pain}}): capítulo 5.
+As formas {{du}} e {{des}} também são a contração de {{de}} + {{le}} e {{de}} + {{les}} (como em "venho do mercado"). Isso é outra coisa e fica para o capítulo 8. Depois de uma negação, o partitivo também muda ({{Je ne mange pas de pain}}): capítulo 5.
 :::
 
 ### O gênero das palavras
@@ -177,15 +177,15 @@ Não existe como saber o gênero de todas as palavras. Mas existem **terminaçõ
 | {{-isme}} | {{le tourisme}} | — |
 | {{-oir}} | {{le miroir}}, {{le couloir}} | — |
 | {{-er}} | {{le dîner}}, {{le boulanger}}, {{le papier}} | {{la mer}} |
-| {{-in}}, {{-ain}} | {{le pain}}, {{le matin}}, {{le jardin}} | {{la fin}}, {{la main}}, {{la faim}} |
+| {{-in}}, {{-ain}} | {{le pain}}, {{le matin}}, {{le jardin}} | {{la fin}}, {{la main}} |
 | {{-al}}, {{-ail}} | {{le journal}}, {{le travail}} | — |
 
 **Sinais extras:**
 
 - **Pessoas**: o gênero costuma seguir o sexo: {{un étudiant}} / {{une étudiante}}, {{le frère}} / {{la sœur}}. Profissões como {{médecin}} e {{professeur}} são tradicionalmente masculinas, mesmo para mulheres ({{Elle est médecin}}); hoje também se vê {{une médecin}} e {{une professeure}}, e o uso varia.
 - **Dias, meses, línguas, cores e estações do ano:** masculinos. {{le lundi}}, {{le français}}, {{le bleu}}.
-- **Terminação em -eur:** nomes de **quem faz** são masculinos ({{le chanteur}}, {{le serveur}}) e os de **qualidade ou sensação** são femininos ({{la fleur}}, {{la couleur}}, {{la chaleur}}, {{la peur}}, {{la douleur}}). Mas há masculinos: {{le moteur}}, {{le bonheur}}, {{le malheur}}.
-- **Terminação em -son:** {{la maison}}, {{la saison}}, {{la raison}}, {{la chanson}}, {{la leçon}} (mas {{le poisson}}, {{le son}}, {{le garçon}}). Já os outros em -on tendem a ser masculinos: {{le salon}}, {{le bouton}}.
+- **Terminação em -eur:** nomes de **quem faz** são masculinos ({{le chanteur}}, {{le serveur}}) e os de **qualidade ou sensação** são femininos ({{la fleur}}, {{la couleur}}, {{la chaleur}}, {{la peur}}, {{la douleur}}). Mas há masculinos: {{le bonheur}}, {{le malheur}}, {{l'honneur}}.
+- **Terminações -son e -çon:** a maioria é feminina ({{la maison}}, {{la saison}}, {{la raison}}, {{la chanson}}, {{la leçon}}), com exceções frequentes ({{le poisson}}, {{le son}}, {{le garçon}}). Os demais em -on tendem a ser masculinos: {{le salon}}, {{le bouton}}.
 
 Algumas palavras mudam de sentido conforme o gênero:
 
@@ -240,27 +240,27 @@ Exceções importantes: {{le bal}} → {{les bals}}, {{le festival}} → {{les f
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. \_\_\_\_ voyage est long. ({{Le}}, {{La}})
-2. \_\_\_\_ mer est calme. ({{Le}}, {{La}})
-3. Je mange \_\_\_\_ pain. ({{du}}, {{de la}})
-4. Je bois \_\_\_\_ eau. ({{de l'}}, {{de la}})
-5. J'ai \_\_\_\_ amis à Lyon. ({{un}}, {{des}})
-6. J'aime \_\_\_\_ fromage. ({{le}}, {{du}})
-7. Il y a \_\_\_\_ salade ? ({{une}}, {{un}})
-8. Un œil, deux \_\_\_\_. ({{œils}}, {{yeux}})
+1. {{\_\_\_\_ voyage est long.}} ({{Le}}, {{La}})
+2. {{\_\_\_\_ mer est calme.}} ({{Le}}, {{La}})
+3. {{Je mange \_\_\_\_ pain.}} ({{du}}, {{de la}})
+4. {{Je bois \_\_\_\_ eau.}} ({{de l'}}, {{de la}})
+5. {{J'ai \_\_\_\_ amis à Lyon.}} ({{un}}, {{des}})
+6. {{J'aime \_\_\_\_ fromage.}} ({{le}}, {{du}})
+7. {{Il y a \_\_\_\_ salade ?}} ({{une}}, {{un}})
+8. {{Un œil, deux \_\_\_\_.}} ({{œils}}, {{yeux}})
 
 **Degrau 2. Complete.**
 
-1. Je mange \_\_\_\_ riz. (partitivo)
-2. Elle boit \_\_\_\_ eau. (partitivo)
-3. Nous prenons \_\_\_\_ salade. (partitivo)
-4. Tu veux \_\_\_\_ fraises ? (partitivo)
-5. \_\_\_\_ mer est calme. (definido)
-6. Hugo prépare \_\_\_\_ voyage. (indefinido)
-7. un journal → des \_\_\_\_
-8. un bateau → des \_\_\_\_
-9. Le nez → les \_\_\_\_
-10. L'œil → les \_\_\_\_
+1. {{Je mange \_\_\_\_ riz. (partitivo)}}
+2. {{Elle boit \_\_\_\_ eau. (partitivo)}}
+3. {{Nous prenons \_\_\_\_ salade. (partitivo)}}
+4. {{Tu veux \_\_\_\_ fraises ? (partitivo)}}
+5. {{\_\_\_\_ mer est calme. (definido)}}
+6. {{Hugo prépare \_\_\_\_ voyage. (indefinido)}}
+7. {{un journal → des \_\_\_\_}}
+8. {{un bateau → des \_\_\_\_}}
+9. {{Le nez → les \_\_\_\_}}
+10. {{L'œil → les \_\_\_\_}}
 
 **Degrau 3. Produza.**
 
@@ -271,13 +271,13 @@ Exceções importantes: {{le bal}} → {{les bals}}, {{le festival}} → {{les f
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1. Je mange pain.
-2. J'ai amis à Lyon.
-3. Je bois du l'eau.
-4. La voyage est long.
-5. J'aime du fromage.
-6. Les journaux sont sur la table.
-7. Elle a un voiture.
+1. {{Je mange pain.}}
+2. {{J'ai amis à Lyon.}}
+3. {{Je bois du l'eau.}}
+4. {{La voyage est long.}}
+5. {{J'aime du fromage.}}
+6. {{Les journaux sont sur la table.}}
+7. {{Elle a un voiture.}}
 :::::
 
 ## 8. O erro típico
@@ -287,12 +287,12 @@ O erro que mais aparece é **deixar o substantivo sem determinante**: ~~Je mange
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~Je mange pain.~~ | {{Je mange du pain.}} | quantidade indefinida pede partitivo |
-| ~~J'ai amis.~~ | {{J'ai des amis.}} | plural indefinido pede {{des}} |
-| ~~Le dent~~ | {{La dent}} | ponte falsa: "o dente" é feminino em francês |
-| ~~La voyage~~ | {{Le voyage}} | ponte falsa: "a viagem" é masculino em francês |
-| ~~J'aime du chocolat.~~ | {{J'aime le chocolat.}} | gostar em geral pede definido |
-| ~~Les chevals~~ | {{Les chevaux}} | {{-al}} → {{-aux}} |
+| {{~~Je mange pain.~~}} | {{Je mange du pain.}} | quantidade indefinida pede partitivo |
+| {{~~J'ai amis.~~}} | {{J'ai des amis.}} | plural indefinido pede {{des}} |
+| {{~~Le dent~~}} | {{La dent}} | ponte falsa: "o dente" é feminino em francês |
+| {{~~La voyage~~}} | {{Le voyage}} | ponte falsa: "a viagem" é masculino em francês |
+| {{~~J'aime du chocolat.~~}} | {{J'aime le chocolat.}} | gostar em geral pede definido |
+| {{~~Les chevals~~}} | {{Les chevaux}} | {{-al}} → {{-aux}} |
 :::
 
 ## 9. Retorno
@@ -306,7 +306,7 @@ O erro que mais aparece é **deixar o substantivo sem determinante**: ~~Je mange
 | Quando | O que fazer |
 |---|---|
 | Dia 1 | Leia a Cena em voz alta e sublinhe cada {{du / de la / des}}. |
-| Dia 3 | Escreva 15 substantivos com o artigo e sua terminação: 5 femininos, 5 masculinos, 5 de que não tem certeza. |
+| Dia 3 | Escreva 15 substantivos com o artigo e sua terminação: 5 femininos, 5 masculinos, 5 sobre os quais você não tem certeza. |
 | Dia 7 | Refaça o Degrau 4 sem a chave. |
 | Dia 14 | Escreva sua lista de compras da semana em francês, com artigos. |
 
@@ -336,28 +336,28 @@ Escolho o artigo de uma palavra nova pela terminação, e conheço as pontes fal
 
 | Francês | Português |
 |---|---|
-| le pain | o pão |
-| le fromage | o queijo |
-| la salade | a salada |
-| la fraise | o morango |
-| le dessert | a sobremesa |
-| l'eau (f.) | a água |
-| le riz | o arroz |
-| le café | o café |
-| le sac | a sacola, a bolsa |
-| le voyage | a viagem |
-| la dent | o dente |
-| la mer | o mar |
-| la chaleur | o calor |
-| le pont | a ponte |
-| l'arbre (m.) | a árvore |
-| le journal | o jornal |
-| l'œil (m.) / les yeux | o olho / os olhos |
-| la journée | o dia (todo) |
-| la chance | a sorte |
-| aimer | gostar, amar |
-| manger / boire | comer / beber |
-| un peu de / beaucoup de | um pouco de / muito |
+| {{le pain}} | o pão |
+| {{le fromage}} | o queijo |
+| {{la salade}} | a salada |
+| {{la fraise}} | o morango |
+| {{le dessert}} | a sobremesa |
+| {{l'eau (f.)}} | a água |
+| {{le riz}} | o arroz |
+| {{le café}} | o café |
+| {{le sac}} | a sacola, a bolsa |
+| {{le voyage}} | a viagem |
+| {{la dent}} | o dente |
+| {{la mer}} | o mar |
+| {{la chaleur}} | o calor |
+| {{le pont}} | a ponte |
+| {{l'arbre (m.)}} | a árvore |
+| {{le journal}} | o jornal |
+| {{l'œil (m.) / les yeux}} | o olho / os olhos |
+| {{la journée}} | o dia (todo) |
+| {{la chance}} | a sorte |
+| {{aimer}} | gostar, amar |
+| {{manger / boire}} | comer / beber |
+| {{un peu de / beaucoup de}} | um pouco de / muito |
 
 ## Chave comentada do capítulo 3
 

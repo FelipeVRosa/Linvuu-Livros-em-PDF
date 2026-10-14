@@ -1,6 +1,6 @@
 # Capítulo 14. Conectores, pronomes relativos e condicional (A2)
 
-**Meta do capítulo.** Ao final, você liga frases com os conectores certos, junta duas informações com *qui*, *que* e *où*, faz pedidos educados com *je voudrais* e *pourriez-vous* e usa *si* + presente para falar de condições.
+**Meta do capítulo.** Ao final, você liga frases com os conectores certos, junta duas informações com {{qui}}, {{que}} e {{où}}, faz pedidos educados com {{je voudrais}} e {{pourriez-vous}} e usa {{si}} + presente para falar de condições.
 
 ## 1. Cena: na recepção do hotel
 
@@ -26,7 +26,7 @@ Repare: a conversa tem três ferramentas novas. **Conectores** ({{parce que, mai
 
 ## 2. A armadilha do português
 
-O português tem um só *que* para tudo: “o quarto **que** dá para a rua” e “o restaurante **que** todo mundo gosta”. O francês separa as funções:
+O português tem um só {{que}} para tudo: “o quarto **que** dá para a rua” e “o restaurante **que** todo mundo gosta”. O francês separa as funções:
 
 | Papel do pronome na oração | Francês | Exemplo |
 |---|---|---|
@@ -36,17 +36,14 @@ O português tem um só *que* para tudo: “o quarto **que** dá para a rua” e
 
 Três hábitos do português atrapalham:
 
-1.  **O *que* único.** Se não fizer a escolha entre *qui* e *que*, você erra: {{~~le film qui j'ai vu~~}}. O truque está logo abaixo.
-
-2.  **O pronome repetido na fala.** O português falado diz “o cara que eu vi *ele* ontem” ou “o restaurante que eu comi *lá*”. O francês nunca repete: {{l'homme que j'ai vu}}, {{le restaurant où j'ai mangé}}.
-
-3.  **O *que* para lugar e tempo.** No português informal, “a cidade que eu moro” e “o dia que eu cheguei” são comuns. O francês exige *où*: {{la ville où j'habite}}, {{le jour où je suis arrivé}}.
+1. **O {{que}} único.** Se não fizer a escolha entre {{qui}} e {{que}}, você erra: {{~~le film qui j'ai vu~~}}. O truque está logo abaixo.
+2. **O pronome repetido na fala.** O português falado diz “o cara que eu vi *ele* ontem” ou “o restaurante que eu comi *lá*”. O francês nunca repete: {{l'homme que j'ai vu}}, {{le restaurant où j'ai mangé}}.
+3. **O {{que}} para lugar e tempo.** No português informal, “a cidade que eu moro” e “o dia que eu cheguei” são comuns. O francês exige {{où}}: {{la ville où j'habite}}, {{le jour où je suis arrivé}}.
 
 Duas armadilhas curtas:
 
-*   **Porque.** O português tem *porque* e *por que*. O francês tem {{pourquoi}} (pergunta) e {{parce que}} (resposta): {{Pourquoi tu pleures ? Parce que je suis triste.}}
-
-*   **Se + subjuntivo futuro.** “Se chover, fico em casa” usa um tempo verbal (o futuro do subjuntivo) que não existe em francês. O francês diz {{S'il pleut, je reste à la maison}}, com o **presente**. Compare com o capítulo 13: depois de {{quand}}, futuro; depois de {{si}}, presente.
+- **Porque.** O português tem *porque* e *por que*. O francês tem {{pourquoi}} (pergunta) e {{parce que}} (resposta): {{Pourquoi tu pleures ? Parce que je suis triste.}}
+- **Se + subjuntivo futuro.** “Se chover, fico em casa” usa um tempo verbal (o futuro do subjuntivo) que não existe em francês. O francês diz {{S'il pleut, je reste à la maison}}, com o **presente**. Compare com o capítulo 13: depois de {{quand}}, futuro; depois de {{si}}, presente.
 
 ## 3. Descubra você mesmo
 
@@ -66,14 +63,13 @@ Depois de {{qui}} vem o verbo ({{travaille}}) ou um sujeito ({{je}})? E depois d
 
 Qual é o papel de {{où}} no terceiro e no quarto par (lugar ou tempo)?
 
-Se você viu que **qui + verbo** e **que + sujeito + verbo**, e que o *où* aceita lugar e tempo, descobriu a regra dos relativos. No último par, repare que o verbo depois de {{si}} está no presente e que {{si il}} virou {{s'il}}.
+Se você viu que **qui + verbo** e **que + sujeito + verbo**, e que o {{où}} aceita lugar e tempo, descobriu a regra dos relativos. No último par, repare que o verbo depois de {{si}} está no presente e que {{si il}} virou {{s'il}}.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Relativos:** {{qui}} (sujeito, vem antes do verbo), {{que}} (objeto direto, vem antes de um sujeito), {{où}} (lugar e tempo).
-
-2.  **Conectores essenciais:**
+1. **Relativos:** {{qui}} (sujeito, vem antes do verbo), {{que}} (objeto direto, vem antes de um sujeito), {{où}} (lugar e tempo).
+2. **Conectores essenciais:**
 
 | Função | Conectores |
 |---|---|
@@ -83,9 +79,8 @@ Se você viu que **qui + verbo** e **que + sujeito + verbo**, e que o *où* acei
 | Consequência | {{donc, alors}} |
 | Sequência | {{d'abord, puis, ensuite, enfin}} |
 
-3.  **Condicional de polidez:** {{je voudrais}} (eu gostaria), {{j'aimerais}}, {{pourriez-vous ... ?}}, {{tu devrais}} (você deveria).
-
-4.  **Si + presente:** {{Si tu veux, on y va. S'il pleut, je reste. Si tu as faim, mange.}} Nunca *si* + futuro.
+3. **Condicional de polidez:** {{je voudrais}} (eu gostaria), {{j'aimerais}}, {{pourriez-vous ... ?}}, {{tu devrais}} (você deveria).
+4. **Si + presente:** {{Si tu veux, on y va. S'il pleut, je reste. Si tu as faim, mange.}} Para condição, nunca {{si}} + futuro.
 :::::
 
 ## 5. Por dentro
@@ -100,8 +95,8 @@ Se você viu que **qui + verbo** e **que + sujeito + verbo**, e que o *où* acei
 
 | Conector | Uso | Exemplo |
 |---|---|---|
-| {{parce que}} | resposta a *pourquoi*; vem com frase | {{Je reste parce que je suis fatigué.}} |
-| {{car}} | mais escrito; nunca abre a resposta a *pourquoi* | {{Il est absent, car il est malade.}} |
+| {{parce que}} | resposta a {{pourquoi}}; vem com frase | {{Je reste parce que je suis fatigué.}} |
+| {{car}} | mais escrito; nunca abre a resposta a {{pourquoi}} | {{Il est absent, car il est malade.}} |
 | {{comme}} | no início da frase | {{Comme il pleuvait, nous sommes restés.}} |
 | {{à cause de}} + nome | causa em geral negativa | {{à cause de la pluie}} |
 | {{grâce à}} + nome | causa positiva | {{Grâce à toi, j'ai réussi.}} |
@@ -120,19 +115,18 @@ Se você viu que **qui + verbo** e **que + sujeito + verbo**, e que o *où* acei
 
 **Teste rápido.** Olhe o que vem **depois** da palavra:
 
-*   Se vem um **verbo** (ou *ne*, ou um pronome complemento como *me*, *te*, *lui*), é {{qui}}: {{le café qui est au coin}}.
-
-*   Se vem um **sujeito** (nome ou pronome), é {{que}}: {{le café que tu aimes}}.
+- Se vem um **verbo** (ou {{ne}}, ou um pronome complemento como {{me}}, {{te}}, {{lui}}), é {{qui}}: {{le café qui est au coin}}.
+- Se vem um **sujeito** (nome ou pronome), é {{que}}: {{le café que tu aimes}}.
 
 **Concordância no passé composé.** O particípio concorda com o antecedente de {{que}} (capítulo 13): {{la robe que j'ai achetée, les amis que j'ai invités}}.
 
 **Où: lugar e tempo.** {{La ville où j'habite. Le jour où nous sommes arrivés. L'année où il est parti.}} O português usa “em que”.
 
-**Depois de preposição, para pessoas, usa-se *qui*:** {{l'ami avec qui je voyage, la personne à qui je parle}}. Para coisas, o francês usa outras formas (*lequel*, *dont*), que ficam para o B1.
+**Depois de preposição, para pessoas, usa-se {{qui}}:** {{l'ami avec qui je voyage, la personne à qui je parle}}. Para coisas, o francês usa outras formas ({{lequel}}, {{dont}}), que ficam para o B1.
 
 ### O condicional de polidez
 
-O condicional (*conditionnel*) se forma com o **radical do futuro** (capítulo 13) + as terminações do **imparfait** (capítulo 12): {{je parlerais, tu parlerais, il parlerait, nous parlerions, vous parleriez, ils parleraient}}. Os radicais irregulares são os mesmos do futuro: {{je serais, j'aurais, j'irais, je ferais, je pourrais, je voudrais, il faudrait}}.
+O condicional ({{conditionnel}}) se forma com o **radical do futuro** (capítulo 13) + as terminações do **imparfait** (capítulo 12): {{je parlerais, tu parlerais, il parlerait, nous parlerions, vous parleriez, ils parleraient}}. Os radicais irregulares são os mesmos do futuro: {{je serais, j'aurais, j'irais, je ferais, je pourrais, je voudrais, il faudrait}}.
 
 No A2, ele serve sobretudo para:
 
@@ -144,12 +138,12 @@ No A2, ele serve sobretudo para:
 | Sugestão | {{On pourrait aller au cinéma ?}} |
 
 ::: atencao
-em pedidos, {{je veux un café}} soa seco e mal-educado. {{Je voudrais}} é o padrão em balcões, restaurantes e hotéis. Para o pedido mais polido, use {{pourriez-vous}} ou {{pourrais-tu}} + infinitivo.
+Em pedidos, {{je veux un café}} soa seco e mal-educado. {{Je voudrais}} é o padrão em balcões, restaurantes e hotéis. Para o pedido mais polido, use {{pourriez-vous}} ou {{pourrais-tu}} + infinitivo.
 :::
 
 ### Si + presente
 
-**Si** introduz uma condição possível. O verbo de *si* fica no presente, e o resultado pode ser:
+**Si** introduz uma condição possível. O verbo de {{si}} fica no presente, e o resultado pode ser:
 
 | Resultado | Exemplo |
 |---|---|
@@ -159,9 +153,9 @@ em pedidos, {{je veux un café}} soa seco e mal-educado. {{Je voudrais}} é o pa
 
 **Elisão:** {{si + il}} e {{si + ils}} viram {{s'il}} e {{s'ils}}. Com {{elle, on, tu, je}} não há elisão: {{si elle veut, si on peut}}.
 
-**Nunca *si* + futuro:** {{~~Si j'aurai le temps~~}} é um erro grave. A frase certa: {{Si j'ai le temps, je viendrai.}}
+**Para condição, nunca {{si}} + futuro:** {{~~Si j'aurai le temps~~}} é um erro grave. A frase certa: {{Si j'ai le temps, je viendrai.}}
 
-**Uma prévia.** Com o imparfait de *si* e o condicional no resultado, o francês fala de hipóteses menos prováveis: {{Si j'avais plus de temps, je voyagerais plus.}} Você já tem todas as peças dessa frase. No A2, basta reconhecê-la; o uso fica para o B1.
+**Uma prévia.** Com o imparfait de {{si}} e o condicional no resultado, o francês fala de hipóteses menos prováveis: {{Si j'avais plus de temps, je voyagerais plus.}} Você já tem todas as peças dessa frase. No A2, basta reconhecê-la; o uso fica para o B1.
 
 ## 6. Frases de ouro
 
@@ -181,96 +175,75 @@ em pedidos, {{je veux un café}} soa seco e mal-educado. {{Je voudrais}} é o pa
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  {{Le film \_\_\_\_ j'ai vu hier était nul.}} ({{qui}}, {{que}})
-
-2.  {{L'homme \_\_\_\_ parle avec Marie est mon voisin.}} ({{qui}}, {{que}})
-
-3.  {{La ville \_\_\_\_ j'habite est petite.}} ({{où}}, {{que}})
-
-4.  {{Je reste à la maison \_\_\_\_ il pleut.}} ({{parce que}}, {{à cause de}})
-
-5.  {{Si tu \_\_\_\_, nous partirons.}} ({{veux}}, {{voudras}})
-
-6.  {{Je \_\_\_\_ un café, s'il vous plaît.}} ({{voudrais}}, {{veux}})
-
-7.  {{Il est très riche, \_\_\_\_ il ne dépense rien.}} ({{pourtant}}, {{donc}})
-
-8.  {{Il pleut, \_\_\_\_ je prends mon parapluie.}} ({{donc}}, {{pourtant}})
+1. {{Le film \_\_\_\_ j'ai vu hier était nul.}} ({{qui}}, {{que}})
+2. {{L'homme \_\_\_\_ parle avec Marie est mon voisin.}} ({{qui}}, {{que}})
+3. {{La ville \_\_\_\_ j'habite est petite.}} ({{où}}, {{que}})
+4. {{Je reste à la maison \_\_\_\_ il pleut.}} ({{parce que}}, {{à cause de}})
+5. {{Si tu \_\_\_\_, nous partirons.}} ({{veux}}, {{voudras}})
+6. {{Je \_\_\_\_ un café, s'il vous plaît.}} (pedido educado: {{voudrais}}, {{veux}})
+7. {{Il est très riche, \_\_\_\_ il ne dépense rien.}} ({{pourtant}}, {{donc}})
+8. {{Il pleut, \_\_\_\_ je prends mon parapluie.}} ({{donc}}, {{pourtant}})
 
 **Degrau 2. Complete.**
 
-Relativos: *qui*, *que* ou *où*.
+Relativos: {{qui}}, {{que}} ou {{où}}.
 
-1.  {{La femme \_\_\_\_ habite ici est médecin.}}
+1. {{La femme \_\_\_\_ habite ici est médecin.}}
+2. {{Le livre \_\_\_\_ tu lis est bien.}}
+3. {{Le jour \_\_\_\_ je suis arrivé, il pleuvait.}}
+4. {{C'est le café \_\_\_\_ nous avons rencontré Paul.}}
+5. {{Voilà le gâteau \_\_\_\_ j'ai fait.}}
 
-2.  {{Le livre \_\_\_\_ tu lis est bien.}}
+Condicional e {{si}}.
 
-3.  {{Le jour \_\_\_\_ je suis arrivé, il pleuvait.}}
-
-4.  {{C'est le café \_\_\_\_ nous avons rencontré Paul.}}
-
-5.  {{Voilà le gâteau \_\_\_\_ j'ai fait.}}
-
-Condicional e *si*.
-
-6.  {{Je \_\_\_\_ deux billets, s'il vous plaît. (vouloir)}}
-
-7.  {{Tu \_\_\_\_ dormir plus. (devoir)}}
-
-8.  {{\_\_\_\_-vous répéter ? (pouvoir)}}
-
-9.  {{Si tu as faim, \_\_\_\_ ! (manger, impératif)}}
-
+6. {{Je \_\_\_\_ deux billets, s'il vous plaît. (vouloir)}}
+7. {{Tu \_\_\_\_ dormir plus. (devoir)}}
+8. {{\_\_\_\_-vous répéter ? (pouvoir)}}
+9. {{Si tu as faim, \_\_\_\_ ! (manger, impératif)}}
 10. {{S'il \_\_\_\_ beau demain, nous \_\_\_\_ à la plage. (faire / aller)}}
 
 **Degrau 3. Produza.**
 
-Escreva quatro pedidos para um hotel ou restaurante com *je voudrais*, *pourriez-vous* ou *pourrais-tu*.
+Escreva quatro pedidos para um hotel ou restaurante com {{je voudrais}}, {{pourriez-vous}} ou {{pourrais-tu}}.
 
-Junte os pares com *qui*, *que* ou *où*: {{J'ai une amie. Elle parle trois langues.}} / {{Voilà le sac. J'ai acheté ce sac à Paris.}} / {{C'est la rue. J'habite dans cette rue.}}
+Junte os pares com {{qui}}, {{que}} ou {{où}}: {{J'ai une amie. Elle parle trois langues.}} / {{Voilà le sac. J'ai acheté ce sac à Paris.}} / {{C'est la rue. J'habite dans cette rue.}}
 
-Conte o seu dia em seis frases, com *d'abord, puis, ensuite, enfin, mais, parce que*.
+Conte o seu dia em seis frases, com {{d'abord, puis, ensuite, enfin, mais, parce que}}.
 
-Dê três conselhos a um amigo cansado com *tu devrais* e três promessas ou sugestões com *si* + presente.
+Dê três conselhos a um amigo cansado com {{tu devrais}} e três promessas ou sugestões com {{si}} + presente.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1.  {{Le film qui j'ai vu était bon.}}
-
-2.  {{L'homme que parle est mon ami.}}
-
-3.  {{La ville que j'habite est belle.}}
-
-4.  {{Si j'aurai le temps, je viendrai.}}
-
-5.  {{Pourquoi tu pleures ? Car je suis triste.}}
-
-6.  {{Je voudrais un renseignement, s'il vous plaît.}}
-
-7.  {{La robe que j'ai acheté est jolie.}}
+1. {{Le film qui j'ai vu était bon.}}
+2. {{L'homme que parle est mon ami.}}
+3. {{La ville que j'habite est belle.}}
+4. {{Si j'aurai le temps, je viendrai.}}
+5. {{Pourquoi tu pleures ? Car je suis triste.}}
+6. {{Je voudrais un renseignement, s'il vous plaît.}}
+7. {{La robe que j'ai acheté est jolie.}}
 :::::
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar *que* para tudo**, como no português: {{~~Le film qui j'ai vu~~}}, {{~~La ville que j'habite~~}}. A cura é perguntar: depois da palavra vem verbo (*qui*), sujeito (*que*), ou estou falando de lugar ou tempo (*où*)?
+O erro que mais custa caro é **usar {{que}} para tudo**, como no português: {{~~Le film qui j'ai vu~~}}, {{~~La ville que j'habite~~}}. A cura é perguntar: depois da palavra vem verbo ({{qui}}), sujeito ({{que}}), ou estou falando de lugar ou tempo ({{où}})?
 
-O segundo erro é o futuro depois de *si*, que o português não tem como armadilha, mas que muita gente faz por imitar o *quando*: {{~~Si j'aurai~~}}.
+O segundo erro é o futuro depois de {{si}}, que o português não tem como armadilha, mas que muita gente faz por imitar o {{quando}}: {{~~Si j'aurai~~}}.
 
 O terceiro é pedir de modo seco: {{~~Je veux un billet~~}} em vez de {{Je voudrais un billet}}.
 
 ::: atencao
-*qui* + verbo, *que* + sujeito, *où* para lugar e tempo. Depois de *si*, presente. Depois de *quand*, futuro.
+Use {{qui}} + verbo, {{que}} + sujeito, {{où}} para lugar e tempo. Depois de {{si}}, presente. Depois de {{quand}}, futuro.
 :::
 
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| {{~~Le film qui j'ai vu.~~}} | {{Le film que j'ai vu.}} | Depois vem um sujeito (*j'*): *que*. |
-| {{~~L'homme que parle.~~}} | {{L'homme qui parle.}} | Depois vem um verbo: *qui*. |
-| {{~~La ville que j'habite.~~}} | {{La ville où j'habite.}} | Lugar: *où*. |
-| {{~~Si j'aurai le temps.~~}} | {{Si j'ai le temps.}} | Depois de *si*, presente. |
-| {{~~Si il pleut.~~}} | {{S'il pleut.}} | *Si* elide diante de *il*. |
-| {{~~Pourquoi ? Car...~~}} | {{Pourquoi ? Parce que...}} | *Car* não abre a resposta falada. |
+| {{~~Le film qui j'ai vu.~~}} | {{Le film que j'ai vu.}} | Depois vem um sujeito ({{j'}}): {{que}}. |
+| {{~~L'homme que parle.~~}} | {{L'homme qui parle.}} | Depois vem um verbo: {{qui}}. |
+| {{~~La ville que j'habite.~~}} | {{La ville où j'habite.}} | Lugar: {{où}}. |
+| {{~~Si j'aurai le temps.~~}} | {{Si j'ai le temps.}} | Depois de {{si}}, presente. |
+| {{~~Si il pleut.~~}} | {{S'il pleut.}} | {{Si}} elide diante de {{il}}. |
+| {{~~Pourquoi ? Car...~~}} | {{Pourquoi ? Parce que...}} | {{Car}} não abre a resposta falada. |
 :::
 
 ## 9. Retorno
@@ -283,7 +256,7 @@ O terceiro é pedir de modo seco: {{~~Je veux un billet~~}} em vez de {{Je voudr
 
 | Quando | O que fazer |
 |---|---|
-| Dia 1 | Leia a Cena em voz alta e sublinhe *qui, que, où* e *si*. |
+| Dia 1 | Leia a Cena em voz alta e sublinhe {{qui, que, où}} e {{si}}. |
 | Dia 3 | Escreva dez frases com relativos sobre pessoas e lugares da sua vida. |
 | Dia 7 | Refaça o Degrau 4 sem a chave. |
 | Dia 14 | Escreva um diálogo de recepção de hotel com pedidos educados, condições e conectores. |
@@ -293,19 +266,19 @@ O terceiro é pedir de modo seco: {{~~Je veux un billet~~}} em vez de {{Je voudr
 ::::: resumo
 **Qui** (sujeito) + verbo. **Que** (objeto) + sujeito. **Où** para lugar e tempo.
 
-Conectores: **et, mais, pourtant, parce que, donc, d'abord, puis, enfin**. *Pourquoi ? Parce que.*
+Conectores: **et, mais, pourtant, parce que, donc, d'abord, puis, enfin**. {{Pourquoi ? Parce que.}}
 
 Condicional de polidez: **je voudrais, j'aimerais, pourriez-vous, tu devrais**.
 
-**Si + presente**, com resultado no futuro, no presente ou no imperativo. Nunca *si* + futuro. *Si + il* = **s'il**.
+**Si + presente**, com resultado no futuro, no presente ou no imperativo. Para condição, nunca {{si}} + futuro. {{Si + il}} = **s'il**.
 
 **Já consigo?**
 
-Escolho *qui*, *que* ou *où* olhando o que vem depois.
+Escolho {{qui}}, {{que}} ou {{où}} olhando o que vem depois.
 
-Faço um pedido educado com *je voudrais* e *pourriez-vous*.
+Faço um pedido educado com {{je voudrais}} e {{pourriez-vous}}.
 
-Digo uma condição com *si* + presente e o resultado.
+Digo uma condição com {{si}} + presente e o resultado.
 :::::
 
 ## Glossário do capítulo 14
@@ -338,27 +311,21 @@ Digo uma condição com *si* + presente e o resultado.
 ## Chave comentada do capítulo 14
 
 ::::: gabarito
-**Degrau 1.** 1 que (depois vem *j'*, sujeito). 2 qui (depois vem verbo). 3 où (lugar). 4 parce que (*à cause de* pede nome, não frase). 5 veux (*si* + presente). 6 voudrais (*veux* seria seco). 7 pourtant (oposição). 8 donc (consequência).
+**Degrau 1.** 1 que (depois vem {{j'}}, sujeito). 2 qui (depois vem verbo). 3 où (lugar). 4 parce que ({{à cause de}} pede nome, não frase). 5 veux ({{si}} + presente). 6 voudrais ({{veux}} seria seco). 7 pourtant (oposição). 8 donc (consequência).
 
-**Degrau 2.** 1 qui. 2 que. 3 où. 4 où (lugar: *le café où nous avons rencontré Paul*). 5 que. 6 voudrais. 7 devrais. 8 Pourriez. 9 mange. 10 fait, irons (*allons* também é aceitável: *si* + presente admite resultado no presente).
+**Degrau 2.** 1 qui. 2 que. 3 où. 4 où (lugar: {{le café où nous avons rencontré Paul}}). 5 que. 6 voudrais. 7 devrais. 8 Pourriez. 9 mange. 10 fait, irons ({{allons}} também é aceitável: {{si}} + presente admite resultado no presente).
 
-**Degrau 3.** Respostas pessoais. Modelos: {{J'ai une amie qui parle trois langues. Voilà le sac que j'ai acheté à Paris. C'est la rue où j'habite.}} Confira: *qui* + verbo; *que* + sujeito; *où* para lugar; nenhum *si* + futuro; nenhum pedido com *je veux*.
+**Degrau 3.** Respostas pessoais. Modelos: {{J'ai une amie qui parle trois langues. Voilà le sac que j'ai acheté à Paris. C'est la rue où j'habite.}} Confira: {{qui}} + verbo; {{que}} + sujeito; {{où}} para lugar; nenhum {{si}} + futuro; nenhum pedido com {{je veux}}.
 
 **Degrau 4.**
 
-1.  Le film que j'ai vu était bon.
-
-2.  L'homme qui parle est mon ami.
-
-3.  La ville où j'habite est belle.
-
-4.  Si j'ai le temps, je viendrai.
-
-5.  Pourquoi tu pleures ? Parce que je suis triste.
-
-6.  Está certa.
-
-7.  La robe que j'ai achetée est jolie. (concorda com *robe*, antecedente de *que*)
+1. Le film que j'ai vu était bon.
+2. L'homme qui parle est mon ami.
+3. La ville où j'habite est belle.
+4. Si j'ai le temps, je viendrai.
+5. Pourquoi tu pleures ? Parce que je suis triste.
+6. Está certa.
+7. La robe que j'ai achetée est jolie. (concorda com {{robe}}, antecedente de {{que}})
 
 **Retorno.** Capítulo 13: Je le lui donne. J'en ai trois. Nous y allons. Capítulo 12: Il faisait froid et nous restions à la maison. Capítulo 11: Nous sommes allés au marché et nous avons acheté du pain.
 :::::
@@ -367,28 +334,17 @@ Digo uma condição com *si* + presente e o resultado.
 
 Você chegou ao fim do livro. Esta lista junta os doze pontos que sustentam o nível A2. Marque “já consigo” só se conseguir fazer **sem consultar o capítulo**. Se não conseguir, volte ao capítulo indicado, refaça o Degrau 4 e depois tente de novo.
 
-1.  **Cap. 1.** Leio em voz alta uma frase curta sem pronunciar letras finais mudas, e distingo *u* de *ou* e as vogais nasais.
-
-2.  **Cap. 2.** Eu me apresento com *je suis / j'ai … ans*, uso *tu* e *vous* conforme a situação e digo *il y a*.
-
-3.  **Cap. 3.** Escolho *le, la, l', les, un, une, des, du, de la* e faço o plural.
-
-4.  **Cap. 4.** Conjugo verbos em *-er* no presente, junto com *aller, faire, prendre, vouloir* e *pouvoir*, e falo de um plano com *aller* + infinitivo.
-
-5.  **Cap. 5.** Faço perguntas com *est-ce que*, entonação e inversão, e nego com *ne … pas, jamais, rien, personne*.
-
-6.  **Caps. 6 e 7.** Descrevo pessoas e coisas com adjetivos na posição certa, comparo com *plus, moins, aussi … que* e uso *mon, ma, mes, son, sa, ses, ce, cette*.
-
-7.  **Cap. 8.** Digo onde estou e para onde vou com *à, en, dans, chez, au, aux*, e uso *y* e *en* de forma simples.
-
-8.  **Cap. 9.** Digo números até 100, horas, datas e preços.
-
-9.  **Cap. 10.** Descrevo minha rotina com verbos reflexivos e dou ordens com o imperativo.
-
+1. **Cap. 1.** Leio em voz alta uma frase curta sem pronunciar letras finais mudas, e distingo *u* de *ou* e as vogais nasais.
+2. **Cap. 2.** Eu me apresento com {{je suis / j'ai … ans}}, uso {{tu}} e {{vous}} conforme a situação e digo {{il y a}}.
+3. **Cap. 3.** Escolho {{le, la, l', les, un, une, des, du, de la}} e faço o plural.
+4. **Cap. 4.** Conjugo verbos em *-er* no presente, junto com {{aller, faire, prendre, vouloir}} e {{pouvoir}}, e falo de um plano com {{aller}} + infinitivo.
+5. **Cap. 5.** Faço perguntas com {{est-ce que}}, entonação e inversão, e nego com {{ne … pas, jamais, rien, personne}}.
+6. **Caps. 6 e 7.** Descrevo pessoas e coisas com adjetivos na posição certa, comparo com {{plus, moins, aussi … que}} e uso {{mon, ma, mes, son, sa, ses, ce, cette}}.
+7. **Cap. 8.** Digo onde estou e para onde vou com {{à, en, dans, chez, au, aux}}, e uso {{y}} e {{en}} de forma simples.
+8. **Cap. 9.** Digo números até 100, horas, datas e preços.
+9. **Cap. 10.** Descrevo minha rotina com verbos reflexivos e dou ordens com o imperativo.
 10. **Caps. 11 e 12.** Conto o que fiz ontem com o passé composé e descrevo como eram as coisas com o imparfait, escolhendo entre os dois.
-
-11. **Cap. 13.** Falo do futuro, troco objetos por pronomes (*le, la, lui, leur, y, en*) e dou ordens como *donne-le-moi*.
-
-12. **Cap. 14.** Ligo ideias com conectores, uso *qui, que, où*, faço pedidos com *je voudrais* e falo de condições com *si* + presente.
+11. **Cap. 13.** Falo do futuro, troco objetos por pronomes ({{le, la, lui, leur, y, en}}) e dou ordens como {{donne-le-moi}}.
+12. **Cap. 14.** Ligo ideias com conectores, uso {{qui, que, où}}, faço pedidos com {{je voudrais}} e falo de condições com {{si}} + presente.
 
 **Como interpretar.** Com 10 a 12 itens marcados, você está solidamente no A2. Com 7 a 9, repasse os capítulos dos itens que faltam e refaça os Retornos. Com menos de 7, volte ao capítulo 4 e avance de novo, um por semana, antes de partir para o B1.

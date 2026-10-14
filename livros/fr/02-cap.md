@@ -1,6 +1,6 @@
 # Capítulo 2. Pronomes, être e avoir (A1)
 
-**Meta do capítulo.** Ao final, você se apresenta com *je suis* e *j'ai*, escolhe entre *tu* e *vous* e entre *c'est* e *il est*, diz que algo existe com *il y a* e nunca mais deixa a frase sem sujeito.
+**Meta do capítulo.** Ao final, você se apresenta com {{je suis}} e {{j'ai}}, escolhe entre {{tu}} e {{vous}} e entre {{c'est}} e {{il est}}, diz que algo existe com {{il y a}} e deixa de omitir o sujeito da frase.
 
 ## 1. Cena: o primeiro jantar
 
@@ -67,7 +67,7 @@ Em {{Elle est médecin}} aparece um artigo antes de {{médecin}}? E em {{C'est u
 
 {{Il est grand}} e {{C'est grand}} dizem coisas parecidas. O que muda no sujeito?
 
-Se você viu que **a profissão sem artigo vai com {{il/elle est}}, e a profissão com artigo vai com {{c'est}}**, descobriu a primeira metade da regra de *c'est × il est*.
+Se você viu que **a profissão sem artigo vai com {{il/elle est}}, e a profissão com artigo vai com {{c'est}}**, descobriu a primeira metade da regra de {{c'est}} × {{il est}}.
 
 ## 4. Em 30 segundos
 
@@ -103,7 +103,7 @@ Quatro cuidados:
 
 | Use **tu** | Use **vous** |
 |---|---|
-| amigos, colegas de hostel, família | desconhecidos adultos (lojas, hotel, rua) |
+| amigos, colegas de albergue, família | desconhecidos adultos (lojas, hotel, rua) |
 | crianças | chefe, professor, cliente |
 | jovens entre si | quando você quer manter a distância |
 | animais de estimação | **mais de uma pessoa, sempre** |
@@ -161,7 +161,7 @@ A nacionalidade, em francês, muda de gênero (capítulo 6): {{brésilien}} / {{
 Usos do {{avoir}}:
 
 - **Posse:** {{J'ai une sœur.}} {{Il a un vélo.}}
-- **Idade:** {{J'ai vingt-six ans.}} Sempre com *ans*. Pergunta: {{Tu as quel âge ?}} ou {{Quel âge as-tu ?}}.
+- **Idade:** {{J'ai vingt-six ans.}} Sempre com {{ans}}. Pergunta: {{Tu as quel âge ?}} ou {{Quel âge as-tu ?}}.
 - **Sensações físicas, em locuções fixas:**
 
 | Francês | Português |
@@ -198,7 +198,7 @@ Os dois significam "é", mas não são intercambiáveis.
 
 Para a profissão há duas opções corretas: {{Il est médecin.}} (sem artigo) ou {{C'est un médecin.}} (com artigo). O que **não existe** é {{~~C'est médecin~~}} nem {{~~Il est un médecin~~}} na escrita padrão. Se o substantivo vem com artigo, é {{c'est}}.
 
-Com adjetivo, o critério é a generalidade: {{Il est cher}} fala de uma coisa nomeada antes (o hostel, o livro); {{C'est cher}} comenta uma situação inteira ("é caro, isso aí").
+Com adjetivo, o critério é a generalidade: {{Il est cher}} fala de uma coisa nomeada antes (o albergue, o livro); {{C'est cher}} comenta uma situação inteira ("é caro, isso aí").
 
 Há ainda o {{il}} impessoal: {{Il est tard}} (é tarde), {{Il est huit heures}} (são oito horas, capítulo 9).
 
@@ -226,7 +226,7 @@ Para ênfase, depois de {{c'est}}, depois de {{avec}} e como resposta curta, o f
 |---|---|---|
 | resposta curta | {{Qui est là ? — Moi.}} | Quem está aí? Eu. |
 | com {{c'est}} | {{C'est moi.}} | Sou eu. |
-| ênfase | {{Moi, je suis brésilienne.}} | Eu, sou brasileira. |
+| ênfase | {{Moi, je suis brésilienne.}} | Eu, eu sou brasileira. |
 | depois de {{et}} / {{avec}} | {{Hugo et moi.}} {{Avec toi.}} | Hugo e eu. Com você. |
 
 ## 6. Frases de ouro
@@ -248,26 +248,26 @@ Para ênfase, depois de {{c'est}}, depois de {{avec}} e como resposta curta, o f
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
 1. Você conhece a gerente do hotel agora. Qual você usa? ({{tu}}, {{vous}})
-2. {{J'}}\_\_\_\_ vingt ans. ({{ai}}, {{suis}})
-3. {{Elle}}\_\_\_\_ de Lyon. ({{est}}, {{a}})
-4. \_\_\_\_ médecin. ({{C'est}}, {{Il est}})
-5. \_\_\_\_ un médecin. ({{C'est}}, {{Il est}})
-6. \_\_\_\_ un café dans la rue. ({{C'est}}, {{Il y a}})
-7. Marie et Hugo \_\_\_\_ français. ({{est}}, {{sont}})
-8. {{On}}\_\_\_\_ cinq dans la chambre. ({{sommes}}, {{est}})
+2. {{J'\_\_\_\_ vingt ans.}} ({{ai}}, {{suis}})
+3. {{Elle \_\_\_\_ de Lyon.}} ({{est}}, {{a}})
+4. {{\_\_\_\_ médecin.}} ({{C'est}}, {{Il est}})
+5. {{\_\_\_\_ un médecin.}} ({{C'est}}, {{Il est}})
+6. {{\_\_\_\_ un café dans la rue.}} (quer dizer “tem um café na rua”: {{C'est}}, {{Il y a}})
+7. {{Marie et Hugo \_\_\_\_ français.}} ({{est}}, {{sont}})
+8. {{On \_\_\_\_ cinq dans la chambre.}} ({{sommes}}, {{est}})
 
-**Degrau 2. Complete.** Com *être* ou *avoir*, na forma certa.
+**Degrau 2. Complete.** Com {{être}} ou {{avoir}}, na forma certa.
 
-1. Je \_\_\_\_ brésilienne. (être)
-2. Tu \_\_\_\_ faim ? (avoir)
-3. Nous \_\_\_\_ cinq dans la chambre. (être)
-4. Vous \_\_\_\_ d'où ? (être)
-5. Ils \_\_\_\_ une voiture. (avoir)
-6. Elles \_\_\_\_ sympas. (être)
-7. Elle \_\_\_\_ vingt-huit ans. (avoir)
-8. J'\_\_\_\_ soif. (avoir)
-9. Il \_\_\_\_ marocain. (être)
-10. Nous \_\_\_\_ un plan. (avoir)
+1. {{Je \_\_\_\_ brésilienne. (être)}}
+2. {{Tu \_\_\_\_ faim ? (avoir)}}
+3. {{Nous \_\_\_\_ cinq dans la chambre. (être)}}
+4. {{Vous \_\_\_\_ d'où ? (être)}}
+5. {{Ils \_\_\_\_ une voiture. (avoir)}}
+6. {{Elles \_\_\_\_ sympas. (être)}}
+7. {{Elle \_\_\_\_ vingt-huit ans. (avoir)}}
+8. {{J'\_\_\_\_ soif. (avoir)}}
+9. {{Il \_\_\_\_ marocain. (être)}}
+10. {{Nous \_\_\_\_ un plan. (avoir)}}
 
 **Degrau 3. Produza.**
 
@@ -278,28 +278,28 @@ Para ênfase, depois de {{c'est}}, depois de {{avec}} e como resposta curta, o f
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1. Je suis vingt ans.
-2. Suis brésilienne.
-3. Il est un médecin.
-4. Il a un café dans la rue.
-5. Nous avons faim.
-6. Tu êtes d'où ?
-7. C'est médecin.
+1. {{Je suis vingt ans.}}
+2. {{Suis brésilienne.}}
+3. {{Il est un médecin.}}
+4. {{Il est un café dans la rue.}}
+5. {{Nous avons faim.}}
+6. {{Tu êtes d'où ?}}
+7. {{C'est médecin.}}
 :::::
 
 ## 8. O erro típico
 
-O erro mais comum é dizer a idade com {{être}} (~~je suis 26 ans~~), por influência do inglês, ou esquecer o *ans*. O segundo erro é **omitir o sujeito**: ~~Suis brésilienne~~. O terceiro é **trocar {{c'est}} e {{il est}}** na profissão.
+O erro mais comum é dizer a idade com {{être}} (~~je suis 26 ans~~), por influência do inglês, ou esquecer o {{ans}}. O segundo erro é **omitir o sujeito**: ~~Suis brésilienne~~. O terceiro é **trocar {{c'est}} e {{il est}}** na profissão.
 
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~Je suis 26 ans.~~ | {{J'ai 26 ans.}} | a idade se "tem" |
-| ~~Suis brésilienne.~~ | {{Je suis brésilienne.}} | sujeito obrigatório |
-| ~~Il est un médecin.~~ | {{Il est médecin.}} / {{C'est un médecin.}} | com artigo vai {{c'est}}; sem artigo, {{il est}} |
-| ~~Il a un café ici.~~ | {{Il y a un café ici.}} | existência é {{il y a}} |
-| ~~Je suis faim.~~ | {{J'ai faim.}} | sensação física pede {{avoir}} |
-| ~~Tu êtes d'où ?~~ | {{Tu es d'où ?}} | {{êtes}} é só de {{vous}} |
+| {{~~Je suis 26 ans.~~}} | {{J'ai 26 ans.}} | a idade se "tem" |
+| {{~~Suis brésilienne.~~}} | {{Je suis brésilienne.}} | sujeito obrigatório |
+| {{~~Il est un médecin.~~}} | {{Il est médecin.}} / {{C'est un médecin.}} | com artigo vai {{c'est}}; sem artigo, {{il est}} |
+| {{~~Il a un café ici.~~}} | {{Il y a un café ici.}} | existência é {{il y a}} |
+| {{~~Je suis faim.~~}} | {{J'ai faim.}} | sensação física pede {{avoir}} |
+| {{~~Tu êtes d'où ?~~}} | {{Tu es d'où ?}} | {{êtes}} é só de {{vous}} |
 :::
 
 ## 9. Retorno
@@ -343,27 +343,27 @@ Digo {{il y a}} e {{j'ai faim}} sem pensar em português.
 
 | Francês | Português |
 |---|---|
-| je / tu / il / elle / on | eu / você / ele / ela / a gente |
-| nous / vous / ils / elles | nós / vocês, o senhor / eles / elas |
-| être | ser, estar |
-| avoir | ter |
-| il y a | tem, há, existe |
-| avoir faim / soif | estar com fome / sede |
-| avoir chaud / froid | estar com calor / frio |
-| avoir ... ans | ter ... anos |
-| brésilien / brésilienne | brasileiro / brasileira |
-| français / française | francês / francesa |
-| marocain / marocaine | marroquino / marroquina |
-| le médecin | o médico (também a médica) |
-| l'étudiant (m.) / l'étudiante (f.) | o estudante / a estudante |
-| la chambre | o quarto |
-| sympa | simpático, legal |
-| ici | aqui |
-| ensemble | junto(s) |
-| ce soir | hoje à noite |
-| enchanté | prazer (em conhecer) |
-| Quel âge ? | Quantos anos? |
-| Avec plaisir. | Com prazer. |
+| {{je / tu / il / elle / on}} | eu / você / ele / ela / a gente |
+| {{nous / vous / ils / elles}} | nós / vocês, o senhor / eles / elas |
+| {{être}} | ser, estar |
+| {{avoir}} | ter |
+| {{il y a}} | tem, há, existe |
+| {{avoir faim / soif}} | estar com fome / sede |
+| {{avoir chaud / froid}} | estar com calor / frio |
+| {{avoir ... ans}} | ter ... anos |
+| {{brésilien / brésilienne}} | brasileiro / brasileira |
+| {{français / française}} | francês / francesa |
+| {{marocain / marocaine}} | marroquino / marroquina |
+| {{le médecin}} | o médico (também a médica) |
+| {{l'étudiant (m.) / l'étudiante (f.)}} | o estudante / a estudante |
+| {{la chambre}} | o quarto |
+| {{sympa}} | simpático, legal |
+| {{ici}} | aqui |
+| {{ensemble}} | junto(s) |
+| {{ce soir}} | hoje à noite |
+| {{enchanté}} | prazer (em conhecer) |
+| {{Quel âge ?}} | Quantos anos? |
+| {{Avec plaisir.}} | Com prazer. |
 
 ## Chave comentada do capítulo 2
 
@@ -379,7 +379,7 @@ Digo {{il y a}} e {{j'ai faim}} sem pensar em português.
 1. J'ai vingt ans. (idade com {{avoir}})
 2. Je suis brésilienne. (sujeito obrigatório)
 3. Il est médecin. / C'est un médecin.
-4. Il y a un café dans la rue. (existência; lida como posse, "ele é dono de um café na rua", a frase original seria possível, mas não é o sentido treinado aqui)
+4. Il y a un café dans la rue. (existência é {{il y a}}, não {{il est}})
 5. Está certa ({{avoir faim}}).
 6. Tu es d'où ?
 7. Il est médecin. / C'est un médecin. (sem artigo, {{il est}}; com artigo, {{c'est}})

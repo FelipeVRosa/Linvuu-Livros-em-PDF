@@ -1,6 +1,6 @@
 # Capítulo 4. Verbos em -er e presente (A1)
 
-**Meta do capítulo.** Ao final, você conjuga no presente os verbos em *-er*, incluindo os que mudam a grafia (*acheter, appeler, payer, manger*), usa *aller, faire, prendre, vouloir* e *pouvoir* e fala do futuro próximo com *aller* + infinitivo.
+**Meta do capítulo.** Ao final, você conjuga no presente os verbos em *-er*, incluindo os que mudam a grafia ({{acheter, appeler, payer, manger}}), usa {{aller, faire, prendre, vouloir}} e {{pouvoir}} e fala do futuro próximo com {{aller}} + infinitivo.
 
 ## 1. Cena: planos para o dia
 
@@ -156,7 +156,7 @@ Duas mudanças tocam **só {{nous}}**, para manter o som do *g* e do *c*:
 | {{lancer}} (lançar) | {{nous lançons}} | idem |
 
 ::: atencao
-nesses verbos, a conjugação **soa** regular e só a escrita muda. Se você escreve ~~nous mangons~~, o leitor entende, mas o professor corrige: o *e* é obrigatório.
+Nesses verbos, a conjugação **soa** regular e só a escrita muda. Se você escreve ~~nous mangons~~, o leitor entende, mas o professor corrige: o *e* é obrigatório.
 :::
 
 ### Aller
@@ -271,34 +271,34 @@ Repare no último: em português dizemos "moro há dois anos", e o francês faz 
 | {{Vous pouvez répéter ?}} | Pode repetir? |
 | {{Je vais prendre le bus.}} | Vou pegar o ônibus. |
 | {{On va au cinéma ?}} | A gente vai ao cinema? |
-| {{Il fait beau aujourd'hui.}} | Está bom hoje. |
+| {{Il fait beau aujourd'hui.}} | Está um dia bonito hoje. |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. Nous \_\_\_\_ ensemble. ({{mangons}}, {{mangeons}})
-2. Il \_\_\_\_ à la gare. ({{va}}, {{vas}})
-3. Tu \_\_\_\_ un café ? ({{prends}}, {{prend}})
-4. Ils \_\_\_\_ venir ce soir. ({{peut}}, {{peuvent}})
-5. Vous \_\_\_\_ attention. ({{faisez}}, {{faites}})
-6. Elle \_\_\_\_ un plan. ({{achète}}, {{acheter}})
-7. Nous \_\_\_\_ par la cathédrale. ({{commençons}}, {{commencons}})
-8. Je \_\_\_\_ manger. ({{vais}}, {{va}})
+1. {{Nous \_\_\_\_ ensemble.}} ({{mangons}}, {{mangeons}})
+2. {{Il \_\_\_\_ à la gare.}} ({{va}}, {{vas}})
+3. {{Tu \_\_\_\_ un café ?}} ({{prends}}, {{prend}})
+4. {{Ils \_\_\_\_ venir ce soir.}} ({{peut}}, {{peuvent}})
+5. {{Vous \_\_\_\_ attention.}} ({{faisez}}, {{faites}})
+6. {{Elle \_\_\_\_ un plan.}} ({{achète}}, {{acheter}})
+7. {{Nous \_\_\_\_ par la cathédrale.}} ({{commençons}}, {{commencons}})
+8. {{Je \_\_\_\_ manger.}} ({{vais}}, {{va}})
 
 **Degrau 2. Complete.** Conjugue o verbo entre parênteses.
 
-1. Camila (visiter) \_\_\_\_ la ville.
-2. Nous (travailler) \_\_\_\_ à la réception.
-3. Vous (acheter) \_\_\_\_ un plan.
-4. Ils (appeler) \_\_\_\_ un taxi.
-5. Tu (aller) \_\_\_\_ à la gare.
-6. Je (faire) \_\_\_\_ la cuisine.
-7. Elles (prendre) \_\_\_\_ le bus.
-8. Je (préférer) \_\_\_\_ le thé.
-9. Nous (manger) \_\_\_\_ tard.
-10. Vous (pouvoir) \_\_\_\_ entrer.
+1. {{Camila (visiter) \_\_\_\_ la ville.}}
+2. {{Nous (travailler) \_\_\_\_ à la réception.}}
+3. {{Vous (acheter) \_\_\_\_ un plan.}}
+4. {{Ils (appeler) \_\_\_\_ un taxi.}}
+5. {{Tu (aller) \_\_\_\_ à la gare.}}
+6. {{Je (faire) \_\_\_\_ la cuisine.}}
+7. {{Elles (prendre) \_\_\_\_ le bus.}}
+8. {{Je (préférer) \_\_\_\_ le thé.}}
+9. {{Nous (manger) \_\_\_\_ tard.}}
+10. {{Vous (pouvoir) \_\_\_\_ entrer.}}
 
 **Degrau 3. Produza.**
 
@@ -309,13 +309,13 @@ Repare no último: em português dizemos "moro há dois anos", e o francês faz 
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1. Je parles français.
-2. Il vas à la gare.
-3. Nous mangons ensemble.
-4. Tu prend un café.
-5. Ils peut parler.
-6. Elle achète du pain.
-7. Je vais à manger.
+1. {{Je parles français.}}
+2. {{Il vas à la gare.}}
+3. {{Nous mangons ensemble.}}
+4. {{Tu prend un café.}}
+5. {{Ils peut parler.}}
+6. {{Elle achète du pain.}}
+7. {{Je vais à manger.}}
 :::::
 
 ## 8. O erro típico
@@ -325,12 +325,12 @@ O erro mais frequente é **conjugar com a terminação errada na escrita**, porq
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~Je parles.~~ | {{Je parle.}} | *-es* é só do {{tu}} |
-| ~~Il vas.~~ | {{Il va.}} | {{vas}} só com {{tu}} |
-| ~~Nous mangons.~~ | {{Nous mangeons.}} | o *e* mantém o som "j" |
-| ~~Ils prend.~~ | {{Ils prennent.}} | plural com dois *n* |
-| ~~Je vais à manger.~~ | {{Je vais manger.}} | {{aller}} + infinitivo, sem preposição |
-| ~~Je regarde à la télé.~~ | {{Je regarde la télé.}} | {{regarder}} não leva preposição |
+| {{~~Je parles.~~}} | {{Je parle.}} | *-es* é só do {{tu}} |
+| {{~~Il vas.~~}} | {{Il va.}} | {{vas}} só com {{tu}} |
+| {{~~Nous mangons.~~}} | {{Nous mangeons.}} | o *e* mantém o som "j" |
+| {{~~Ils prend.~~}} | {{Ils prennent.}} | plural com dois *n* |
+| {{~~Je vais à manger.~~}} | {{Je vais manger.}} | {{aller}} + infinitivo, sem preposição |
+| {{~~Je regarde à la télé.~~}} | {{Je regarde la télé.}} | {{regarder}} não leva preposição |
 :::
 
 ## 9. Retorno
@@ -374,28 +374,28 @@ Digo meus planos com {{Je vais}} + infinitivo.
 
 | Francês | Português |
 |---|---|
-| parler | falar |
-| habiter | morar |
-| travailler | trabalhar |
-| manger | comer |
-| acheter | comprar |
-| appeler | chamar |
-| payer | pagar |
-| visiter | visitar |
-| commencer | começar |
-| aller | ir |
-| faire | fazer |
-| prendre | pegar, tomar |
-| vouloir | querer |
-| pouvoir | poder |
-| écouter | ouvir |
-| regarder | olhar, assistir |
-| chercher | procurar |
-| le plan | o mapa (da cidade) |
-| la gare | a estação (de trem) |
-| l'accueil (m.) | a recepção, o balcão de atendimento |
-| aujourd'hui | hoje |
-| depuis | desde, há |
+| {{parler}} | falar |
+| {{habiter}} | morar |
+| {{travailler}} | trabalhar |
+| {{manger}} | comer |
+| {{acheter}} | comprar |
+| {{appeler}} | chamar |
+| {{payer}} | pagar |
+| {{visiter}} | visitar |
+| {{commencer}} | começar |
+| {{aller}} | ir |
+| {{faire}} | fazer |
+| {{prendre}} | pegar, tomar |
+| {{vouloir}} | querer |
+| {{pouvoir}} | poder |
+| {{écouter}} | ouvir |
+| {{regarder}} | olhar, assistir |
+| {{chercher}} | procurar |
+| {{le plan}} | o mapa (da cidade) |
+| {{la gare}} | a estação (de trem) |
+| {{l'accueil (m.)}} | a recepção, o balcão de atendimento |
+| {{aujourd'hui}} | hoje |
+| {{depuis}} | desde, há |
 
 ## Chave comentada do capítulo 4
 

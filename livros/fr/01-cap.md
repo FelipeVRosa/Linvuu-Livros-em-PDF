@@ -105,7 +105,7 @@ O alfabeto tem as mesmas 26 letras do português, e você vai precisar do nome d
 | F | "éf" | O | "ô" | X | "iks" |
 | G | "jê" | P | "pê" | Y | "i-grék" |
 | H | "ash" | Q | "kü" | Z | "zéd" |
-| I | "i" | R | "ér" (com o *r* da garganta) | | |
+| I | "i" | R | "ér" (com o *r* da garganta) |  |  |
 
 Note três letras traiçoeiras: **G** se diz "jê" (e **J** "ji"), **E** se diz "eu" e **H** se diz "ash". Em {{Souza}}, o nome de Camila no cenário, a recepcionista ouve "éss, ô, ü, zéd, a".
 
@@ -126,7 +126,7 @@ O francês usa quatro sinais sobre as letras e um embaixo. Eles **não indicam s
 Uma dica que ajuda a lembrar: o circunflexo muitas vezes marca um *s* que existia e sumiu, e esse *s* aparece em português: {{forêt}} ("floresta"), {{hôtel}} (compare "hospital"), {{fête}} ("festa"), {{château}} ("castelo"). É um truque de memória, não uma regra, mas funciona bem.
 
 ::: atencao
-o *c* seguido de *e, i* já soa "s" ({{ceci}}), mas diante de *a, o, u* precisa da cedilha para soar "s": {{ça}}, {{garçon}}, {{reçu}}. Sem cedilha, {{ca}} soaria "ka". Nunca ponha cedilha antes de *e* ou *i*.
+O *c* seguido de *e, i* já soa "s" ({{ceci}}), mas diante de *a, o, u* precisa da cedilha para soar "s": {{ça}}, {{garçon}}, {{reçu}}. Sem cedilha, {{ca}} soaria "ka". Nunca ponha cedilha antes de *e* ou *i*.
 :::
 
 ### As vogais simples
@@ -248,7 +248,7 @@ Para o brasileiro: não fale o *e* mudo como "i" ({{table}} "tábli") nem como "
 | {{s}}, {{x}}, {{z}} | "z" | {{vous avez}} "vu-za-vê", {{les amis}} "lé-za-mi" |
 | {{t}}, {{d}} | "t" | {{petit ami}} "pe-ti-ta-mi", {{grand homme}} "grã-tom" |
 | {{n}} | "n" | {{un ami}} "ẽ-na-mi" (o *un* continua nasal e o *n* soa) |
-| {{f}} em *neuf* | "v" | {{neuf heures}} "neu-veur" |
+| {{f}} em {{neuf}} | "v" | {{neuf heures}} "neu-veur" |
 
 **Liaison obrigatória** (sempre):
 
@@ -268,14 +268,14 @@ Para o brasileiro: não fale o *e* mudo como "i" ({{table}} "tábli") nem como "
 | depois de {{et}} | {{un chat et un chien}} (sem ligar o *t*) |
 | diante de *h* aspirado | {{les héros}}, {{les haricots}}, {{en haut}} |
 | entre substantivo sujeito e verbo | {{les enfants arrivent}} (sem ligar o *s*) |
-| diante de *oui* e *onze* | {{les onze}}, {{les oui}} |
+| diante de {{oui}} e {{onze}} | {{les onze}}, {{les oui}} |
 
 **Liaison opcional:** em fala formal liga-se muito; em fala cotidiana liga-se menos. Para o A1, você precisa conhecer as obrigatórias e **nunca ligar depois de {{et}}** nem diante de *h* aspirado.
 
-**{{h}} mudo × {{h}} aspirado.** Ambos não soam. Mas o *h* mudo funciona como se não existisse: faz liaison e elisão ({{l'homme}}, {{les hommes}} "lé-zom"). O *h* aspirado funciona como consoante: nada de liaison nem de elisão ({{le héros}}, {{les héros}}, {{le haricot}}). O dicionário marca o *h* aspirado. Para o A1, aprenda as poucas palavras comuns na hora: *héros*, *haricot*, *hasard*, *hockey*, *honte*, *haut*.
+**{{h}} mudo × {{h}} aspirado.** Ambos não soam. Mas o *h* mudo funciona como se não existisse: faz liaison e elisão ({{l'homme}}, {{les hommes}} "lé-zom"). O *h* aspirado funciona como consoante: nada de liaison nem de elisão ({{le héros}}, {{les héros}}, {{le haricot}}). O dicionário marca o *h* aspirado. Para o A1, aprenda as poucas palavras comuns na hora: {{héros}}, {{haricot}}, {{hasard}}, {{hockey}}, {{honte}}, {{haut}}.
 
 ::: atencao
-a ligação não é uma regra para "falar bonito". Se você omite a liaison obrigatória em {{vous êtes}} ("vu-êt"), o francês entende, mas soa estrangeiro. Se você faz liaison onde não deve, como em {{et un}} "ê-t-ẽ", soa pior ainda.
+A ligação não é uma regra para "falar bonito". Se você omite a liaison obrigatória em {{vous êtes}} ("vu-êt"), o francês entende, mas soa estrangeiro. Se você faz liaison onde não deve, como em {{et un}} "ê-t-ẽ", soa pior ainda.
 :::
 
 ## 6. Frases de ouro
@@ -300,8 +300,8 @@ a ligação não é uma regra para "falar bonito". Se você omite a liaison obri
 2. Qual palavra termina com som de "ê"? ({{est}}, {{et}})
 3. O som de {{tu}} é igual ao de {{tout}}? (sim, não)
 4. {{bon}} e {{bonne}} soam iguais? (sim, não)
-5. Em {{les héros}}, a liaison é: (obrigatória, proibida)
-6. Em {{vous avez}}, a liaison soa: (z, t)
+5. Em {{les héros}}, a liaison é: ({{obrigatória}}, {{proibida}})
+6. Em {{vous avez}}, a liaison soa: ({{z}}, {{t}})
 7. O {{t}} de {{petit}} no fim: (soa, é mudo)
 8. A letra {{h}} em {{homme}}: (soa, é muda)
 
@@ -326,13 +326,13 @@ a ligação não é uma regra para "falar bonito". Se você omite a liaison obri
 
 **Degrau 4. Corrija o erro típico.** Uma das palavras está certa.
 
-1. Ecole
-2. Francais
-3. Cafe
-4. Garcon
-5. Etre
-6. Voila
-7. Garçon
+1. {{Ecole}}
+2. {{Francais}}
+3. {{Cafe}}
+4. {{Garcon}}
+5. {{Etre}}
+6. {{Voila}}
+7. {{Garçon}}
 :::::
 
 ## 8. O erro típico
@@ -342,9 +342,9 @@ O erro que mais custa caro é **ler o francês como português**: pronunciar o *
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~pe-TIT~~ | {{petit}} "peti" | o *t* final é mudo |
-| ~~Pa-RIS~~ (com *s*) | {{Paris}} "pari" | o *s* final é mudo |
-| ~~bõu~~ (para *bon*) | {{bon}} "bõ" | a nasal francesa não leva "u" nem "n" no fim |
+| {{~~pe-TIT~~}} | {{petit}} "peti" | o *t* final é mudo |
+| {{~~Pa-RIS~~}} (com *s*) | {{Paris}} "pari" | o *s* final é mudo |
+| {{~~bõu~~}} (para *bon*) | {{bon}} "bõ" | a nasal francesa não leva "u" nem "n" no fim |
 | ~~tchi-ẽ~~ ({{tiens}}) | {{tiens}} "tiẽ" | em francês o *t* diante de *i* não vira "tch" |
 | ~~vu-êt~~ ({{vous êtes}}) | {{vous êtes}} "vu-zét" | liaison obrigatória pronome + verbo |
 | ~~mau~~ ({{mal}}) | {{mal}} "mal" | o *l* não vira "u" |
@@ -395,27 +395,27 @@ Faço a liaison em {{vous avez}} e não a faço em {{et un}}.
 
 | Francês | Português |
 |---|---|
-| bonjour | bom dia |
-| s'il vous plaît | por favor |
-| merci | obrigado |
-| oui / non | sim / não |
-| un ami / une amie | um amigo / uma amiga |
-| la réservation | a reserva |
-| le nom | o sobrenome, o nome |
-| la clé | a chave |
-| le séjour | a estadia |
-| l'hôtel (m.) | o hotel |
-| la rue | a rua |
-| le chat | o gato |
-| la fille | a menina, a filha |
-| le garçon | o garoto, o garçom |
-| la maison | a casa |
-| beaucoup | muito |
-| petit / petite | pequeno / pequena |
-| grand / grande | grande |
-| l'école (f.) | a escola |
-| le café | o café |
-| l'accent (m.) | o acento |
+| {{bonjour}} | bom dia |
+| {{s'il vous plaît}} | por favor |
+| {{merci}} | obrigado |
+| {{oui / non}} | sim / não |
+| {{un ami / une amie}} | um amigo / uma amiga |
+| {{la réservation}} | a reserva |
+| {{le nom}} | o nome (de família) |
+| {{la clé}} | a chave |
+| {{le séjour}} | a estadia |
+| {{l'hôtel (m.)}} | o hotel |
+| {{la rue}} | a rua |
+| {{le chat}} | o gato |
+| {{la fille}} | a menina, a filha |
+| {{le garçon}} | o garoto, o garçom |
+| {{la maison}} | a casa |
+| {{beaucoup}} | muito |
+| {{petit / petite}} | pequeno / pequena |
+| {{grand / grande}} | grande |
+| {{l'école (f.)}} | a escola |
+| {{le café}} | o café |
+| {{l'accent (m.)}} | o acento |
 
 ## Chave comentada do capítulo 1
 

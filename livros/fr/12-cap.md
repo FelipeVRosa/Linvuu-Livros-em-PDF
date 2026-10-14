@@ -26,22 +26,20 @@ Repare: o vovô usa dois passados. Para **descrever** o cenário e contar o que 
 
 ## 2. A armadilha do português
 
-Aqui o português ajuda: ele também tem dois passados, o **pretérito perfeito** (*bateu*, *saiu*) e o **pretérito imperfeito** (*era*, *tinha*, *acordava*). O francês faz a mesma divisão: o passé composé (capítulo 11) para o fato, o **imparfait** (imperfeito) para o fundo.
+Aqui o português ajuda: ele também tem dois passados, o **pretérito perfeito** ({{bateu}}, {{saiu}}) e o **pretérito imperfeito** (*era*, {{tinha}}, {{acordava}}). O francês faz a mesma divisão: o passé composé (capítulo 11) para o fato, o **imparfait** (imperfeito) para o fundo.
 
 As armadilhas são outras:
 
-1.  **O imperfeito português tem duas faces, o francês só uma.** *Eu lia* e *eu estava lendo* são ambos {{je lisais}}. Não existe “estar + gerúndio” no passado em francês.
+1. **O imperfeito português tem duas faces, o francês só uma.** {{Eu lia}} e {{eu estava lendo}} são ambos {{je lisais}}. Não existe “estar + gerúndio” no passado em francês.
 
 | Português | Francês |
 |---|---|
 | Eu lia o jornal todo dia. | {{Je lisais le journal tous les jours.}} |
 | Eu estava lendo quando ele chegou. | {{Je lisais quand il est arrivé.}} |
 
-2.  **A escrita de todas as terminações soa igual.** {{je parlais, tu parlais, il parlait, ils parlaient}} têm o mesmo som final (como o *é* aberto de “café”). No português, *falava / falavam* têm sons diferentes. Em francês, você só distingue a pessoa pelo sujeito, e só consegue escrever certo conhecendo o verbo.
-
-3.  **O passé simple não existe na fala.** Em livros e em contos você vai ver {{il fut, elle alla, ils virent}}. É uma forma literária. No dia a dia, quem fala usa o passé composé para o fato e o imparfait para o fundo. Neste livro, você só precisa **reconhecer** o passé simple, nunca produzi-lo.
-
-4.  **“Havia” não varia.** O português diz *havia um problema / havia dois problemas*. O francês também mantém o verbo no singular: {{il y avait un problème, il y avait deux problèmes}}. Nunca {{~~ils y avaient~~}}.
+2. **A escrita de todas as terminações soa igual.** {{je parlais, tu parlais, il parlait, ils parlaient}} têm o mesmo som final (como o *é* de “pé”). No português, {{falava / falavam}} têm sons diferentes. Em francês, você só distingue a pessoa pelo sujeito, e só consegue escrever certo conhecendo o verbo.
+3. **O passé simple não existe na fala.** Em livros e em contos você vai ver {{il fut, elle alla, ils virent}}. É uma forma literária. No dia a dia, quem fala usa o passé composé para o fato e o imparfait para o fundo. Neste livro, você só precisa **reconhecer** o passé simple, nunca produzi-lo.
+4. **“Havia” não varia.** O português diz {{havia um problema / havia dois problemas}}. O francês também mantém o verbo no singular: {{il y avait un problème, il y avait deux problèmes}}. Nunca {{~~ils y avaient~~}}.
 
 ## 3. Descubra você mesmo
 
@@ -67,7 +65,7 @@ Se você viu que o imparfait é o “pano de fundo” e o passé composé é o �
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Imparfait = radical de *nous* no presente, sem *-ons* + terminações:**
+1. **Imparfait = radical de {{nous}} no presente, sem *-ons* + terminações:**
 
 | Pessoa | Terminação | Exemplo ({{parler}}) |
 |---|---|---|
@@ -78,18 +76,16 @@ Se você viu que o imparfait é o “pano de fundo” e o passé composé é o �
 | vous | -iez | {{vous parliez}} |
 | ils / elles | -aient | {{ils parlaient}} |
 
-2.  **Um único verbo foge à regra do radical: {{être}}.** Ele usa {{ét-}}: {{j'étais, tu étais, il était, nous étions, vous étiez, ils étaient}}.
-
-3.  **Imparfait = fundo:** descrição, hábito, estado, ação em curso. **Passé composé = fato:** uma ação que acontece e muda a história.
-
-4.  **Imparfait de “haver”:** {{il y avait}}. **De “ser”:** {{c'était}}.
+2. **Um único verbo foge à regra do radical: {{être}}.** Ele usa {{ét-}}: {{j'étais, tu étais, il était, nous étions, vous étiez, ils étaient}}.
+3. **Imparfait = fundo:** descrição, hábito, estado, ação em curso. **Passé composé = fato:** uma ação que acontece e muda a história.
+4. **Imparfait de “haver”:** {{il y avait}}. **De “ser”:** {{c'était}}.
 :::::
 
 ## 5. Por dentro
 
-**Como formar.** Pegue o presente de *nous*, tire o *-ons* e acrescente as terminações.
+**Como formar.** Pegue o presente de {{nous}}, tire o *-ons* e acrescente as terminações.
 
-| Infinitivo | Presente de *nous* | Radical | Eu |
+| Infinitivo | Presente de {{nous}} | Radical | Eu |
 |---|---|---|---|
 | {{parler}} | {{parlons}} | {{parl-}} | {{je parlais}} |
 | {{finir}} | {{finissons}} | {{finiss-}} | {{je finissais}} |
@@ -100,7 +96,7 @@ Se você viu que o imparfait é o “pano de fundo” e o passé composé é o �
 | {{boire}} | {{buvons}} | {{buv-}} | {{je buvais}} |
 | {{venir}} | {{venons}} | {{ven-}} | {{je venais}} |
 
-Esse método é mais fácil do que parece: o imparfait não tem as mudanças de radical do capítulo 4. Enquanto o presente diz {{j'achète}} e {{nous achetons}}, o imparfait diz {{j'achetais}} e {{nous achetions}}, porque parte do radical de *nous*. Verbos impessoais seguem: {{il pleuvait}}, {{il fallait}}.
+Esse método é mais fácil do que parece: o imparfait não tem as mudanças de radical do capítulo 4. Enquanto o presente diz {{j'achète}} e {{nous achetons}}, o imparfait diz {{j'achetais}} e {{nous achetions}}, porque parte do radical de {{nous}}. Verbos impessoais seguem: {{il pleuvait}}, {{il fallait}}.
 
 **Reflexivos.** O pronome vem antes: {{je me levais, nous nous couchions}}.
 
@@ -112,27 +108,21 @@ Esse método é mais fácil do que parece: o imparfait não tem as mudanças de 
 | {{commencer}} | {{je commençais, ils commençaient}} | {{nous commencions, vous commenciez}} |
 | {{étudier}} | {{j'étudiais, ils étudiaient}} | {{nous étudiions, vous étudiiez}} |
 
-O *e* de *mangeais* e o *ç* de *commençais* existem para manter o som suave do *g* e do *c* diante de *a* ou *o*. Diante de *i* (*mangions*, *commencions*), a própria vogal já suaviza o som, e eles não são necessários. Em *étudiions* há dois *i*: um do radical, outro da terminação.
+O *e* de {{mangeais}} e o *ç* de {{commençais}} existem para manter o som suave do *g* e do *c* diante de *a* ou *o*. Diante de *i* ({{mangions}}, {{commencions}}), a própria vogal já suaviza o som, e eles não são necessários. Em {{étudiions}} há dois *i*: um do radical, outro da terminação.
 
 **Quando usar o imparfait.**
 
-1.  **Descrição:** {{Il faisait chaud. La maison était grande. Elle portait une robe bleue.}}
-
-2.  **Hábito no passado:** {{Tous les étés, nous allions à la mer. Avant, je buvais du café le soir.}}
-
-3.  **Estado e sentimento:** {{J'avais faim. Il était fatigué. Nous ne savions pas la réponse.}}
-
-4.  **Ação em curso, no momento em que algo aconteceu:** {{Je prenais ma douche quand le téléphone a sonné.}}
-
-5.  **Pano de fundo da história:** {{C'était un samedi soir. Il y avait beaucoup de monde dans la rue.}}
+1. **Descrição:** {{Il faisait chaud. La maison était grande. Elle portait une robe bleue.}}
+2. **Hábito no passado:** {{Tous les étés, nous allions à la mer. Avant, je buvais du café le soir.}}
+3. **Estado e sentimento:** {{J'avais faim. Il était fatigué. Nous ne savions pas la réponse.}}
+4. **Ação em curso, no momento em que algo aconteceu:** {{Je prenais ma douche quand le téléphone a sonné.}}
+5. **Pano de fundo da história:** {{C'était un samedi soir. Il y avait beaucoup de monde dans la rue.}}
 
 **Quando usar o passé composé.**
 
-1.  **Fato pontual:** {{Le téléphone a sonné.}}
-
-2.  **Sequência de fatos que avançam a história:** {{Je suis entré, j'ai posé mon sac et j'ai ouvert la fenêtre.}}
-
-3.  **Fato com duração delimitada ou número de vezes:** {{J'ai habité deux ans à Lyon. J'ai appelé trois fois.}}
+1. **Fato pontual:** {{Le téléphone a sonné.}}
+2. **Sequência de fatos que avançam a história:** {{Je suis entré, j'ai posé mon sac et j'ai ouvert la fenêtre.}}
+3. **Fato com duração delimitada ou número de vezes:** {{J'ai habité deux ans à Lyon. J'ai appelé trois fois.}}
 
 **Os marcadores ajudam.**
 
@@ -144,16 +134,16 @@ O *e* de *mangeais* e o *ç* de *commençais* existem para manter o som suave do
 | {{quand j'étais petit, pendant que}} | {{pendant deux ans, trois fois}} |
 
 ::: atencao
-os marcadores só orientam. O que decide é o papel da ação na história. {{Avant, je ne comprenais rien}} (estado habitual) e {{Soudain, j'ai compris}} (fato) usam o mesmo verbo, em formas diferentes, porque dizem coisas diferentes.
+Os marcadores só orientam. O que decide é o papel da ação na história. {{Avant, je ne comprenais rien}} (estado habitual) e {{Soudain, j'ai compris}} (fato) usam o mesmo verbo, em formas diferentes, porque dizem coisas diferentes.
 :::
 
 **C'était, il y avait.** São as formas mais úteis do capítulo. {{C'était}} descreve uma experiência passada: {{C'était génial. C'était loin. C'était difficile.}} Com plural, a fala usa {{c'était}} ({{c'était des amis}}); na escrita cuidada, {{c'étaient}}. {{Il y avait}} é invariável.
 
 Compare com o capítulo 2: no presente, {{C'est un ami}}, mas para descrever a pessoa, {{Il est gentil}}. No passado, a mesma divisão: {{C'était un ami}} e {{Il était gentil}}.
 
-**Verbos de estado e o passé composé.** Alguns verbos, quando vão para o passé composé, mudam de sentido, porque deixam de ser um estado e viram um fato: {{Je savais qu'il partait}} (eu já sabia) contra {{J'ai su qu'il partait}} (fiquei sabendo). Use o imparfait por padrão com *être, avoir, savoir, vouloir, pouvoir* e pense com cuidado antes de escolher o passé composé.
+**Verbos de estado e o passé composé.** Alguns verbos, quando vão para o passé composé, mudam de sentido, porque deixam de ser um estado e viram um fato: {{Je savais qu'il partait}} (eu já sabia) contra {{J'ai su qu'il partait}} (fiquei sabendo). Use o imparfait por padrão com {{être, avoir, savoir, vouloir, pouvoir}} e pense com cuidado antes de escolher o passé composé.
 
-**Imparfait com *si*.** Um uso curto para guardar: {{Si on allait au cinéma ?}} é uma sugestão (“que tal irmos ao cinema?”). O capítulo 14 retoma o *si*.
+**Imparfait com {{si}}.** Um uso curto para guardar: {{Si on allait au cinéma ?}} é uma sugestão (“que tal irmos ao cinema?”). O capítulo 14 retoma o {{si}}.
 
 ## 6. Frases de ouro
 
@@ -173,69 +163,47 @@ Compare com o capítulo 2: no presente, {{C'est un ami}}, mas para descrever a p
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  {{Quand j'étais petit, je \_\_\_\_ au foot tous les jours.}} ({{jouais}}, {{ai joué}})
-
-2.  {{J'ai ouvert la porte et j'ai vu un chat. Il \_\_\_\_ sur le canapé.}} ({{dormait}}, {{a dormi}})
-
-3.  {{Soudain, le téléphone \_\_\_\_.}} ({{sonnait}}, {{a sonné}})
-
-4.  {{Il \_\_\_\_ très froid ce jour-là.}} ({{faisait}}, {{a fait}})
-
-5.  {{Elle \_\_\_\_ à Paris pendant trois ans.}} ({{habitait}}, {{a habité}})
-
-6.  {{Nous \_\_\_\_ chez mamie chaque dimanche.}} ({{sommes allés}}, {{allions}})
-
-7.  {{Hier, j'ai rencontré un homme. \_\_\_\_ un ami de Marc.}} ({{C'est}}, {{C'était}})
-
-8.  {{Je ne \_\_\_\_ pas qu'elle était malade.}} ({{savais}}, {{ai su}})
+1. {{Quand j'étais petit, je \_\_\_\_ au foot tous les jours.}} ({{jouais}}, {{ai joué}})
+2. {{J'ai ouvert la porte et j'ai vu un chat. Il \_\_\_\_ sur le canapé.}} ({{dormait}}, {{a dormi}})
+3. {{Soudain, le téléphone \_\_\_\_.}} ({{sonnait}}, {{a sonné}})
+4. {{Quand nous sommes sortis, il \_\_\_\_ très froid.}} ({{faisait}}, {{a fait}})
+5. {{Elle \_\_\_\_ à Paris pendant trois ans.}} ({{habitait}}, {{a habité}})
+6. {{Nous \_\_\_\_ chez mamie chaque dimanche.}} ({{sommes allés}}, {{allions}})
+7. {{Hier, j'ai rencontré un homme. \_\_\_\_ un ami de Marc.}} ({{C'est}}, {{C'était}})
+8. {{À l'époque, je ne \_\_\_\_ pas conduire.}} ({{savais}}, {{ai su}})
 
 **Degrau 2. Complete.** Imparfait, ou passé composé quando o verbo indicar o fato.
 
-1.  {{Quand nous \_\_\_\_ (être) petits, nous \_\_\_\_ (habiter) à la campagne.}}
-
-2.  {{Tu \_\_\_\_ (avoir) quel âge ?}}
-
-3.  {{Il \_\_\_\_ (pleuvoir) et je n'\_\_\_\_ (avoir) pas de parapluie.}}
-
-4.  {{Ils \_\_\_\_ (manger) toujours ensemble.}}
-
-5.  {{Elle \_\_\_\_ (commencer) à travailler à huit heures.}}
-
-6.  {{Vous \_\_\_\_ (étudier) quoi à l'époque ?}}
-
-7.  {{Avant, je \_\_\_\_ (se lever) à cinq heures.}}
-
-8.  {{Je \_\_\_\_ (dormir) quand le téléphone \_\_\_\_ (sonner).}}
-
-9.  {{Il y \_\_\_\_ (avoir) beaucoup de monde, alors nous \_\_\_\_ (partir).}}
-
+1. {{Quand nous \_\_\_\_ (être) petits, nous \_\_\_\_ (habiter) à la campagne.}}
+2. {{Tu \_\_\_\_ (avoir) quel âge ?}}
+3. {{Il \_\_\_\_ (pleuvoir) et je n'\_\_\_\_ (avoir) pas de parapluie.}}
+4. {{Ils \_\_\_\_ (manger) toujours ensemble.}}
+5. {{Chaque matin, elle \_\_\_\_ (commencer) à travailler à huit heures.}}
+6. {{Vous \_\_\_\_ (étudier) quoi à l'époque ?}}
+7. {{Avant, je \_\_\_\_ (se lever) à cinq heures.}}
+8. {{Je \_\_\_\_ (dormir) quand le téléphone \_\_\_\_ (sonner).}}
+9. {{Il y \_\_\_\_ (avoir) beaucoup de monde, alors nous \_\_\_\_ (partir).}}
 10. {{Nous \_\_\_\_ (prendre) le bus tous les jours.}}
 
 **Degrau 3. Produza.**
 
-Escreva seis frases sobre a sua infância, com *quand j'étais petit(e)* e o imparfait.
+Escreva seis frases sobre a sua infância, com {{quand j'étais petit(e)}} e o imparfait.
 
-Conte um acontecimento em oito linhas: três frases de cenário no imparfait e o resto no passé composé. Use *soudain* ou *tout à coup*.
+Conte um acontecimento em oito linhas: três frases de cenário no imparfait e o resto no passé composé. Use {{soudain}} ou {{tout à coup}}.
 
-Descreva a sua cidade dez anos atrás, usando *il y avait* e *c'était* pelo menos duas vezes cada.
+Descreva a sua cidade dez anos atrás, usando {{il y avait}} e {{c'était}} pelo menos duas vezes cada.
 
-Faça três perguntas a alguém mais velho sobre como era a vida antes, começando por *C'était comment…* ou *Vous aviez…*
+Faça três perguntas a alguém mais velho sobre como era a vida antes, começando por {{C'était comment…}} ou {{Vous aviez…}}
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1.  {{Quand j'ai été petit, je jouais dehors.}}
-
-2.  {{Il y avaient beaucoup de gens.}}
-
-3.  {{Avant, nous mangions ensemble le dimanche.}}
-
-4.  {{Tout à coup, mon frère entrait et criait.}}
-
-5.  {{Je lis quand il est arrivé.}}
-
-6.  {{C'étais une belle journée.}}
-
-7.  {{Quand j'étais petit, nous habitons à Lyon.}}
+1. {{Quand j'ai été petit, je jouais dehors.}}
+2. {{Il y avaient beaucoup de gens.}}
+3. {{Avant, nous mangions ensemble le dimanche.}}
+4. {{Tout à coup, mon frère entrait et criait.}}
+5. {{Je lis quand il est arrivé.}}
+6. {{C'étais une belle journée.}}
+7. {{Quand j'étais petit, nous habitons à Lyon.}}
 :::::
 
 ## 8. O erro típico
@@ -245,15 +213,15 @@ O erro mais comum de quem já sabe o passé composé é **usá-lo para tudo**. N
 O terceiro erro é de ortografia: aplicar a mesma terminação a todas as pessoas ({{~~nous parlait~~}}) ou esquecer o *e* de {{mangeais}}.
 
 ::: atencao
-em cada frase da história, pergunte: isto é cenário (como era) ou é fato (o que aconteceu)? Cenário, imparfait. Fato, passé composé.
+Em cada frase da história, pergunte: isto é cenário (como era) ou é fato (o que aconteceu)? Cenário, imparfait. Fato, passé composé.
 :::
 
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| {{~~Il a fait chaud hier soir.~~}} (descrevendo o cenário) | {{Il faisait chaud ce soir-là.}} | Clima de fundo pede imparfait. |
-| {{~~Il y avaient trois chats.~~}} | {{Il y avait trois chats.}} | *Il y avait* é invariável. |
-| {{~~C'étais bien.~~}} | {{C'était bien.}} | *C'était* tem *-t* final, qualquer que seja o sujeito. |
+| {{~~Il a fait chaud quand nous sommes sortis.~~}} (descrevendo o cenário) | {{Il faisait chaud quand nous sommes sortis.}} | Clima de fundo pede imparfait. |
+| {{~~Il y avaient trois chats.~~}} | {{Il y avait trois chats.}} | {{Il y avait}} é invariável. |
+| {{~~C'étais bien.~~}} | {{C'était bien.}} | {{C'était}} tem *-t* final, qualquer que seja o sujeito. |
 | {{~~nous mangeions~~}} | {{nous mangions}} | O *e* só aparece diante de *a* e *o*, não de *i*. |
 | {{~~Quand j'ai été petit~~}} | {{Quand j'étais petit}} | Estado habitual da infância pede imparfait. |
 | {{~~Je suis lisant.~~}} | {{Je lisais.}} / {{Je suis en train de lire.}} | Não há “estar + gerúndio”. |
@@ -263,23 +231,23 @@ em cada frase da história, pergunte: isto é cenário (como era) ou é fato (o 
 
 **Do capítulo 11.** Passe para o passé composé: {{Je mange une pizza. Nous allons au cinéma. Elle se lève tôt.}}
 
-**Do capítulo 10.** Conjugue no presente: {{se lever}} com *nous*, {{se coucher}} com *ils*.
+**Do capítulo 10.** Conjugue no presente: {{se lever}} com {{nous}}, {{se coucher}} com {{ils}}.
 
 **Do capítulo 9.** Diga por extenso: {{Il est 8 h 15}}, {{le 1er mai}}.
 
-**Do capítulo 5.** Faça a pergunta com *est-ce que*: {{Tu travailles le samedi.}} Negue com *jamais*: {{Elle dort tard.}}
+**Do capítulo 5.** Faça a pergunta com {{est-ce que}}: {{Tu travailles le samedi.}} Negue com {{jamais}}: {{Elle dort tard.}}
 
 | Quando | O que fazer |
 |---|---|
 | Dia 1 | Leia a Cena em voz alta; separe cenário e fatos com duas cores. |
-| Dia 3 | Escreva oito frases com *Quand j'étais petit(e)…* e imparfait. |
+| Dia 3 | Escreva oito frases com {{Quand j'étais petit(e)…}} e imparfait. |
 | Dia 7 | Refaça o Degrau 4 sem a chave. |
 | Dia 14 | Conte por escrito um dia memorável em dez linhas, misturando imparfait e passé composé. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Imparfait = radical de *nous* (sem *-ons*) + **-ais, -ais, -ait, -ions, -iez, -aient**. Exceção de radical: *être* → **ét-**.
+Imparfait = radical de {{nous}} (sem *-ons*) + **-ais, -ais, -ait, -ions, -iez, -aient**. Exceção de radical: {{être}} → **ét-**.
 
 Ortografia: **mangeais / mangions**, **commençais / commencions**, **étudiions**.
 
@@ -287,13 +255,13 @@ Imparfait: cenário, descrição, hábito, estado, ação em curso. Passé compo
 
 **C'était** e **il y avait** são sempre singulares na fala.
 
-Não existe “estar + gerúndio” em francês: *je lisais* cobre *lia* e *estava lendo*.
+Não existe “estar + gerúndio” em francês: {{je lisais}} cobre {{lia}} e {{estava lendo}}.
 
 O passé simple só se reconhece na leitura.
 
 **Já consigo?**
 
-Formo o imparfait de qualquer verbo a partir de *nous*.
+Formo o imparfait de qualquer verbo a partir de {{nous}}.
 
 Descrevo a minha infância em seis frases.
 
@@ -329,27 +297,21 @@ Escolho imparfait ou passé composé numa história curta e explico a escolha.
 ## Chave comentada do capítulo 12
 
 ::::: gabarito
-**Degrau 1.** 1 jouais (hábito). 2 dormait (cenário). 3 a sonné (fato). 4 faisait (clima de fundo). 5 a habité (período delimitado por *pendant trois ans*). 6 allions (*chaque dimanche*, hábito). 7 C'était (descreve quem era o homem). 8 savais (estado: eu não sabia, e ela estava doente).
+**Degrau 1.** 1 jouais (hábito). 2 dormait (cenário). 3 a sonné (fato). 4 faisait (clima de fundo). 5 a habité (período delimitado por {{pendant trois ans}}). 6 allions ({{chaque dimanche}}, hábito). 7 C'était (descreve quem era o homem). 8 savais (estado, {{à l'époque}}).
 
-**Degrau 2.** 1 étions, habitions. 2 avais. 3 pleuvait, avais. 4 mangeaient. 5 commençait (hábito; *a commencé* também cabe se for um fato único). 6 étudiiez. 7 me levais. 8 dormais, a sonné. 9 avait, sommes partis. 10 prenions.
+**Degrau 2.** 1 étions, habitions. 2 avais. 3 pleuvait, avais. 4 mangeaient. 5 commençait (hábito: {{chaque matin}}). 6 étudiiez. 7 me levais. 8 dormais, a sonné. 9 avait, sommes partis. 10 prenions.
 
-**Degrau 3.** Respostas pessoais. Confira: imparfait em cenário e hábito; passé composé nos fatos; *mangeais/commençais* com a ortografia certa; *il y avait* nunca no plural.
+**Degrau 3.** Respostas pessoais. Confira: imparfait em cenário e hábito; passé composé nos fatos; {{mangeais/commençais}} com a ortografia certa; {{il y avait}} nunca no plural.
 
 **Degrau 4.**
 
-1.  Quand j'étais petit, je jouais dehors.
-
-2.  Il y avait beaucoup de gens.
-
-3.  Está certa. (*mangions*, sem *e*)
-
-4.  Tout à coup, mon frère est entré et il a crié.
-
-5.  Je lisais quand il est arrivé. (ação em curso no passado)
-
-6.  C'était une belle journée.
-
-7.  Quand j'étais petit, nous habitions à Lyon.
+1. Quand j'étais petit, je jouais dehors.
+2. Il y avait beaucoup de gens.
+3. Está certa. ({{mangions}}, sem *e*)
+4. Tout à coup, mon frère est entré et il a crié.
+5. Je lisais quand il est arrivé. (ação em curso no passado)
+6. C'était une belle journée.
+7. Quand j'étais petit, nous habitions à Lyon.
 
 **Retorno.** Capítulo 11: J'ai mangé une pizza. Nous sommes allés au cinéma. Elle s'est levée tôt. Capítulo 10: nous nous levons; ils se couchent. Capítulo 9: Il est huit heures et quart; le premier mai. Capítulo 5: Est-ce que tu travailles le samedi ? Elle ne dort jamais tard.
 :::::

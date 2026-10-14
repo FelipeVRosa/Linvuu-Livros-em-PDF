@@ -1,10 +1,10 @@
 # Capítulo 5. Negação e perguntas (A1)
 
-**Meta do capítulo.** Ao final, você nega frases com *ne… pas*, *jamais*, *rien*, *personne* e *plus*, troca *du/de la/un* por *de* depois da negação e faz perguntas de três jeitos (entonação, *est-ce que* e inversão), com as palavras interrogativas básicas.
+**Meta do capítulo.** Ao final, você nega frases com {{ne… pas}}, {{jamais}}, {{rien}}, {{personne}} e {{plus}}, troca {{du/de la/un}} por {{de}} depois da negação e faz perguntas de três jeitos (entonação, {{est-ce que}} e inversão), com as palavras interrogativas básicas.
 
 ## 1. Cena: no restaurante
 
-Camila e Hugo jantam em um *bouchon* (restaurante típico) de Lyon. Camila não come carne.
+Camila e Hugo jantam em um {{bouchon}} (restaurante típico) de Lyon. Camila não come carne.
 
 ::: dialogo
 **Serveur:** {{Bonsoir. Vous avez choisi ?}}
@@ -140,7 +140,7 @@ Mas há **dois casos em que o artigo não muda**:
 A razão: o definido fala de algo identificado ({{le fromage}}), e {{être}} identifica, não conta nem quantifica. Compare: {{Je n'ai pas de voiture}} (quantidade zero) × {{Ce n'est pas une voiture}} (identificação: "não é um carro").
 
 ::: atencao
-na pronúncia, {{de}} diante de vogal vira {{d'}}: {{Je ne bois pas d'alcool}}. E não confunda com o "de" de posse ou origem, que tem outro uso (capítulo 8).
+Na pronúncia, {{de}} diante de vogal vira {{d'}}: {{Je ne bois pas d'alcool}}. E não confunda com o "de" de posse ou origem, que tem outro uso (capítulo 8).
 :::
 
 ### Oral × escrito
@@ -243,23 +243,23 @@ Os três significam "onde você mora?", mas o primeiro é o cotidiano, o segundo
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. Je \_\_\_\_ mange pas de viande. ({{ne}}, {{n'}})
-2. Il \_\_\_\_ aime pas le café. ({{ne}}, {{n'}})
-3. Je ne mange \_\_\_\_ le matin. ({{rien}}, {{personne}})
-4. Je n'ai pas \_\_\_\_ frère. ({{un}}, {{de}})
-5. Tu n'as pas faim ? — \_\_\_\_, j'ai faim. ({{Oui}}, {{Si}})
+1. {{Je \_\_\_\_ mange pas de viande.}} ({{ne}}, {{n'}})
+2. {{Il \_\_\_\_ aime pas le café.}} ({{ne}}, {{n'}})
+3. {{Je ne mange \_\_\_\_ le matin.}} ({{rien}}, {{personne}})
+4. {{Je n'ai pas \_\_\_\_ frère.}} ({{un}}, {{de}})
+5. {{Tu n'as pas faim ? — \_\_\_\_, j'ai faim.}} ({{Oui}}, {{Si}})
 6. Qual frase usa a inversão? ({{Tu parles français ?}}, {{Parles-tu français ?}}, {{Est-ce que tu parles français ?}})
-7. \_\_\_\_ est-ce que tu arrives ? Ce soir. ({{Où}}, {{Quand}})
-8. Pourquoi tu apprends le français ? — \_\_\_\_ je voyage. ({{Pourquoi}}, {{Parce que}})
+7. {{\_\_\_\_ est-ce que tu arrives ? Ce soir.}} ({{Où}}, {{Quand}})
+8. {{Pourquoi tu apprends le français ? — \_\_\_\_ je voyage.}} ({{Pourquoi}}, {{Parce que}})
 
 **Degrau 2. Complete.** Passe para a negativa (itens 1 a 6) e para a pergunta indicada (itens 7 a 10).
 
-1. Je parle arabe. → Je \_\_\_\_ parle \_\_\_\_ arabe.
-2. Elle a une voiture. → Elle \_\_\_\_ pas \_\_\_\_ voiture.
-3. Nous mangeons de la viande. → Nous \_\_\_\_ mangeons \_\_\_\_ \_\_\_\_ viande.
-4. Il aime le jazz. → Il \_\_\_\_ aime \_\_\_\_ le jazz.
-5. Tu prends du sucre. → Tu \_\_\_\_ prends \_\_\_\_ \_\_\_\_ sucre.
-6. Vous buvez de l'alcool (nunca). → Vous \_\_\_\_ buvez \_\_\_\_ \_\_\_\_ alcool.
+1. {{Je parle arabe. → Je \_\_\_\_ parle \_\_\_\_ arabe.}}
+2. {{Elle a une voiture. → Elle \_\_\_\_ pas \_\_\_\_ voiture.}}
+3. {{Nous mangeons de la viande. → Nous \_\_\_\_ mangeons \_\_\_\_ \_\_\_\_ viande.}}
+4. {{Il aime le jazz. → Il \_\_\_\_ aime \_\_\_\_ le jazz.}}
+5. {{Tu prends du sucre. → Tu \_\_\_\_ prends \_\_\_\_ \_\_\_\_ sucre.}}
+6. {{Vous buvez de l'alcool (nunca). → Vous \_\_\_\_ buvez \_\_\_\_ \_\_\_\_ alcool.}}
 7. Tu habites à Lyon. (com {{est-ce que}}) → \_\_\_\_
 8. Vous travaillez ici. (com inversão) → \_\_\_\_
 9. Il va à la gare. (com inversão) → \_\_\_\_
@@ -274,13 +274,13 @@ Os três significam "onde você mora?", mas o primeiro é o cotidiano, o segundo
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1. Je ne mange pas de la viande.
-2. Je n'ai pas un frère.
-3. Je mange jamais de poisson.
-4. Tu ne parles pas français ? — Oui, je parle français.
-5. Où tu est-ce que habites ?
-6. Qu'est-ce que tu fais ?
-7. Il ne a pas faim.
+1. {{Je ne mange pas de la viande.}}
+2. {{Je n'ai pas un frère.}}
+3. {{Je mange jamais de poisson.}}
+4. {{Tu ne parles pas français ? — Oui, je parle français.}}
+5. {{Où tu est-ce que habites ?}}
+6. {{Qu'est-ce que tu fais ?}}
+7. {{Il ne a pas faim.}}
 :::::
 
 ## 8. O erro típico
@@ -290,12 +290,12 @@ O erro que mais custa caro é **esquecer a segunda metade** da negação ou a pr
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~Je mange jamais de poisson.~~ | {{Je ne mange jamais de poisson.}} | na escrita, {{jamais}} precisa do {{ne}} |
-| ~~Je ne mange pas de la viande.~~ | {{Je ne mange pas de viande.}} | partitivo vira {{de}} |
-| ~~Je n'ai pas un frère.~~ | {{Je n'ai pas de frère.}} | indefinido vira {{de}} |
-| ~~Il ne a pas faim.~~ | {{Il n'a pas faim.}} | elisão obrigatória |
-| ~~Où tu est-ce que habites ?~~ | {{Où est-ce que tu habites ?}} | {{est-ce que}} vem logo depois da palavra interrogativa |
-| ~~Oui, j'ai faim.~~ (a "Tu n'as pas faim ?") | {{Si, j'ai faim.}} | {{si}} contradiz a pergunta negativa |
+| {{~~Je mange jamais de poisson.~~}} | {{Je ne mange jamais de poisson.}} | na escrita, {{jamais}} precisa do {{ne}} |
+| {{~~Je ne mange pas de la viande.~~}} | {{Je ne mange pas de viande.}} | partitivo vira {{de}} |
+| {{~~Je n'ai pas un frère.~~}} | {{Je n'ai pas de frère.}} | indefinido vira {{de}} |
+| {{~~Il ne a pas faim.~~}} | {{Il n'a pas faim.}} | elisão obrigatória |
+| {{~~Où tu est-ce que habites ?~~}} | {{Où est-ce que tu habites ?}} | {{est-ce que}} vem logo depois da palavra interrogativa |
+| {{~~Oui, j'ai faim.~~}} (a "Tu n'as pas faim ?") | {{Si, j'ai faim.}} | {{si}} contradiz a pergunta negativa |
 :::
 
 ## 9. Retorno
@@ -339,28 +339,28 @@ Faço a mesma pergunta de três jeitos.
 
 | Francês | Português |
 |---|---|
-| ne… pas | não |
-| ne… jamais | nunca |
-| ne… rien | nada |
-| ne… personne | ninguém |
-| ne… plus | não… mais |
-| pas encore | ainda não |
-| oui / non / si | sim / não / sim (contradizendo) |
-| est-ce que | (partícula de pergunta, "é que") |
-| qu'est-ce que | o que |
-| qui | quem |
-| où | onde |
-| quand | quando |
-| pourquoi | por que |
-| parce que | porque |
-| comment | como |
-| combien | quanto |
-| quel / quelle | qual |
-| la viande | a carne |
-| le poisson | o peixe |
-| la soupe | a sopa |
-| l'alcool (m.) | o álcool |
-| désolé | desculpe, sinto muito |
+| {{ne… pas}} | não |
+| {{ne… jamais}} | nunca |
+| {{ne… rien}} | nada |
+| {{ne… personne}} | ninguém |
+| {{ne… plus}} | não… mais |
+| {{pas encore}} | ainda não |
+| {{oui / non / si}} | sim / não / sim (contradizendo) |
+| {{est-ce que}} | (partícula de pergunta, "é que") |
+| {{qu'est-ce que}} | o que |
+| {{qui}} | quem |
+| {{où}} | onde |
+| {{quand}} | quando |
+| {{pourquoi}} | por que |
+| {{parce que}} | porque |
+| {{comment}} | como |
+| {{combien}} | quanto |
+| {{quel / quelle}} | qual |
+| {{la viande}} | a carne |
+| {{le poisson}} | o peixe |
+| {{la soupe}} | a sopa |
+| {{l'alcool (m.)}} | o álcool |
+| {{désolé}} | desculpe, sinto muito |
 
 ## Chave comentada do capítulo 5
 
