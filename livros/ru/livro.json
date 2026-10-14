@@ -1,3 +1,46 @@
-{ "titulo": "Russo: gramática prática A1–A2", "cabecalho": "Russo · Gramática prática A1–A2", "lang": "pt", "tocNivel": 1,
-  "capa": { "idioma": "Russo", "saudacao": "Привет", "lang": "ru", "nivel": "A1-A2", "vol": 1, "foto": "fotos/ru-basilio.jpg", "pos": "50% 50%", "prog": 40 },
-  "rotulos": { "livro": "Gramática prática", "sumario": "Sumário", "dica": "Dica", "atencao": "Atenção", "exercicio": "Exercício", "gabarito": "Gabarito", "resumo": "Resumo", "erros": "Erros típicos", "comparacao": "Comparando", "dialogo": "Diálogo" } }
+{
+  "titulo": "Russo: gramática prática A1–A2",
+  "cabecalho": "Russo · Gramática prática A1–A2",
+  "lang": "pt",
+  "tocNivel": 1,
+  "capa": {
+    "idioma": "Russo",
+    "saudacao": "Привет",
+    "lang": "ru",
+    "nivel": "A1-A2",
+    "vol": 1,
+    "foto": "fotos/ru-basilio.jpg",
+    "pos": "50% 50%",
+    "prog": 40
+  },
+  "rotulos": {
+    "livro": "Gramática prática",
+    "sumario": "Sumário",
+    "dica": "Dica",
+    "atencao": "Atenção",
+    "exercicio": "Exercício",
+    "gabarito": "Gabarito",
+    "resumo": "Resumo",
+    "erros": "Erros típicos",
+    "comparacao": "Comparando",
+    "dialogo": "Diálogo"
+  },
+  "capitulos": [
+    "01-aula.html",
+    "02-aula.html",
+    "03-aula.html",
+    "04-aula.html",
+    "05-aula.html",
+    "06-aula.html",
+    "07-aula.html",
+    "08-aula.html",
+    "09-aula.html",
+    "10-aula.html",
+    "11-aula.html",
+    "12-aula.html",
+    "13-aula.html",
+    "14-aula.html",
+    "15-aula.html",
+    "99-vocabulario-oficial.html"
+  ]
+}
