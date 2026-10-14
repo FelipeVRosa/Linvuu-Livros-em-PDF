@@ -1,408 +1,325 @@
-# Capítulo 10. Comparativos e superlativos (A2)
+# Capítulo 10. Onde você estava e como foi: o passado de to be (was e were) (A1–A2)
 
-**Meta do capítulo.** Ao final, você compara pessoas, coisas e lugares com *-er/more ... than*, diz o melhor e o pior com *the -est/the most*, usa *as ... as*, *less*, *too* e *enough*, e não diz mais *more good*.
+**Meta do capítulo.** Ao final, você descreve onde estava, como foi uma viagem, um evento ou o clima no passado usando {{was}} e {{were}} (sem misturar com o auxiliar {{did}}), fala do que havia em um lugar com {{there was / there were}}, diz onde e quando nasceu com {{I was born}} e usa os marcadores de tempo passado ({{yesterday, last, ago}}).
 
-## 1. Cena: escolhendo um apartamento
+## 1. Cena: de volta ao escritório depois da conferência
 
-Lívia e Ethan procuram um lugar para morar em Boston e visitam dois apartamentos.
+É segunda-feira de manhã em Boston. Kevin encontra Marina na copa logo após a viagem dela para uma conferência em Chicago.
 
 ::: dialogo
-**Ethan:** So, which one do you prefer, Lívia? The one on Oak Street or the one near the park?
 
-**Lívia:** The Oak Street apartment is bigger, but it's more expensive. The rent is $200 higher.
+**Kevin:** {{Welcome back, Marina! How was the conference in Chicago last week?}}
 
-**Ethan:** True. And the park apartment is quieter and a little cheaper. But the kitchen is smaller.
+**Marina:** {{Thanks, Kevin! It was fantastic, but it was exhausting. There were over five hundred people at the event!}}
 
-**Lívia:** It's not as bright as the other one, either. And it's far from the subway, so it's less convenient for work.
+**Kevin:** {{Wow, that's huge! Were the presentations good?}}
 
-**Ethan:** What about the third one, downtown? That's the most beautiful, but it's also the most expensive.
+**Marina:** {{Yes, they were. The keynote speaker on Thursday afternoon was brilliant.}}
 
-**Lívia:** Right. It's too expensive for us. It's over our budget.
+**Kevin:** {{And how was the hotel? Was it near the convention center?}}
 
-**Ethan:** Then let's take the one on Oak Street. It's the best choice. It's big enough for two people, and the neighborhood is safer than downtown.
+**Marina:** {{No, it wasn't very close, unfortunately. It was about twenty minutes away by taxi, and there was a lot of traffic every morning.}}
 
-**Lívia:** Agreed. A bigger apartment is better than a cheaper one with no light.
+**Kevin:** {{What about the weather? Was it freezing in Chicago?}}
+
+**Marina:** {{Actually, we were really lucky! It wasn't cold at all on Thursday and Friday — it was sunny and around sixty-five degrees.}}
+
+**Kevin:** {{Nice! By the way, where were you yesterday evening? I called you around seven, and you weren't online.}}
+
+**Marina:** {{Oh, I was on the plane back to Boston last night! My flight was delayed for three hours.}}
+
 :::
 
-Em português: Então, qual você prefere, Lívia? O da Oak Street ou o perto do parque? / O da Oak Street é maior, mas é mais caro. O aluguel é 200 dólares mais alto. / Verdade. E o apartamento do parque é mais silencioso e um pouco mais barato. Mas a cozinha é menor. / Também não é tão claro quanto o outro. E fica longe do metrô, então é menos prático para o trabalho. / E o terceiro, no centro? É o mais bonito, mas também o mais caro. / Pois é. É caro demais para nós. Passa do nosso orçamento. / Então vamos ficar com o da Oak Street. É a melhor escolha. É grande o suficiente para duas pessoas, e o bairro é mais seguro que o centro. / Combinado. Um apartamento maior é melhor do que um mais barato e sem luz.
+Em português: Bem-vinda de volta, Marina! Como foi a conferência em Chicago na semana passada? / Obrigada, Kevin! Foi fantástica, mas foi cansativa. Havia mais de quinhentas pessoas no evento! / Uau, é enorme! As apresentações foram boas? / Sim, foram. O palestrante principal na quinta-feira à tarde foi brilhante. / E como era o hotel? Ficava perto do centro de convenções? / Não, não ficava muito perto, infelizmente. Ficava a uns vinte minutos de táxi, e tinha muito trânsito todas as manhãs. / E quanto ao clima? Estava congelando em Chicago? / Na verdade, demos muita sorte! Não fez frio nenhum na quinta e na sexta — estava ensolarado e uns 65 graus (Fahrenheit, cerca de 18 °C). / Legal! Aliás, onde você estava ontem à noite? Te liguei lá pelas sete e você não estava online. / Ah, eu estava no avião de volta para Boston ontem à noite! Meu voo atrasou por três horas.
 
-Repare em duas famílias de palavras. Algumas ganham *-er* (*bigger, quieter, cheaper, smaller, safer, higher*), outras ganham *more* na frente (*more expensive, more convenient, more beautiful*). E repare em *the best choice*, que não é ~~the most good~~.
+Repare que em português usamos quatro verbos diferentes no passado (*"foi fantástica"*, *"era perto"*, *"estava ensolarado"*, *"ficava longe"*), mas em inglês todos eles se resumem a apenas duas palavras: **{{was}}** (singular) e **{{were}}** (plural). E para dizer *"havia / tinha"*, entram **{{there was}}** e **{{there were}}**.
 
 ## 2. A armadilha do português
 
-O português compara com uma só fórmula: **mais + adjetivo + (do) que**: "mais alto", "mais caro", "mais interessante". O inglês tem duas fórmulas, que dependem do tamanho da palavra, e uma pequena lista de formas irregulares. A tentação é aplicar a fórmula única do português em toda parte, e é isso que gera os erros típicos.
+Em português, temos o pretérito perfeito (*"eu fui / eu estive"*) e o pretérito imperfeito (*"eu era / eu estava"*), além de dizermos *"Eu nasci"* como um verbo ativo e *"Tinha muita gente"* com o verbo ter. Veja as quatro armadilhas que isso cria em inglês:
 
-| Português | Inglês | Erro típico |
-|---|---|---|
-| mais alto que eu | {{taller than me}} | ~~more tall than me~~ |
-| mais caro | {{more expensive}} | ~~expensiver~~ |
-| mais bom → melhor | {{better}} | ~~more good, more better~~ |
-| mais ruim → pior | {{worse}} | ~~more bad, badder~~ |
-| maior que | {{bigger than}} | ~~bigger that~~ |
-| o mais caro de todos | {{the most expensive of all}} | ~~the more expensive~~ |
-| tão rápido quanto | {{as fast as}} | ~~so fast like~~ |
-| caro demais | {{too expensive}} | ~~very expensive~~ (se é demais) |
+| **O hábito do português**           | **Como o inglês pensa (Certo)**                  | **O erro típico a evitar**                            |
+|-------------------------------------|--------------------------------------------------|-------------------------------------------------------|
+| Nós estávamos cansados ontem.       | {{We **were** tired yesterday.}}                 | ~~We was tired yesterday.~~                           |
+| Você estava em casa ontem à noite?  | {{**Were** you at home **last night**?}}         | ~~Did you was / Did you be at home yesterday night?~~ |
+| Eu nasci em 1995 em Recife.         | {{I **was born** in 1995 in Recife.}}            | ~~I born / I borned in 1995.~~                        |
+| Tinha / Havia muita gente na festa. | {{**There were** a lot of people at the party.}} | ~~Had many people / There was many people.~~          |
 
-Como o português forma o comparativo quase sempre com "mais", é fácil estender o hábito a *good* e *bad*, e sair ~~more good~~. Em inglês, *good* e *bad* **nunca** aceitam *more*.
+**1. {{Was}} e {{were}} funcionam sozinhos: não use {{did / didn't}} com eles.** Assim como {{am, is, are}} no presente, {{was}} e {{were}} fazem a negativa sozinhos ({{wasn't / weren't}}) e pulam para antes do sujeito na pergunta ({{Was it good? / Were you there?}}). Não diga ~~Did you were~~ ou ~~Did it was~~!
 
-**"Do que" é *than*.** A palavra *than* (som parecido com "dan" ou "zan", com o *th* sonoro do capítulo 1) tem a função de "que/do que" na comparação. O erro de escrever ~~bigger that~~ vem da semelhança com *that*. Mas *that* é "aquele/que" (capítulo 6) e não pode ser usado na comparação.
+**2. "Eu nasci" exige sempre {{was / were born}}.** Em inglês, nascer é uma estrutura passiva ("fui dado à luz"). Nunca diga ~~I born in Brazil~~; diga sempre **{{I was born in Brazil}}** ({{Where were you born?}}).
 
-E o que há com *too*? Em português, "muito" serve para tudo ("muito caro", "muito bom"). O inglês separa: *very* é "muito" no sentido neutro ({{very expensive}} = bem caro) e *too* é "demais" no sentido negativo ({{too expensive}} = caro demais, a ponto de ser um problema). Comparar com *too* é dizer que algo passou do limite.
+**3. "Ontem à noite" é {{last night}}, e "atrás/há" é {{ago}} no fim.** Em português dizemos *"ontem à noite"* e *"há dois dias"*. Em inglês, todas as partes de ontem usam {{yesterday}} ({{yesterday morning / afternoon / evening}}), **exceto a noite**, que é sempre **{{last night}}** (nunca ~~yesterday night~~). E para contar tempo para trás a partir de agora, coloque **{{ago}}** depois do período: {{two days ago}}, {{ten minutes ago}} (nunca ~~ago two days~~).
 
 ## 3. Descubra você mesmo
 
-Observe.
+Observe como o passado do verbo {{to be}} se divide em apenas dois blocos:
 
-| Adjetivo | Comparativo | Superlativo |
-|---|---|---|
-| {{cheap}} | {{cheaper (than)}} | {{the cheapest}} |
-| {{big}} | {{bigger (than)}} | {{the biggest}} |
-| {{nice}} | {{nicer (than)}} | {{the nicest}} |
-| {{easy}} | {{easier (than)}} | {{the easiest}} |
-| {{expensive}} | {{more expensive (than)}} | {{the most expensive}} |
-| {{beautiful}} | {{more beautiful (than)}} | {{the most beautiful}} |
-| {{good}} | {{better (than)}} | {{the best}} |
-| {{bad}} | {{worse (than)}} | {{the worst}} |
-
-E mais:
-
-{{This phone is as good as that one.}} / {{This phone is not as good as that one.}} / {{It's too small for me.}} / {{It's big enough.}}
+| **Singular: {{I, he, she, it}} → {{was}}**                                         | **Plural e Você: {{you, we, they}} → {{were}}**                                        |
+|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| {{I **was** in Chicago last week.}}                                                | {{You **were** in a meeting ten minutes ago.}}                                         |
+| {{The hotel **was** expensive.}}                                                   | {{The presentations **were** great.}}                                                  |
+| {{It **wasn't** cold on Friday.}}                                                  | {{We **weren't** late for the flight.}}                                                |
+| {{**Was** she at the office yesterday? — Yes, she **was**. / No, she **wasn't**.}} | {{**Were** they happy with the result? — Yes, they **were**. / No, they **weren't**.}} |
+| {{**There was** a lot of traffic.}}                                                | {{**There were** 500 people at the event.}}                                            |
 
 Perguntas:
 
-Quais adjetivos ganham *-er/-est* e quais ganham *more/most*? Há alguma relação com o tamanho da palavra?
+1.  Quais pessoas usam **{{was}}** e quais usam **{{were}}**?
 
-O que acontece com a ortografia em *big → bigger*, *nice → nicer*, *easy → easier*?
+2.  Por que dizemos {{There **was** a lot of traffic}} (com {{was}}), mas {{There **were** a lot of people}} (com {{were}})?
 
-Se você notou que as palavras curtas ganham *-er/-est*, as longas ganham *more/most*, e que *good/bad* têm formas próprias, você descobriu o sistema.
+Se você reparou que {{was}} acompanha todas as pessoas de 1 indivíduo só ({{I, he, she, it}}), que {{were}} acompanha {{you, we, they}}, e que {{traffic}} é incontável singular ({{There was}}) enquanto {{people}} é plural ({{There were}}), você já domina toda a regra.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Palavras curtas (uma sílaba):** +*er*, *the* +*est*. *old → older → the oldest*.
 
-2.  **Palavras longas (três sílabas ou mais, e as de duas que não terminam em -y):** *more* + adjetivo, *the most* + adjetivo. *interesting → more interesting → the most interesting*.
+1.  **Conjugação de {{to be}} no Passado ("foi, era, estava, ficava"):**
 
-3.  **Irregulares:** *good → better → the best*; *bad → worse → the worst*; *far → farther/further → the farthest/furthest*.
+    - **{{I / he / she / it}}** → Afirmativa: **{{was}}** (uóz) \| Negativa: **{{wasn't}}** (uó-zânt) \| Pergunta: **{{Was I / he / she / it...?}}**.
 
-4.  **Comparar:** *... than*. *My sister is taller than me.* **Igualar:** *as ... as*. *He's as tall as me.* **Negar a igualdade:** *not as ... as*. **Menos:** *less ... than*.
+    - **{{you / we / they}}** → Afirmativa: **{{were}}** (uâr) \| Negativa: **{{weren't}}** (uârnt) \| Pergunta: **{{Were you / we / they...?}}**.
 
-5.  **Excesso:** *too* + adjetivo (*too hot*). **Suficiência:** adjetivo + *enough* (*big enough*).
+    - **Respostas curtas:** {{Yes, I was / No, I wasn't}}; {{Yes, they were / No, they weren't}}.
 
-6.  **Superlativo** leva *the*: *the best restaurant in town*.
+2.  **Existência no Passado ("Havia / Tinha"):**
+
+    - **Singular / Incontável:** **{{There was}}** / **{{There wasn't}}** / **{{Was there...?}}** ({{There was a problem / There was a lot of traffic}}).
+
+    - **Plural:** **{{There were}}** / **{{There weren't}}** / **{{Were there...?}}** ({{There were twenty people in line}}).
+
+3.  **Nascimento:** Sempre com **{{was / were born}}** ({{I was born in 1994 / Where were you born?}}).
+
+4.  **Marcadores de Passado (Sem preposição antes de *yesterday* e *last*!):**
+
+    - **{{yesterday}}** ({{yesterday morning / afternoon / evening}}), mas **{{last night}}** ("ontem à noite").
+
+    - **{{last}}** + período ({{last week, last month, last year, last weekend, last Friday}}).
+
+    - Período + **{{ago}}** ({{ten minutes ago, two days ago, three years ago}}).
+
 :::::
 
 ## 5. Por dentro
 
-### Comparativo curto: -er
+### 5.1 Um único verbo em inglês para quatro verbos do português
 
-Regra: acrescente *-er* e, depois da comparação, use *than*.
+Ao contar uma história ou avaliar uma viagem em inglês, você não precisa escolher entre *"foi"*, *"era"*, *"estive"* ou *"estava"*. O contexto faz todo o trabalho para **{{was / were}}**:
 
-| Regra | Exemplos |
-|---|---|
-| uma sílaba: +*er* | {{old → older, fast → faster, cheap → cheaper, small → smaller}} |
-| termina em *-e*: +*r* | {{nice → nicer, large → larger, safe → safer}} |
-| uma sílaba, consoante-vogal-consoante: dobra a consoante | {{big → bigger, hot → hotter, thin → thinner}} |
-| termina em consoante + *y*: *y* vira *ier* | {{easy → easier, happy → happier, busy → busier}} |
-
-A regra de dobrar a consoante não vale para palavras terminadas em *w*, *x* ou *y*: *new → newer*. Para duas sílabas terminadas em *-y*, aplique *-ier*: *early → earlier*, *friendly → friendlier* (essa última também aceita *more friendly*).
-
-Alguns adjetivos de duas sílabas admitem as duas formas: {{quiet}} (*quieter* ou *more quiet*), {{simple}}, {{narrow}}, {{clever}}. Para esses, *-er* é mais frequente. Quando você não sabe, use *more*: é raramente incorreto e sempre entendido.
-
-### Comparativo longo: more
-
-Para adjetivos de duas sílabas que **não** terminam em *-y* e para os de três ou mais, use *more* + adjetivo: {{more careful, more expensive, more beautiful, more modern, more popular}}. A palavra não muda: ~~expensiver~~ e ~~beautifuler~~ não existem.
-
-Nunca junte as duas formas: ~~more cheaper~~, ~~more better~~. Um comparativo só leva *-er* **ou** *more*.
-
-### Superlativo
-
-Mesma lógica, com *the* na frente:
-
-| Regra | Exemplos |
-|---|---|
-| curto: *the* + *-est* | {{the oldest, the fastest, the cheapest}} |
-| termina em *-e*: *the* + *-st* | {{the nicest, the largest}} |
-| dobra a consoante | {{the biggest, the hottest}} |
-| *y* vira *iest* | {{the easiest, the happiest}} |
-| longo: *the most* + adjetivo | {{the most expensive, the most interesting}} |
-
-O superlativo leva a preposição **in** para lugares e grupos (cidade, país, classe, família), e **of** para períodos e conjuntos de coisas:
-
-| Com *in* | Com *of* |
-|---|---|
-| {{the tallest building in the city}} | {{the best day of my life}} |
-| {{the nicest person in the class}} | {{the most expensive of the three}} |
-| {{the best restaurant in town}} | {{the coldest month of the year}} |
-
-Uma estrutura comum para "um dos mais ...": {{one of the best restaurants in the city}}, com o substantivo **no plural** e *the*: {{one of the nicest places}} (e não ~~one of the nicest place~~).
-
-### Irregulares
-
-| Adjetivo | Comparativo | Superlativo | Português |
-|---|---|---|---|
-| good | {{better}} | {{the best}} | bom, melhor, o melhor |
-| bad | {{worse}} | {{the worst}} | ruim, pior, o pior |
-| far | {{farther / further}} | {{the farthest / furthest}} | longe, mais longe |
-| little (quantidade) | {{less}} | {{the least}} | pouco, menos |
-| much / many | {{more}} | {{the most}} | muito, mais |
-
-Esses formam o núcleo do que o aluno precisa saber de memória. *Farther* é mais usado para distância física e *further* para "mais adiante" no sentido abstrato (*further information*); em conversa, as duas formas se confundem.
-
-*Good* e *well* têm o mesmo comparativo, *better*: {{She's a better driver than me.}} / {{She drives better than me.}} (adjetivo e advérbio). Ao comparar o jeito de fazer algo, o advérbio é o comparativo do advérbio: {{faster}} (de *fast*, igual ao adjetivo), {{earlier}}, {{better}}, e *more* + advérbio terminado em *-ly*: {{more slowly, more carefully}}. {{He drives more carefully than his brother.}}
-
-### Than: mais do que, menos do que
-
-Depois de *than*, a gente usa o nome ou o pronome. A forma natural é o pronome de objeto: {{taller than me}}, {{older than him}}. Em registro formal, também se usa o pronome de sujeito com o verbo (*taller than I am*). No dia a dia, o primeiro é o normal.
-
-| Exemplo | Português |
-|---|---|
-| {{She's older than her brother.}} | Ela é mais velha que o irmão. |
-| {{This is more difficult than I thought.}} | Isto é mais difícil do que eu pensava. |
-| {{It's cheaper than ever.}} | Está mais barato do que nunca. |
-
-Para dar mais ênfase, antes do comparativo pode vir {{much}}, {{a lot}}, {{far}}, {{a bit}} ou {{a little}}: {{much bigger}}, {{a bit cheaper}}, {{far better}}. Para "bem mais" e "um pouco mais", use essas expressões, e não *very*: ~~very bigger~~ não existe.
-
-### As ... as: igual, e not as ... as
-
-A estrutura é *as* + adjetivo + *as*. O adjetivo fica na forma **básica**, sem *-er*:
-
-| Exemplo | Português |
-|---|---|
-| {{He's as tall as his father.}} | Ele é tão alto quanto o pai. |
-| {{This hotel is as expensive as the other one.}} | Este hotel é tão caro quanto o outro. |
-| {{It's not as cold as yesterday.}} | Não está tão frio quanto ontem. |
-
-*Not as ... as* é uma forma cuidadosa de dizer "menos que" e muito comum. É igual a *less ... than*: {{This apartment is not as big as the other.}} = {{This apartment is less big than the other.}} Mas a primeira soa muito mais natural. Para o adjetivo oposto, em geral é mais claro usar o antônimo: {{smaller than}}.
-
-Duas expressões úteis com *same* e *different*: {{the same as}} e {{different from}}: {{My phone is the same as yours.}} {{Brazil is different from the US.}}
-
-### Less e the least
-
-*Less* + adjetivo tem o sentido "menos": {{less expensive, less convenient}}. É a forma que se usa em adjetivos longos, e *the least* o superlativo. Em adjetivos curtos, prefira o antônimo ou *not as ... as*: em vez de ~~less cheap~~, diga {{more expensive}}.
-
-Com substantivos incontáveis, *less* é "menos" ({{less time, less money}}); com contáveis, o inglês cuidadoso usa *fewer* ({{fewer people}}), mas no dia a dia ouve-se *less people*.
-
-### Too e enough
-
-*Too* + adjetivo ou advérbio = "demais" e implica um problema:
-
-| Exemplo | Implicação |
-|---|---|
-| {{It's too expensive.}} | não posso pagar |
-| {{This coffee is too hot.}} | não dá para beber |
-| {{He drives too fast.}} | é perigoso |
-
-Com substantivos, a forma é *too much* (incontáveis) e *too many* (contáveis): {{too much traffic}}, {{too many people}}.
-
-*Enough* quer dizer "suficiente". **Depois** de adjetivo ou advérbio; **antes** de substantivo:
-
-| Posição | Exemplo |
-|---|---|
-| adjetivo + enough | {{The room is big enough.}} |
-| not + adjetivo + enough | {{It's not warm enough.}} (= é frio demais, ou quase) |
-| enough + substantivo | {{We have enough time.}} / {{I don't have enough money.}} |
-
-Para a ação que se segue, use *to* + verbo: {{It's too hot to walk.}} (quente demais para caminhar) / {{It's warm enough to swim.}} (quente o suficiente para nadar) / {{She isn't old enough to drive.}}
+| **O que você pensa em português**                                  | **Como fica em inglês com {{was / were}}**       |
+|--------------------------------------------------------------------|--------------------------------------------------|
+| A viagem **foi** ótima! (fato concluído)                           | {{The trip **was** great!}}                      |
+| O hotel **era** antigo, mas **estava** limpo. (descrição + estado) | {{The hotel **was** old, but it **was** clean.}} |
+| Eu **estive / estava** em Londres no mês passado.                  | {{I **was** in London last month.}}              |
+| Nossos lugares **ficavam** perto do palco.                         | {{Our seats **were** near the stage.}}           |
 
 ::: atencao
-*Too* também significa "também" no fim da frase: {{I'm tired too.}} (eu também estou cansado). Não confunda com {{It's too late.}} (é tarde demais). A posição e o sentido da frase mostram qual é qual.
+
+**Como o seu ouvido vai diferenciar {{were}} de {{where}} no áudio:** Muitos alunos confundem {{were}} (verbo: *estavam/eram*) com {{where}} (pergunta: *onde*). Ouça a vogal:
+
+- **{{where}}** ("onde") tem a vogal aberta de *air/there*: **uér** ({{Where}} uér).
+
+- **{{were}}** ("estavam/foram") tem a vogal fechada de *work/her*: **uâr** (e no meio da frase rápida encolhe para uãr). Assim, a pergunta **{{Where were you?}}** ("Onde você estava?") soa **UÉR uãr iú?**!
+
 :::
+
+### 5.2 Como usar {{yesterday}}, {{last}} e {{ago}} sem escorregar nas preposições
+
+Compare como montamos as expressões de tempo passado sem colocar preposições intrusas:
+
+| **Expressão Correta**              | **O que significa**                      | **Armadilha a evitar**                                                                         |
+|------------------------------------|------------------------------------------|------------------------------------------------------------------------------------------------|
+| **{{last night}}**                 | ontem à noite                            | Não diga ~~yesterday night~~ nem ~~in last night~~.                                         |
+| **{{last week / month / year}}**   | na semana passada / no mês / ano passado | Não coloque {{in}} nem {{the}}: diga {{I was busy last week}}. (*In the last week* existe, mas significa "nos últimos sete dias".) |
+| **{{two hours / three days ago}}** | duas horas atrás / há três dias          | {{ago}} vem sempre **no fim**, depois do tempo (e não ~~ago two hours~~).   |
+| **{{in 2020 / on Monday}}**        | em 2020 / na segunda-feira               | Anos e datas normais continuam usando o funil do Cap. 6 ({{in}} + ano/mês; {{on}} + dia/data). |
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| It's cheaper than I thought. | É mais barato do que eu pensava. |
-| This one is better than that one. | Este é melhor do que aquele. |
-| It's the best restaurant in town. | É o melhor restaurante da cidade. |
-| It's not as hot as yesterday. | Não está tão quente quanto ontem. |
-| It's too expensive for me. | É caro demais para mim. |
-| Is it big enough? | É grande o bastante? |
-| Can you speak more slowly? | Pode falar mais devagar? |
-| It's the same as mine. | É igual ao meu. |
+| **Inglês**                                                        | **Português natural**                                                   |
+|-------------------------------------------------------------------|-------------------------------------------------------------------------|
+| {{How was your weekend? — It was really relaxing!}}               | Como foi o seu fim de semana? — Foi muito relaxante!                    |
+| {{Where were you yesterday afternoon? I called you twice.}}       | Onde você estava ontem à tarde? Te liguei duas vezes.                   |
+| {{Sorry I missed your call — I was in a meeting with a client.}}  | Desculpe ter perdido sua ligação — eu estava em reunião com um cliente. |
+| {{There were a lot of people at the airport last night.}}         | Tinha muita gente no aeroporto ontem à noite.                           |
+| {{Was the traffic bad this morning? — No, it wasn't bad at all.}} | O trânsito estava ruim hoje de manhã? — Não, não estava nada ruim.      |
+| {{Where were you born? — I was born in Curitiba, in 1996.}}       | Onde você nasceu? — Nasci em Curitiba, em 1996.                         |
+| {{Our flight was delayed for two hours because of the rain.}}     | Nosso voo atrasou por duas horas por causa da chuva.                    |
+| {{He was here at his desk just ten minutes ago!}}                 | Ele estava aqui na mesa dele há apenas dez minutos!                     |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  My apartment is \_\_\_\_ than yours. (bigger, more big)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2.  This phone is \_\_\_\_ than that one. (more expensive, expensiver)
+1.  How \_\_\_\_ your trip to Montreal \_\_\_\_ week? (was / were) (last / in the last)
 
-3.  She's \_\_\_\_ student in the class. (best, the best)
+2.  Where \_\_\_\_ you \_\_\_\_? (was... born / were... born)
 
-4.  Today is \_\_\_\_ than yesterday. (hotter, more hot)
+3.  \_\_\_\_ a lot of traffic on the bridge this morning, so we \_\_\_\_ late. (There was / There were) (was / were)
 
-5.  He is not \_\_\_\_ tall as his brother. (as, like)
+4.  — \_\_\_\_ the presentations interesting? — Yes, they \_\_\_\_. (Was / Were) (was / were)
 
-6.  This soup is \_\_\_\_ salty to eat. (very, too)
+5.  I was at the office \_\_\_\_. (yesterday night / last night)
 
-7.  The weather is \_\_\_\_ today than yesterday. (worse, more bad)
+6.  Sarah was here \_\_\_\_. (ten minutes ago / ago ten minutes)
 
-8.  We don't have \_\_\_\_ time. (enough, too)
+7.  \_\_\_\_ any free tables at the restaurant on Saturday night. (There wasn't / There weren't)
 
-**Degrau 2. Complete.** Escreva o comparativo ou o superlativo do adjetivo entre parênteses.
+8.  — \_\_\_\_ you tired after the flight? — No, I \_\_\_\_. (Did / Were) (wasn't / didn't)
 
-1.  Your English is \_\_\_\_ than before. (good)
+**Degrau 2. Complete.** Preencha as lacunas com {{was, were, wasn't, weren't, there was, there were, there wasn't, there weren't, last, yesterday, ago}}.
 
-2.  Rio is \_\_\_\_ than Curitiba in winter. (warm)
+1.  — Where \_\_\_\_ you \_\_\_\_ morning? — I \_\_\_\_ at the dentist.
 
-3.  This is \_\_\_\_ film I know. (interesting) (superlativo)
+2.  How \_\_\_\_ the weather in Rio \_\_\_\_ weekend? \_\_\_\_ it sunny?
 
-4.  My bag is \_\_\_\_ than your bag. (heavy)
+3.  \_\_\_\_ a big problem with the server two hours \_\_\_\_, but it's working now.
 
-5.  He runs \_\_\_\_ than me. (fast)
+4.  My parents \_\_\_\_ born in a small town in Minas Gerais, and I \_\_\_\_ born in Belo Horizonte.
 
-6.  This is \_\_\_\_ day of my life. (bad) (superlativo)
+5.  — \_\_\_\_ many people at the conference? — Yes, \_\_\_\_ about three hundred people!
 
-7.  A taxi is \_\_\_\_ than a bus. (expensive)
+6.  The hotel room \_\_\_\_ very big, and \_\_\_\_ any hot water in the shower.
 
-8.  Complete com *as ... as*: She is \_\_\_\_ tall \_\_\_\_ her sister.
+7.  Why \_\_\_\_ Lucas and David at the meeting \_\_\_\_ night?
 
-9.  Complete com *too* ou *enough*: The soup isn't hot \_\_\_\_. / The box is \_\_\_\_ heavy to carry.
+8.  I \_\_\_\_ hungry at noon, so I just had a salad.
 
-10. Complete com *than* ou *that*: This hotel is cheaper \_\_\_\_ the other one.
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Diga em que cidade e em que ano você nasceu, e onde e quando um familiar seu nasceu ({{I was born... / My... was born...}}).
 
-Compare duas cidades que você conhece (clima, preço, tamanho), com cinco frases usando *-er/more ... than*.
+2.  Conte onde você estava ontem de manhã ({{yesterday morning}}), ontem à tarde ({{yesterday afternoon}}) e ontem à noite ({{last night}}).
 
-Escreva três superlativos sobre a sua vida: *the best/worst ... in/of ...*.
+3.  Descreva a última viagem, festa ou evento a que você foi usando {{It was...}}, {{There was...}}, {{There were...}} e uma frase negativa com {{wasn't / weren't}}.
 
-Escreva duas frases com *as ... as* e duas com *not as ... as*.
+4.  Faça três perguntas para um colega sobre o fim de semana passado usando {{How was...?}}, {{Where were you...?}} e {{Were there...?}}.
 
-Escreva uma reclamação de hotel, com *too* e *not ... enough*, em quatro frases.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  Where did you were yesterday night?
 
-1.  This is more good than that.
+2.  I born in São Paulo in 1993, and my sister borned in 1996.
 
-2.  He is taller that his brother.
+3.  In the party last Saturday had many peoples and great music.
 
-3.  It's the most cheap hotel.
+4.  We was very tired after the meeting ago two hours.
 
-4.  She is more happier now.
+5.  Did the hotel be near the subway station?
 
-5.  She runs more fast than me.
+6.  In last week, the weather was terrible.
 
-6.  Today is colder than yesterday.
+7.  There wasn't much traffic this morning, so I was at the office on time.
 
-7.  This is the more beautiful place in the city.
 :::::
 
 ## 8. O erro típico
 
-O erro mais frequente é **traduzir "mais bom" e "mais ruim"**: ~~more good~~, ~~more bad~~. O inglês não aceita isso. Guarde o par *good → better → best* e *bad → worse → worst*.
-
-O segundo erro é **duplicar o comparativo**: ~~more bigger~~, ~~more better~~. Um adjetivo só leva uma marca de comparação.
-
-O terceiro é **escrever *that* no lugar de *than***, por causa da semelhança de som. E o quarto é **usar *very* no lugar de *too*** quando se quer dizer que algo passou do limite: *It's very expensive* só descreve; *It's too expensive* explica por que você não vai comprar.
+Os três erros que mais denunciam a interferência do português neste ponto são **dizer ~~I born~~ sem o verbo {{was}}**, **misturar {{did}} com {{was/were}}** (~~Where did you were? / Did it was good?~~) e **dizer ~~yesterday night~~** em vez de **{{last night}}**.
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~more good~~ | **better** | irregular |
-| ~~more bigger~~ | **bigger** | uma marca só |
-| ~~taller that me~~ | taller **than** me | *than* compara |
-| ~~the more expensive~~ | **the most** expensive | superlativo |
-| ~~very bigger~~ | **much** bigger | *very* não vai com comparativo |
-| ~~more cheap~~ | **cheaper** | palavra curta pede *-er* |
+
+| **Errado**                                  | **Certo**                                      | **Por quê**                                                                                    |
+|---------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------|
+| ~~I born in 1995. / Where you born?~~       | {{I was born in 1995. / Where were you born?}} | "Nascer" em inglês exige sempre a estrutura passiva **{{was / were born}}**.                   |
+| ~~We was tired. / You was there.~~          | {{We were tired. / You were there.}}           | {{You, we, they}} exigem sempre **{{were}}**, nunca {{was}}.                                   |
+| ~~Did you were at home? / Did it be good?~~ | {{Were you at home? / Was it good?}}           | O verbo {{to be}} no passado não usa o auxiliar {{did}}; basta inverter {{Was / Were}}.     |
+| ~~Had many people at the event.~~           | {{There were a lot of people at the event.}}   | "Havia / Tinha" (existência no passado) é **{{There was / There were}}**, nunca {{had}}.       |
+| ~~yesterday night~~                         | {{last night}}                                 | Dizemos {{yesterday morning / afternoon / evening}}, mas "ontem à noite" é **{{last night}}**. |
+| ~~ago two days / I arrived has two days~~   | {{two days ago / I arrived two days ago}}      | {{Ago}} fica sempre **depois** da medida de tempo; o *há* do português não vira {{has}}.       |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 9.** Complete: *The shop opens \_\_\_\_ 9 a.m. \_\_\_\_ Mondays. It's \_\_\_\_ the corner of Oak Street.* Diga a hora: 6:45.
+1.  **Do Capítulo 9.** Complete com {{mustn't}} ou {{don't have to}}: {{You \_\_\_\_ forget your passport when you travel abroad, and you \_\_\_\_ print the boarding pass if you have it on your phone.}}
 
-**Do capítulo 8.** Passe para o passado: *It is colder here than in Rio.* → *It \_\_\_\_ colder here than in Rio.* E complete: *Did you \_\_\_\_ (like) the hotel?*
+2.  **Do Capítulo 8 e 10.** Compare o presente e o passado: {{Today I'm in Boston, and there's a lot of traffic. → Last week I \_\_\_\_ in Chicago, and \_\_\_\_ a lot of traffic.}}
 
-**Do capítulo 7.** Dê um conselho com *should*: *Your bag is too heavy.* → *You \_\_\_\_ ...*
+3.  **Do Capítulo 7 e 10.** Por que dizemos {{There **was** some good news yesterday}} (com {{was}}), mas {{There **were** a few questions after the talk}} (com {{were}})?
 
-**Do capítulo 6.** Escolha: *Whose bag is this? It's \_\_\_\_ (mine / my).*
-
-**Do capítulo 4.** Complete com *much* ou *many*: *How \_\_\_\_ money? How \_\_\_\_ people?*
-
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta. Troque os preços por valores do seu bairro. |
-| Dia 3 | Compare três coisas que você tem em casa, em seis frases (*bigger, older, more expensive*). |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Grave um áudio de um minuto comparando duas cidades, dois celulares ou dois carros. |
+| **Quando** | **O que fazer**                                                                                                                                         |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta observando a diferença de pronúncia entre {{Where}} (uér) e {{were}} (uâr).                                                     |
+| Dia 3      | Escreva 6 frases dizendo onde você estava em diferentes horários ontem e no fim de semana passado.                                                      |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                                                             |
+| Dia 14     | Grave um áudio de 1 minuto descrevendo como era a sua escola, seu primeiro trabalho ou uma viagem marcante usando {{was, were, there was, there were}}. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Curtos: *-er / the -est* (com ajustes: *bigger, nicer, easier*). Longos: *more / the most*.
 
-Irregulares: *good → better → the best*; *bad → worse → the worst*.
+- **Passado de {{to be}} ("foi, era, estava"):**
 
-Comparação: *than*. Igualdade: *as ... as*. Menos: *not as ... as*, *less ... than*.
+  - **{{I, he, she, it}}** → {{was / wasn't / Was...?}}.
 
-Superlativo: sempre com *the*; *in* para lugares, *of* para grupos ou períodos.
+  - **{{you, we, they}}** → {{were / weren't / Were...?}}.
 
-*Too* = demais (problema). *Enough* = suficiente (depois do adjetivo, antes do substantivo).
+  - Nunca use {{did / didn't}} com {{was / were}}.
+
+- **Existência no passado ("Havia / Tinha"):** {{There was / There wasn't}} (singular e incontáveis) e {{There were / There weren't}} (plural).
+
+- **Nascimento:** Sempre {{I was born / You were born / Where were you born?}}.
+
+- **Tempo passado:** {{yesterday (morning / afternoon / evening)}}, **{{last night}}**, {{last week / month / year}} (sem preposição!), e \[tempo\] + **{{ago}}** ({{three days ago}}).
 
 **Já consigo?**
 
-Comparo duas coisas com *-er/more ... than* sem escrever *more good*.
+- Contar onde eu estava e como foi um evento, viagem ou fim de semana usando {{was, were, wasn't, weren't}}.
+- Descrever o que havia em um lugar com {{there was}} e {{there were}} sem usar *"had"*.
+- Dizer quando e onde nasci com {{I was born}} e usar {{last night}} e {{ago}} sem erros.
 
-Digo o melhor e o pior com *the best* e *the worst*, e *the most* nos adjetivos longos.
-
-Digo que algo é demais com *too* e suficiente com *enough*.
 :::::
 
 ## Glossário do capítulo 10
 
-| Inglês | Português |
-|---|---|
-| cheap / cheaper / the cheapest | barato / mais barato / o mais barato |
-| expensive | caro |
-| big / bigger | grande / maior |
-| small / smaller | pequeno / menor |
-| good / better / the best | bom / melhor / o melhor |
-| bad / worse / the worst | ruim / pior / o pior |
-| far / farther, further | longe / mais longe |
-| quiet | silencioso, tranquilo |
-| safe | seguro |
-| bright | claro, iluminado |
-| convenient | prático, conveniente |
-| rent | aluguel |
-| budget | orçamento |
-| neighborhood | bairro |
-| downtown | centro (da cidade) |
-| than | do que, que |
-| as ... as | tão ... quanto |
-| less / the least | menos / o menos |
-| too | demais; também |
-| enough | suficiente |
-| the same as | igual a |
-| different from | diferente de |
+| **Inglês**                                     | **Português**                                            |
+|------------------------------------------------|----------------------------------------------------------|
+| {{How was \[the conference / your weekend\]?}} | Como foi \[a conferência / o seu fim de semana\]?        |
+| {{There was...}} / {{There were...}}           | Havia (Tinha)... \[singular / plural\]                   |
+| {{I was born in \[city / year\].}}             | Eu nasci em \[cidade / ano\].                            |
+| {{Where were you born?}}                       | Onde você nasceu?                                        |
+| {{last night}}                                 | ontem à noite                                            |
+| {{yesterday morning / afternoon / evening}}    | ontem de manhã / à tarde / no início da noite            |
+| {{last week / month / year / weekend}}         | na semana passada / no mês / ano / fim de semana passado |
+| {{\[ten minutes / two days\] ago}}             | há \[dez minutos / dois dias\] (atrás)                   |
+| {{exhausting}} / {{exhausted}}                 | cansativo(a) / exausto(a)                                |
+| {{keynote speaker}}                            | palestrante principal                                    |
+| {{convention center}}                          | centro de convenções                                     |
+| {{We were really lucky!}}                      | Demos muita sorte!                                       |
+| {{delayed}}                                    | atrasado (voo, trem)                                     |
+| {{a lot of traffic}}                           | muito trânsito                                           |
+| {{My flight was delayed.}}                     | Meu voo atrasou (estava atrasado).                       |
 
 ## Chave comentada do capítulo 10
 
 ::::: gabarito
-**Degrau 1.** 1 bigger (*big* tem uma sílaba). 2 more expensive (*expensiver* não existe). 3 the best (superlativo leva *the*). 4 hotter (*hot* dobra o *t*). 5 as (*not as ... as*). 6 too (a sopa passou do limite). 7 worse (*bad* é irregular). 8 enough (*enough* antes do substantivo).
 
-**Degrau 2.** 1 better. 2 warmer. 3 the most interesting. 4 heavier (*y* vira *ier*). 5 faster. 6 the worst. 7 more expensive. 8 as, as. 9 enough, too. 10 than.
+**Degrau 1.** 1 was, last ({{your trip}} = {{it}} pede {{was}}; antes de {{last}} não vai preposição). 2 were... born ({{you}} pede {{were}}). 3 There was, were ({{traffic}} é incontável singular = {{There was}}; {{we}} = {{were}}). 4 Were, were ({{the presentations}} = {{they}}, plural). 5 last night ("ontem à noite" é sempre {{last night}}). 6 ten minutes ago ({{ago}} vem depois do tempo). 7 There weren't ({{tables}} é plural). 8 Were, wasn't (*tired* é adjetivo com verbo {{to be}}, sem {{did}}).
 
-**Degrau 3.** Respostas pessoais. Confira: *than* na comparação, *the* no superlativo, *as ... as* com adjetivo básico, *too* com problema.
+**Degrau 2.** 1 were, yesterday, was. 2 was, last, Was. 3 There was, ago. 4 were, was. 5 Were there, there were. 6 wasn't, there wasn't. 7 weren't, last. 8 wasn't.
+
+**Degrau 3.** Modelo: 1. {{I was born in São José dos Campos in 1992, and my wife was born in São Paulo in 1994.}} 2. {{Yesterday morning I was at the office, yesterday afternoon I was in a meeting, and last night I was at home with my family.}} 3. {{Last month I was at a conference in Rio. It was amazing, there were a lot of great speakers, there was free coffee all day, and the hotel wasn't expensive.}} 4. {{How was your weekend? Where were you on Saturday night? Were there many people at the restaurant?}}
 
 **Degrau 4.**
 
-1.  This is better than that.
+1.  {{Where were you last night?}} (Sem {{did}} com {{were}}, e usa-se {{last night}}).
 
-2.  He is taller than his brother.
+2.  {{I was born in São Paulo in 1993, and my sister was born in 1996.}}
 
-3.  It's the cheapest hotel.
+3.  {{At the party last Saturday, there were a lot of people and great music.}} ("Tinha/Havia" é {{there were}}, e {{people}} não leva -s).
 
-4.  She is happier now.
+4.  {{We were very tired after the meeting two hours ago.}}
 
-5.  She runs faster than me. (palavra curta pede *-er*)
+5.  {{Was the hotel near the subway station?}} (Sem {{Did... be}}).
 
-6.  Está certa.
+6.  {{Last week, the weather was terrible.}} (Sem {{in}} antes de {{last week}}).
 
-7.  This is the most beautiful place in the city.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 9: at, on, on (também se aceita *at the corner*); It's a quarter to seven. Capítulo 8: was; like. Capítulo 7: should carry less / should take something out (respostas livres com *should* + verbo simples). Capítulo 6: mine. Capítulo 4: much, many.
+**Retorno.** 1. {{mustn't, don't have to}}. 2. {{was, there was}}. 3. Porque {{news}} é incontável singular ({{There was}}), enquanto {{questions}} é contável plural ({{There were}}).
+
 :::::

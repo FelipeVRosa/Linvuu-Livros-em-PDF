@@ -1,361 +1,319 @@
-# Capítulo 5. Present continuous (A1)
+# Capítulo 5. Rotina, trabalho e hábitos: o Present Simple na prática (A1)
 
-**Meta do capítulo.** Ao final, você diz o que está acontecendo agora e o que é temporário nesta fase da sua vida, escreve o {{-ing}} sem errar a ortografia, escolhe entre {{I work}} e {{I'm working}} e sabe quais verbos nunca ganham {{-ing}} ({{know}}, {{want}}, {{like}}).
+**Meta do capítulo.** Ao final, você descreve sua rotina, seu trabalho e seus hábitos sem esquecer o {{-s}} da terceira pessoa ({{he, she, it}}), faz perguntas com {{do}} e {{does}}, nega com {{don't}} e {{doesn't}}, responde de forma curta e posiciona {{always}}, {{usually}} e {{never}} no lugar exato da frase.
 
-## 1. Cena: uma ligação para casa
+## 1. Cena: café da manhã na copa da empresa
 
-Camila liga para a irmã, Ana, que está no Brasil. É de manhã, na cozinha do albergue.
+Lucas e sua colega britânica Chloe conversam na copa do escritório em Toronto antes da primeira reunião do dia.
 
 ::: dialogo
-**Ana:** {{Hi, Cami! What are you doing?}}
 
-**Camila:** {{I'm having breakfast in the hostel kitchen. Ben is making pancakes, and Mei is studying.}}
+**Chloe:** {{Morning, Lucas! You're here early today. What time do you usually start work?}}
 
-**Ana:** {{Is it cold there?}}
+**Lucas:** {{Hi, Chloe! Back in Brazil, I usually start at nine, so I get up at seven. Here in Toronto, I wake up at six thirty because of the time difference.}}
 
-**Camila:** {{Yes, and it's raining right now. But I don't mind.}}
+**Chloe:** {{Do you drink coffee in the morning?}}
 
-**Ana:** {{Are you working this week?}}
+**Lucas:** {{Yes, I do! I always have a big cup of black coffee before I check my emails. What about you?}}
 
-**Camila:** {{No, I'm not working. I'm visiting museums. And these days I'm taking English classes too.}}
+**Chloe:** {{I don't drink coffee at all. It makes me too anxious, so I always drink green tea.}}
 
-**Ana:** {{Do you like New York?}}
+**Lucas:** {{And what about your husband, Dan? Does he work near here?}}
 
-**Camila:** {{I love it! I don't know the city well, but I'm learning.}}
+**Chloe:** {{No, he doesn't. He works from home most days. He teaches graphic design online and finishes around five.}}
 
-**Ana:** {{Great. Are you eating well?}}
+**Lucas:** {{That's nice! Does he cook dinner during the week?}}
 
-**Camila:** {{Yes! Look, I'm drinking a huge coffee right now.}}
+**Chloe:** {{Yes, he does! He loves cooking, so he usually makes dinner, and I do the dishes. We never order delivery on weekdays.}}
+
 :::
 
-Em português: Oi, Cami! O que você está fazendo? / Estou tomando café da manhã na cozinha do albergue. O Ben está fazendo panquecas e a Mei está estudando. / Está frio aí? / Está, e agora está chovendo. Mas não ligo. / Você está trabalhando esta semana? / Não, não estou trabalhando. Estou visitando museus. E, ultimamente, também estou fazendo aulas de inglês. / Você gosta de Nova York? / Adoro! Não conheço bem a cidade, mas estou aprendendo. / Que bom. Está comendo bem? / Estou! Olha, estou tomando um café enorme agora.
+Em português: Bom dia, Lucas! Você chegou cedo hoje. A que horas você costuma começar a trabalhar? / Oi, Chloe! Lá no Brasil, normalmente começo às nove, então acordo às sete. Aqui em Toronto, acordo às seis e meia por causa do fuso horário. / Você toma café de manhã? / Tomo, sim! Sempre tomo uma xícara grande de café preto antes de checar meus e-mails. E você? / Eu não tomo café de jeito nenhum. Me deixa ansiosa demais, então sempre tomo chá verde. / E quanto ao seu marido, o Dan? Ele trabalha perto daqui? / Não. Ele trabalha de casa na maioria dos dias. Ele dá aula de design gráfico online e termina lá pelas cinco. / Que legal! Ele faz o jantar durante a semana? / Faz, sim! Ele adora cozinhar, então normalmente faz o jantar, e eu lavo a louça. Nunca pedimos entrega nos dias de semana.
 
-Repare em duas coisas. Quase toda a frase de Camila tem {{am / is / are}} + verbo com {{-ing}}: {{I'm having, Ben is making, it's raining}}. E três verbos ficaram **sem** {{-ing}}, de propósito: {{I love it, I don't know the city, Do you like New York?}}
+Repare em dois movimentos fundamentais na conversa: quando Lucas e Chloe falam de si mesmos ({{I}}), o verbo fica na forma simples ({{I start, I get up, I drink}}). Quando falam do Dan ({{he}}), o verbo ganha {{-s}} ou {{-es}} na frase afirmativa ({{he works, he teaches, he finishes, he loves, he makes}}). Já nas perguntas e negativas, entram em cena os ajudantes {{do / does}} e {{don't / doesn't}}.
 
 ## 2. A armadilha do português
 
-Aqui o português ajuda e atrapalha ao mesmo tempo. Ajuda, porque também tem uma forma com **estar + gerúndio**: "estou comendo" corresponde a {{I'm eating}}. Atrapalha, por três motivos.
+Em português, cada pessoa tem uma terminação própria no verbo (*eu trabalho, tu trabalhas, ele trabalha, nós trabalhamos*). Por isso, para fazer uma pergunta em português, basta mudar a entonação da voz (*"Você trabalha aqui?"*), e para negar basta colocar *"não"* antes do verbo (*"Ele não trabalha"*). O inglês funciona de outro jeito e cria quatro armadilhas clássicas:
 
-**1. O português usa o presente simples para o momento presente.** "Onde você vai?", "O que você faz?" podem querer dizer qualquer coisa. O inglês separa os dois:
+| **O hábito do português**                    | **Como o inglês pensa (Certo)**                            | **O erro típico a evitar**                               |
+|----------------------------------------------|------------------------------------------------------------|----------------------------------------------------------|
+| Você mora aqui?                              | {{**Do** you live here?}}                                  | ~~You live here?~~                                       |
+| Ela trabalha aos sábados?                    | {{**Does** she **work** on Saturdays?}}                    | ~~Does she works on Saturdays?~~                         |
+| Meu irmão não gosta de chá.                  | {{My brother **doesn't like** tea.}}                       | ~~My brother don't like / no likes tea.~~                |
+| Eu tomo sempre café. / Não como nunca carne. | {{I **always drink** coffee.}} / {{I **never eat** meat.}} | ~~I drink always coffee.~~ / ~~I don't never eat meat.~~ |
 
-| Português | Rotina (present simple) | Agora (present continuous) |
-|---|---|---|
-| O que você faz? | {{What do you do?}} (profissão) | {{What are you doing?}} (neste momento) |
-| Ele trabalha. | {{He works.}} (habitualmente) | {{He's working.}} (agora, ou nesta fase) |
-| Chove. | {{It rains a lot here.}} | {{It's raining.}} |
+**1. O {{-s}} só existe para {{he, she, it}} e só na frase afirmativa.** Na pergunta ({{Does she work?}}) e na negativa ({{She doesn't work}}), o auxiliar {{does / doesn't}} já carrega o {{-s}}, e o verbo principal volta obrigatoriamente à forma simples! Nunca coloque dois {{-s}} na mesma frase.
 
-**2. O português aceita "estar + gerúndio" com verbos que o inglês não aceita.** Em conversa, dizemos "estou gostando", "estou entendendo", "estou sabendo", "estou querendo", "estou precisando". No inglês, esses verbos não aceitam {{-ing}}:
+**2. Perguntas e negativas exigem {{do / does / don't / doesn't}}.** Para todos os verbos comuns (exceto {{to be}} e modais como {{can}}), o inglês convoca o auxiliar {{do}} ({{I, you, we, they}}) ou {{does}} ({{he, she, it}}).
 
-| Português | Inglês |
-|---|---|
-| Estou gostando daqui. | {{I like it here.}} (ou {{I'm enjoying it here.}}) |
-| Estou entendendo. | {{I understand.}} |
-| Estou querendo um café. | {{I want a coffee.}} |
-| Estou precisando de ajuda. | {{I need help.}} |
-
-**3. O brasileiro esquece o {{be}}.** Diz ~~I working~~ ou ~~She studying~~ porque, em português, o "estar" fica implícito na cabeça. Em inglês, o {{-ing}} sozinho nunca é verbo principal da frase: falta o {{am / is / are}}.
+**3. {{Always}}, {{usually}} e {{never}} vêm antes do verbo principal.** Em português dizemos *"Eu tomo sempre café"*; em inglês, nunca separe o verbo do seu objeto: diga {{I always drink coffee}} (e não ~~I drink always coffee~~). E lembre-se: {{never}} já é negativo, portanto nunca use {{don't}} junto com {{never}}.
 
 ## 3. Descubra você mesmo
 
-| Present simple | Present continuous |
-|---|---|
-| I work at a hospital. | I'm not working this week. |
-| Ben makes pancakes on Sundays. | Ben is making pancakes now. |
-| Mei studies at night. | Mei is studying right now. |
-| It rains a lot here. | It's raining. |
-| Do you drink coffee? | Are you drinking coffee? |
-| Where do you go? | Where are you going? |
+Observe como o verbo se comporta nos dois grupos de pessoas:
+
+| **Grupo 1: {{I, you, we, they}}**                   | **Grupo 2: {{he, she, it}} (1 pessoa, coisa ou empresa)**   |
+|-----------------------------------------------------|-------------------------------------------------------------|
+| {{I **work** at a fintech.}}                        | {{She **works** at a hospital.}}                            |
+| {{They **study** at night.}}                        | {{He **studies** at night.}}                                |
+| {{We **have** two meetings today.}}                 | {{The company **has** two offices.}}                        |
+| {{We **don't eat** meat.}}                          | {{He **doesn't eat** meat.}}                                |
+| {{**Do** you **live** near here? — Yes, I **do**.}} | {{**Does** she **live** near here? — No, she **doesn't**.}} |
 
 Perguntas:
 
-Que três palavras fazem parte do present continuous em toda frase? Qual delas muda com o sujeito?
+1.  O que acontece com os verbos {{work}}, {{study}} e {{have}} na afirmativa do Grupo 2 ({{he, she, it}})?
 
-Que expressões de tempo combinam com cada coluna? (Procure {{now}}, {{right now}}, {{on Sundays}}.)
+2.  O que acontece com o verbo {{eat}} e com o verbo {{live}} quando entram {{doesn't}} e {{Does}} no Grupo 2?
 
-Se você viu que a esquerda fala de hábito, a direita fala do que está acontecendo, e que a direita sempre tem **be + verbo-ing**, a regra apareceu.
+Se você percebeu que na afirmativa do Grupo 2 o verbo ganha {{-s / -ies}} (e {{have}} vira {{has}}), mas que na presença de {{does / doesn't}} o verbo principal perde o {{-s}} e fica idêntico ao Grupo 1, você já dominou a engrenagem do *Present Simple*.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1. **Forma:** {{am / is / are}} + verbo com {{-ing}}: {{I'm working. She is studying. They are eating.}}
 
-2. **Negativa:** {{be + not}} + {{-ing}}: {{I'm not working. He isn't studying.}}
+1.  **Quando usar o Present Simple:** Para rotinas, hábitos repetidos, fatos permanentes e horários fixos ({{I work in tech}}, {{The train leaves at eight}}).
 
-3. **Pergunta:** {{be}} antes do sujeito: {{Are you working? What are you doing?}}
+2.  **Afirmativa:**
 
-4. **Resposta curta:** {{Yes, I am. / No, I'm not.}} {{Yes, he is. / No, they aren't.}}
+    - **{{I, you, we, they}}** → verbo puro ({{work, live, have}}).
 
-5. **Usos:** o que acontece agora ({{now, right now, at the moment}}) e o que é temporário nesta fase ({{today, this week, these days}}).
+    - **{{he, she, it}}** → verbo com **{{-s}}** ({{works, lives}}), **{{-es}}** após *-s, -sh, -ch, -x, -o* ({{watches, finishes, goes, does}}), **{{-ies}}** após consoante + *y* ({{studies, tries}}), e o irregular **{{has}}**.
 
-6. **Ortografia do -ing:** tire o {{e}} ({{make → making}}); dobre a consoante de uma sílaba CVC ({{run → running}}); {{ie → ying}} ({{lie → lying}}).
+3.  **Negativa:** **{{don't}}** ({{I, you, we, they}}) ou **{{doesn't}}** ({{he, she, it}}) + **verbo simples sem -s** ({{I don't work / She doesn't work / He doesn't have}}).
 
-7. **Nunca com -ing:** {{know, understand, want, need, like, love, hate, prefer, believe, remember}}, e {{have}} no sentido de "possuir".
+4.  **Pergunta e Resposta Curta:** **(Wh-) + {{do / does}} + sujeito + verbo simples?** ({{Where do you work? / Does he have a car? — Yes, he does. / No, he doesn't}}).
 
-8. **Present simple × continuous:** hábito ou fato permanente ({{I live in São Paulo}}) × situação do momento ou temporária ({{I'm living in a hostel}}).
+5.  **Advérbios de frequência ({{always, usually, often, sometimes, rarely, never}}):** Ficam **antes** do verbo comum ({{I always get up early}}) e **depois** do verbo {{to be}} ({{He is always on time}}).
+
 :::::
 
 ## 5. Por dentro
 
-**5.1 Forma**
+### 5.1 Ortografia e som do {{-s}} na 3ª pessoa ({{he, she, it}})
 
-| | Afirmativa | Negativa | Pergunta |
-|---|---|---|---|
-| I | I'm working | I'm not working | Am I working? |
-| you / we / they | you're working | you aren't working | Are you working? |
-| he / she / it | she's working | she isn't working | Is she working? |
+| **Regra de Escrita**                        | **Exemplos**                                                                                                         | **Como Soa no Áudio**                                                                                                 |
+|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| **Regra geral: +s**                         | {{work → works}}, {{live → lives}}, {{play → plays}}, {{eat → eats}}                                                 | Som de s após consoantes surdas ({{works}} uârks) e som de z após vogais e sonoras ({{lives}} lêvz, {{plays}} plêiz). |
+| **Terminados em -s, -sh, -ch, -x, -z: +es** | {{miss → misses}}, {{wash → washes}}, {{watch → watches}}, {{fix → fixes}}                                           | Ganha a sílaba extra **-iz**: {{watches}} (uó-tchêz), {{finishes}} (fí-ni-shiz).                                      |
+| **Terminados em -o: +es**                   | {{go → goes}}, {{do → does}}                                                                                         | {{goes}} soa gôuz; **{{does}}** muda a vogal e soa **dâz** (nunca dú-iz!).                                            |
+| **Consoante + -y: troca por -ies**          | {{study → studies}}, {{try → tries}}, {{fly → flies}} (mas vogal + *y* leva só -s: {{play → plays}}, {{buy → buys}}) | Termina com som de z ({{studies}} stâ-diz).                                                                           |
+| **Irregular: {{have → has}}**               | {{I have a car → She **has** a car}} (na negativa/pergunta volta a {{have}}: {{She doesn't have}})                   | {{has}} soa réz e {{says}} (de {{say}}) soa **séz** (nunca sêiz!).                                                    |
 
-Perguntas com palavra interrogativa: {{What are you doing? Where is she going? Who are they waiting for?}} (a preposição no fim volta no capítulo 13).
+### 5.2 A fórmula Q-A-S-I para fazer qualquer pergunta sem travar
 
-Respostas curtas repetem só o {{be}}: {{Are you working? Yes, I am. / No, I'm not.}} Lembre: no "sim", sem contração.
+A grande maioria das perguntas no presente segue a mesma ordem de quatro peças:
 
-**5.2 Ortografia do -ing**
-
-| Regra | Exemplos |
-|---|---|
-| regra geral: verbo + **ing** | {{work → working, play → playing, eat → eating, study → studying}} |
-| verbo termina em **-e** mudo: tire o e | {{make → making, write → writing, have → having, take → taking, come → coming}} |
-| exceções ao corte do e | {{be → being, see → seeing, agree → agreeing}} |
-| **-ie** → **-ying** | {{lie → lying, die → dying, tie → tying}} |
-| uma sílaba, consoante + vogal + consoante: **dobre** a consoante | {{run → running, sit → sitting, stop → stopping, swim → swimming, get → getting, plan → planning}} |
-| duas sílabas, acento na **última**: dobre | {{begin → beginning, forget → forgetting, prefer → preferring}} |
-| duas sílabas, acento na **primeira**: não dobre | {{visit → visiting, open → opening, listen → listening}} |
-| letras **w, x, y**: não dobram | {{snow → snowing, fix → fixing, play → playing}} |
-
-A pronúncia de {{-ing}} usa o som nasal do capítulo 1 (seção 5.9), sem soltar o "g": {{working}} `UÉR-kɪŋ`. O acento da palavra não muda com o {{-ing}}: {{LIS-ten}} → {{LIS-ten-ing}}.
-
-**5.3 Usos**
-
-**1. O que acontece agora.** Em geral, com {{now}}, {{right now}}, {{at the moment}} ou sem advérbio, quando o contexto mostra o momento: {{Camila is drinking coffee.}} {{Look! It's snowing.}} {{Listen! Someone is singing.}}
-
-**2. Situações temporárias.** Algo que dura um período, mesmo que não aconteça neste exato segundo: {{I'm living in a hostel this month.}} {{She's taking English classes these days.}} {{He's working at a café this summer.}}
-
-**3. Mudanças em andamento.** {{It's getting dark.}} {{Prices are going up.}}
-
-Expressões de tempo que acompanham o present continuous: {{now, right now, at the moment, today, this week, this month, these days, currently}}.
-
-Uma observação: o present continuous também fala de **planos marcados** ({{I'm meeting Ben tomorrow}}). Isso é assunto do capítulo 11.
-
-**5.4 Simple × continuous**
-
-| | Present simple | Present continuous |
-|---|---|---|
-| ideia | hábito, rotina, fato permanente | agora ou fase temporária |
-| exemplo | {{I live in São Paulo.}} | {{I'm living in a hostel.}} |
-| exemplo | {{She works at a hospital.}} | {{She's working a night shift this week.}} |
-| exemplo | {{Ben drinks tea.}} | {{Ben is drinking coffee today.}} |
-| pergunta | {{Do you study English?}} | {{Are you studying right now?}} |
-| tempo | {{every day, usually, on Sundays}} | {{now, today, these days}} |
-
-Com a mesma pessoa, o contraste fica claro: {{I usually drink tea, but today I'm drinking coffee.}}
-
-**5.5 Verbos que não aceitam -ing (verbos de estado)**
-
-Alguns verbos descrevem **um estado**, não uma ação em andamento. Por isso quase nunca usam o present continuous.
-
-| Tipo | Verbos | Exemplo |
-|---|---|---|
-| gostos, desejos | {{like, love, hate, want, need, prefer}} | {{I want a coffee.}} (não ~~I'm wanting~~) |
-| pensamento | {{know, understand, believe, remember, think (opinião)}} | {{I know the answer.}} |
-| posse | {{have (possuir), own, belong}} | {{She has a bike.}} |
-| sentidos | {{see, hear, smell, taste}} | {{This soup smells good.}} |
-| outros | {{mean, seem}} | {{That seems fine.}} |
+| **Question Word (Opcional)** | **Auxiliar ({{do / does}})** | **Sujeito (Pessoa)** | **Infinitivo (Verbo simples sem *to* e sem *-s*)** |
+|------------------------------|------------------------------|----------------------|----------------------------------------------------|
+| *(Sem Question Word)*        | {{Do}}                       | {{you}}              | {{work on weekends?}}                              |
+| *(Sem Question Word)*        | {{Does}}                     | {{your sister}}      | {{live in London?}}                                |
+| {{What time}}                | {{do}}                       | {{they}}             | {{usually start?}}                                 |
+| {{Where}}                    | {{does}}                     | {{Lucas}}            | {{have lunch?}}                                    |
+| {{How often}}                | {{do}}                       | {{you}}              | {{exercise?}}                                      |
 
 ::: atencao
-Alguns verbos mudam de sentido. **{{Have}}** com "possuir" não aceita {{-ing}} ({{I have a car}}), mas com atividades aceita: {{I'm having breakfast / a shower / a good time / a meeting}}. **{{Think}}** como opinião fica simples ({{I think it's good}}); como atividade mental aceita {{-ing}} ({{I'm thinking about my family}}).
+
+**Como o seu ouvido vai escutar no áudio:** Na fala fluida, os auxiliares {{do}} e {{does}} nas perguntas se fundem com o pronome seguinte:
+
+- {{What do you do?}} soa como **Uó-dju dú?** (o primeiro *do* é apenas o auxiliar; o segundo *do* é o verbo principal "fazer").
+
+- {{Where do you live?}} soa como **Uér dju lêv?**.
+
+- {{What does he do?}} soa como **Uót dâ-zi dú?**.
+
 :::
 
-**E o {{I'm loving it}}?** Você vai ouvi-lo em anúncios e em conversa informal, como ênfase. Para quem está aprendendo, use {{I love it}} ou {{I like it}}. A língua aceita pequenas exceções; as regras acima continuam valendo.
+### 5.3 Advérbios e expressões de frequência
+
+Veja a diferença de posição entre os **advérbios de uma palavra** (que entram no meio da frase) e as **expressões mais longas** (que vão para o fim da frase):
+
+| **Posição na Frase** | **Palavras / Expressões** | **Exemplos Reais** |
+|---|---|---|
+| **No meio** (antes do verbo principal / depois de {{am, is, are}}) | {{always}} (sempre), {{usually / normally}} (quase sempre), {{often}} (muitas vezes), {{sometimes}} (às vezes), {{rarely / hardly ever}} (quase nunca), {{never}} (nunca) | {{I **always** check my emails at eight.}} {{She **doesn't usually** work on Saturdays.}} {{He **is never** late for meetings.}} |
+| **No fim da frase** (ou no início para dar ênfase) | {{every day / week / month}}, {{once a week}} (1x por semana), {{twice a month}} (2x por mês), {{three times a year}}, {{on weekdays}}, {{on weekends}} | {{We have team meetings **twice a week**.}} {{I go to the gym **every morning**.}} |
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| {{What are you doing?}} | O que você está fazendo? |
-| {{I'm having breakfast.}} | Estou tomando café da manhã. |
-| {{It's raining.}} | Está chovendo. |
-| {{I'm not working today.}} | Hoje não estou trabalhando. |
-| {{Where are you going?}} | Aonde você vai? |
-| {{I'm taking English classes these days.}} | Ultimamente estou fazendo aulas de inglês. |
-| {{I don't know.}} | Não sei. |
-| {{I like it here.}} | Estou gostando daqui. |
+| **Inglês**                                                     | **Português natural**                                           |
+|----------------------------------------------------------------|-----------------------------------------------------------------|
+| {{What time do you usually get up on weekdays?}}               | A que horas você costuma acordar nos dias de semana?            |
+| {{I work from home three days a week.}}                        | Trabalho de casa três dias por semana.                          |
+| {{My brother works in finance and travels a lot.}}             | Meu irmão trabalha na área financeira e viaja bastante.         |
+| {{She doesn't drink coffee, so she always orders tea.}}        | Ela não toma café, então sempre pede chá.                       |
+| {{Does the meeting start at nine or nine thirty?}}             | A reunião começa às nove ou às nove e meia?                     |
+| {{How often do you check your work emails at night?}}          | Com que frequência você checa seus e-mails de trabalho à noite? |
+| {{We hardly ever eat out from Monday to Thursday.}}            | Quase nunca comemos fora de segunda a quinta.                   |
+| {{He has a lot of experience, and he speaks three languages.}} | Ele tem muita experiência e fala três idiomas.                  |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. She \_\_\_\_ right now. (is working, works)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2. I \_\_\_\_ the answer. (am knowing, know)
+1.  My sister \_\_\_\_ at an international bank, and she \_\_\_\_ two kids. (work / works) (have / has)
 
-3. What \_\_\_\_ you doing? (is, are)
+2.  \_\_\_\_ your husband \_\_\_\_ on Saturdays? (Do / Does) (work / works)
 
-4. \_\_\_\_ it raining? (Is, Does)
+3.  Lucas \_\_\_\_ coffee at night because he \_\_\_\_ well. (don't drink / doesn't drink) (don't sleep / doesn't sleep)
 
-5. He \_\_\_\_ at the moment. (isn't working, doesn't working)
+4.  Where \_\_\_\_ your parents \_\_\_\_? (do / does) (live / lives)
 
-6. I \_\_\_\_ coffee. (am wanting, want)
+5.  I \_\_\_\_ my emails before breakfast, and I \_\_\_\_ late. (always check / check always) (am never / never am)
 
-7. She's \_\_\_\_ dinner. (makeing, making)
+6.  — Does Chloe work from home? — No, she \_\_\_\_. (doesn't / don't)
 
-8. They are \_\_\_\_ in the pool. (swiming, swimming)
+7.  Dan \_\_\_\_ graphic design and \_\_\_\_ around five. (teachs / teaches) (finishs / finishes)
 
-**Degrau 2. Complete.** Use o verbo entre parênteses no present simple ou no present continuous, conforme o sentido.
+8.  We \_\_\_\_ order delivery on weekdays. (never / don't never)
 
-1. Ben \_\_\_\_ (make) pancakes now.
+**Degrau 2. Complete.** Use os verbos entre parênteses na forma correta do *Present Simple* (afirmativa, negativa ou pergunta).
 
-2. Mei \_\_\_\_ (study) at the moment.
+1.  Chloe \_\_\_\_ (not / drink) coffee; she \_\_\_\_ (prefer) green tea.
 
-3. We \_\_\_\_ (not work) today.
+2.  What time \_\_\_\_ the store \_\_\_\_ (open) on Sundays?
 
-4. \_\_\_\_ you \_\_\_\_ (watch) TV?
+3.  My brother \_\_\_\_ (study) English every night and \_\_\_\_ (watch) series without subtitles.
 
-5. Where \_\_\_\_ she \_\_\_\_ (go)?
+4.  — \_\_\_\_ you \_\_\_\_ (have) any brothers or sisters? — Yes, I \_\_\_\_.
 
-6. I \_\_\_\_ (know) his sister.
+5.  Our company \_\_\_\_ (have) offices in São Paulo and Toronto, but it \_\_\_\_ (not / have) an office in Miami.
 
-7. It \_\_\_\_ (rain) right now.
+6.  Where \_\_\_\_ your wife \_\_\_\_ (work), and what \_\_\_\_ she \_\_\_\_ (do)?
 
-8. They \_\_\_\_ (sit) in the kitchen.
+7.  I \_\_\_\_ (usually / go) to the gym three times a week.
 
-9. Camila usually \_\_\_\_ (start) at seven, but this week she \_\_\_\_ (work) at nine.
+8.  He \_\_\_\_ (say) he \_\_\_\_ (not / like) cold weather.
 
-10. He \_\_\_\_ (have) a shower.
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Conte quatro coisas da sua rotina de segunda a sexta usando {{I usually...}}, {{I always...}}, {{I don't...}} e {{I never...}}.
 
-1. Escreva cinco frases sobre o que você e as pessoas ao seu redor estão fazendo agora.
+2.  Conte quatro coisas sobre a rotina de uma pessoa próxima ({{my husband, my wife, my sister, my boss}}) usando a 3ª pessoa ({{works, has, studies, doesn't...}}).
 
-2. Escreva três frases sobre coisas temporárias na sua vida ({{these days}}, {{this month}}).
+3.  Escreva três perguntas com {{What time}}, {{Where}} e {{How often}} para conhecer a rotina de um colega novo.
 
-3. Escreva três frases de contraste com a mesma pessoa: uma de rotina e uma do momento (por exemplo: {{I usually..., but today I'm...}}).
+4.  Diga quantas vezes por semana ou por mês você faz duas atividades usando {{once a week}}, {{twice a week}} ou {{three times a month}}.
 
-4. Escreva três perguntas que você mandaria a um amigo por mensagem ({{What are you doing?}}...) e responda a elas.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  Does your boss lives in São Paulo or he lives in Rio?
 
-1. I working now.
+2.  My sister don't likes to work on weekends.
 
-2. She is knowing the answer.
+3.  She have a new car, and she drive to work every day.
 
-3. I'm wanting a coffee.
+4.  I drink always a cup of coffee when I arrive at the office.
 
-4. They're runing in the park.
+5.  Where you work, and what time you start?
 
-5. What you are doing?
+6.  I don't never check my work emails on Sundays.
 
-6. He is having a car.
+7.  He doesn't have time for lunch on Mondays, so he usually eats a sandwich at his desk.
 
-7. We're eating breakfast now.
 :::::
 
 ## 8. O erro típico
 
-O erro que mais atrapalha o brasileiro é **usar -ing com verbos de estado**: {{I'm knowing}}, {{I'm wanting}}, {{I'm liking}}. A culpa é do português, que diz "estou gostando" e "estou querendo" sem problemas. O segundo erro é **esquecer o be**: {{I working}}, {{She studying}}.
-
-::: atencao
-Teste de dois passos: (1) a frase tem {{am / is / are}} antes do {{-ing}}? (2) o verbo descreve uma ação em andamento, e não um estado como saber, querer, gostar? Se a resposta ao segundo for "estado", volte ao present simple.
-:::
+O erro mais comum no *Present Simple* tem duas faces: **esquecer o {{-s}} na afirmativa** de {{he, she, it}} (dizendo ~~She work~~ ou ~~He have~~) e **duplicar o {{-s}} na pergunta ou na negativa** (dizendo ~~Does she works?~~ ou ~~He doesn't has~~). Lembre-se da regra da gangorra: quando {{does}} ou {{doesn't}} entram na frase, o {{-s}} do verbo principal desaparece!
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~I working now.~~ | {{I'm working now.}} | -ing precisa do be |
-| ~~I'm knowing the answer.~~ | {{I know the answer.}} | know é verbo de estado |
-| ~~I'm wanting a coffee.~~ | {{I want a coffee.}} | want é verbo de estado |
-| ~~They're runing.~~ | {{They're running.}} | dobra a consoante em CVC |
-| ~~What you are doing?~~ | {{What are you doing?}} | be vem antes do sujeito na pergunta |
-| ~~He is having a car.~~ | {{He has a car.}} | have = possuir não aceita -ing |
+
+| **Errado**                                     | **Certo**                                  | **Por quê**                                                                  |
+|------------------------------------------------|--------------------------------------------|------------------------------------------------------------------------------|
+| ~~She work at a bank. / He have a car.~~       | {{She works at a bank. / He has a car.}}   | Na afirmativa, {{he, she, it}} exigem -s (e {{have}} vira {{has}}).          |
+| ~~Does she works here?~~                       | {{Does she work here?}}                    | O auxiliar {{Does}} já carrega o -s; o verbo principal fica simples.         |
+| ~~He don't like tea. / He doesn't likes tea.~~ | {{He doesn't like tea.}}                   | Com {{he, she, it}} usa-se {{doesn't}} + verbo simples sem -s.               |
+| ~~You work here? / Where you live?~~           | {{Do you work here? / Where do you live?}} | Perguntas no presente exigem o auxiliar {{do}} ou {{does}} antes do sujeito. |
+| ~~I drink always coffee.~~                     | {{I always drink coffee.}}                 | Advérbios curtos de frequência vêm antes do verbo principal.                 |
+| ~~I don't never eat meat.~~                    | {{I never eat meat.}}                      | {{Never}} já é negativo; o inglês padrão não aceita dupla negação.           |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 4.** Complete: {{Do you have \_\_\_\_ milk? (some / any)}} / {{How \_\_\_\_ eggs do you need? (much / many)}} / {{I need a piece of \_\_\_\_. (advice / advices)}}
+1.  **Do Capítulo 4.** Como você pergunta *"Tem uma estação de metrô perto daqui?"* e diz *"Tem dois cafés nesta rua, em frente ao banco"*?
 
-**Do capítulo 3.** Passe para a negativa e para a pergunta: {{She works at a hospital.}} Depois, diga a diferença entre {{What do you do?}} e {{What are you doing?}}
+2.  **Do Capítulo 3.** Complete: {{Marina loves \_\_\_\_ (dela) job, and \_\_\_\_ (do irmão dela) office is on the fifth floor.}}
 
-**Do capítulo 2.** Diga em inglês: "Está frio." "Tenho fome." "Tem uma farmácia aqui?"
+3.  **Do Capítulo 1 e 5.** Qual é a diferença de estrutura entre {{Are you tired?}} e {{Do you work here?}}? Por que a primeira não usa {{do}}?
 
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta e responda às perguntas da Ana sobre você. |
-| Dia 3 | Escreva dez frases sobre o que as pessoas da sua casa estão fazendo agora. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Mande uma mensagem de voz em inglês dizendo onde você está e o que está fazendo, sem usar verbos de estado com {{-ing}}. |
+| **Quando** | **O que fazer**                                                                                                        |
+|------------|------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta marcando bem o som do -s final nos verbos de 3ª pessoa ({{works, teaches, finishes, makes}}).  |
+| Dia 3      | Escreva 8 frases comparando a sua rotina ({{I...}}) com a rotina de um familiar ou colega ({{He/She...}}).             |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                            |
+| Dia 14     | Grave um áudio de 1 minuto contando como é uma segunda-feira típica na sua vida, do momento em que acorda até a noite. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Present continuous: {{am / is / are}} + verbo-{{ing}}. Usos: o que acontece agora e situações temporárias.
 
-Negativa: {{be + not}}. Pergunta: {{be}} antes do sujeito. Resposta curta: {{Yes, I am. / No, I'm not.}}
+- **Afirmativa:** Verbo puro para {{I, you, we, they}}; verbo com **-s / -es / -ies** para {{he, she, it}} (e {{have → has}}).
 
-Ortografia: tire o {{e}} ({{making}}); dobre a consoante em CVC ({{running}}); {{ie → ying}} ({{lying}}).
+- **Negativa e Pergunta:** Usa {{don't / do}} ({{I, you, we, they}}) e {{doesn't / does}} ({{he, she, it}}) + **verbo na forma simples** (só existe um -s por frase!).
 
-Verbos de estado não aceitam {{-ing}}: {{know, understand, want, need, like, love, hate, prefer, have (possuir)}}.
+- **Respostas curtas:** {{Yes, I do / No, I don't}}; {{Yes, she does / No, she doesn't}} (sem repetir o verbo principal).
 
-Simple = rotina e fatos permanentes; continuous = agora e fase temporária.
+- **Frequência:** {{always, usually, often, sometimes, rarely, never}} ficam **antes** do verbo principal e **depois** de {{am, is, are}}. Expressões longas ({{every day, twice a week}}) vão no final.
 
 **Já consigo?**
 
-Digo o que estou fazendo agora e o que é temporário na minha vida, com {{be}} e {{-ing}}.
+- Falar da rotina de uma 3ª pessoa ({{he, she, it}}) acertando {{works, studies, watches, has}}.
+- Fazer perguntas com {{Do / Does}} e negar com {{don't / doesn't}} deixando o verbo principal na forma simples.
+- Usar {{always, usually, never}} e {{once / twice a week}} na posição natural da frase.
 
-Pergunto {{What are you doing?}} e respondo com {{Yes, I am. / No, I'm not.}}
-
-Evito {{I'm knowing}}, {{I'm wanting}} e {{I'm liking}}.
 :::::
 
 ## Glossário do capítulo 5
 
-| Inglês | Português |
-|---|---|
-| breakfast | café da manhã |
-| pancake | panqueca |
-| museum | museu |
-| class | aula |
-| right now | agora mesmo |
-| at the moment | neste momento |
-| these days | atualmente, ultimamente |
-| this week | esta semana |
-| today | hoje |
-| rain (verbo) | chover |
-| snow (verbo) | nevar |
-| make | fazer, preparar |
-| take | pegar, tomar, fazer (aula) |
-| have (breakfast) | tomar (café da manhã) |
-| visit | visitar |
-| learn | aprender |
-| run | correr |
-| swim | nadar |
-| sit | sentar |
-| know | saber, conhecer |
-| want | querer |
-| like | gostar de |
+| **Inglês**                          | **Português**                                            |
+|-------------------------------------|----------------------------------------------------------|
+| {{wake up}} / {{get up}}            | acordar (abrir os olhos) / levantar-se da cama           |
+| {{start work}} / {{finish work}}    | começar a trabalhar / terminar o trabalho                |
+| {{work from home}}                  | trabalhar de casa (em home office)                       |
+| {{check my emails}}                 | checar meus e-mails                                      |
+| {{make dinner}} / {{do the dishes}} | fazer o jantar / lavar a louça                           |
+| {{order delivery}} / {{eat out}}    | pedir entrega (delivery) / comer fora                    |
+| {{on weekdays}} / {{on weekends}}   | nos dias de semana / nos fins de semana                  |
+| {{most days}}                       | na maioria dos dias                                      |
+| {{once a week}} / {{twice a week}}  | uma vez por semana / duas vezes por semana               |
+| {{three times a month}}             | três vezes por mês                                       |
+| {{hardly ever}} / {{rarely}}        | quase nunca / raramente                                  |
+| {{not... at all}}                   | não... de jeito nenhum ({{I don't drink coffee at all}}) |
+| {{time difference}}                 | diferença de fuso horário                                |
+| {{black coffee}} / {{green tea}}    | café preto / chá verde                                   |
+| {{It makes me anxious.}}            | Isso me deixa ansioso(a).                                |
+| {{He teaches graphic design.}}      | Ele dá aula de design gráfico.                           |
 
 ## Chave comentada do capítulo 5
 
 ::::: gabarito
-**Degrau 1.** 1 is working ({{right now}} pede o continuous). 2 know (verbo de estado). 3 are. 4 Is (be, e não {{does}}). 5 isn't working. 6 want (verbo de estado). 7 making (tira o e). 8 swimming (dobra o m).
 
-**Degrau 2.** 1 is making. 2 is studying. 3 aren't working (ou {{are not working}}). 4 Are ... watching (agora; {{Do ... watch}} também é possível se a pergunta for sobre hábito). 5 is ... going (agora; {{does ... go}} se for hábito). 6 know (estado). 7 is raining. 8 are sitting (dobra o t). 9 starts ... is working (rotina × situação desta semana). 10 is having ({{have}} de atividade aceita {{-ing}}).
+**Degrau 1.** 1 works, has ({{My sister}} = {{she}}, 3ª pessoa). 2 Does, work ({{your husband}} = {{he}} pede {{Does}}, e o verbo principal fica sem -s). 3 doesn't drink, doesn't sleep. 4 do, live ({{your parents}} = {{they}}). 5 always check, am never (antes do verbo comum; depois do verbo {{to be}}). 6 doesn't. 7 teaches, finishes (terminados em -ch e -sh ganham -es). 8 never (sem dupla negação).
 
-**Degrau 3.** Respostas pessoais. Confira: todas as frases de ação têm {{be}} + {{-ing}}; nenhuma com {{know}}, {{want}}, {{like}}, {{need}} em {{-ing}}; ortografia dos {{-ing}} ({{making}}, {{running}}, {{sitting}}).
+**Degrau 2.** 1 doesn't drink, prefers. 2 does, open. 3 studies, watches. 4 Do, have, do. 5 has, doesn't have. 6 does, work, does, do. 7 usually go. 8 says, doesn't like.
+
+**Degrau 3.** Modelo: 1. {{On weekdays, I usually wake up at six thirty, I always drink black coffee, I don't watch TV in the morning, and I never work after seven p.m.}} 2. {{My wife works at a tech company, she has a lot of meetings, she studies French twice a week, and she doesn't work on Saturdays.}} 3. {{What time do you usually finish work? Where do you have lunch? How often do you work from home?}} 4. {{I go to the gym three times a week, and I visit my parents twice a month.}}
 
 **Degrau 4.**
 
-1. I'm working now.
+1.  {{Does your boss live in São Paulo, or does he live in Rio?}} (Sem -s em {{live}} após {{Does}}, e pergunta exige {{does he}}).
 
-2. She knows the answer.
+2.  {{My sister doesn't like to work on weekends.}} ({{doesn't}} + verbo simples sem -s).
 
-3. I want a coffee.
+3.  {{She has a new car, and she drives to work every day.}}
 
-4. They're running in the park.
+4.  {{I always drink a cup of coffee when I arrive at the office.}}
 
-5. What are you doing?
+5.  {{Where do you work, and what time do you start?}}
 
-6. He has a car.
+6.  {{I never check my work emails on Sundays.}} (ou {{I don't check...}}).
 
-7. Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 4: any; many; advice. Capítulo 3: She doesn't work at a hospital. / Does she work at a hospital? {{What do you do?}} pergunta a profissão ou a rotina; {{What are you doing?}} pergunta o que se faz agora. Capítulo 2: It's cold. / I'm hungry. / Is there a pharmacy here?
+**Retorno.** 1. {{Is there a subway station near here? There are two cafés on this street, across from the bank.}} 2. {{her, her brother's}}. 3. {{Are you tired?}} usa o verbo {{to be}}, que faz pergunta sozinho invertendo a posição; {{Do you work here?}} usa o verbo comum {{work}}, que precisa do auxiliar {{do}}.
+
 :::::

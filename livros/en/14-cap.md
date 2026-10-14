@@ -1,446 +1,322 @@
-# Capítulo 14. Verbos + -ing/infinitivo, objetos, relativos e phrasal verbs (A2)
+# Capítulo 14. Experiências de vida e o que já aconteceu: Present Perfect I (ever, never, already, yet, just) (A2)
 
-**Meta do capítulo.** Ao final, você escolhe entre {{-ing}} e {{to}} depois dos verbos mais comuns, usa os pronomes de objeto, liga frases com {{who}}, {{which}} e {{that}}, reconhece os *phrasal verbs* essenciais e evita os falsos cognatos mais traiçoeiros. No fim, uma revisão A2 de todo o livro.
+**Meta do capítulo.** Ao final, você fala de experiências de vida ({{Have you ever...? / I've never...}}) e de ações recentes com reflexo no presente ({{just, already, yet}}) usando o *Present Perfect* ({{have / has + particípio passado}}), diferencia {{been to}} ("foi e já voltou") de {{gone to}} ("foi e ainda está lá") e sabe exatamente quando trocar para o *Past Simple* ({{yesterday, in 2022, ago}}).
 
-## 1. Cena: a hora de sair do albergue
+## 1. Cena: recepcionando um cliente internacional no escritório
 
-Julia vai embora hoje. Está no balcão da recepção.
+Lucas e Sarah recebem o diretor europeu Thomas na sede de Toronto antes do início da reunião.
 
 ::: dialogo
-**Julia:** Good morning. I'd like to check out, but I'm looking for my jacket. I think I left it in the room.
 
-**Recepcionista:** Is it the gray one that was on the chair?
+**Sarah:** {{Welcome to Toronto, Thomas! Have you ever been to Canada before?}}
 
-**Julia:** Yes! Did you see it?
+**Thomas:** {{Thank you, Sarah! No, I haven't. This is my first time here. I've been to the US many times, but I've never visited Canada.}}
 
-**Recepcionista:** The woman who cleans the rooms found it. I'll ask her to bring it. Meanwhile, please fill in this form.
+**Lucas:** {{When did you arrive in Toronto, Thomas?}}
 
-**Julia:** Of course. I really enjoyed staying here, and I hope to come back next year.
+**Thomas:** {{I arrived last night around ten. I've already seen the CN Tower from my hotel window, but I haven't walked around downtown yet.}}
 
-**Recepcionista:** We'd love to see you again. Don't forget to turn off the light in the room before you leave.
+**Sarah:** {{Would you like a cup of coffee before we start?}}
 
-**Julia:** I already turned it off. Thank you for helping me!
+**Thomas:** {{No, thanks! I've just had an espresso in the lobby. By the way, where is Emma?}}
 
-**Recepcionista:** You're welcome. Here's your jacket, and have a good trip.
+**Lucas:** {{She has gone to the bank across the street to sign a document, but she'll be back in ten minutes. Have you received the updated agenda yet?}}
+
+**Thomas:** {{Yes, I have! Emma sent it to me on Tuesday, and I've already read all the files.}}
+
 :::
 
-Em português: Bom dia. Quero fazer o check-out, mas estou procurando minha jaqueta. Acho que deixei no quarto. / É a cinza que estava na cadeira? / É! Você viu? / A moça que limpa os quartos achou. Vou pedir a ela que traga. Enquanto isso, preencha este formulário, por favor. / Claro. Gostei muito de ficar aqui e espero voltar ano que vem. / Vamos adorar ver você de novo. Não esqueça de apagar a luz do quarto antes de sair. / Já apaguei. Obrigada por me ajudar! / De nada. Aqui está sua jaqueta, e boa viagem.
+Em português: Bem-vindo a Toronto, Thomas! Você já esteve no Canadá antes? / Obrigado, Sarah! Não, nunca estive. Esta é a minha primeira vez aqui. Já estive nos Estados Unidos muitas vezes, mas nunca visitei o Canadá. / Quando você chegou a Toronto, Thomas? / Cheguei ontem à noite lá pelas dez. Já vi a CN Tower da janela do meu hotel, mas ainda não caminhei pelo centro. / Você aceita uma xícara de café antes de começarmos? / Não, obrigado! Acabei de tomar um expresso no saguão. Aliás, onde está a Emma? / Ela foi ao banco do outro lado da rua assinar um documento, mas estará de volta em dez minutos. Você já recebeu a pauta atualizada? / Sim, já! A Emma me enviou na terça-feira, e eu já li todos os arquivos.
 
-A cena reúne os quatro assuntos do capítulo: {{enjoyed staying}} e {{hope to come}} (-ing e infinitivo), {{ask her to bring it}} (pronomes de objeto), {{the gray one that was on the chair}} e {{the woman who cleans}} (relativos), e {{check out}}, {{fill in}}, {{turn off}} (*phrasal verbs*).
+Observe como Thomas e Lucas alternam entre dois tempos na mesma conversa:
+
+- Quando **não dizem quando** (foco na experiência até hoje ou no resultado agora): usam o **Present Perfect** ({{Have you ever been...? / I've been to the US / I've already seen / I haven't walked yet / I've just had / I've already read}}).
+
+- Quando **carimbam a data ou hora fechada no passado** ({{When...? / last night / on Tuesday}}): mudam imediatamente para o **Past Simple** ({{When did you arrive? / I arrived last night / Emma sent it on Tuesday}})!
 
 ## 2. A armadilha do português
 
-O português usa o infinitivo depois de quase tudo: "gosto de **nadar**", "quero **viajar**", "terminei de **estudar**", "pensei em **sair**". Por isso o aluno põe o infinitivo (ou o {{to}}) onde o inglês pede {{-ing}}, e vice-versa.
+Em português, usamos o pretérito perfeito simples para quase tudo (*"Eu já vi esse filme"* e *"Eu vi esse filme ontem"* usam o mesmo *"vi"*). O pretérito perfeito composto (*"tenho visto"*) existe, mas serve para algo que se repete até agora, e por isso não ajuda aqui. Por isso, o brasileiro cai em quatro armadilhas clássicas ao usar o *Present Perfect*:
 
-| Em português | Inglês | Em português o verbo seguinte é... |
-|---|---|---|
-| Gosto de nadar. | {{I like swimming.}} | infinitivo |
-| Quero viajar. | {{I want to travel.}} | infinitivo |
-| Terminei de estudar. | {{I finished studying.}} | infinitivo |
-| Obrigada por ajudar. | {{Thanks for helping.}} | infinitivo |
-| Vim para estudar. | {{I came to study.}} | infinitivo |
+| **O hábito do português**        | **Como o inglês pensa (Certo)**                                   | **O erro típico a evitar**                                               |
+|----------------------------------|-------------------------------------------------------------------|--------------------------------------------------------------------------|
+| Eu vi a Sarah ontem.             | {{I **saw** Sarah **yesterday**.}} (Tempo fechado = Past Simple!) | ~~I have seen Sarah yesterday.~~                                         |
+| Você já foi para Londres?        | {{**Have** you **ever been** to London?}}                         | ~~You already went to London?~~ (falta o auxiliar e a ideia de *ever*)    |
+| Ela já foi para Roma duas vezes. | {{She **has been** to Rome twice.}}                               | ~~She has went to Rome twice.~~ (Proibido usar a 2ª coluna após *have*!) |
+| Eu nunca comi sushi.             | {{I've **never eaten** sushi.}}                                   | ~~I haven't never eaten sushi.~~                                         |
 
-Cinco frases com o infinitivo em português, e duas formas em inglês ({{-ing}} e {{to}}). A forma depende do primeiro verbo (e da preposição que vem antes), e isso é coisa que se aprende por listas curtas.
+**1. A Regra do Carimbo de Data: se você disser QUANDO aconteceu, o Present Perfect é proibido!** O *Present Perfect* é uma ponte com o presente ("na minha vida até hoje" ou "recentemente, com efeito agora"). No instante em que entrar um marcador de tempo morto e fechado (**{{yesterday, last night, last week, in 2020, on Monday, two days ago, When...?}}**), a ponte com o presente se quebra e você **deve** usar o **Past Simple** ({{I saw, I went, When did you arrive?}} — e não ~~When have you arrived?~~!).
 
-Há mais três armadilhas deste capítulo:
-
-1.  **"Quero que você venha."** O português usa "que" + subjuntivo. O inglês usa objeto + {{to}}: {{I want you to come.}}
-
-2.  **"Gosto." (sem objeto).** Em inglês, o objeto é obrigatório: {{I like it.}}
-
-3.  **"O cara que ele trabalha comigo."** O português às vezes repete o pronome. O inglês nunca: {{The guy who works with me.}}
+**2. Após {{have / has}}, entra a 3ª coluna do verbo (Particípio Passado), nunca a 2ª!** Nos verbos regulares, a 2ª e a 3ª colunas são iguais ({{worked / worked}}). Mas em muitos irregulares elas mudam ({{go → went → **gone/been**}}, {{see → saw → **seen**}}, {{eat → ate → **eaten**}}, {{write → wrote → **written**}}). Nunca diga ~~I have went~~ ou ~~She has saw~~!
 
 ## 3. Descubra você mesmo
 
-Compare as frases.
+Observe a diferença entre as frases da esquerda (*Present Perfect* — sem data fechada) e as da direita (*Past Simple* — com data fechada):
 
-| Verbo + -ing | Verbo + to |
-|---|---|
-| I enjoy cooking. | I want to cook. |
-| She likes dancing. | She hopes to dance. |
-| We finished working at six. | We decided to work late. |
-| He can't stand waiting. | He plans to wait here. |
-
-Compare também.
-
-| Pessoa | Coisa | Lugar |
-|---|---|---|
-| The woman who cleans the room | The jacket which was on the chair | The hostel where we stayed |
+| **Present Perfect ({{have / has + 3ª coluna}} — Tempo aberto até hoje)** | **Past Simple ({{2ª coluna / did}} — Momento fechado no passado)**     |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------|
+| {{**Have** you **ever been** to Japan?}} (em algum momento da sua vida)  | {{**When did** you **go** to Japan? — I **went** there **in 2023**.}}  |
+| {{I'**ve lost** my keys!}} (perdi e continuo sem elas **agora**!)        | {{I **lost** my keys **yesterday**, but I **found** them last night.}} |
+| {{She **has already sent** the report.}} (já está enviado, pronto!)      | {{She **sent** the report **ten minutes ago**.}}                       |
+| {{We **haven't finished** the project **yet**.}} (até este momento)      | {{We **didn't finish** the project **last Friday**.}}                  |
 
 Perguntas:
 
-Qual verbo da coluna da esquerda você aprenderia a combinar sempre com {{-ing}}? E da direita, com {{to}}?
+1.  Na frase {{I've lost my keys!}}, a pessoa está com a chave na mão agora ou está trancada do lado de fora da porta?
 
-Qual palavra liga o substantivo a uma explicação sobre pessoa? E sobre coisa? E sobre lugar?
+2.  Onde ficam posicionadas as palavras **{{just}}** e **{{already}}**, e onde fica a palavra **{{yet}}**?
 
-Se você percebeu que cada verbo tem o seu "gosto" ({{-ing}} ou {{to}}) e que {{who}}, {{which}} e {{where}} acompanham o tipo de substantivo, achou a base do capítulo.
+Se você percebeu que {{I've lost my keys}} mostra um **resultado visível agora** (estou sem as chaves neste momento!) e que {{just / already}} entram no meio do verbo ({{I've just had / I've already read}}), enquanto {{yet}} vai sempre para o **final** de perguntas e negativas ({{Have you finished yet? / I haven't finished yet}}), você já entendeu a ideia central do *Present Perfect*.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Verbo + -ing:** {{enjoy, finish, stop, keep, can't stand, don't mind}} e depois de preposição: {{good at cooking}}, {{thanks for helping}}, {{before leaving}}.
 
-2.  **Verbo + to + verbo:** {{want, need, hope, plan, decide, learn, promise}} e {{would like}}.
+1.  **Estrutura do Present Perfect:**
 
-3.  **{{Like}}, {{love}}, {{hate}}, {{start}}:** aceitam os dois: {{I like swimming}} ou {{I like to swim}}. Mas {{I'd like}} (querer) é sempre {{to}}: {{I'd like to swim.}}
+    - **{{I / you / we / they}}** → **{{have ('ve) / haven't}}** + **Particípio Passado (3ª coluna)**.
 
-4.  **Quero que você...** = {{want}} + pessoa + {{to}}: {{I want you to come.}}
+    - **{{he / she / it}}** → **{{has ('s) / hasn't}}** + **Particípio Passado (3ª coluna)**.
 
-5.  **Objeto:** {{me, you, him, her, it, us, them}}, depois do verbo e da preposição.
+    - **Pergunta e Resposta Curta:** **{{Have you / Has she + 3ª coluna...?}}** → {{Yes, I have / No, I haven't; Yes, she has / No, she hasn't}}.
 
-6.  **Relativos:** {{who}} (pessoa), {{which}} (coisa), {{that}} (pessoa ou coisa), {{where}} (lugar).
+2.  **Uso 1 — Experiências de Vida (Sem dizer quando):**
 
-7.  **Phrasal verbs:** verbo + partícula, com sentido próprio. Pronome vai no meio: {{turn it off}}, {{pick him up}}.
+    - **{{ever}}** (em perguntas = "alguma vez na vida / já"): {{Have you **ever** eaten Mexican food?}}.
+
+    - **{{never}}** (com verbo afirmativo = "nunca"): {{I've **never** been to Europe}}.
+
+    - **Contagem até hoje:** {{once}} (1 vez), {{twice}} (2 vezes), {{three times}}, {{many times}}, {{before}} ({{I've seen this movie twice}}).
+
+3.  **Uso 2 — Ações Recentes com Resultado Agora:**
+
+    - **{{just}}** ("acabou de"): entre *have/has* e o verbo ({{She's **just** arrived}}).
+
+    - **{{already}}** ("já" — em afirmativas, antes do esperado): {{We've **already** paid the bill}}.
+
+    - **{{yet}}** ("já?" em perguntas / "ainda" em negativas — sempre no **fim da frase**!): {{Have you had lunch **yet**? / I haven't had lunch **yet**}}.
+
+4.  **{{Has been to}} × {{Has gone to}}:**
+
+    - **{{She has been to Paris}}** = Ela já visitou Paris (foi e **já voltou**).
+
+    - **{{She has gone to Paris}}** = Ela foi para Paris (e **ainda está lá** ou no avião agora!).
+
 :::::
 
 ## 5. Por dentro
 
-### 5.1 Verbo + -ing ou verbo + to
+### 5.1 Mapa das 3 colunas dos verbos irregulares mais importantes
 
-| + -ing | + to + verbo |
-|---|---|
-| enjoy, finish, stop, keep, practice, avoid | want, need, hope, plan, decide, learn |
-| don't mind, can't stand | promise, offer, agree, expect |
-| depois de preposição: good at, interested in, thinking about, before, after, without | would like, would love |
+Para nunca confundir o passado simples (2ª coluna) com o particípio do *Present Perfect* (3ª coluna), divida os irregulares em três grupos fáceis:
 
-{{I enjoy running.}} {{She finished writing the report.}} {{He keeps asking questions.}}
-{{I want to learn Italian.}} {{We decided to rent a car.}} {{She promised to call.}}
-{{I'm good at cooking.}} {{Thanks for coming.}} {{How about going out tonight?}}
+| **Grupo**                                         | **Infinitivo (1ª) → Passado (2ª) → Particípio (3ª)**                                                                                                                                                                                                                                                                                                                                    | **Exemplo no Present Perfect ({{have/has + 3ª}})**                                                               |
+|---------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| **Grupo A: 2ª e 3ª colunas IGUAIS** (Mais fácil!) | {{have → had → **had**}}, {{make → made → **made**}}, {{buy → bought → **bought**}}, {{find → found → **found**}}, {{lose → lost → **lost**}}, {{meet → met → **met**}}, {{leave → left → **left**}}, {{send → sent → **sent**}}, {{pay → paid → **paid**}}, {{say → said → **said**}}, {{tell → told → **told**}}, {{think → thought → **thought**}}, {{read → read → **read** (réd)}}, {{get → got → **got** (EUA: **gotten**)}} | {{I've **bought** the tickets.}} {{She has **sent** the email.}} {{We've **lost** the key.}}                     |
+| **Grupo B: 3ª coluna termina em -EN / -N / -NE**  | {{be → was/were → **been**}}, {{go → went → **gone / been**}}, {{do → did → **done**}}, {{see → saw → **seen**}}, {{eat → ate → **eaten**}}, {{take → took → **taken**}}, {{give → gave → **given**}}, {{write → wrote → **written**}}, {{speak → spoke → **spoken**}}, {{know → knew → **known**}}, {{forget → forgot → **forgotten**}}, {{choose → chose → **chosen**}}               | {{Have you **seen** my phone?}} {{I've **written** three reports today.}} {{He has **forgotten** the password.}} |
+| **Grupo C: Troca de vogal i → a → u**             | {{drink → drank → **drunk**}}, {{begin → began → **begun**}}, {{sing → sang → **sung**}}, {{swim → swam → **swum**}}                                                                                                                                                                                                                                                                    | {{The meeting has already **begun**.}} {{She has **sung** in a choir.}}                                         |
+| **Grupo D: 1ª e 3ª colunas IGUAIS**               | {{run → ran → **run**}}, {{come → came → **come**}}, {{become → became → **become**}}                                                                                                                                                                                                                                                                                                  | {{She has **come** back from Paris.}} {{He has **run** three marathons.}}                                       |
 
-**Like, love, hate, start, begin.** Aceitam os dois: {{I love dancing}} = {{I love to dance}}; {{It started raining}} = {{It started to rain}}. Em A2, use a que vier mais fácil: as duas estão certas. Já {{would like}} e {{would love}} (querer, cap. 7) pedem {{to}}: {{I'd like to try it.}}
+### 5.2 Períodos ainda abertos ({{today, this week, this year}}) vs. Períodos fechados
 
-**Stop.** {{She stopped smoking}} (parou de fumar) é diferente de {{She stopped to smoke}} (parou para fumar). Quando o verbo seguinte tem {{-ing}}, é o que se deixou de fazer; com {{to}}, é a razão da parada.
+O *Present Perfect* também brilha quando falamos de um período que **ainda não acabou** no relógio ou no calendário:
 
-**Verbo + pessoa + to.** O português usa o subjuntivo ("quero que você venha", "ela pediu que eu esperasse"). O inglês coloca a pessoa depois do verbo, e depois dela o {{to}}:
-
-| Português | Inglês |
-|---|---|
-| Quero que você venha. | {{I want you to come.}} |
-| Ela pediu que eu esperasse. | {{She asked me to wait.}} |
-| Diga a ele que ligue. | {{Tell him to call.}} |
-| Preciso que você me ajude. | {{I need you to help me.}} |
+| **Período ABERTO (Ainda está rolando → Present Perfect)**                                         | **Período FECHADO (Já acabou → Past Simple)**                       |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
+| {{I'**ve had** three cups of coffee **today**.}} (o dia ainda não acabou!)                        | {{I **had** three cups of coffee **yesterday**.}} (ontem já acabou) |
+| {{We'**ve closed** two big deals **this month / this year / so far**.}} (até agora neste mês/ano) | {{We **closed** two big deals **last month / in 2024**.}}           |
 
 ::: atencao
-Nunca diga ~~I want that you come~~ nem ~~I want you come~~. O padrão é {{want}} + pessoa + {{to}} + verbo.
+
+**Inglês Britânico vs. Inglês Americano no dia a dia:** Na fala informal nos Estados Unidos, você também vai ouvir americanos usando o *Past Simple* com *just, already* e *yet* ({{I just ate / Did you eat yet?}}). Porém, em exames internacionais, e-mails corporativos e no inglês britânico, o **Present Perfect** ({{I've just eaten / Have you eaten yet?}}) é a forma esperada. Domine o *Present Perfect* e você estará seguro em qualquer situação.
+
 :::
-
-**Para + verbo (finalidade).** "Vim para estudar" em inglês é {{I came to study}}, não ~~I came for study~~ nem ~~for to study~~. Se a finalidade é um substantivo, {{for}} é possível: {{I came for the course}}. Quando é verbo, {{to}} sozinho.
-
-**Adjetivo + to.** {{I'm happy to help.}} {{It's easy to find.}} {{She's ready to go.}}
-
-**-ing como sujeito.** O {{-ing}} faz o papel de substantivo: {{Swimming is fun}}. Em português usamos o infinitivo ("Nadar é divertido"). O infinitivo como sujeito ({{To swim is fun}}) existe, mas soa formal; na conversa, use o {{-ing}}.
-
-### 5.2 Pronomes de objeto
-
-Os pronomes de objeto vêm depois do verbo ou da preposição.
-
-| Sujeito | Objeto | Exemplo |
-|---|---|---|
-| I | me | She called me. |
-| you | you | I'll see you tomorrow. |
-| he | him | We met him in Lisbon. |
-| she | her | I asked her. |
-| it | it | I like it. |
-| we | us | He invited us. |
-| they | them | I know them. |
-
-Depois de preposição, o pronome também é de objeto: {{with me}}, {{for him}}, {{about us}}, {{to them}}. Não confunda objeto ({{him, her}}) com posse ({{his, her}}, cap. 6): {{I saw her}} (objeto) × {{I saw her sister}} (posse).
-
-**O objeto é obrigatório.** Em português, "gostei", "vi", "comprei" são frases completas. O inglês quer o pronome: {{I liked it}}, {{I saw it}}, {{I bought it}}. Em respostas, a omissão é possível com o auxiliar: {{Did you see the film? — Yes, I did.}} Mas se você usa o verbo principal, precisa do objeto.
-
-**Dois objetos.** Com {{give}}, {{send}}, {{show}}, {{tell}} e {{buy}}, há duas ordens. Com pessoa antes da coisa, sem {{to}}: {{She gave me a book.}} Com coisa antes da pessoa, com {{to}} ou {{for}}: {{She gave a book to me.}} Quando a coisa é pronome, a segunda ordem é a mais natural: {{She gave it to me.}}
-
-### 5.3 Pronomes relativos
-
-Um pronome relativo liga uma explicação a um substantivo. Em A2, trabalhamos só o caso mais comum: a explicação que diz *qual* pessoa, coisa ou lugar.
-
-| Relativo | Para | Exemplo |
-|---|---|---|
-| who | pessoas | The woman who cleans the rooms is Maria. |
-| which | coisas | The jacket which was on the chair is mine. |
-| that | pessoas ou coisas (muito comum na fala) | The man that works here is Brazilian. / The book that I read was great. |
-| where | lugares | The hostel where we stayed was cheap. |
-
-**Pode-se omitir o relativo** quando ele é o objeto da oração: {{The book (that) I read was great}}, {{The man (who) I met is Brazilian}}. Se for sujeito, não se omite: ~~The woman cleans the rooms is Maria~~ está errado; diga {{The woman who cleans the rooms}}.
-
-**Não repita o pronome.** Em português se ouve "a moça que ela limpa os quartos". Em inglês, o relativo já faz o papel do sujeito: {{the woman who cleans}}, não ~~the woman who she cleans~~.
-
-::: atencao
-Não use {{what}} no lugar de {{that}}. ~~The thing what I need~~ está errado: diga {{The thing that I need}} ou {{What I need}}. E não use {{which}} para pessoas: ~~the man which works here~~.
-:::
-
-Não se usa vírgula antes de {{who}}, {{which}}, {{that}} ou {{where}} neste tipo de frase (a explicação é necessária para saber de quem ou de quê se fala).
-
-### 5.4 Phrasal verbs essenciais
-
-Um *phrasal verb* é um verbo + uma partícula ({{up, down, on, off, out, in, back, away}}). O sentido muda com a partícula, por isso se aprende o conjunto. Os mais úteis de A2:
-
-| Phrasal verb | Sentido | Exemplo |
-|---|---|---|
-| get up | levantar-se | I get up at six. |
-| wake up | acordar | I woke up late. |
-| sit down | sentar-se | Please sit down. |
-| stand up | levantar-se (ficar de pé) | Stand up, please. |
-| come back | voltar | When will you come back? |
-| go out | sair (para se divertir) | We go out on Saturdays. |
-| turn on / turn off | ligar / desligar (luz, aparelho) | Turn off the light. |
-| put on / take off | vestir / tirar (roupa) | Put on a jacket. |
-| pick up | pegar, buscar | I'll pick you up at eight. |
-| look for | procurar | I'm looking for my keys. |
-| look after | cuidar de | She looks after her grandma. |
-| give up | desistir | Don't give up! |
-| find out | descobrir | Let's find out the price. |
-| fill in | preencher | Fill in this form. |
-| check in / check out | fazer check-in / check-out | We check out at noon. |
-| throw away | jogar fora | Throw away the old bottles. |
-
-**Separáveis e inseparáveis.** Alguns *phrasal verbs* aceitam o objeto no meio, outros não.
-
-| Separáveis (objeto no meio ou no fim) | Inseparáveis (objeto depois) |
-|---|---|
-| turn off, turn on, put on, take off, pick up, fill in, throw away, give up | look for, look after, get on |
-| Turn off the light. = Turn the light off. | Look for the keys. (nunca ~~Look the keys for~~) |
-| Pick up the kids. = Pick the kids up. | She looks after her brother. |
-
-**Com pronome, o pronome fica no meio** dos separáveis: {{Turn it off}}, {{Pick them up}}, {{Take it off}}, {{Fill it in}}. Não se diz ~~Turn off it~~.
-
-Com os inseparáveis, o pronome vem depois: {{I'm looking for it}}, {{She looks after them}}.
-
-Alguns *phrasal verbs* não têm objeto: {{get up}}, {{sit down}}, {{come back}}, {{go out}}. {{Wake up}} vai nos dois casos: {{I woke up early}} e {{Wake me up at six}}. O dicionário indica cada caso; copie a frase de exemplo.
-
-### 5.5 Falsos cognatos (*false friends*)
-
-São palavras parecidas com o português, mas com sentido diferente.
-
-| Inglês | Parece com | Significa de fato |
-|---|---|---|
-| actually | atualmente | na verdade (atualmente = currently, these days) |
-| pretend | pretender | fingir (pretender = intend, plan) |
-| push | puxar | empurrar (puxar = pull) |
-| library | livraria | biblioteca (livraria = bookstore) |
-| parents | parentes | pais (parentes = relatives) |
-| attend | atender | comparecer, assistir (atender = answer, serve) |
-| realize | realizar | perceber (realizar = carry out, achieve) |
-| eventually | eventualmente | por fim, com o tempo (eventualmente = occasionally, possibly) |
-| support | suportar | apoiar (suportar = stand, bear) |
-| lecture | leitura | palestra, aula expositiva (leitura = reading) |
-| sympathetic | simpático | compreensivo (simpático = nice, friendly) |
-| costume | costume | fantasia (costume, hábito = custom, habit) |
-| résumé | resumo | currículo (resumo = summary) |
-
-{{Actually}} é muito usado em conversa para corrigir ou acrescentar: {{Actually, I'm from Recife, not São Paulo.}} Ele não é "atualmente".
 
 ## 6. Frases de ouro
 
-| Inglês | Português natural |
-|---|---|
-| I enjoy walking in the morning. | Gosto de caminhar de manhã. |
-| I'd like to book a room. | Gostaria de reservar um quarto. |
-| I want you to meet my sister. | Quero que você conheça minha irmã. |
-| Can you help me? | Você pode me ajudar? |
-| The man who works here is nice. | O homem que trabalha aqui é simpático. |
-| This is the place where I stayed. | Este é o lugar onde fiquei. |
-| Please turn it off. | Por favor, desligue isto. |
-| I'm looking for my keys. | Estou procurando minhas chaves. |
+| **Inglês**                                                                  | **Português natural**                                                       |
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
+| {{Have you ever been to London? — Yes, I've been there twice!}}             | Você já esteve em Londres? — Sim, já estive lá duas vezes!                  |
+| {{I've never tried Indian food, but I'd love to!}}                          | Nunca experimentei comida indiana, mas adoraria!                            |
+| {{Don't worry, I've already sent the contract to the client.}}              | Não se preocupe, já enviei o contrato para o cliente.                       |
+| {{Have you finished the presentation yet? — Not yet!}}                      | Você já terminou a apresentação? — Ainda não!                               |
+| {{She has just left the office — you can still catch her at the elevator!}} | Ela acabou de sair do escritório — você ainda consegue pegá-la no elevador! |
+| {{Where is David? — He's gone to the coffee shop downstairs.}}              | Onde está o David? — Ele foi à cafeteria lá embaixo (e ainda está lá).      |
+| {{We've had four meetings so far this week!}}                               | Tivemos quatro reuniões até agora nesta semana!                             |
+| {{I've seen that movie before; I watched it two years ago.}}                | Já vi esse filme antes; assisti a ele há dois anos.                         |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  I enjoy \_\_\_\_ . (to swim / swimming)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2.  We decided \_\_\_\_ a car. (renting / to rent)
+1.  \_\_\_\_ you ever \_\_\_\_ to South Africa? (Did... go / Have... been)
 
-3.  Thanks for \_\_\_\_ me. (helping / to help)
+2.  I \_\_\_\_ the report to Sarah **yesterday afternoon**. (have sent / sent)
 
-4.  I want \_\_\_\_ to the party. (you come / you to come)
+3.  We've \_\_\_\_ had lunch, so we aren't hungry right now. (already / yet)
 
-5.  The woman \_\_\_\_ lives next door is a doctor. (who / which)
+4.  Has the flight from Miami arrived \_\_\_\_? (already / yet)
 
-6.  The jacket \_\_\_\_ I bought is too big. (who / that)
+5.  My sister has never \_\_\_\_ snow in her life! (saw / seen)
 
-7.  Please turn \_\_\_\_ . (it off / off it)
+6.  — Is Lucas at his desk? — No, he's \_\_\_\_ to the bank. He'll be back at three. (been / gone)
 
-8.  In English, "library" means \_\_\_\_ . (biblioteca / livraria)
+7.  \_\_\_\_ did you buy your car? — I bought it in 2024. (When / How long)
 
-**Degrau 2. Complete.** Use {{-ing}}, {{to}} + verbo, ou o pronome de objeto.
+8.  I haven't read the new contract \_\_\_\_. (already / yet)
 
-1.  She enjoys \_\_\_\_ (read) before bed.
+**Degrau 2. Complete.** Use os verbos entre parênteses no *Present Perfect* ({{have / has + 3ª coluna}}) ou no *Past Simple*, conforme a presença ou não de data fechada.
 
-2.  I hope \_\_\_\_ (see) you again.
+1.  I \_\_\_\_ (lose) my office badge! Can you open the door for me?
 
-3.  He finished \_\_\_\_ (write) at midnight.
+2.  I \_\_\_\_ (lose) my office badge **last Monday**, so I got a new one on Tuesday.
 
-4.  We'd like \_\_\_\_ (book) a table.
+3.  — \_\_\_\_ you ever \_\_\_\_ (eat) Thai food? — Yes, I \_\_\_\_! I \_\_\_\_ (try) it in Bangkok **two years ago**.
 
-5.  I know Ana. I called \_\_\_\_ yesterday. (her / she)
+4.  She \_\_\_\_ (just / arrive) at the airport; she's waiting for her luggage right now.
 
-6.  Tom is my friend. I live with \_\_\_\_ . (he / him)
+5.  We \_\_\_\_ (not / receive) the invoice from the supplier yet.
 
-7.  This is the town \_\_\_\_ I was born. (who / where)
+6.  Look! Thomas \_\_\_\_ (already / sign) all the documents!
 
-8.  The shirt is dirty. Please put \_\_\_\_ in the machine. (it / them)
+7.  **When** \_\_\_\_ they \_\_\_\_ (move) to Toronto?
 
-9.  The keys are on the table. Can you pick \_\_\_\_ up? (it / them)
+8.  I \_\_\_\_ (drink) three cups of coffee **so far this morning**!
 
-10. She's good at \_\_\_\_ (cook).
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Conte duas experiências que você já viveu ({{I've been to... / I've tried... twice}}) e duas que você nunca viveu ({{I've never + 3ª coluna...}}).
 
-1.  Escreva três coisas de que você gosta de fazer, com {{I enjoy...}}, {{I like...}} e {{I love...}}.
+2.  Escreva uma frase começando no *Present Perfect* (experiência geral) e continuando no *Past Simple* (dizendo **quando** aconteceu, com {{in \[ano\]}} ou {{ago}}).
 
-2.  Escreva três planos com {{I want to...}}, {{I plan to...}} e {{I hope to...}}.
+3.  Conte duas tarefas que você **já fez** hoje ({{I've already...}}) e duas que você **ainda não fez** hoje ({{I haven't... yet}}).
 
-3.  Descreva uma pessoa da sua vida com {{who}} e um lugar com {{where}}.
+4.  Explique a diferença entre {{Lucas has been to Montreal}} e {{Lucas has gone to Montreal}}.
 
-4.  Escreva a sua rotina da manhã com cinco *phrasal verbs* (por exemplo, {{get up}}, {{turn on}}, {{put on}}).
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  I have seen that movie on Netflix last night!
 
-1.  I like swim in the sea.
+2.  Have you ever went to Buenos Aires?
 
-2.  I want that you help me.
+3.  When have you arrived at the hotel?
 
-3.  I saw.
+4.  She hasn't finished the report already.
 
-4.  The man who he works here is nice.
+5.  I haven't never eaten sushi in my life.
 
-5.  Turn off it, please.
+6.  My brother has wrote three books so far.
 
-6.  I came here for study English.
+7.  I've just spoken to Sarah, and she has already booked our flights.
 
-7.  She asked me to wait.
 :::::
 
 ## 8. O erro típico
 
-O erro que mais denuncia o aluno brasileiro neste capítulo é **o infinitivo no lugar do {{-ing}}**, porque o português usa o infinitivo em quase todas as situações: ~~I like swim~~, ~~I enjoy to read~~. O segundo erro é **o objeto ausente**: "Gostei." vira ~~I liked~~. E o terceiro é **o falso cognato**, que passa despercebido porque o brasileiro compreende tudo e só percebe depois que a pessoa não entendeu: ~~I'm actually studying English~~ (querendo dizer "atualmente"), ~~I push the door~~ (querendo puxar).
+O erro mais frequente neste capítulo é **juntar o Present Perfect com uma data passada fechada** (dizendo ~~I have seen him yesterday~~ ou ~~We have bought it last week~~) e **usar a 2ª coluna do verbo em vez da 3ª coluna** (dizendo ~~I have went, She has ate, He has wrote~~).
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~I enjoy to read.~~ | {{I enjoy reading.}} | {{Enjoy}} pede {{-ing}}. |
-| ~~I want that you come.~~ | {{I want you to come.}} | {{Want}} + pessoa + {{to}}. |
-| ~~I liked.~~ | {{I liked it.}} | O objeto é obrigatório. |
-| ~~The man who he works here...~~ | {{The man who works here...}} | O relativo já é o sujeito. |
-| ~~Turn off it.~~ | {{Turn it off.}} | O pronome vai no meio do separável. |
-| ~~Actually I work in a bank.~~ (= atualmente) | {{I currently work in a bank.}} / {{These days I work...}} | {{Actually}} = na verdade. |
+
+| **Errado**                       | **Certo**                          | **Por quê**                                                                         |
+|----------------------------------|------------------------------------|-------------------------------------------------------------------------------------|
+| ~~I have seen him yesterday.~~   | {{I saw him yesterday.}}           | {{Yesterday}} é tempo passado fechado; exige obrigatoriamente o *Past Simple*.      |
+| ~~When have you arrived?~~       | {{When did you arrive?}}           | Perguntas com **{{When...?}}** pedem um momento fechado no passado (*Past Simple*). |
+| ~~Have you ever went to Paris?~~ | {{Have you ever been to Paris?}}   | Após {{have / has}}, usa-se a 3ª coluna ({{been}}), nunca a 2ª ({{went}}).          |
+| ~~She has wrote / He has saw.~~  | {{She has written / He has seen.}} | Os particípios de *write* e *see* são {{written}} e {{seen}}.                       |
+| ~~I haven't finished already.~~  | {{I haven't finished yet.}}        | Em frases negativas ("ainda não"), usa-se **{{yet}}** no final, nunca *already*.    |
+| ~~I haven't never been there.~~  | {{I've never been there.}}         | {{Never}} já é negativo; exige o auxiliar afirmativo {{have / has}}.                |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 13.** Faça a pergunta: {{I'm waiting for Ana.}} → {{Who ...?}} Complete a tag: {{You live here, \_\_\_\_?}} Ligue com {{so}} ou {{because}}: {{I'm tired. I'm going to bed.}}
+1.  **Do Capítulo 13.** Complete escolhendo entre {{I'll}} (decisão na hora) e {{I'm going to}} (plano prévio): {{— We don't have any milk for breakfast! — Don't worry, \_\_\_\_ go to the supermarket on the corner and buy some right now!}}
 
-**Do capítulo 12.** Complete: {{I \_\_\_\_ (live) here since 2022.}} / {{Have you \_\_\_\_ (be) to Rio?}}
+2.  **Do Capítulo 12 e 14.** Una superlativo com *Present Perfect* (uma das estruturas mais famosas do inglês!): *"Este é o melhor filme que eu já vi na vida!"* ({{This is the best movie I have ever seen!}}). Agora faça o mesmo para: *"Este é o melhor restaurante em que eu já comi!"*
 
-**Do capítulo 11.** Diga o que você {{is going to}} fazer amanhã e use {{I'll}} para oferecer ajuda a um colega.
+3.  **Do Capítulo 11 e 14.** Diga as 3 colunas de: {{go, see, eat, write, take, do}}.
 
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta e troque o que Julia perdeu. |
-| Dia 3 | Escreva dez frases com verbos + {{-ing}} ou {{to}}, cinco de cada. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Escreva uma carta de 100 palavras para o albergue: agradeça, conte o que gostou, diga o que quer fazer na próxima visita. |
+| **Quando** | **O que fazer**                                                                                                                                                                                                |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta sublinhando mentalmente onde Thomas usa *Present Perfect* (sem data) e onde usa *Past Simple* ({{last night, on Tuesday}}).                                                            |
+| Dia 3      | Escreva a sua *to-do list* do dia em inglês: marque 3 coisas com {{I've already...}}, 1 com {{I've just...}} e 3 com {{I haven't... yet}}.                                                                     |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                                                                                                                    |
+| Dia 14     | Grave um áudio de 1 minuto falando sobre viagens e experiências marcantes da sua vida: comece cada uma com {{I've been to / I've tried...}} e depois dê os detalhes no *Past Simple* ({{I went there in...}}). |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Depois de {{enjoy}}, {{finish}}, {{stop}}, {{keep}}, {{can't stand}} e de preposições, vem **-ing**. Depois de {{want}}, {{need}}, {{hope}}, {{plan}}, {{decide}} e {{would like}}, vem **to + verbo**.
 
-**Quero que você...** = {{I want you to...}}
+- **Fórmula do Present Perfect:** **{{have / has + Particípio Passado (3ª coluna)}}**.
 
-**Objeto:** {{me, you, him, her, it, us, them}}. É obrigatório.
+- **Quando usar (Sem data fechada!):**
 
-**Relativos:** {{who}} (pessoa), {{which}} (coisa), {{that}} (os dois), {{where}} (lugar). Não repita o pronome.
+  1.  **Experiências de vida até hoje:** {{Have you ever...? / I've never... / twice / many times / before}}.
 
-**Phrasal verbs:** aprenda o conjunto. Pronome no meio dos separáveis: {{turn it off}}.
+  2.  **Ações recentes com resultado visível agora:** **{{just}}** ("acabou de"), **{{already}}** ("já" — em afirmativas) e **{{yet}}** ("já?" no fim de perguntas / "ainda" no fim de negativas).
 
-**Falsos cognatos:** {{actually}}, {{pretend}}, {{push}}, {{library}}, {{parents}}, {{attend}}, {{realize}}.
+  3.  **Períodos ainda abertos:** {{today, this week, this month, this year, so far}}.
+
+- **Contraste com o Past Simple:** Entrou carimbo de tempo fechado (**{{yesterday, last night/week, in 2022, ago, When...?}}**)? Use obrigatoriamente o **Past Simple**!
+
+- **{{been to}} vs. {{gone to}}:** {{has been to}} = foi e já voltou; {{has gone to}} = foi e ainda está lá agora.
 
 **Já consigo?**
 
-Escolho entre {{-ing}} e {{to}} com os verbos mais comuns, e peço algo a alguém com {{want you to}}.
+- Perguntar e responder sobre experiências de vida com {{Have you ever...?}} e {{I've never...}} usando a 3ª coluna do verbo.
+- Usar {{just}}, {{already}} e {{yet}} na posição certa para falar de tarefas recentes no trabalho e no dia a dia.
+- Alternar sem errar entre *Present Perfect* (sem quando) e *Past Simple* (com {{yesterday, last, ago, in \[ano\], When}}).
 
-Descrevo uma pessoa, uma coisa ou um lugar com {{who}}, {{which}}, {{that}} ou {{where}}.
-
-Uso dez *phrasal verbs* com o pronome na posição certa.
 :::::
 
 ## Glossário do capítulo 14
 
-| Inglês | Português |
-|---|---|
-| to enjoy + -ing | gostar de, curtir |
-| to finish + -ing | terminar de |
-| to stop + -ing | parar de |
-| to keep + -ing | continuar, não parar de |
-| can't stand + -ing | não suportar |
-| to want / need / hope / plan / decide + to | querer / precisar / esperar / planejar / decidir |
-| who | que, quem (pessoas) |
-| which | que, o qual (coisas) |
-| that | que (pessoas e coisas) |
-| where | onde |
-| get up | levantar-se |
-| wake up | acordar |
-| turn on / turn off | ligar / desligar |
-| put on / take off | vestir / tirar |
-| pick up | pegar, buscar |
-| look for | procurar |
-| look after | cuidar de |
-| fill in | preencher |
-| check in / check out | fazer check-in / check-out |
-| actually | na verdade |
-| library | biblioteca |
-| push / pull | empurrar / puxar |
+| **Inglês**                              | **Português**                                    |
+|-----------------------------------------|--------------------------------------------------|
+| {{Have you ever \[been to Canada\]?}}   | Você já \[esteve no Canadá\] alguma vez na vida? |
+| {{I've never \[seen snow\].}}           | Eu nunca \[vi neve\].                            |
+| {{I've just \[arrived / had coffee\].}} | Acabei de \[chegar / tomar café\].               |
+| {{I've already \[sent the file\].}}     | Eu já \[enviei o arquivo\].                      |
+| {{Have you finished yet? — Not yet!}}   | Você já terminou? — Ainda não!                   |
+| {{I haven't read it yet.}}              | Eu ainda não li.                                 |
+| {{so far (this week / this year)}}      | até agora (nesta semana / neste ano)             |
+| {{She has been to London.}}             | Ela já esteve em Londres (e já voltou).          |
+| {{She has gone to London.}}             | Ela foi para Londres (e ainda está lá agora).    |
+| {{once / twice / three times}}          | uma vez / duas vezes / três vezes                |
+| {{updated agenda}} / {{invoice}}        | pauta atualizada / fatura (nota fiscal)          |
+| {{sign a document}}                     | assinar um documento                             |
+| {{downtown}}                            | centro da cidade                                 |
+| {{This is my first time here.}}         | É a minha primeira vez aqui.                     |
+| {{the best \[movie\] I've ever seen}}   | o melhor \[filme\] que eu já vi na vida          |
 
 ## Chave comentada do capítulo 14
 
 ::::: gabarito
-**Degrau 1.** 1 swimming. 2 to rent. 3 helping (depois de preposição, {{-ing}}). 4 you to come. 5 who (pessoa). 6 that ({{who}} é só para pessoas). 7 it off. 8 biblioteca.
 
-**Degrau 2.** 1 reading ({{enjoy}} só aceita {{-ing}}). 2 to see. 3 writing. 4 to book. 5 her (objeto). 6 him (depois de preposição). 7 where. 8 it (a camisa, uma só). 9 them (as chaves, plural; no meio do separável). 10 cooking (depois de preposição, {{-ing}}).
+**Degrau 1.** 1 Have... been (experiência de vida com {{ever}}). 2 sent (**yesterday afternoon** fecha o tempo no passado → *Past Simple*). 3 already (afirmativa no meio do verbo). 4 yet (final de pergunta). 5 seen (após *has*, exige a 3ª coluna {{seen}}, nunca a 2ª *saw*). 6 gone (ele foi ao banco e ainda não voltou). 7 When (a resposta tem *bought* e *in 2024*, logo pergunta quando aconteceu). 8 yet (final de frase negativa).
 
-**Degrau 3.** Respostas pessoais. Confira o {{-ing}} depois de {{enjoy}}, o {{to}} depois de {{plan}} e {{hope}}, {{who}} para a pessoa e {{where}} para o lugar, e o pronome entre o verbo e a partícula.
+**Degrau 2.** 1 have lost (ou 've lost — resultado presente: estou sem o crachá agora). 2 lost (**last Monday** fecha o tempo). 3 Have, eaten, have, tried (**two years ago** exige *Past Simple*). 4 has just arrived (ou 's just arrived). 5 haven't received. 6 has already signed. 7 did, move (**When** exige *Past Simple*). 8 have drunk (ou 've had — **so far this morning** é período aberto).
+
+**Degrau 3.** Modelo: 1. {{I've been to Argentina twice and I've tried Thai food, but I've never been to Japan and I've never seen the northern lights.}} 2. {{I've been to Lisbon once; I went there in 2023 with my wife.}} 3. {{Today I've already checked my emails and I've already had lunch, but I haven't finished the report yet and I haven't gone to the gym yet.}} 4. {{Lucas has been to Montreal}} significa que ele já visitou Montreal e voltou; {{Lucas has gone to Montreal}} significa que ele viajou para Montreal e ainda está lá agora.
 
 **Degrau 4.**
 
-1.  I like swimming in the sea. (ou: I like to swim in the sea.)
+1.  {{I saw (ou watched) that movie on Netflix last night!}} (*last night* proíbe o *Present Perfect*).
 
-2.  I want you to help me.
+2.  {{Have you ever been to Buenos Aires?}} (3ª coluna {{been}}, nunca *went*).
 
-3.  I saw it. (ou outro objeto: {{I saw him}}, {{I saw her}}.)
+3.  {{When did you arrive at the hotel?}} (*When* exige *Past Simple*).
 
-4.  The man who works here is nice.
+4.  {{She hasn't finished the report yet.}} (Negativa usa {{yet}} no fim).
 
-5.  Turn it off, please.
+5.  {{I've never eaten sushi in my life.}} (Sem dupla negação).
 
-6.  I came here to study English.
+6.  {{My brother has written three books so far.}} (3ª coluna de *write* é {{written}}).
 
-7.  Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 13: Who are you waiting for? / You live here, don't you? / I'm tired, so I'm going to bed. Capítulo 12: have lived; been. Capítulo 11: respostas pessoais ({{I'm going to...}}; {{I'll help you}}).
+**Retorno.** 1. {{I'll}} (decisão tomada na hora da fala). 2. {{This is the best restaurant I have ever eaten at!}} (ou {{visited}}). 3. {{go — went — gone/been}}; {{see — saw — seen}}; {{eat — ate — eaten}}; {{write — wrote — written}}; {{take — took — taken}}; {{do — did — done}}.
+
 :::::
-
-## Revisão A2: 12 itens “já consigo”
-
-Chegou ao fim do livro. Cada item abaixo liga uma capacidade a um capítulo, com um teste rápido de uma linha. Se travar, volte ao capítulo indicado e refaça o Degrau 4.
-
-| N. | Já consigo... | Cap. | Teste rápido |
-|---|---|---|---|
-| 1 | Ler em voz alta sem acrescentar vogais e separar sons parecidos. | 1 | Qual palavra tem o som longo: {{ship}} ou {{sheep}}? E em qual a sílaba forte é a última: {{thirteen}} ou {{thirty}}? |
-| 2 | Apresentar-me e dizer de quem é o quê. | 2 e 6 | Corrija: {{Is cold today.}} Complete: {{This is Ana, and \_\_\_\_ brother lives in Lima.}} (her / his) |
-| 3 | Falar da rotina e do que acontece agora. | 3 e 5 | Complete: {{Where does she \_\_\_\_?}} (work / works). {{Right now I \_\_\_\_ a book.}} (read / am reading) |
-| 4 | Pedir e contar coisas, com contáveis e incontáveis. | 4 | Complete: {{How \_\_\_\_ water do you drink a day?}} (much / many) |
-| 5 | Pedir, aconselhar e proibir com {{can}}, {{must}}, {{should}} e {{I'd like}}. | 7 | Complete: {{You \_\_\_\_ park here. It's forbidden.}} (mustn't / don't have to) |
-| 6 | Contar o que fiz no passado. | 8 | Escreva o passado de {{go}}, {{buy}} e {{see}}. |
-| 7 | Dizer lugar, hora, data e preço com {{in}}, {{on}} e {{at}}. | 9 | Complete: {{The class starts \_\_\_\_ 9 \_\_\_\_ Monday.}} (at / on) |
-| 8 | Comparar e escolher o melhor. | 10 | Complete: {{This hostel is \_\_\_\_ than that one.}} (cheap). Como se diz "melhor"? |
-| 9 | Falar de planos, promessas e dúvidas. | 11 | Complete: {{"I forgot my charger." "Don't worry, I \_\_\_\_ lend you mine."}} |
-| 10 | Falar de experiências e de situações que duram até hoje. | 12 | Complete: {{I \_\_\_\_ in this city for two years.}} (live / have lived) |
-| 11 | Perguntar, responder curto, confirmar e ligar ideias. | 13 | Complete a tag: {{You don't smoke, \_\_\_\_?}} |
-| 12 | Usar {{-ing}} e {{to}}, pronomes de objeto, relativos e *phrasal verbs*. | 14 | Reescreva com pronome: {{Please turn off the light.}} |
-
-**Respostas do teste rápido.** 1 sheep; thirteen. 2 It's cold today; her. 3 work; am reading. 4 much. 5 mustn't. 6 went, bought, saw. 7 at; on. 8 cheaper; better. 9 'll (will). 10 have lived. 11 do you. 12 Please turn it off.
-
-Se acertou os doze, você completou o nível A2 de gramática prática. Os próximos passos são ouvir e ler muito, e falar com quem puder: a gramática do livro deixa de ser lista e passa a ser hábito quando você a usa todos os dias.

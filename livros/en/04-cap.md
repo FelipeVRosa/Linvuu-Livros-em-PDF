@@ -1,415 +1,344 @@
-# Capítulo 4. Substantivos: contáveis e incontáveis (A1)
+# Capítulo 4. A sua cidade e o seu espaço: there is, there are e onde as coisas estão (A1)
 
-**Meta do capítulo.** Ao final, você sabe quando um substantivo aceita {{a / an}} e plural e quando não aceita ({{information}}, {{advice}}, {{news}}), escolhe entre {{some}} e {{any}}, entre {{much}}, {{many}} e {{a lot of}}, entre {{a little}} e {{a few}}, e pergunta {{How much...?}} ou {{How many...?}} sem hesitar.
+**Meta do capítulo.** Ao final, você descreve o que existe no seu bairro, hotel ou escritório usando {{there is / there are}} (abandonando de vez o vício brasileiro de usar *"have"* para existência), domina a regra de ouro do funil para as preposições de lugar ({{in, on, at}}) e usa as preposições de localização espacial ({{next to, across from, between}}) para pedir e dar direções na rua.
 
-## 1. Cena: no mercadinho da esquina
+## 1. Cena: conhecendo o novo escritório e a vizinhança
 
-Camila vai fazer compras no mercado perto do albergue.
+Marina acabou de ser contratada em uma agência de design em Boston. No primeiro dia, seu colega norte-americano Kevin mostra o andar e dá dicas sobre o bairro.
 
 ::: dialogo
-**Clerk:** {{Hi! Can I help you?}}
 
-**Camila:** {{Yes, please. I need some rice and a few tomatoes. How much is the rice?}}
+**Kevin:** {{So, Marina, welcome to the third floor! This is our main workspace.}}
 
-**Clerk:** {{Two dollars a kilo. Do you need any eggs? We have a lot of eggs today.}}
+**Marina:** {{Thanks, Kevin! It's really bright. Are there any private phone booths on this floor for client calls?}}
 
-**Camila:** {{How many are in a box?}}
+**Kevin:** {{Yes, there are! There are four soundproof booths right over there, next to the glass meeting room.}}
 
-**Clerk:** {{Twelve.}}
+**Marina:** {{Oh, that's great. And is there a kitchen or a coffee machine nearby?}}
 
-**Camila:** {{OK, one box. I don't need much milk, just a little. Do you have small bottles?}}
+**Kevin:** {{Of course! There's a big lounge at the end of the hall, between the elevators and the restrooms. There's free coffee, tea, and fruit on the counter all day.}}
 
-**Clerk:** {{Yes, here. Anything else?}}
+**Marina:** {{Awesome. What about lunch? Are there any good places to eat on this street?}}
 
-**Camila:** {{Some advice, please. Is there a good restaurant near here?}}
+**Kevin:** {{Plenty! There's an amazing Italian restaurant right across from our building, and there's a pharmacy on the corner of Boylston Street and Clarendon.}}
 
-**Clerk:** {{Here's a piece of advice: try the pizza place on the corner. And I have good news: it's open until midnight!}}
+**Marina:** {{Is there a subway station near here, by the way?}}
+
+**Kevin:** {{Yes, Copley Station is just two blocks away. You turn left outside the building, go straight ahead, and it's on your right!}}
+
 :::
 
-Em português: Oi! Posso ajudar? / Pode, sim. Preciso de arroz e de alguns tomates. Quanto custa o arroz? / Dois dólares o quilo. Você precisa de ovos? Hoje temos muitos ovos. / Quantos vêm numa caixa? / Doze. / Tá, uma caixa. Não preciso de muito leite, só um pouco. Vocês têm garrafas pequenas? / Temos, aqui. Mais alguma coisa? / Um conselho, por favor. Tem algum bom restaurante por aqui? / Um conselho: experimente a pizzaria da esquina. E tenho uma boa notícia: ela fica aberta até a meia-noite!
+Em português: Então, Marina, bem-vinda ao terceiro andar! Este é o nosso espaço principal de trabalho. / Obrigada, Kevin! É bem iluminado. Tem cabines telefônicas privativas neste andar para ligações com clientes? / Sim, tem! Há quatro cabines à prova de som bem ali, ao lado da sala de reunião de vidro. / Ah, que ótimo. E tem uma cozinha ou máquina de café por perto? / Claro! Tem uma copa grande no fim do corredor, entre os elevadores e os banheiros. Tem café, chá e frutas grátis no balcão o dia todo. / Perfeito. E quanto ao almoço? Tem lugares bons para comer nesta rua? / Muitos! Tem um restaurante italiano incrível bem em frente ao nosso prédio, e tem uma farmácia na esquina da Boylston Street com a Clarendon. / Aliás, tem uma estação de metrô perto daqui? / Sim, a Copley Station fica a apenas dois quarteirões daqui. Você vira à esquerda saindo do prédio, segue reto em frente, e ela fica à sua direita!
 
-Repare em duas diferenças. Com {{rice}} e {{milk}} vem {{some}} e {{a little}}, e não {{a}} nem {{-s}}. Com {{tomatoes}} e {{eggs}} vem {{a few}} e {{many}}. E {{advice}} e {{news}} não têm plural e não aceitam {{a}}: precisam de {{a piece of}} ou de {{some}} / nada.
+Repare que em português traduzimos quase tudo na cena por **"Tem..."** (*"Tem cabines?", "Tem uma cozinha?", "Tem um restaurante"*), mas em inglês o verbo {{have}} não aparece nenhuma vez! Em seu lugar entram **{{There's / There are}}** e **{{Is there...? / Are there...?}}**.
 
 ## 2. A armadilha do português
 
-Em português, quase tudo pode ir ao plural: "informações", "conselhos", "notícias", "móveis", "bagagens", "dinheiros" (menos comum). Em inglês, esses substantivos são **incontáveis**: não têm plural nem levam {{a / an}}.
+Em português falado, usamos o verbo **"ter"** para dizer que algo existe em um lugar (*"Tem um banco nesta rua"*, *"Não tem vagas aqui"*). Além disso, temos uma única preposição curinga (**"em / no / na"**) para dizer *no Brasil*, *no terceiro andar*, *na mesa* e *no trabalho*. Veja as quatro armadilhas que isso cria:
 
-| Português | Inglês |
-|---|---|
-| As informações são úteis. | {{The information is useful.}} (não ~~informations~~) |
-| Um conselho. Dois conselhos. | {{A piece of advice. Two pieces of advice.}} (não ~~an advice~~) |
-| Boas notícias. | {{Good news.}} (não ~~a news~~; {{news}} é singular) |
-| Os móveis são novos. | {{The furniture is new.}} (não ~~furnitures~~) |
-| As bagagens estão no quarto. | {{The luggage is in the room.}} |
+| **O hábito do português**              | **Como o inglês pensa (Certo)**                               | **O erro típico a evitar**                                 |
+|----------------------------------------|---------------------------------------------------------------|------------------------------------------------------------|
+| **Tem** uma farmácia perto daqui?      | {{**Is there** a pharmacy near here?}}                        | ~~Has a pharmacy near here?~~ / ~~Have a pharmacy...?~~    |
+| **Tem** muitos restaurantes nesta rua. | {{**There are** a lot of restaurants **on** this street.}}    | ~~Have many restaurants in this street.~~                  |
+| Estou **no** 3º andar / **no** ônibus. | {{I'm **on** the third floor / **on** the bus.}}              | ~~in the third floor / in the bus~~                        |
+| O banco fica **em frente ao** hotel.   | {{The bank is **across from** (UK: **opposite**) the hotel.}} | ~~in front of the hotel~~ (quando é do outro lado da rua!) |
 
-A segunda armadilha é o **muito / pouco**. O português tem uma palavra só, que muda de gênero e número: "muito café", "muitos ovos", "pouca água", "poucos amigos". O inglês separa:
+**1. "Tem / Existe" nunca é {{have / has}}; é sempre {{There is / There are}}.** O verbo {{have}} exige um dono antes dele ({{I have a car}}, {{The office has four booths}}). Quando você começa a frase apontando a existência de algo em um lugar, use obrigatoriamente **{{There is}}** (singular) e **{{There are}}** (plural).
 
-| Português | Contável (plural) | Incontável |
-|---|---|---|
-| muito / muitos | {{many eggs}} | {{much milk}} |
-| pouco / poucos | {{a few eggs}} | {{a little milk}} |
-| um pouco de / alguns | {{some eggs}} | {{some milk}} |
+**2. O Funil de Lugar ({{IN}} → {{ON}} → {{AT}}).** Em vez de traduzir *"em"*, visualize a geometria do lugar:
 
-E a terceira: o português omite o determinante quando pergunta se há algo ("Tem pão?", "Não tem pão"). O inglês pede {{any}}: {{Do you have any bread?}} {{We don't have any bread.}}
+- **{{IN}} (Dentro de 3D / Fronteiras amplas):** países, cidades, bairros, salas fechadas, dentro de bolsas/gavetas e dentro de carros/táxis ({{in Brazil, in Boston, in the kitchen, in my bag, in a taxi}}).
+
+- **{{ON}} (Superfície 2D / Linhas / Andares / Coletivos):** em cima de mesas/telas/paredes, nomes de ruas/avenidas, andares de prédio e transportes em que se anda no corredor ({{on the table, on the screen, on Boylston Street, on the 3rd floor, on the bus/train/plane}}).
+
+- **{{AT}} (Ponto exato no mapa / Função institucional):** endereços com número, pontos de encontro e locais pela sua função ({{at 500 Boylston Street, at the door, at the bus stop, at home, at work, at school, at the airport}}).
 
 ## 3. Descubra você mesmo
 
-Observe os exemplos.
+Observe como {{there is}} e {{there are}} mudam na afirmativa, na negativa e na pergunta:
 
-| Contável | Incontável |
-|---|---|
-| a tomato | rice |
-| two eggs | milk |
-| an idea | information |
-| a friend, three friends | advice |
-| How many eggs? | How much rice? |
-| a few tomatoes | a little milk |
-| many apples | much water |
-| a lot of friends | a lot of money |
+| **Singular (1 item contável ou incontável)**                       | **Plural (2 ou mais itens)**                                                     |
+|--------------------------------------------------------------------|----------------------------------------------------------------------------------|
+| {{There's a subway station nearby.}}                               | {{There are four phone booths on this floor.}}                                   |
+| {{There's free coffee on the counter.}}                            | {{There are a lot of cafés on this street.}}                                     |
+| {{There isn't a bank on this block.}}                              | {{There aren't any free tables outside.}}                                        |
+| {{Is there an ATM near here? — Yes, there is. / No, there isn't.}} | {{Are there any good restaurants nearby? — Yes, there are. / No, there aren't.}} |
 
 Perguntas:
 
-Quais colunas aceitam {{a / an}} e plural? E quais não aceitam?
+1.  O que acontece com a ordem de {{there is}} e {{there are}} quando fazemos uma pergunta?
 
-Que palavras vêm com {{many}} e {{a few}}? E com {{much}} e {{a little}}?
+2.  Compare estas duas frases da Cena: *"There's a restaurant **across from** our building"* vs. *"There's a bus stop **in front of** our building"*. Em qual delas é preciso atravessar a rua?
 
-O que {{a lot of}} faz diferente de {{many}} e {{much}}?
-
-Se você percebeu que **many / a few** acompanham o que dá para contar, **much / a little** acompanham o que não dá, e **a lot of** serve aos dois, já descobriu o sistema.
+Se você percebeu que na pergunta invertemos para {{Is there...? / Are there...?}} e que **{{across from}}** significa *"do outro lado da rua (em frente, cara a cara)"*, enquanto **{{in front of}}** significa *"na frente de (do mesmo lado, logo adiante)"*, você desarmou duas das maiores pegadinhas do nível A1.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1. **Contável:** dá para contar um a um. Tem plural e aceita {{a / an}}: {{an egg, three eggs}}.
 
-2. **Incontável:** massa, líquido ou ideia. Sem plural, sem {{a / an}}: {{rice, milk, information, advice, news, furniture, luggage, money, music}}.
+1.  **Existência ("Tem / Há"):**
 
-3. **Unidade de incontável:** {{a piece of advice, a glass of water, a kilo of rice}}.
+    - **Singular / Incontável:** Afirmativa = **{{There's}}** ({{There is}}) \| Negativa = **{{There isn't}}** \| Pergunta = **{{Is there...?}}** ({{Yes, there is / No, there isn't}}).
 
-4. **Some** em frases afirmativas e em ofertas/pedidos. **Any** em negativas e em perguntas: {{I have some eggs. I don't have any eggs. Do you have any eggs?}}
+    - **Plural:** Afirmativa = **{{There are}}** \| Negativa = **{{There aren't any...}}** \| Pergunta = **{{Are there any...?}}** ({{Yes, there are / No, there aren't}}).
 
-5. **Many** (contável), **much** (incontável), **a lot of** (os dois): {{many friends / much money / a lot of friends and money}}. Em afirmativas, prefira {{a lot of}}.
+2.  **Bússola {{IN / ON / AT}} para Lugares:**
 
-6. **A few** (contável) e **a little** (incontável): "alguns, um pouco".
+    - **{{IN}}** = País, cidade, bairro, cômodo fechado, carro/táxi ({{in São Paulo, in the room, in a car}}).
 
-7. **How many** + plural? **How much** + incontável? ({{How many eggs? How much milk?}}) {{How much is it?}} pergunta o preço.
+    - **{{ON}}** = Superfície, parede, tela, rua sem número, andar de prédio, ônibus/trem/avião ({{on the desk, on Main Street, on the 2nd floor, on the plane}}).
 
-8. **Verbo no singular** com incontáveis: {{The news is good. The furniture is old.}}
+    - **{{AT}}** = Ponto exato, endereço com número, função ({{at the door, at the corner, at home, at work, at the station}}).
+
+3.  **Mapa de Localização e Direções:**
+
+    - **{{next to}}** (ao lado de), **{{between X and Y}}** (entre X e Y), **{{across from / opposite}}** (em frente, do outro lado da rua), **{{in front of}}** (na frente de, na mesma calçada), **{{behind}}** (atrás de), **{{near / close to}}** (perto de), **{{far from}}** (longe de).
+
+    - **Direções:** {{Go straight ahead}} (siga reto), {{Turn left / right}} (vire à esquerda/direita), {{It's on your left / right}} (fica à sua esquerda/direita).
+
 :::::
 
 ## 5. Por dentro
 
-**5.1 Quem é contável e quem não é**
+### 5.1 Os contrastes que mais confundem: {{in}}, {{on}} e {{at}}
 
-Substantivos **incontáveis** costumam ser:
+Veja na tabela abaixo por que o inglês escolhe cada preposição nos pares que mais derrubam estudantes brasileiros:
 
-| Tipo | Exemplos |
-|---|---|
-| líquidos, massas, comida | {{water, milk, coffee, rice, sugar, bread, meat, cheese, fruit}} |
-| ideias, abstrações | {{information, advice, news, music, luck, help, time, traffic, weather}} |
-| conjuntos de coisas diferentes | {{furniture, luggage (US também baggage), equipment, homework, mail}} |
-| matéria | {{money, hair, paper, glass, wood}} |
+| **Situação**                    | **O que dizer (Certo)**                                               | **Por que funciona assim**                                                                                                                       |
+|---------------------------------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Andar de prédio**             | {{on the first / third floor}}                                        | O andar é visto como uma plataforma/superfície onde você pisa ({{on}}).                                                                          |
+| **Rua vs. Endereço com nº**     | {{on Oxford Street}} × {{at 25 Oxford Street}}                        | A rua inteira é uma linha ({{on}}); o número 25 é um ponto exato no mapa ({{at}}). *(No inglês britânico também se ouve {{in the street}}; o padrão americano é {{on}}.)* |
+| **Carro vs. Ônibus/Trem/Avião** | {{in a car / in a taxi}} × {{on the bus / on the train / on a plane}} | No carro você entra agachado num espaço pequeno ({{in}}); no ônibus, trem, metrô e avião você sobe na plataforma e caminha no corredor ({{on}}). |
+| **Na tela / Na internet**       | {{on my phone / on TV / on the internet / on Instagram}}              | Tudo o que aparece em telas e plataformas digitais usa sempre **{{on}}**!                                                                        |
+| **Em casa / No trabalho**       | {{at home / at work / at school / at university}}                     | Expressões de rotina institucional usam **{{at}}** e não levam o artigo {{the}}.                                                                 |
 
-(Em {{fruit}} e {{hair}}, o singular se usa para o conjunto: {{I eat a lot of fruit. She has long hair.}} Com {{a hair}}, fala-se de um fio.)
+::: atencao
 
-Cuidado com alguns que são contáveis em português e incontáveis em inglês. A tabela mostra a lista que mais atrapalha o brasileiro:
+**Cuidado com {{near}} vs. {{close to}} vs. {{next to}}:**
 
-| Português (contável) | Inglês (incontável) | Como contar |
-|---|---|---|
-| uma informação | {{information}} | {{a piece of information}} |
-| um conselho | {{advice}} | {{a piece of advice}} |
-| uma notícia | {{news}} | {{a piece of news}} |
-| um móvel | {{furniture}} | {{a piece of furniture}} |
-| uma mala, bagagem | {{luggage}} | {{a piece of luggage}} / {{a bag}} / {{a suitcase}} |
-| um dever de casa | {{homework}} | {{a piece of homework}} / {{an assignment}} |
-| um trabalho | {{work}} | {{a job}} (emprego), {{a task}} (tarefa) |
+- **{{next to}}** (ou {{beside}}) = colado, parede com parede ({{The pharmacy is next to the bank}}).
 
-Alguns substantivos mudam de significado entre contável e incontável:
+- **{{near}}** = perto, na vizinhança, e normalmente vem direto, sem {{to}}: {{Is there a bank near here?}}. Se quiser usar {{to}}, a forma natural é **{{close to}}** ({{close to here}}).
 
-| Incontável | Contável |
-|---|---|
-| {{I like coffee.}} (a bebida) | {{Two coffees, please.}} (duas xícaras) |
-| {{I eat chicken.}} (a carne) | {{There are two chickens.}} (as aves) |
-| {{I need paper.}} (o material) | {{I read a paper.}} (um jornal, um artigo) |
-| {{I have time.}} | {{I see you three times a week.}} (vezes) |
+- **Como soa no áudio:** {{There's a...}} soa emendado como Dér-zã..., e {{There are...}} na fala rápida soa curtinho como Dé-rãr...!
 
-**5.2 As unidades**
+:::
 
-Para contar um incontável, use uma unidade de medida: **{{a / one + unidade + of + incontável}}**.
+### 5.2 Como pedir e dar direções na rua em 3 passos
 
-| Unidade | Exemplo |
-|---|---|
-| {{a glass of}} | {{a glass of water}} |
-| {{a cup of}} | {{a cup of coffee}} |
-| {{a bottle of}} | {{a bottle of milk}} |
-| {{a kilo of}} | {{a kilo of rice}} |
-| {{a slice of}} | {{a slice of bread / pizza}} |
-| {{a loaf of}} | {{a loaf of bread}} |
-| {{a bag of}} | {{a bag of sugar}} |
-| {{a piece of}} | {{a piece of advice / news / furniture}} |
-| {{a bit of}} | {{a bit of luck}} (informal) |
+::: passo 1 Aborde com educação e pergunte onde fica
 
-No plural, é a **unidade** que vai ao plural: {{two glasses of water}}, {{three pieces of advice}}, {{two kilos of rice}}.
+- Se você procura **qualquer** banco ou farmácia: {{Excuse me, is there a pharmacy near here?}}
 
-**5.3 Plurais regulares e irregulares**
+- Se você procura um local **específico**: {{Excuse me, how do I get to Copley Station?}} / {{Where is the nearest subway station?}}
 
-Os plurais regulares (capítulo 2): {{-s}}, {{-es}}, {{-ies}}. Mais algumas regras:
+:::
 
-| Regra | Exemplos |
-|---|---|
-| **-f / -fe → -ves** (várias palavras comuns; outras só ganham -s: {{roof → roofs}}) | {{knife → knives, wife → wives, leaf → leaves, shelf → shelves}} |
-| **-o → -oes** (poucos) | {{tomato → tomatoes, potato → potatoes}} |
-| **-o → -os** (a maioria) | {{photo → photos, piano → pianos, video → videos}} |
+::: passo 2 Entenda os 3 comandos de movimento
 
-Os irregulares mais frequentes, que merecem memória:
+- **Seguir reto:** {{Go straight ahead (for two blocks)}} / {{Go down this street}}.
 
-| Singular | Plural | Pronúncia |
-|---|---|---|
-| man | men | `mæn` / `mén` |
-| woman | women | `UÚ-mən` / `UÍ-min` |
-| child | children | `tchaild` / `TCHIL-drən` |
-| person | people | `PÉR-sən` / `PI-pəl` |
-| foot | feet | `fʊt` / `fit` |
-| tooth | teeth | `tuth` / `tith` |
-| mouse | mice | `máus` / `mais` |
-| sheep | sheep | igual |
-| fish | fish | igual |
+- **Virar:** {{Turn left / Turn right (at the traffic light / on Main Street)}}.
 
-{{People}} é plural: {{People are friendly here.}} Quando a palavra for a pessoa isolada, diga {{a person}}.
+- **Atravessar / Passar por:** {{Cross the street}} / {{Go past the bank}} (passe pelo banco).
 
-Há também substantivos que só existem no plural, por serem duas partes: {{jeans, pants}} (britânico: {{trousers}}){{, shorts, glasses, scissors}}. Para contar: {{a pair of jeans}}, {{two pairs of glasses}}.
+:::
 
-**5.4 Some e any**
+::: passo 3 Identifique a posição final
 
-| | Com plural | Com incontável |
-|---|---|---|
-| afirmativa: **some** | {{I have some friends here.}} | {{I need some advice.}} |
-| negativa: **not... any** | {{I don't have any friends here.}} | {{I don't need any advice.}} |
-| pergunta: **any** | {{Do you have any friends here?}} | {{Do you need any advice?}} |
+- {{It's on your left / on your right.}} (Fica à sua esquerda / direita — sempre com {{on}}!).
 
-Em oferta e pedido, usa-se {{some}} mesmo na pergunta, porque você espera um "sim": {{Would you like some coffee?}} {{Can I have some water?}}
+- {{It's on the corner of \[Street A\] and \[Street B\].}} (Fica na esquina da Rua A com a Rua B).
 
-Substitua pelo singular quando houver só um: {{a / an}} com contável no singular, nunca {{some}}: {{I need a tomato}}, não ~~I need some tomato~~.
+- {{It's two blocks away / five minutes away on foot.}} (Fica a dois quarteirões / cinco minutos a pé).
 
-Sem o substantivo, {{some}} e {{any}} funcionam como pronomes: {{Do you have eggs? Yes, I have some. / No, I don't have any.}}
-
-Uma observação: em afirmativas, {{any}} significa "qualquer": {{Take any book you like.}}
-
-**5.5 Many, much, a lot of, a few, a little**
-
-| | Contável plural | Incontável |
-|---|---|---|
-| muito | {{many}}, {{a lot of}} | {{much}}, {{a lot of}} |
-| um pouco / alguns | {{a few}} | {{a little}} |
-| quase nenhum (sentido negativo) | {{few}} | {{little}} |
-
-Na prática:
-
-- **many** e **much** aparecem sobretudo em **negativas e perguntas**: {{I don't have many friends here. Do you have much time?}}
-- Em **afirmativas** do dia a dia, use {{a lot of}} (ou {{lots of}}): {{I have a lot of friends. There is a lot of traffic.}}
-- Depois de {{too}}, {{so}} e {{as}}, aparecem {{much}} e {{many}} sem problema: {{There's too much traffic. She has so many friends.}}
-- {{A few}} e {{a little}} têm sentido positivo ("alguns, um pouco, o suficiente"). Sem o {{a}}, {{few}} e {{little}} dizem "quase nenhum" e têm tom negativo: {{I have a few friends here}} (tenho alguns amigos) × {{I have few friends here}} (tenho pouquíssimos).
-
-**Perguntas de quantidade:**
-
-| Pergunta | Resposta |
-|---|---|
-| {{How many eggs do you need?}} | {{Six.}} / {{A dozen.}} |
-| {{How much milk do you need?}} | {{A little.}} / {{A liter.}} |
-| {{How much is the rice?}} | {{Two dollars.}} (preço) |
-
-**5.6 O verbo com incontáveis**
-
-O incontável pede verbo no **singular**: {{The news is good. Money is important. The furniture is old.}} Por outro lado, {{people}} é plural: {{The people are friendly.}}
+:::
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| {{How much is it?}} | Quanto custa? |
-| {{How many eggs do you need?}} | Quantos ovos você precisa? |
-| {{I need some advice.}} | Preciso de um conselho. |
-| {{Do you have any change?}} | Você tem troco? |
-| {{I don't have much time.}} | Não tenho muito tempo. |
-| {{There's a lot of traffic.}} | Tem muito trânsito. |
-| {{A glass of water, please.}} | Um copo de água, por favor. |
-| {{That's good news!}} | Que boa notícia! |
+| **Inglês**                                                       | **Português natural**                                                   |
+|------------------------------------------------------------------|-------------------------------------------------------------------------|
+| {{Excuse me, is there an ATM near here?}}                        | Com licença, tem um caixa eletrônico perto daqui?                       |
+| {{There are two meeting rooms on the fourth floor.}}             | Há duas salas de reunião no quarto andar.                               |
+| {{There isn't any coffee left in the kitchen.}}                  | Não sobrou nada de café na cozinha.                                     |
+| {{The hotel is right across from the train station.}}            | O hotel fica bem em frente à (do outro lado da rua da) estação de trem. |
+| {{My office is between the pharmacy and the bookstore.}}         | Meu escritório fica entre a farmácia e a livraria.                      |
+| {{I'm on the train right now; I'll be at work in ten minutes.}}  | Estou no trem agora; estarei no trabalho em dez minutos.                |
+| {{Go straight ahead for two blocks and turn left at the light.}} | Siga reto por dois quarteirões e vire à esquerda no semáforo.           |
+| {{You can't miss it — it's right there on your right!}}                | Não tem erro — fica bem à sua direita!                                  |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. I need \_\_\_\_ advice. (an, some)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2. There \_\_\_\_ a lot of traffic. (is, are)
+1.  \_\_\_\_ a good coffee shop on this street? (Has / Is there)
 
-3. How \_\_\_\_ eggs do you need? (much, many)
+2.  \_\_\_\_ any private offices \_\_\_\_ the second floor. (There aren't / Don't have) (in / on)
 
-4. I don't have \_\_\_\_ money. (some, any)
+3.  I'm \_\_\_\_ the bus right now, and my brother is \_\_\_\_ a taxi. (in / on) (in / on)
 
-5. Would you like \_\_\_\_ coffee? (some, any)
+4.  The pharmacy is \_\_\_\_ the bank and the supermarket. (between / among)
 
-6. Two \_\_\_\_ are in the room. (childs, children)
+5.  Cross the street! The museum is \_\_\_\_ our hotel. (in front of / across from)
 
-7. Here's a piece of \_\_\_\_. (advice, advices)
+6.  The pharmacy is right \_\_\_\_ the bank. (next / next to)
 
-8. I have a \_\_\_\_ friends here. (little, few)
+7.  I saw the news \_\_\_\_ my phone while I was \_\_\_\_ home. (in / on) (at / in)
 
-**Degrau 2. Complete.** Use a, an, some, any, many, much, a few, a little, ou a forma certa de {{be}} / plural.
+8.  Go straight ahead and turn right; the bank is \_\_\_\_ your left. (in / on)
 
-1. I need \_\_\_\_ tomato for the salad.
+**Degrau 2. Complete.** Preencha as lacunas com {{There's, There are, There isn't, There aren't, Is there, Are there, in, on, at, next to, across from, between}}.
 
-2. She has \_\_\_\_ umbrella.
+1.  — \_\_\_\_ a supermarket near your apartment? — Yes, \_\_\_\_ one right \_\_\_\_ the corner.
 
-3. We don't have \_\_\_\_ furniture.
+2.  \_\_\_\_ twenty people waiting \_\_\_\_ the reception desk.
 
-4. Do you have \_\_\_\_ questions?
+3.  My apartment is \_\_\_\_ the fifth floor \_\_\_\_ 120 Park Avenue \_\_\_\_ New York.
 
-5. knife → \_\_\_\_
+4.  — \_\_\_\_ any messages for me \_\_\_\_ my phone? — No, \_\_\_\_ any.
 
-6. woman → \_\_\_\_
+5.  The printer is \_\_\_\_ the desk, \_\_\_\_ the computer and the lamp.
 
-7. tomato → \_\_\_\_
+6.  Look across the avenue: \_\_\_\_ a beautiful park right \_\_\_\_ our office building.
 
-8. How \_\_\_\_ people live here?
+7.  \_\_\_\_ a subway station in my neighborhood, so I go to work by bus.
 
-9. I only have \_\_\_\_ money. (uma pequena quantidade)
+8.  Sorry, I can't talk right now — I'm \_\_\_\_ the plane!
 
-10. The luggage \_\_\_\_ in the room. (be)
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Descreva a sua rua ou o seu bairro usando duas frases afirmativas ({{There's... / There are...}}) e uma negativa ({{There isn't... / There aren't any...}}).
 
-1. Escreva sua lista de compras com sete itens, usando unidades ({{a kilo of...}}, {{a bottle of...}}) e {{some / a few / a little}}.
+2.  Diga em que cidade você mora ({{in}}), em que rua ({{on}}) e em qual andar ({{on}}), e onde você está neste exato momento ({{at home / at work}}).
 
-2. Escreva quatro frases sobre a sua cidade, usando {{a lot of}}, {{much}}, {{many}}, {{a few}} ou {{a little}}.
+3.  Explique onde ficam três objetos na sua sala ou mesa usando {{on}}, {{in}}, {{next to}} e {{between}}.
 
-3. Escreva duas perguntas com {{How much}} e duas com {{How many}} sobre a vida de alguém.
+4.  Dê direções de duas frases para um turista ir da porta do seu prédio até uma farmácia ou estação próxima ({{Go straight ahead... / Turn... / It's on your...}}).
 
-4. Dê dois conselhos a um amigo que vai viajar, usando {{a piece of advice}}, {{luggage}}, {{money}} ou {{information}}.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  Has a good restaurant near the hotel?
 
-1. I need some informations.
+2.  In my street have many trees and two bakeries.
 
-2. Can you give me an advice?
+3.  My office is in the third floor, in Main Street.
 
-3. I don't have some money.
+4.  I'm in the bus right now, looking at the map in my phone.
 
-4. How much people are here?
+5.  Cross the avenue: the bank is in front of the subway station!
 
-5. The news are good.
+6.  Don't have any free chairs in the meeting room.
 
-6. Two childs are in the room.
+7.  There's a pharmacy on the corner, right next to the bank.
 
-7. There are a lot of people here.
 :::::
 
 ## 8. O erro típico
 
-O erro que mais aparece é **dar plural ao que não tem plural**: {{informations}}, {{advices}}, {{furnitures}}. O português usa essas palavras no plural o tempo todo, e o aluno traduz palavra por palavra. A segunda armadilha é usar {{much / many}} sem distinção, porque "muito" é uma palavra só em português.
-
-::: atencao
-Antes de pôr {{a / an}} ou {{-s}}, pergunte: dá para contar um por um? Se não dá ({{information, advice, news, furniture, luggage, money}}), nada de {{a}} nem {{-s}}: use {{some}} ou {{a piece of}}.
-:::
+O erro mais frequente deste capítulo é começar frases em inglês com **~~Has...~~** ou **~~Have...~~** para dizer *"Tem / Existem"* (como em ~~In my city has many parks~~). Em inglês, um lugar como {{In my city}} não é sujeito de {{have}}: use sempre **{{In my city, there are many parks}}** (ou transforme a cidade em sujeito sem {{in}}: {{My city has many parks}}).
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~I need some informations.~~ | {{I need some information.}} | information é incontável |
-| ~~Can you give me an advice?~~ | {{Can you give me some advice?}} / {{a piece of advice}} | advice é incontável |
-| ~~The news are good.~~ | {{The news is good.}} | news é singular |
-| ~~I don't have some money.~~ | {{I don't have any money.}} | negativa pede any |
-| ~~How much people?~~ | {{How many people?}} | people é plural, contável |
-| ~~Two childs.~~ | {{Two children.}} | plural irregular |
+
+| **Errado**                             | **Certo**                                       | **Por quê**                                                                 |
+|----------------------------------------|-------------------------------------------------|-----------------------------------------------------------------------------|
+| ~~Has a bank near here?~~              | {{Is there a bank near here?}}                  | Existência ("Tem/Há") usa {{There is / There are}}, nunca {{have / has}}.   |
+| ~~In my street has two cafés.~~        | {{There are two cafés on my street.}}           | {{There are}} concorda com o plural ({{two cafés}}), e rua usa {{on}}.      |
+| ~~in the third floor / in the bus~~    | {{on the third floor / on the bus}}             | Andares de prédio e transportes coletivos exigem {{on}}.                    |
+| ~~in my phone / in Instagram~~         | {{on my phone / on Instagram}}                  | Telas, sites, redes sociais e aplicativos exigem sempre {{on}}.             |
+| ~~There is two cafés on this street.~~ | {{There are two cafés on this street.}}         | O verbo concorda com o que existe: dois cafés pedem {{There are}}.          |
+| ~~in front of~~ (do outro lado da rua) | {{across from}} (UK: {{opposite}})              | {{in front of}} é na mesma calçada; do outro lado da rua é {{across from}}. |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 3.** Passe para a pergunta e para a negativa: {{She works at a hospital.}} / {{They eat a lot of rice.}}
+1.  **Do Capítulo 3.** Traduza sem cair na armadilha do português: *"A Marina está na sala dela com o chefe novo dela; aquele notebook na mesa é dela."*
 
-**Do capítulo 2.** Escreva o plural de {{city}}, {{box}} e {{bus}}, e diga como termina o som de {{boxes}}.
+2.  **Do Capítulo 2.** Qual é o plural de {{person}}, {{child}}, {{woman}} e {{box}}, e como eles ficam depois de {{There are}}?
 
-**Do capítulo 2.** Traduza: "Tem um mercado aqui?" / "Tem dois quartos livres." (use {{there is / are}})
+3.  **Do Capítulo 1.** Como você diz em inglês *"Está frio aqui dentro"* e *"Tenho 30 anos"*, sem usar {{have}} e sem esquecer o sujeito?
 
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta e troque os produtos pelos da sua geladeira. |
-| Dia 3 | Liste dez incontáveis que você usa e diga uma unidade para cada um. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Escreva um e-mail curto para um albergue pedindo informações, sem erro de {{information}} / {{advice}}. |
+| **Quando** | **O que fazer**                                                                                                                           |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta imaginando o mapa do andar que o Kevin descreve para a Marina.                                                    |
+| Dia 3      | Descreva a sua cozinha ou sala de estar em 6 frases usando {{There's}}, {{There are}}, {{on}}, {{in}}, {{next to}} e {{between}}.         |
+| Dia 7      | Refaça o Degrau 4 sem consultar a chave comentada.                                                                                        |
+| Dia 14     | Abra um mapa online no centro de uma cidade de língua inglesa e narre em voz alta como ir de um hotel até a estação de metrô mais próxima. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Contáveis têm plural e aceitam {{a / an}}. Incontáveis ({{information, advice, news, furniture, luggage, money}}) não têm plural nem {{a / an}}; contam-se com {{a piece of / a glass of / a kilo of}}.
 
-{{Some}}: afirmativas, ofertas e pedidos. {{Any}}: negativas e perguntas.
+- **Existência ({{There is / There are}}):** {{There's}} (singular e incontáveis), {{There are}} (plural). Negativa: {{There isn't / There aren't any}}. Pergunta: {{Is there...? / Are there any...?}}. Nunca use {{have / has}} para "há/existe".
 
-{{Many}} (contável), {{much}} (incontável), {{a lot of}} (os dois, melhor em afirmativas). {{A few}} / {{a little}}: "alguns, um pouco". {{How many}} / {{How much}}.
+- **Funil {{IN / ON / AT}} de lugar:**
 
-Plurais irregulares: {{man → men, woman → women, child → children, person → people, foot → feet}}.
+  - **{{in}}** = dentro de espaços 3D, países, cidades, bairros, carros/táxis.
+
+  - **{{on}}** = superfícies, telas ({{on my phone}}), ruas sem número, andares ({{on the 3rd floor}}), ônibus/trem/metrô/avião.
+
+  - **{{at}}** = ponto exato, endereço com número, esquina/porta, função ({{at home, at work, at the airport}}).
+
+- **Posição e Direções:** {{next to}} (ao lado), {{between X and Y}} (entre), {{across from}} (em frente, do outro lado da rua), {{near}} / {{close to}} (perto de), {{go straight ahead}}, {{turn left / right}}, {{on your left / right}}.
 
 **Já consigo?**
 
-Peço informação, conselho e notícias sem pôr plural nem {{a}}.
+- Dizer o que existe ou não existe no meu bairro, hotel ou trabalho usando {{There is / There are}} sem falar *"have"*.
+- Acertar de primeira {{on the third floor}}, {{on the bus}}, {{on my phone}}, {{in Brazil}} e {{at home / at work}}.
+- Pedir e dar direções curtas na rua usando {{across from}}, {{next to}}, {{on the corner}}, {{go straight}} e {{turn left / right}}.
 
-Escolho entre {{some}} e {{any}} sem hesitar.
-
-Pergunto {{How much...?}} ou {{How many...?}} com a palavra certa.
 :::::
 
 ## Glossário do capítulo 4
 
-| Inglês | Português |
-|---|---|
-| rice | arroz |
-| milk | leite |
-| egg | ovo |
-| tomato | tomate |
-| bread | pão |
-| sugar | açúcar |
-| water | água |
-| money | dinheiro |
-| change | troco |
-| time | tempo |
-| traffic | trânsito |
-| information | informação |
-| advice | conselho |
-| news | notícia(s) |
-| furniture | móveis |
-| luggage | bagagem |
-| homework | dever de casa |
-| bottle | garrafa |
-| glass | copo; vidro |
-| kilo | quilo |
-| people | pessoas, gente |
-| a pair of | um par de |
+| **Inglês**                                  | **Português**                                  |
+|---------------------------------------------|------------------------------------------------|
+| {{There's...}} / {{There are...}}           | Tem (Existe)... / Tem (Existem)...             |
+| {{Is there... nearby / near here?}}         | Tem... por perto / perto daqui?                |
+| {{on the third floor}}                      | no terceiro andar                              |
+| {{at the end of the hall}}                  | no fim do corredor                             |
+| {{next to}} / {{between X and Y}}           | ao lado de / entre X e Y                       |
+| {{across from}} (UK: {{opposite}})          | em frente a (do outro lado da rua)             |
+| {{on the corner (of A and B)}}              | na esquina (da rua A com a B)                  |
+| {{two blocks away}}                         | a dois quarteirões de distância                |
+| {{Go straight ahead.}}                      | Siga reto em frente.                           |
+| {{Turn left / right at the traffic light.}} | Vire à esquerda / direita no semáforo.         |
+| {{It's on your left / right.}}              | Fica à sua esquerda / direita.                 |
+| {{You can't miss it!}}                      | Não tem erro! (Você vai ver na hora!)          |
+| {{ATM}} / {{pharmacy}} / {{restroom}}       | caixa eletrônico / farmácia / banheiro público |
+| {{phone booth}}                             | cabine telefônica                              |
+| {{lounge}}                                  | copa, sala de convivência                      |
+| {{nearby}}                                  | por perto                                      |
+| {{on foot}}                                 | a pé                                           |
 
 ## Chave comentada do capítulo 4
 
 ::::: gabarito
-**Degrau 1.** 1 some (advice é incontável: nada de {{an}}). 2 is (traffic é incontável, singular). 3 many (eggs é contável). 4 any (negativa). 5 some (oferta). 6 children. 7 advice (sem plural). 8 few ("alguns" com contável).
 
-**Degrau 2.** 1 a (tomato é contável, singular). 2 an (som de vogal). 3 any (também {{much}}: "não temos muitos móveis"). 4 any ({{many}} também é gramatical, mas muda o sentido para "muitas"). 5 knives. 6 women. 7 tomatoes. 8 many. 9 a little ("uma pequena quantidade" com incontável). 10 is.
+**Degrau 1.** 1 Is there ("Tem...?" = existência). 2 There aren't, on (plural negativo; andar usa {{on}}). 3 on, in (ônibus usa {{on}}; táxi/carro usa {{in}}). 4 between (entre duas coisas claras). 5 across from (do outro lado da rua). 6 next to ({{next}} sozinho não funciona; a expressão é {{next to}}). 7 on, at (tela usa {{on}}; {{at home}}). 8 on ({{on your left / right}}).
 
-**Degrau 3.** Respostas pessoais. Confira: nenhuma ~~informations~~ / ~~advices~~; {{much / a little}} só com incontável; {{many / a few}} só com plural; {{some}} na afirmativa e {{any}} na negativa e na pergunta.
+**Degrau 2.** 1 Is there, there's, on (ou at). 2 There are, at. 3 on, at, in. 4 Are there, on, there aren't. 5 on, between. 6 there's, across from. 7 There isn't. 8 on.
+
+**Degrau 3.** Modelo: 1. {{On my street, there's a great bakery and there are two pharmacies, but there isn't a subway station.}} 2. {{I live in São Paulo, on Paulista Avenue, on the eighth floor, and I'm at home right now.}} 3. {{My laptop is on the desk, between my monitor and my coffee mug, and my keys are in my backpack next to the chair.}} 4. {{Go straight ahead for two blocks and turn right at the traffic light. The pharmacy is on your left, right across from the bank.}}
 
 **Degrau 4.**
 
-1. I need some information.
+1.  {{Is there a good restaurant near the hotel?}} (ou {{close to the hotel}}). "Tem" de existência pede {{Is there}}, nunca {{Has}}.
 
-2. Can you give me some advice? (ou {{a piece of advice}})
+2.  {{On my street, there are many trees and two bakeries.}}
 
-3. I don't have any money.
+3.  {{My office is on the third floor, on Main Street.}}
 
-4. How many people are here?
+4.  {{I'm on the bus right now, looking at the map on my phone.}}
 
-5. The news is good.
+5.  {{Cross the avenue: the bank is across from the subway station!}}
 
-6. Two children are in the room.
+6.  {{There aren't any free chairs in the meeting room.}}
 
-7. Está certa (people é plural: {{are}}).
+7.  **Está certa.**
 
-**Retorno.** Capítulo 3: Does she work at a hospital? / She doesn't work at a hospital. / Do they eat a lot of rice? / They don't eat a lot of rice. Capítulo 2: cities, boxes, buses; boxes termina em `iz`. Is there a market here? / There are two free rooms.
+**Retorno.** 1. {{Marina is in her office with her new boss; that laptop on the table is hers.}} 2. {{There are people / children / women / boxes.}} 3. {{It's cold in here. I'm 30 (years old).}}
+
 :::::

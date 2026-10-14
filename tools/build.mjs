@@ -33,8 +33,9 @@ md.inline.ruler.before('emphasis', 'alvo', (state, silent) => {
   if (fim < 0) return false;
   if (!silent) {
     const t = state.push('alvo_open', 'span', 1); t.attrs = [['class', 'lv-alvo']];
-    const inner = new state.md.inline.State(s.slice(i + 2, fim), state.md, state.env, state.tokens);
-    state.md.inline.tokenize(inner);
+    const filhos = [];
+    state.md.inline.parse(s.slice(i + 2, fim), state.md, state.env, filhos); // tokeniza e resolve negrito/itálico
+    for (const f of filhos) state.tokens.push(f);
     state.push('alvo_close', 'span', -1);
   }
   state.pos = fim + 2;

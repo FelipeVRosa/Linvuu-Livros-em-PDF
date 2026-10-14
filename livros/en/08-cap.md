@@ -1,403 +1,314 @@
-# Capítulo 8. Past simple (A1–A2)
+# Capítulo 8. O que está acontecendo agora: Present Continuous vs. Present Simple (A1)
 
-**Meta do capítulo.** Ao final, você conta o que aconteceu ontem, no fim de semana ou nas férias, com *was/were*, verbos regulares e irregulares, e faz perguntas e negativas com *did* sem escrever *did went*.
+**Meta do capítulo.** Ao final, você descreve ações que estão acontecendo neste exato momento e situações temporárias da sua vida usando o *Present Continuous* ({{am / is / are + verbo-ing}}), aplica as três regras de ortografia do {{-ing}}, escolhe sem hesitar entre {{I work}} (rotina) e {{I'm working}} (agora/temporário), e reconhece os verbos de estado ({{know, want, need, like, understand}}), que no uso do dia a dia não aceitam {{-ing}}.
 
-## 1. Cena: segunda-feira no escritório
+## 1. Cena: videochamada no meio de uma viagem de trabalho
 
-Bruno volta ao trabalho em Toronto e encontra a colega Chloe na copa.
+Lucas está no saguão do hotel em Toronto esperando um táxi e recebe uma chamada de vídeo da esposa, Mariana, que está em São Paulo.
 
 ::: dialogo
-**Chloe:** Hi, Bruno! How was your weekend?
 
-**Bruno:** It was great. I went to Niagara Falls with my sister.
+**Mariana:** {{Hi, love! Can you talk right now, or are you in a meeting?}}
 
-**Chloe:** Really? Did you drive?
+**Lucas:** {{Hi! I can talk for a few minutes. I'm sitting in the hotel lobby right now, and I'm waiting for a taxi to the airport.}}
 
-**Bruno:** No, we took the bus. We left at seven, and we arrived at ten. We walked along the river and had lunch near the falls.
+**Mariana:** {{Wait — why are you going to the airport today? You usually fly back on Fridays!}}
 
-**Chloe:** Sounds nice. Did you take a boat tour?
+**Lucas:** {{I know, but this week we're visiting a client in Montreal. Sarah and David are coming with me — look, they're checking out at the front desk right now.}}
 
-**Bruno:** No, we didn't. The line was too long. But we saw the falls from the bridge. And you? Did you stay home?
+**Mariana:** {{Oh, I see! Is it still snowing in Toronto?}}
 
-**Chloe:** Yes, I did. I watched two movies and cooked for my parents. It rained all day on Saturday.
+**Lucas:** {{No, it isn't snowing today, thank goodness. The sun is shining, but it's freezing outside! What are you guys doing at home?}}
 
-**Bruno:** It rained here too. We were lucky on Sunday.
+**Mariana:** {{Leo is doing his homework at the kitchen table, and I'm making dinner. Do you want to say hi to him?}}
+
+**Lucas:** {{I'd love to, but the taxi is arriving. Tell him hi for me! Talk to you tonight!}}
+
 :::
 
-Em português: Oi, Bruno! Como foi o seu fim de semana? / Foi ótimo. Fui às Cataratas do Niágara com a minha irmã. / Sério? Você foi de carro? / Não, a gente foi de ônibus. Saímos às sete e chegamos às dez. Caminhamos ao longo do rio e almoçamos perto das cataratas. / Parece legal. Vocês fizeram o passeio de barco? / Não. A fila estava longa demais. Mas vimos as cataratas da ponte. E você? Ficou em casa? / Fiquei. Assisti a dois filmes e cozinhei para os meus pais. Choveu o dia inteiro no sábado. / Aqui também choveu. A gente teve sorte no domingo.
+Em português: Oi, amor! Você pode falar agora ou está em reunião? / Oi! Posso falar por alguns minutos. Estou sentado no saguão do hotel agora mesmo e estou esperando um táxi para o aeroporto. / Espere — por que você está indo para o aeroporto hoje? Você normalmente volta de avião às sextas-feiras! / Eu sei, mas nesta semana estamos visitando um cliente em Montreal. A Sarah e o David estão vindo comigo — olha, eles estão fechando a conta na recepção agora mesmo. / Ah, entendi! Ainda está nevando em Toronto? / Não, hoje não está nevando, ainda bem. O sol está brilhando, mas está congelando lá fora! O que vocês estão fazendo em casa? / O Leo está fazendo a lição de casa na mesa da cozinha, e eu estou fazendo o jantar. Você quer dar um oi para ele? / Eu adoraria, mas o táxi está chegando. Mande um beijo para ele! Falo com você hoje à noite!
 
-Repare que *was, went, took, left, had, saw, were* são verbos que mudaram de forma, e *arrived, walked, watched, cooked, rained* ganharam *-ed*. Repare também que, nas perguntas e nas negativas, o verbo volta à forma simples: *Did you drive?*, *we didn't*. O passado fica só no *did*.
+Repare no contraste que Mariana e Lucas fazem na conversa: para o hábito geral, Mariana usa o *Present Simple* ({{You usually fly back on Fridays}}). Para o que está acontecendo diante dos olhos deles ou apenas nesta semana específica, entra o *Present Continuous* ({{I'm sitting, I'm waiting, why are you going, this week we're visiting, Leo is doing, I'm making}}). E repare que em {{I know}} e {{Do you want to say hi?}} eles **não** usaram {{-ing}}!
 
 ## 2. A armadilha do português
 
-O português tem dois passados principais: "fui" e "ia" (pretérito perfeito e imperfeito), e cada verbo muda de forma em seis pessoas: fui, foste, foi, fomos, fostes, foram. O inglês tem uma única forma para todas as pessoas (com uma exceção, o verbo *be*): {{I went, you went, he went, we went, they went.}} Isso facilita. A armadilha é outra, e tem duas partes.
+Em português falado, cometemos três vícios quando passamos para o inglês: usamos o presente simples para ações do momento (*"Onde você vai agora?"*), colocamos gerúndio em verbos mentais e de desejo (*"Estou precisando de ajuda, estou querendo um café, estou entendendo tudo"*), ou engolimos o verbo {{to be}} antes do {{-ing}}. Veja a diferença:
 
-**Primeira armadilha: o *did* já carrega o passado.** Em português, a pergunta "Você foi?" mantém o verbo no passado. Em inglês, o passado vai para o auxiliar *did*, e o verbo principal **volta à forma simples**:
+| **O hábito do português**                    | **Como o inglês pensa (Certo)**                                 | **O erro típico a evitar**       |
+|----------------------------------------------|-----------------------------------------------------------------|----------------------------------|
+| O que você está fazendo? — Eu trabalhando.   | {{What **are** you doing? — **I'm** working.}}                  | ~~What you doing? — I working.~~ |
+| Estou precisando de ajuda agora.             | {{I **need** help right now.}}                                  | ~~I'm needing help right now.~~  |
+| Estou entendendo a regra!                    | {{I **understand** the rule!}} / {{I **get** it!}}              | ~~I'm understanding the rule!~~  |
+| Eu normalmente tomo café, mas hoje tomo chá. | {{I usually **drink** coffee, but today **I'm drinking** tea.}} | ~~...but today I drink tea.~~    |
 
-| Português | Inglês | Erro típico |
-|---|---|---|
-| Você foi à festa? | {{Did you go to the party?}} | ~~Did you went to the party?~~ |
-| Eu não vi o filme. | {{I didn't see the movie.}} | ~~I didn't saw the movie.~~ |
-| Ela comeu tudo. | {{She ate everything.}} | ~~She did ate everything.~~ |
+**1. O verbo {{-ing}} nunca anda sozinho: ele exige {{am / is / are}}.** Um verbo com {{-ing}} sem o verbo {{to be}} antes dele não é um tempo verbal em inglês! Diga sempre **{{I'm working}}**, **{{She's studying}}**, **{{Are you listening?}}** (e não ~~I working~~ ou ~~She studying~~).
 
-A regra é: **só um verbo leva o passado em cada frase**. Se há *did* ou *didn't*, o verbo seguinte fica no infinitivo sem *to*, como no capítulo 3 (*does* → verbo simples). Na afirmativa, não há *did*, e o passado vai no próprio verbo: {{I went}}.
+**2. Os Verbos de Estado (*State Verbs*) quase nunca aceitam {{-ing}}.** Em português dizemos *"Estou querendo"*, *"Estou precisando"*, *"Estou gostando"*, *"Estou sabendo"*. Em inglês, verbos que expressam estados mentais, sentimentos, posse e necessidades **não são ações físicas** e por isso usam sempre o **Present Simple**, mesmo que seja neste exato segundo ({{right now}}):
 
-**Segunda armadilha: o verbo regular tem o som do *-ed*, que o brasileiro costuma errar.** A escrita é sempre *-ed*, mas a pronúncia tem três sons, e em nenhum deles se diz "éd" como em "pedir".
+- **Mente e opinião:** {{know}} (saber/conhecer), {{understand}} (entender), {{believe}} (acreditar), {{remember}} (lembrar), {{forget}} (esquecer), {{mean}} (significar), {{think}} (= achar/opinar).
 
-| Som final | Quando | Exemplos |
-|---|---|---|
-| som de **t** | depois de som surdo (p, k, f, s, sh, ch) | {{worked, stopped, watched, missed}} |
-| som de **d** | depois de som sonoro (b, g, v, z, l, m, n, r, vogal) | {{played, lived, called, cleaned}} |
-| sílaba extra **-id** | depois de t ou d | {{wanted, needed, started, decided}} |
+- **Desejo e sentimento:** {{want}} (querer), {{need}} (precisar), {{prefer}} (preferir), {{like}} (gostar), {{love}} (amar), {{hate}} (odiar).
 
-O erro comum é dizer *walked* com duas sílabas ("uóquid"): ele tem uma só. A sílaba extra só existe nos verbos que já terminam em *t* ou *d* (*wanted, needed*), e esses merecem treino. O capítulo 1 mostra isso com mais cuidado.
+- **Posse e percepção:** {{have}} (= possuir: {{I have a car}}), {{belong}} (pertencer), {{see}} (ver), {{hear}} (ouvir), {{smell}} (ter cheiro), {{taste}} (ter gosto), {{seem}} (parecer).
 
 ## 3. Descubra você mesmo
 
-Observe os pares.
+Compare lado a lado o *Present Simple* (Capítulo 5) e o *Present Continuous* (Capítulo 8):
 
-| Presente | Passado |
-|---|---|
-| I work every day. | I worked yesterday. |
-| She plays tennis. | She played tennis last week. |
-| They go to the beach. | They went to the beach two days ago. |
-| He has a car. | He had a car in 2020. |
-| We are tired. | We were tired last night. |
-| Do you like it? | Did you like it? |
-| I don't know. | I didn't know. |
+| **Present Simple (Hábito, Rotina, Permanente)**             | **Present Continuous (Agora ou Fase Temporária)**                       |
+|-------------------------------------------------------------|-------------------------------------------------------------------------|
+| {{Lucas **lives** in São Paulo.}} (mora lá permanentemente) | {{He **is staying** at a hotel in Toronto **this week**.}} (temporário) |
+| {{What **do** you **do**?}} (= Qual é a sua profissão?)     | {{What **are** you **doing** right now?}} (= O que está fazendo agora?) |
+| {{It **snows** a lot in Canada in winter.}} (fato geral)    | {{Look outside! It **is snowing** right now!}} (neste instante)         |
+| {{She **doesn't work** on Saturdays.}} (hábito)             | {{She **isn't working** today; she's on vacation.}} (hoje)              |
 
 Perguntas:
 
-Qual palavra ganha o *-ed* e qual muda de forma por inteiro (*go → went*)?
+1.  Quais palavras de tempo costumam chamar o *Present Simple* e quais chamam o *Present Continuous*?
 
-Em *Did you like it?*, o verbo *like* está no passado? E em *I didn't know*?
+2.  Olhe para a ortografia de {{make → making}}, {{sit → sitting}} e {{wait → waiting}}: por que {{make}} perdeu o *-e* e {{sit}} dobrou o *-t*, mas {{wait}} não dobrou?
 
-Se você viu que existem regulares e irregulares, que *did/didn't* levam o passado sozinhos, e que *yesterday, last, ago* marcam o tempo, o capítulo já está resolvido.
+Se você percebeu que expressões de frequência ({{usually, every day, on Fridays}}) pedem *Present Simple*, enquanto expressões do momento ou da fase atual ({{now, right now, at the moment, today, this week, these days}}) pedem *Present Continuous*, e que só dobramos a consoante final quando há **uma única vogal** antes dela ({{s-i-t → sitting}}, mas {{w-ai-t → waiting}}), você já dominou o capítulo.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Verbo regular:** infinitivo + *-ed* (*work → worked*). **Irregular:** forma própria (*go → went*). A forma é igual para todas as pessoas.
 
-2.  **Verbo *be*:** *I/he/she/it was*; *you/we/they were*.
+1.  **Fórmula do Present Continuous:** **{{am / is / are}} + verbo com {{-ing}}**.
 
-3.  **Pergunta:** *Did* + sujeito + verbo simples? *Did you go?* **Negativa:** sujeito + *didn't* + verbo simples. *I didn't go.*
+    - **Afirmativa:** {{I'm working}}, {{He's / She's / It's working}}, {{You're / We're / They're working}}.
 
-4.  **Respostas curtas:** *Yes, I did. / No, I didn't.* Com *be*: *Yes, I was. / No, I wasn't.*
+    - **Negativa:** {{I'm not working}}, {{He isn't working}}, {{They aren't working}}.
 
-5.  **Marcadores:** *yesterday, last night/week/year, two days ago, in 2019, on Monday, when I was ten.*
+    - **Pergunta e Resposta Curta:** {{Are you working now? — Yes, I am. / No, I'm not.}} \| {{What is she doing?}}.
+
+2.  **Quando usar:**
+
+    - **Ação em andamento agora:** {{right now, at the moment, Look!, Listen!}} ({{I'm waiting for a taxi}}).
+
+    - **Fase temporária no presente:** {{today, this week, this month, these days, currently}} ({{I'm taking a course this month}}).
+
+    - **Posição do corpo no momento:** Em português dizemos *"Estou sentado / em pé / deitado"*; em inglês usa-se **-ing**: **{{I'm sitting / I'm standing / I'm lying on the sofa}}** (e para roupas no corpo: **{{She's wearing a blue dress}}**!).
+
+3.  **As 3 Regras de Escrita do -ing:**
+
+    - Termina em **-e mudo** → corta o -e ({{make → making, write → writing, come → coming, have → having, arrive → arriving}}). *(Se terminar em -ie, vira -ying: {{lie → lying}})*.
+
+    - Terminado em **1 Consoante + 1 Vogal + 1 Consoante (CVC)** com a última sílaba forte → dobra a consoante ({{sit → sitting, run → running, stop → stopping, get → getting, swim → swimming, plan → planning, begin → beginning}} — exceto *w, x, y*: {{play → playing, fix → fixing, snow → snowing}}). Se a última sílaba é fraca, não dobra: {{visit → visiting}}.
+
+    - Todos os demais → apenas adicione **-ing** ({{work → working, study → studying, wait → waiting}}).
+
+4.  **Em geral, sem -ing (State Verbs):** {{know, understand, want, need, prefer, like, love, believe, remember, have (possuir)}}.
+
 :::::
 
 ## 5. Por dentro
 
-### Verbos regulares: a ortografia do -ed
+### 5.1 Casos especiais: quando {{have}} e {{think}} aceitam {{-ing}}?
 
-| Regra | Exemplo |
-|---|---|
-| a maioria: +*ed* | {{work → worked, watch → watched, play → played}} |
-| termina em *-e*: +*d* | {{like → liked, live → lived, arrive → arrived}} |
-| consoante + *y*: *y* vira *ied* | {{study → studied, try → tried, cry → cried}} |
-| vogal + *y*: só +*ed* | {{play → played, enjoy → enjoyed}} |
-| uma sílaba, consoante-vogal-consoante: dobra a consoante | {{stop → stopped, plan → planned}} |
+Dois verbos da lista de estado mudam de sentido e passam a aceitar {{-ing}} quando deixam de significar "possuir" ou "opinar" e passam a significar uma **atividade com duração**:
 
-Verbos de duas sílabas só dobram se o acento cai na última (*prefer → preferred*); se não, não dobram (*visit → visited*, *open → opened*). Em caso de dúvida, consulte o dicionário.
-
-### Verbos irregulares: os mais usados
-
-Não há como deduzir a forma: é preciso conhecer. Mas poucos verbos fazem quase todo o trabalho. Aprenda em grupos pelo som.
-
-| Infinitivo | Passado | Português |
-|---|---|---|
-| be | was / were | ser, estar |
-| have | had | ter |
-| do | did | fazer |
-| go | went | ir |
-| come | came | vir |
-| get | got | conseguir, ficar, chegar |
-| make | made | fazer, preparar |
-| take | took | pegar, levar |
-| see | saw | ver |
-| give | gave | dar |
-| say | said | dizer |
-| tell | told | contar |
-| know | knew | saber, conhecer |
-| think | thought | pensar |
-| buy | bought | comprar |
-| bring | brought | trazer |
-| eat | ate | comer |
-| drink | drank | beber |
-| write | wrote | escrever |
-| speak | spoke | falar |
-| meet | met | encontrar |
-| leave | left | sair, deixar |
-| find | found | achar |
-| lose | lost | perder |
-| pay | paid | pagar |
-| sit | sat | sentar |
-| run | ran | correr |
-| sleep | slept | dormir |
-| feel | felt | sentir |
-| begin | began | começar |
-| stand | stood | ficar de pé |
-| forget | forgot | esquecer |
-| read | read | ler (escreve-se igual, lê-se "red") |
-| put | put | colocar |
-| cut | cut | cortar |
-
-Os três últimos têm o passado igual ao presente (*put, cut, read*; no último, só o som muda). O contexto diz qual é: {{I read the news every morning.}} / {{I read a book last night.}}
+| **Verbo**     | **Como Estado (PROIBIDO -ing → usa Present Simple)**                                               | **Como Ação / Atividade (ACEITA -ing → Present Continuous)**                                                                                             |
+|---------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **{{have}}**  | **Posse:** {{I **have** a car / a laptop / two kids / a headache.}} (Nunca ~~I'm having a car~~!). | **Refeições, banho e experiências:** {{I'm **having** breakfast / lunch / dinner / a coffee.}} {{She's **having** a shower / a meeting / a great time!}} |
+| **{{think}}** | **Opinião ("achar que"):** {{I **think** this hotel is great. What **do** you **think**?}}         | **Processar / Cogitar ("pensar em"):** {{Quiet, please — I'm **thinking**!}} {{We're **thinking** about moving to Canada.}}                              |
 
 ::: atencao
-A forma que o dicionário e as listas chamam de "particípio" (*gone, seen, done*) é outra, e você a usa no capítulo 12. Aqui, só a forma do passado simples.
+
+**Como o seu ouvido vai escutar o -ing no áudio:**
+
+1.  Em inglês padrão, o -ing termina num som nasal (o mesmo de *sing* e *ring*), sem a explosão do "g" que o português acrescentaria (não diga ~~uór-kin-gui~~!).
+
+2.  Na fala cotidiana informal, os nativos frequentemente reduzem o som de -ing para um simples -in: {{What are you doing?}} soa como **Uó-rã-iú dú-in?**, e {{I'm going}} soa como **Áim gôu-in**.
+
 :::
-
-### Be no passado: was e were
-
-O verbo *be* é o único que muda com a pessoa.
-
-| | Afirmativa | Negativa | Pergunta |
-|---|---|---|---|
-| I / he / she / it | {{was}} | {{wasn't}} | {{Was he late?}} |
-| you / we / they | {{were}} | {{weren't}} | {{Were you tired?}} |
-
-*Be* **não usa *did***: {{Was the movie good?}} e não ~~Did the movie be good?~~ A negativa é *wasn't* ou *weren't*. As respostas curtas usam o próprio verbo: {{Yes, I was.}} / {{No, we weren't.}}
-
-*Was/were* cobre "foi", "era" e "estava": {{The hotel was cheap.}} (era barato) / {{I was at home.}} (estava em casa) / {{It was a great party.}} (foi uma ótima festa). Também forma *there was / there were* para "havia, tinha": {{There was a big line.}} {{There were two bags on the bus.}}
-
-### Perguntas e negativas com did
-
-A pergunta tem uma ordem fixa: **Did + sujeito + verbo simples + resto?**
-
-| Afirmativa | Pergunta | Negativa |
-|---|---|---|
-| {{You liked the film.}} | {{Did you like the film?}} | {{You didn't like the film.}} |
-| {{She went home.}} | {{Did she go home?}} | {{She didn't go home.}} |
-| {{They had breakfast.}} | {{Did they have breakfast?}} | {{They didn't have breakfast.}} |
-
-Para perguntar com *wh-* (*what, where, when, why, how*), coloque a palavra no começo e mantenha o resto: {{Where did you go?}} {{What did you eat?}} {{When did she leave?}} {{How did you get there?}} Resposta curta: {{Yes, she did. / No, she didn't.}}
-
-A negativa com *didn't* serve para todas as pessoas: {{I didn't, he didn't, they didn't.}} A forma por extenso, *did not*, é mais formal ou enfática.
 
 ::: atencao
-Com *have* como verbo principal, a pergunta e a negativa seguem a regra normal: {{Did you have a good trip?}} {{I didn't have time.}}
+
+**Verbos de estado têm exceções, e você vai ouvi-las.** No nível básico, trate a regra como firme. Alguns verbos mudam de sentido e aceitam -ing, como {{I'm seeing the doctor tomorrow}} (= tenho consulta amanhã), e há usos informais conhecidos, como {{I'm loving this song}}. Você pode entender essas frases, mas ainda não precisa produzi-las.
+
 :::
-
-### Marcadores de tempo
-
-| Expressão | Posição | Exemplo |
-|---|---|---|
-| yesterday | início ou fim | {{I saw him yesterday.}} |
-| yesterday morning/afternoon/evening | início ou fim | {{We met yesterday evening.}} |
-| last night / week / month / year | início ou fim | {{She called last night.}} |
-| two days / a week / ten years **ago** | depois do tempo | {{I met him two years ago.}} |
-| in + ano ou mês | | {{We moved here in 2019.}} |
-| on + dia | | {{I started on Monday.}} |
-| when I was ... | | {{When I was ten, I lived in Recife.}} |
-
-Para a noite passada, o natural é *last night*, e não ~~yesterday night~~. *Ago* conta a partir de agora e vem **depois** do tempo: {{three months ago}}, nunca ~~ago three months~~. Em português, "há três meses" começa com a palavra; em inglês, ela vai ao final.
-
-*Last* e *ago* não levam preposição: {{last week}}, não ~~in last week~~. A pergunta "há quanto tempo foi isso?" é {{How long ago was it?}}
-
-### Um passado só para dois do português
-
-Em português, "morava" e "morei" são dois tempos. Em inglês, nesse nível, *lived* serve para os dois. {{When I was a child, I lived in Recife.}} A diferença vem do contexto e das palavras de tempo. Assim, "eu estudava à noite" e "eu estudei ontem" são {{I studied at night}} e {{I studied yesterday.}} Há outras formas para hábitos do passado (*used to*), mas você só precisa delas mais adiante.
-
-Com *could* (passado de *can*), a regra é a mesma do passado simples: {{I could swim when I was five.}} (sabia nadar). A negativa é *couldn't*: {{I couldn't open the door.}}
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| How was your weekend? | Como foi o seu fim de semana? |
-| I went to bed late. | Fui dormir tarde. |
-| I didn't sleep well. | Não dormi bem. |
-| Did you have a good trip? | Você fez uma boa viagem? |
-| What did you do yesterday? | O que você fez ontem? |
-| I lost my phone two days ago. | Perdi o celular há dois dias. |
-| She called me last night. | Ela me ligou ontem à noite. |
-| It was a long day. | Foi um dia longo. |
+| **Inglês**                                                         | **Português natural**                                                   |
+|--------------------------------------------------------------------|-------------------------------------------------------------------------|
+| {{Can you talk right now, or are you working?}}                    | Você pode falar agora ou está trabalhando?                              |
+| {{I'm sitting in the lobby and waiting for my taxi.}}              | Estou sentado no saguão e esperando meu táxi.                           |
+| {{What are you guys doing this week?}}                             | O que vocês estão fazendo nesta semana?                                 |
+| {{I usually work from home, but today I'm working at the office.}} | Normalmente trabalho de casa, mas hoje estou trabalhando no escritório. |
+| {{She's having lunch with a client at the moment.}}                | Ela está almoçando com um cliente neste momento.                        |
+| {{I'm sorry, I don't understand what you mean.}}                   | Desculpe, não estou entendendo o que você quer dizer.                   |
+| {{Do you need any help with those boxes right now?}}               | Você está precisando de alguma ajuda com essas caixas agora?            |
+| {{Who is that guy standing by the window wearing a black suit?}}   | Quem é aquele cara em pé perto da janela usando um terno preto?         |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  Yesterday I \_\_\_\_ to the gym. (went, goed)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2.  \_\_\_\_ you see the game? (Did, Do)
+1.  Look! It \_\_\_\_ outside right now! (rains / is raining)
 
-3.  She didn't \_\_\_\_ the answer. (know, knew)
+2.  I can't answer the phone right now because I \_\_\_\_ a shower. (have / 'm having)
 
-4.  We \_\_\_\_ tired after the trip. (was, were)
+3.  Sorry, I \_\_\_\_ the Wi-Fi password, and I \_\_\_\_ the receptionist's name. (don't know / 'm not knowing) (don't remember / 'm not remembering)
 
-5.  \_\_\_\_ the soup good? (Was, Did)
+4.  Marina usually \_\_\_\_ the subway, but today she \_\_\_\_ a taxi. (takes / is taking) (takes / is taking)
 
-6.  I met him two weeks \_\_\_\_. (ago, before)
+5.  — What \_\_\_\_ your brother \_\_\_\_? — He's an architect, but right now he \_\_\_\_ for a new job. (does... do / is... doing) (looks / is looking)
 
-7.  They \_\_\_\_ at home last night. (was, were)
+6.  Be quiet, please! The baby \_\_\_\_. (sleeps / is sleeping)
 
-8.  He didn't \_\_\_\_ the bill. (paid, pay)
+7.  I \_\_\_\_ a coffee right now! Do you \_\_\_\_ one too? (want / 'm wanting) (want / wanting)
 
-**Degrau 2. Complete.** Ponha o verbo no passado.
+8.  Look at Sarah! She \_\_\_\_ a beautiful green jacket today. (wears / is wearing)
 
-1.  I \_\_\_\_ (watch) a movie last night.
+**Degrau 2. Complete.** Coloque os verbos entre parênteses no *Present Simple* ou no *Present Continuous* (cuidando da ortografia do -ing!).
 
-2.  She \_\_\_\_ (study) for the exam.
+1.  — Where is Lucas? — He \_\_\_\_ (sit) in the café across the street and \_\_\_\_ (have) breakfast.
 
-3.  We \_\_\_\_ (go) to the beach on Sunday.
+2.  We \_\_\_\_ (not / work) on Saturdays, so right now we \_\_\_\_ (relax) at the beach.
 
-4.  He \_\_\_\_ (buy) a new phone.
+3.  I \_\_\_\_ (need) to talk to Emma right now. \_\_\_\_ you \_\_\_\_ (know) where she is?
 
-5.  They \_\_\_\_ (not/come) to the party.
+4.  — What \_\_\_\_ you \_\_\_\_ (write)? — I \_\_\_\_ (write) an email to our supplier in China.
 
-6.  \_\_\_\_ you \_\_\_\_ (have) a good time? Yes, I \_\_\_\_.
+5.  My sister \_\_\_\_ (live) in Rio, but this month she \_\_\_\_ (stay) with us in São Paulo.
 
-7.  I \_\_\_\_ (stop) at the bank on my way home.
+6.  Listen! Somebody \_\_\_\_ (knock) on the door.
 
-8.  She \_\_\_\_ (not/take) the bus. She walked.
+7.  He \_\_\_\_ (have) a new laptop, and right now he \_\_\_\_ (use) it for the presentation.
 
-9.  Where \_\_\_\_ you \_\_\_\_ (leave) your keys?
+8.  Why \_\_\_\_ they \_\_\_\_ (run)? Because the train \_\_\_\_ (leave) right now!
 
-10. It \_\_\_\_ (be) a cold day, but we \_\_\_\_ (not/be) tired.
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Descreva três coisas que estão acontecendo ao seu redor neste exato momento (incluindo a sua posição com {{I'm sitting / standing}} e o que você está vestindo com {{I'm wearing}}).
 
-Escreva cinco frases sobre o que você fez no fim de semana passado.
+2.  Escreva duas frases de contraste usando a estrutura: {{I usually \[Present Simple\], but today / this week I'm \[Present Continuous\]}}.
 
-Escreva três coisas que você *não* fez ontem, com *didn't*.
+3.  Escreva uma frase dizendo o que você está precisando ({{I need...}}) e querendo ({{I want...}}) agora mesmo, sem cair na armadilha do -ing.
 
-Escreva quatro perguntas para um colega sobre as últimas férias dele, com *Did ...?* e *Where/What ... did ...?*
+4.  Explique a diferença entre as perguntas {{What do you do?}} e {{What are you doing?}} dando um exemplo de resposta para cada uma.
 
-Conte, em seis a oito linhas, como foi o seu dia de ontem, do café da manhã à noite. Use *yesterday*, *then* e *after that*.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  I working from home today because it raining a lot outside.
 
-1.  Did you went to the party?
+2.  Are you understanding this contract? I'm needing your help right now!
 
-2.  I didn't saw her.
+3.  She is having two brothers, and she is wanting a new car.
 
-3.  She did eat everything. (sem ênfase; sentença neutra)
+4.  Look! They are makeing dinner and siting at the kitchen table.
 
-4.  We was tired.
+5.  I usually am waking up at seven, but today I wake up at nine.
 
-5.  I met him ago two years.
+6.  What you are doing right now?
 
-6.  Did the movie be good?
+7.  He usually drinks black coffee, but today he's having green tea.
 
-7.  They didn't come to the meeting.
 :::::
 
 ## 8. O erro típico
 
-O erro número um é o duplo passado: **did + verbo no passado**, como ~~Did you went?~~ ou ~~I didn't saw~~. Ele vem do hábito do português, em que o passado fica no verbo principal. A solução é um truque simples: **olhe para o *did***. Se ele está lá, ele já é o passado; o resto da frase volta ao normal.
-
-O segundo é **usar *did* com *be***. O verbo *be* não precisa de auxiliar: *Was it good?*.
-
-O terceiro é a pronúncia do *-ed*. Se você disser *worked* com duas sílabas, ou *wanted* com uma só, a pessoa que ouve ainda entende, mas o ouvido nota. Ensaie *worked* (uma sílaba, som de t) e *wanted* (duas sílabas).
+O erro que mais entrega o falante brasileiro em reuniões em inglês é dizer **~~I'm needing~~**, **~~I'm wanting~~** ou **~~Are you understanding?~~**, traduzindo o nosso gerúndio afetivo (*"Estou precisando, estou querendo, está entendendo?"*). Grave na memória: **{{need, want, understand, know, like, prefer}}** não recebem -ing no uso do dia a dia!
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~Did you went?~~ | Did you **go**? | *did* já leva o passado |
-| ~~I didn't saw it.~~ | I didn't **see** it. | idem na negativa |
-| ~~We was late.~~ | We **were** late. | *we* pede *were* |
-| ~~Did she be late?~~ | **Was** she late? | *be* não usa *did* |
-| ~~I met her ago a year.~~ | I met her a year **ago**. | *ago* vem depois |
-| ~~I goed to Rio.~~ | I **went** to Rio. | *go* é irregular |
+
+| **Errado**                           | **Certo**                                             | **Por quê**                                                                                      |
+|--------------------------------------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| ~~I working now. / She studying.~~   | {{I'm working now. / She's studying.}}                | O -ing exige obrigatoriamente o verbo {{to be}} ({{am, is, are}}) antes dele.                    |
+| ~~I'm needing some help right now.~~ | {{I need some help right now.}}                       | {{Need}} e {{want}} são verbos de estado e usam sempre o *Present Simple*.                       |
+| ~~Are you understanding me?~~        | {{Do you understand me?}} / {{Are you following me?}} | {{Understand}} e {{know}} não aceitam -ing.                                                      |
+| ~~She is having a new car.~~         | {{She has a new car.}}                                | {{Have}} no sentido de possuir é estado; só aceita -ing em atividades ({{having lunch}}).        |
+| ~~makeing / siting / studing~~       | {{making / sitting / studying}}                       | Corta o -e ({{making}}), dobra em CVC ({{sitting}}) e mantém o -y antes de -ing ({{studying}}!). |
+| ~~What you are doing?~~              | {{What are you doing?}}                               | Na pergunta, {{am / is / are}} vêm antes do sujeito.                                             |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 7.** Complete: *You \_\_\_\_ (mustn't / don't have to) pay. It's free.* E: *\_\_\_\_ you open the window, please?* (educado)
+1.  **Do Capítulo 7.** Complete: {{Can you give me \_\_\_\_ (alguns conselhos)? I don't have \_\_\_\_ (muito tempo), and I only have \_\_\_\_ (algumas perguntas).}}
 
-**Do capítulo 6.** Escolha: *This is Anna and \_\_\_\_ (her / his) brother Tom. Those are \_\_\_\_ (their / theirs) bags.*
+2.  **Do Capítulo 6.** Diga em inglês: *"Nosso voo sai na quarta-feira, 14 de outubro, às quinze para as oito da manhã."*
 
-**Do capítulo 5.** Escolha entre presente simples e contínuo: *She usually (takes / is taking) the bus, but today she (walks / is walking).*
+3.  **Do Capítulo 5 e 8.** Por que em {{study → studies}} o y vira -ies, mas em {{study → studying}} o y permanece intacto? (Dica: pense em como ficaria a palavra *studiing*.)
 
-**Do capítulo 3.** Complete: *He \_\_\_\_ (not/like) coffee. \_\_\_\_ (do/does) she work here?*
-
-**Do capítulo 2.** Faça a pergunta e a negativa: *There is a bank near here.*
-
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta. Cuide dos finais de *worked, arrived, wanted*. |
-| Dia 3 | Escreva uma lista de 20 verbos irregulares com o passado. Cubra a coluna da direita e teste-se. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Grave um áudio de dois minutos contando as suas últimas férias. |
+| **Quando** | **O que fazer**                                                                                                                                                               |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta observando a diferença entre {{You usually fly}} e {{this week we're visiting}}.                                                                      |
+| Dia 3      | Três vezes ao longo do dia, pare por 30 segundos e narre mentalmente tudo o que você e as pessoas ao redor estão fazendo com {{I'm...-ing}} e {{He/She is...-ing}}.           |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                                                                                   |
+| Dia 14     | Mande um áudio de 45 segundos para si mesmo simulando uma ligação de viagem: diga onde está sentado, o que está fazendo agora e o que está fazendo de diferente nesta semana. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Passado simples tem **uma forma para todas as pessoas**. Exceção: *was/were*.
 
-Regulares: *-ed*, com três sons (t, d, -id). Irregulares: decore os mais frequentes.
+- **Present Continuous ({{am / is / are + verbo-ing}}):** Para ações acontecendo **agora** ({{right now, at the moment}}) e situações **temporárias** ({{today, this week, these days}}), além de posições do corpo ({{sitting, standing, lying}}) e roupas no corpo ({{wearing}}).
 
-Pergunta: *Did* + sujeito + **verbo simples**. Negativa: *didn't* + **verbo simples**. Só um verbo leva o passado.
+- **Ortografia do -ing:** Corta -e mudo ({{make → making}}); dobra consoante em CVC tônico ({{sit → sitting, run → running}}); mantém -y sempre ({{study → studying, play → playing}}).
 
-*Be* não usa *did*: *Was he there? He wasn't.*
+- **Contraste de Ouro:** Hábito/Rotina permanente = **Present Simple** ({{I work}}). Agora/Temporário = **Present Continuous** ({{I'm working}}).
 
-*Ago* vem depois do tempo. *Last* e *yesterday* sem preposição.
+- **State Verbs (Sem -ing):** {{know, understand, believe, remember, want, need, prefer, like, love, hate, have \[posse\]}}.
 
 **Já consigo?**
 
-Conto o que fiz ontem com cinco verbos, regulares e irregulares.
+- Dizer o que estou fazendo agora e o que é temporário nesta semana sem esquecer {{am / is / are}} antes do -ing.
+- Alternar na mesma frase entre minha rotina ({{I usually...}}) e o que estou fazendo hoje ({{but today I'm...-ing}}).
+- Expressar necessidades, desejos e compreensão no momento presente com {{I need, I want, I understand, I know}} (sem -ing).
 
-Faço uma pergunta e uma negativa com *did*, sem escrever *did went*.
-
-Uso *was* e *were* sem hesitar.
 :::::
 
 ## Glossário do capítulo 8
 
-| Inglês | Português |
-|---|---|
-| yesterday | ontem |
-| last night | ontem à noite |
-| last week | semana passada |
-| ago | atrás, há |
-| weekend | fim de semana |
-| trip | viagem |
-| bridge | ponte |
-| line (US: line / UK: queue) | fila |
-| lucky | sortudo, com sorte |
-| river | rio |
-| boat tour | passeio de barco |
-| to rain | chover |
-| to arrive | chegar |
-| to leave (left) | sair, deixar |
-| to take (took) | pegar, levar |
-| to buy (bought) | comprar |
-| to lose (lost) | perder |
-| to meet (met) | encontrar |
-| to sleep (slept) | dormir |
-| to forget (forgot) | esquecer |
-| to start | começar |
-| to stay | ficar |
-| to decide | decidir |
+| **Inglês**                            | **Português**                                     |
+|---------------------------------------|---------------------------------------------------|
+| {{right now}} / {{at the moment}}     | agora mesmo / neste momento                       |
+| {{these days}} / {{currently}}        | hoje em dia (ultimamente) / atualmente            |
+| {{this week / this month}}            | nesta semana / neste mês                          |
+| {{I'm sitting}} / {{I'm standing}}    | Estou sentado(a) / Estou em pé                    |
+| {{She's wearing \[a black jacket\].}} | Ela está usando / vestindo \[uma jaqueta preta\]. |
+| {{I'm waiting for \[a taxi\].}}       | Estou esperando por \[um táxi\].                  |
+| {{check out (at the front desk)}}     | fechar a conta / fazer o check-out (na recepção)  |
+| {{The sun is shining.}}               | O sol está brilhando.                             |
+| {{It's freezing outside!}}            | Está congelando (muito frio) lá fora!             |
+| {{thank goodness}}                    | ainda bem / graças a Deus                         |
+| {{having breakfast / lunch / dinner}} | tomando café da manhã / almoçando / jantando      |
+| {{having a meeting / a shower}}       | tendo uma reunião / tomando banho                 |
+| {{I see!}} / {{I get it!}}            | Entendi! / Captei!                                |
+| {{lobby}}                             | saguão, hall de entrada                           |
+| {{I'd love to, but...}}               | Eu adoraria, mas...                               |
+| {{Tell him hi for me.}}               | Mande um oi (um abraço) para ele por mim.         |
 
 ## Chave comentada do capítulo 8
 
 ::::: gabarito
-**Degrau 1.** 1 went (*go* é irregular; *goed* não existe). 2 Did (pergunta no passado). 3 know (depois de *didn't*, forma simples). 4 were. 5 Was (*be*, sem *did*). 6 ago. 7 were. 8 pay (depois de *didn't*).
 
-**Degrau 2.** 1 watched. 2 studied. 3 went. 4 bought. 5 didn't come. 6 Did, have, did. 7 stopped. 8 didn't take. 9 did, leave. 10 was, weren't.
+**Degrau 1.** 1 is raining ({{Look!}} + {{right now}} = ação acontecendo agora). 2 'm having ({{having a shower}} é atividade em andamento). 3 don't know, don't remember (verbos mentais de estado nunca usam -ing). 4 takes, is taking (1º = rotina com {{usually}}; 2º = exceção temporária {{today}}). 5 does... do, is looking (1º = profissão permanente; 2º = ação temporária {{right now}}). 6 is sleeping. 7 want, want ({{want}} é verbo de estado, proibido -ing). 8 is wearing (roupa no corpo hoje usa -ing).
 
-**Degrau 3.** Respostas pessoais. Confira: *didn't/did* + verbo simples; verbos irregulares na forma certa; *ago* depois do tempo.
+**Degrau 2.** 1 is sitting, having. 2 don't work, are relaxing. 3 need, Do, know. 4 are, writing, 'm writing. 5 lives, is staying. 6 is knocking. 7 has, is using. 8 are, running, is leaving.
+
+**Degrau 3.** Modelo: 1. {{Right now, I'm sitting at my desk, I'm wearing a blue t-shirt and jeans, and I'm studying English.}} 2. {{I usually drink coffee in the morning, but today I'm drinking tea. I usually work at the office, but this week I'm working from home.}} 3. {{Right now, I need some help with this report, and I want a cup of water.}} 4. {{What do you do?}} pergunta a profissão ({{I'm an engineer}}); {{What are you doing?}} pergunta a ação do momento ({{I'm reading a book}}).
 
 **Degrau 4.**
 
-1.  Did you go to the party?
+1.  {{I'm working from home today because it's raining a lot outside.}} (Faltaram os verbos {{to be}}: {{I'm}} e {{it's}}).
 
-2.  I didn't see her.
+2.  {{Do you understand this contract? I need your help right now!}} ({{understand}} e {{need}} são verbos de estado).
 
-3.  She ate everything. (o *did eat* só existe com ênfase: *She did eat everything!*, ou seja, "ela comeu mesmo". A frase neutra é *ate*.)
+3.  {{She has two brothers, and she wants a new car.}} ({{have}} de posse e {{want}} não aceitam -ing).
 
-4.  We were tired.
+4.  {{Look! They are making dinner and sitting at the kitchen table.}} ({{making}} sem *e*; {{sitting}} com dois *t*).
 
-5.  I met him two years ago.
+5.  {{I usually wake up at seven, but today I'm waking up at nine.}}
 
-6.  Was the movie good?
+6.  {{What are you doing right now?}}
 
-7.  Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 7: don't have to; Could (ou Can). Capítulo 6: her, their. Capítulo 5: takes, is walking. Capítulo 3: doesn't like; Does. Capítulo 2: Is there a bank near here? / There isn't a bank near here.
+**Retorno.** 1. {{some advice, much time, a few questions}}. 2. {{Our flight leaves on Wednesday, October 14th, at a quarter to eight in the morning.}} 3. A troca de -y por -ies vale para o -s da 3ª pessoa. Antes de -ing o y é mantido ({{studying, trying, flying}}), o que evita a sequência estranha *studiing*.
+
 :::::

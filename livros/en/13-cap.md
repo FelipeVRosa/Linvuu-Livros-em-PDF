@@ -1,424 +1,332 @@
-# Capítulo 13. Perguntas, respostas curtas e conectores (A2)
+# Capítulo 13. Planos, promessas e previsões: going to, will, Present Continuous e might (A2)
 
-**Meta do capítulo.** Ao final, você faz perguntas na ordem certa (inclusive com a preposição no fim), responde de forma curta e natural, confirma com *question tags* e liga frases com {{and}}, {{but}}, {{so}}, {{because}}, {{although}}, {{if}} e {{when}}.
+**Meta do capítulo.** Ao final, você fala de planos e intenções com {{be going to}}, de compromissos já agendados com o *Present Continuous* ({{I'm meeting a client tomorrow}}), toma decisões espontâneas, faz ofertas e promessas com {{will}} ({{I'll, won't}}), e expressa possibilidades futuras com {{may}} e {{might}}.
 
-## 1. Cena: onde está o celular?
+## 1. Cena: sexta-feira à tarde no escritório
 
-Sam procura o celular na sala comum do albergue. Laura toma café.
+Marina e Kevin conversam no fim do expediente de sexta-feira sobre os planos para o fim de semana e a agenda de segunda-feira.
 
 ::: dialogo
-**Laura:** You look worried, Sam. What are you looking for?
 
-**Sam:** My phone. I had it at breakfast, but I can't find it now.
+**Kevin:** {{Marina, it's almost five thirty! What are you doing this weekend? Do you have any plans?}}
 
-**Laura:** Who were you talking to this morning? Maybe you left it there.
+**Marina:** {{Yes! Tomorrow morning I'm having breakfast with my friend Julia at eight thirty — we booked a table at that French bakery downtown.}}
 
-**Sam:** My mother. She called me at nine, and we talked for an hour.
+**Kevin:** {{Oh, nice! What are you going to do in the afternoon?}}
 
-**Laura:** Did you take it to the kitchen?
+**Marina:** {{I'm going to buy a winter coat because next week is going to be freezing. Look at the dark clouds outside — it's going to rain in a few minutes!}}
 
-**Sam:** I don't think so. I looked there twice, so I'm sure it isn't there.
+**Kevin:** {{Oh, no! I forgot my umbrella at home.}}
 
-**Laura:** It's under that cushion, isn't it? I can see something black.
+**Marina:** {{Don't worry, Kevin! I have an extra umbrella in my locker. I'll lend it to you!}}
 
-**Sam:** You're right! Here it is. Thanks. I was nervous because I need it for work.
+**Kevin:** {{Really? Thank you so much! I'll bring it back on Monday morning, I promise.}}
 
-**Laura:** You didn't look under the cushion, did you?
+**Marina:** {{No problem! By the way, are you coming to the team dinner on Saturday night?}}
 
-**Sam:** No, I didn't. I looked everywhere else, although I never thought of the cushion.
+**Kevin:** {{I'm not sure yet. My sister might visit us from New York, so I might stay home with her. I'll text you tomorrow to let you know!}}
 
-**Laura:** If you want, I'll make some coffee. Do you like it strong?
-
-**Sam:** Yes, I do.
 :::
 
-Em português: Você parece preocupado, Sam. O que você está procurando? / Meu celular. Estava com ele no café da manhã, mas agora não acho. / Com quem você estava falando hoje de manhã? Talvez tenha deixado lá. / Com minha mãe. Ela me ligou às nove e falamos por uma hora. / Você levou para a cozinha? / Acho que não. Olhei lá duas vezes, então tenho certeza de que não está. / Está debaixo daquela almofada, não está? Estou vendo algo preto. / Você tem razão! Aqui está. Obrigado. Eu estava nervoso porque preciso dele para o trabalho. / Você não olhou debaixo da almofada, olhou? / Não olhei. Procurei em todos os outros lugares, embora nem tenha pensado na almofada. / Se quiser, eu faço café. Você gosta de café forte? / Gosto.
+Em português: Marina, são quase cinco e meia! O que você vai fazer neste fim de semana? Tem algum plano? / Sim! Amanhã de manhã vou tomar café com a minha amiga Julia às oito e meia — reservamos uma mesa naquela padaria francesa no centro. / Ah, que legal! O que você vai fazer à tarde? / Vou comprar um casaco de inverno porque a semana que vem vai ser congelante. Olha as nuvens escuras lá fora — vai chover em alguns minutos! / Ah, não! Esqueci meu guarda-chuva em casa. / Não se preocupe, Kevin! Tenho um guarda-chuva extra no meu armário. Eu te empresto! / Sério? Muito obrigado! Eu trago de volta na segunda de manhã, prometo. / Sem problema! Aliás, você vem ao jantar da equipe no sábado à noite? / Ainda não tenho certeza. Minha irmã talvez nos visite vindo de Nova York, então pode ser que eu fique em casa com ela. Te mando mensagem amanhã para avisar!
 
-A cena tem quatro coisas deste capítulo: perguntas com a preposição no fim ({{What are you looking for?}}, {{Who were you talking to?}}), uma *tag* ({{isn't it?}}, {{did you?}}), respostas curtas ({{Yes, I do}}, {{No, I didn't}}) e conectores ({{but}}, {{so}}, {{because}}, {{although}}, {{if}}).
+Repare que em português quase tudo se traduz por **"vou + verbo"** ou pelo presente (*"Amanhã tomo café / Vou comprar um casaco / Eu te empresto"*). Em inglês, cada intenção escolhe a sua própria ferramenta:
+
+1.  Compromisso já combinado com hora/reserva → **Present Continuous** ({{I'm having breakfast at 8:30}}).
+
+2.  Plano já decidido antes da conversa ou previsão com evidência nos olhos → **{{be going to}}** ({{I'm going to buy a coat / Look at the clouds — it's going to rain}}).
+
+3.  Decisão tomada na hora da fala, oferta ou promessa → **{{will / 'll}}** ({{I'll lend it to you! / I'll bring it back, I promise}}).
+
+4.  Incerteza ("talvez / pode ser que") → **{{might}}** ({{She might visit us}}).
 
 ## 2. A armadilha do português
 
-Em português, a preposição abre a pergunta: "**Com** quem você estava falando?", "**De** onde você é?". Em inglês coloca-se a preposição no fim, depois do verbo: {{Who were you talking to?}} Dizer {{To whom were you talking?}} é correto, mas soa literário e formal.
+Em português falado, usamos o presente simples (*"Amanhã eu viajo para São Paulo, à noite eu te ligo"*) ou colocamos *"vou"* em praticamente tudo. Quando o brasileiro passa para o inglês, surgem quatro armadilhas clássicas:
 
-| Português | Inglês |
-|---|---|
-| Com quem você está falando? | {{Who are you talking to?}} |
-| O que você está procurando? | {{What are you looking for?}} |
-| De onde você é? | {{Where are you from?}} |
-| Para que serve isso? | {{What is this for?}} |
-| Em que você está pensando? | {{What are you thinking about?}} |
+| **O hábito do português**           | **Como o inglês pensa (Certo)**                                  | **O erro típico a evitar**                                                     |
+|-------------------------------------|------------------------------------------------------------------|--------------------------------------------------------------------------------|
+| Amanhã eu viajo para Londres.       | {{Tomorrow **I'm flying** (ou **I'm going to fly**) to London.}} | ~~Tomorrow I fly to London.~~ (Presente simples é só para tabela de horários!) |
+| O telefone está tocando! Eu atendo! | {{The phone is ringing! **I'll get** it!}}                       | ~~I get it! / I'm going to get it!~~                                           |
+| Eu vou te ligar amanhã, prometo.    | {{**I'll call** you tomorrow, I promise.}}                       | ~~I will to call you tomorrow.~~                                               |
+| Acho que não vai chover.            | {{**I don't think** it'll rain.}}                                | ~~I think it doesn't rain.~~                                                   |
 
-Há mais três hábitos do português que atrapalham:
+**1. Evite o Present Simple para planos pessoais futuros.** Em inglês, {{The flight leaves at 8 a.m. tomorrow}} está certo porque é o horário fixo de um avião. Mas para o que **você** vai fazer amanhã, nunca diga ~~Tomorrow I work late~~; diga **{{Tomorrow I'm working late}}** ou **{{I'm going to work late}}**.
 
-1.  **O "né?" único.** Em português, "né?", "não é?" e "certo?" servem para tudo. Em inglês, a *tag* muda com o verbo da frase: {{It's cold, isn't it?}}, {{You like tea, don't you?}}, {{She can swim, can't she?}}
+**2. Decidiu no segundo em que abriu a boca? Use {{I'll}} (nunca {{going to}} nem presente).** Quando você oferece ajuda ({{I'll help you}}), promete algo ({{I'll send it right now}}) ou escolhe no restaurante ({{I'll have the salmon}}), essa decisão nasceu no momento da fala, então o inglês exige **{{I'll}}** (contração de *I will*). Se você usar *I'm going to help you*, parece que já estava planejando ajudar desde ontem!
 
-2.  **"Porque" e "por isso".** O português usa "porque" para a causa e "por isso" para o resultado, e "por que" para perguntar. Em inglês são três palavras distintas: {{why}} (pergunta), {{because}} (causa) e {{so}} (resultado).
-
-3.  **"Embora... mas".** Em português, "embora" e "mas" fazem trabalhos parecidos, e é fácil usar os dois por reflexo. Em inglês, {{although}} e {{but}} nunca entram juntos na mesma frase.
+**3. {{Will}} e {{might}} são verbos modais: proibido usar {{to}} ou {{-s}} depois deles.** Assim como {{can}} e {{should}} (Capítulo 9), nunca diga ~~I will to go~~ ou ~~It might to rain~~; diga sempre **{{I'll go}}** e **{{It might rain}}**.
 
 ## 3. Descubra você mesmo
 
-Compare as perguntas.
+Observe nas quatro situações abaixo por que cada falante escolheu uma estrutura diferente de futuro:
 
-| Pergunta sobre o objeto | Pergunta sobre o sujeito |
-|---|---|
-| Who do you live with? | Who lives with you? |
-| What did she say? | What happened? |
-| Who did Tom call? | Who called Tom? |
-| What are you buying? | What makes you happy? |
-
-Compare também:
-
-| Afirmativa | Pergunta tag |
-|---|---|
-| It's cold, | isn't it? |
-| You like jazz, | don't you? |
-| He doesn't smoke, | does he? |
-| They went home, | didn't they? |
+| **Situação**                      | **O que a pessoa diz em inglês**                                             | **Por que escolheu essa forma?**                                                       |
+|-----------------------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------------|
+| **1. Plano decidido antes**       | {{I'm **going to buy** a new car next month.}}                               | Ela já pesquisou e decidiu isso antes de conversar com você.                           |
+| **2. Compromisso na agenda**      | {{We **are meeting** the director at 3 p.m. tomorrow.}}                      | Há outra pessoa envolvida, hora marcada e convite na agenda.                           |
+| **3. Decisão na hora / Oferta**   | {{— My bag is so heavy! — Wait, **I'll carry** it for you!}}                 | Ele não planejou carregar a bolsa ontem; decidiu ajudar ao ver a cena.                 |
+| **4. Evidência visual × Opinião** | {{Look! He's **going to fall**!}} × {{I think Brazil **will win** in 2030.}} | Na 1ª você vê a cena acontecendo agora ({{going to}}); na 2ª é uma opinião ({{will}}). |
 
 Perguntas:
 
-Nas frases da coluna da direita (primeira tabela), aparece {{do}}, {{does}} ou {{did}}? E nas da esquerda?
+1.  Na estrutura {{I'm going to buy}}, qual palavra muda se o sujeito for {{she}} ou {{they}}?
 
-A *tag* tem sentido positivo ou negativo quando a primeira parte é positiva? E quando é negativa?
+2.  Qual é a contração afirmativa e qual é a contração negativa de {{will}}?
 
-Se você notou que as perguntas sobre o sujeito vão direto ao verbo, sem auxiliar, e que a *tag* faz o contrário da frase, achou duas das regras principais do capítulo.
+Se você reparou que em {{be going to}} conjugamos o verbo {{to be}} ({{I'm going to, she's going to, they're going to}}) e que {{will}} contrai para **{{'ll}}** na afirmativa ({{I'll, you'll, it'll}}) e para **{{won't}}** (uôunt) na negativa ({{I won't forget}}), você já tem todas as peças na mão.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Ordem da pergunta:** (palavra interrogativa) + auxiliar + sujeito + verbo. {{Where do you live?}} {{What did she buy?}} {{Why are they late?}}
 
-2.  **Se a pergunta é sobre o sujeito, não há auxiliar** ({{do/does/did}}): {{Who called?}} {{What happened?}} {{Who lives here?}} (sempre a forma de {{he/she}} no presente).
+1.  **Intenções, Planos e Evidências Visuais ({{am / is / are + going to + verbo}}):**
 
-3.  **A preposição vai para o fim:** {{Who are you waiting for?}} {{Where is she from?}}
+    - **Plano já decidido:** {{I'm going to study German next year / What are you going to do tonight?}}.
 
-4.  **Respostas curtas** repetem o auxiliar: {{Do you like it? — Yes, I do.}} {{Is she here? — No, she isn't.}} Não repita o verbo principal.
+    - **Previsão com sinal visível agora:** {{Look at the traffic! We're going to be late!}}.
 
-5.  **Question tag:** frase positiva leva tag negativa, frase negativa leva tag positiva. O auxiliar é o mesmo da frase, e o pronome volta como sujeito. {{She works here, doesn't she?}}
+2.  **Compromissos Marcados na Agenda (Present Continuous = {{am / is / are + -ing}}):**
 
-6.  **Conectores:** {{and}} (soma), {{but}} (contraste), {{or}} (alternativa), {{so}} (resultado), {{because}} (causa), {{although}} (contraste com oração), {{if}} (condição), {{when}} (tempo).
+    - Quando já há hora, local, passagem ou outra pessoa combinada: {{I'm flying to Rio on Friday / What are you doing this weekend?}}. *(Com os verbos {{go}} e {{come}}, costuma-se preferir {{I'm going / I'm coming}} a "going to go/come".)*
 
-7.  **Depois de {{if}} e {{when}}, presente simples; o futuro fica na outra parte:** {{If it rains, we'll stay home.}}
+3.  **Decisões na Hora, Ofertas, Promessas e Opiniões ({{will / 'll / won't + verbo nu}}):**
+
+    - **Na hora / Oferta / Promessa:** {{I'll get the door! / I'll send you the file now / I won't tell anyone, I promise}}.
+
+    - **Previsão por opinião:** Com {{I think, I'm sure, probably, definitely}} ({{I think she'll love the gift / I don't think it'll rain}}).
+
+4.  **Possibilidade / "Talvez" ({{may / might + verbo nu}}):**
+
+    - Indica uma possibilidade no futuro (talvez sim, talvez não): {{I might go to the party / It might rain later / I might not have time}}. {{May}} tem o mesmo uso; na fala do dia a dia, {{might}} é mais comum.
+
+5.  **Horários Oficiais (Present Simple):** Usado para voos, trens, aulas e lojas ({{The train leaves at 9:15 tomorrow}}).
+
 :::::
 
 ## 5. Por dentro
 
-**Palavras interrogativas.**
+### 5.1 O quadro completo de {{be going to}} vs. {{will}}
 
-| Palavra | Pergunta por | Exemplo |
-|---|---|---|
-| what | coisa | What do you want? |
-| who | pessoa | Who is that? |
-| where | lugar | Where is the bank? |
-| when | tempo | When does the class start? |
-| why | motivo | Why are you laughing? |
-| how | modo | How do you go to work? |
-| which | escolha entre poucas opções | Which bus goes to the airport? |
-| whose | posse | Whose bag is this? |
-| how much / how many | quantidade (cap. 4) | How much is this? |
-| how old / how long / how often | idade / duração / frequência | How often do you call her? |
+Veja lado a lado como montar a afirmativa, a negativa e a pergunta das duas estruturas:
 
-{{Which}} e {{what}} se parecem. Use {{which}} quando as opções são poucas e conhecidas ({{Which do you prefer, tea or coffee?}}); use {{what}} quando a escolha é aberta ({{What do you prefer to drink?}}).
-
-**Ordem das palavras.** Para o verbo {{be}}, o verbo vem antes do sujeito: {{Where is the station?}} Para outros verbos, o auxiliar vem antes: {{Where does he work?}}, {{What did you eat?}}, {{Where are you going?}}, {{What can I do?}}
-
-| Tempo | Estrutura | Exemplo |
-|---|---|---|
-| presente simples | do/does + sujeito + verbo | Where do they live? |
-| passado simples | did + sujeito + verbo | What did you buy? |
-| presente contínuo | am/is/are + sujeito + -ing | Why is she crying? |
-| modal | modal + sujeito + verbo | When can we leave? |
-| futuro | will + sujeito + verbo | Where will you stay? |
-| present perfect | have/has + sujeito + particípio | What have you done? |
-
-**Perguntas sobre o sujeito.** Quando {{who}} ou {{what}} é o sujeito, a pergunta fica igual a uma afirmativa, sem auxiliar. O português já funciona assim ("Quem ligou?"), então o erro costuma vir do outro lado: o aluno aprende {{do/did}} e o aplica em tudo.
-
-| Pergunta sobre o objeto (com auxiliar) | Pergunta sobre o sujeito (sem auxiliar) |
-|---|---|
-| Who did you call? | Who called you? |
-| What do you want? | What happens next? |
-| Who does Ana like? | Who likes Ana? |
-
-Com *who* no sujeito do presente, o verbo vai para a terceira pessoa do singular, mesmo que se espere mais de uma pessoa: {{Who wants coffee?}}, {{Who lives here?}}
+| **Tipo de Frase** | **{{be going to}} (Exige {{am / is / are}}!)**                           | **{{will}} (Modal — igual para todas as pessoas!)**                  |
+|-------------------|--------------------------------------------------------------------------|----------------------------------------------------------------------|
+| **Afirmativa**    | {{I'm / She's / We're **going to travel**.}}                             | {{I'll / She'll / We'll **travel**.}}                                |
+| **Negativa**      | {{I'm not / She isn't / We aren't **going to travel**.}}                 | {{I / She / We **won't travel**.}} ({{will not}})                    |
+| **Pergunta**      | {{**Are** you **going to travel**? — Yes, I **am**. / No, I'm **not**.}} | {{**Will** you **be** there? — Yes, I **will**. / No, I **won't**.}} |
 
 ::: atencao
-~~Who did call you?~~ está errado. Com {{who}} sujeito, a forma é {{Who called you?}} Se você quer perguntar "para quem o Tom ligou?", aí sim: {{Who did Tom call?}}
+
+**Como o seu ouvido vai escutar going to e won't no áudio:**
+
+1.  Na fala cotidiana (filmes, reuniões informais e conversas), **{{going to}}** antes de um verbo vira **gonna** (gâ-nã):
+
+    - {{I'm going to call you}} soa como **Áim gâ-nã kó-liú**.
+
+    - {{What are you going to do?}} soa como **Uó-rã-iú gâ-nã dú?**. *(Atenção: nunca escreva "gonna" em e-mails de trabalho, e nunca esqueça o verbo {{to be}} na frente: diga {{I'm gonna}}, nunca ~~I gonna~~!).*
+
+2.  Para não confundir **{{want}}** ("quero" = uónt, vogal aberta) com **{{won't}}** ("não vou" = uôunt, ditongo fechado com ôu), arredonde bem os lábios em **{{won't}}** (uôunt)!
+
 :::
 
-**Preposição no fim.** O inglês mantém a preposição junto do verbo.
+### 5.2 Onde colocar {{probably}} e {{definitely}}, e a diferença entre {{maybe}} e {{might}}
 
-{{Who are you talking to?}} {{What is she afraid of?}} {{Where do you come from?}} {{Who is this gift for?}}.
+1.  **Posição de {{probably}} e {{definitely}} com {{will}}:**
 
-**Respostas curtas.** Em inglês, uma resposta curta não repete o verbo principal, só o auxiliar.
+    - Na **afirmativa**, eles entram **depois** de {{will / 'll}}: {{We'll **probably** arrive at ten. / She'll **definitely** pass the exam.}}
 
-| Pergunta | Afirmativa | Negativa |
-|---|---|---|
-| Do you like it? | Yes, I do. | No, I don't. |
-| Does she work here? | Yes, she does. | No, she doesn't. |
-| Did you call him? | Yes, I did. | No, I didn't. |
-| Are you ready? | Yes, I am. | No, I'm not. |
-| Can he swim? | Yes, he can. | No, he can't. |
-| Have you eaten? | Yes, I have. | No, I haven't. |
-| Will they come? | Yes, they will. | No, they won't. |
+    - Na **negativa**, eles vêm **antes** de {{won't}}: {{We **probably** won't need a taxi.}}
 
-Em respostas afirmativas, não se usa a forma contraída: {{Yes, I am}}, nunca ~~Yes, I'm~~. Respostas apenas com *yes* ou *no* podem parecer secas; acrescente uma frase: {{Yes, I do. I love it.}}
+2.  **{{Maybe}} (advérbio no início) vs. {{might}} (modal no meio):**
 
-**Question tags.** Servem para confirmar uma informação ou puxar conversa.
+    - **{{Maybe}}** (uma palavra só = *"Talvez"*) abre a frase: **{{Maybe}}** {{I'll go to the beach tomorrow.}}
 
-| Frase | Tag | Exemplo completo |
-|---|---|---|
-| positiva | negativa | It's late, isn't it? |
-| negativa | positiva | You don't smoke, do you? |
-
-O auxiliar da *tag* é o mesmo da frase. Se a frase não tem auxiliar (presente ou passado simples), usa-se {{do/does/did}}:
-
-{{She lives here, doesn't she?}} {{You saw him, didn't you?}} {{They can come, can't they?}} {{We haven't met, have we?}}
-
-O caso especial é {{I am}}: {{I'm late, aren't I?}}
-
-A entonação diz a intenção. Se a voz sobe no fim, você realmente pergunta; se a voz desce, você espera que a pessoa concorde. A resposta usa a forma curta: {{It's cold, isn't it? — Yes, it is.}} {{You don't like coffee, do you? — No, I don't.}}
-
-**Conectores.**
-
-| Conector | Função | Exemplo |
-|---|---|---|
-| and | soma | I study English and I work in a hotel. |
-| but | contraste | I like tea, but I don't like coffee. |
-| or | alternativa | Do you want tea or coffee? |
-| so | resultado | I was tired, so I went to bed. |
-| because | causa | I went to bed because I was tired. |
-| although | contraste ("embora") | Although it was cold, we went out. |
-| if | condição | If you need help, call me. |
-| when | tempo | I'll call you when I arrive. |
-
-**So e because.** Os dois ligam causa e resultado, mas em sentido contrário.
-
-| Resultado + so | Because + causa |
-|---|---|
-| I was tired, so I went home. | I went home because I was tired. |
-| It rained, so we stayed in. | We stayed in because it rained. |
-
-Para memorizar: {{so}} vem antes do resultado; {{because}} vem antes da causa. Para a pergunta "por que", use {{why}}; para responder, {{because}}: {{Why are you late? — Because the bus was late.}}
-
-**Although.** Introduz uma ideia que contrasta com a outra, mas não é usado com {{but}} na mesma frase. {{Although}} pode abrir a frase ou ficar no meio.
-
-{{Although it was raining, we went out.}} = {{We went out although it was raining.}} Com {{but}}: {{It was raining, but we went out.}}
-
-**Vírgulas.** Costuma-se usar vírgula antes de {{but}} e {{so}} quando ligam duas frases completas: {{I wanted to go, but I was tired.}} Se a oração com {{although}}, {{if}} ou {{when}} abre a frase, usa-se vírgula depois dela: {{If you come, call me.}} Se essa oração vem no fim, a vírgula não é necessária: {{Call me if you come.}}
-
-**If e when: futuro.** Quando a oração com {{if}} ou {{when}} se refere ao futuro, o verbo dela fica no presente simples; o {{will}} vai para a outra parte.
-
-| Errado | Certo |
-|---|---|
-| ~~If it will rain, we'll stay home.~~ | {{If it rains, we'll stay home.}} |
-| ~~When I will arrive, I'll call you.~~ | {{When I arrive, I'll call you.}} |
-
-O português usa o subjuntivo ("se chover", "quando eu chegar") e não o futuro do indicativo. A lógica é parecida: nessas orações, a forma não é a de futuro.
-
-**Ordem das palavras na frase.** O inglês é rígido: sujeito + verbo + objeto, e os detalhes de lugar e tempo vêm no fim.
-
-| Português permite | Inglês exige |
-|---|---|
-| Eu gosto muito de café. | I like coffee very much. (nunca ~~I like very much coffee~~) |
-| Sempre eu tomo café. | I always drink coffee. |
-| Moro em Lisboa há três anos. | I've lived in Lisbon for three years. |
-| Trabalho em Lisboa todos os dias. | I work in Lisbon every day. (lugar antes de tempo) |
-| Gosto. | I like it. (o objeto não pode faltar) |
-
-::: atencao
-O inglês não deixa o objeto em silêncio. "Você viu o filme?" "Vi." vira {{Did you see the film? — Yes, I saw it.}} (ou apenas {{Yes, I did.}}).
-:::
+    - **{{might}}** (verbo modal = *"pode ser que"*) vai depois do sujeito: {{I **might** go to the beach tomorrow.}} (Ambos têm exatamente o mesmo sentido!).
 
 ## 6. Frases de ouro
 
-| Inglês | Português natural |
-|---|---|
-| What are you looking for? | O que você está procurando? |
-| Who are you waiting for? | Quem você está esperando? |
-| Where is she from? | De onde ela é? |
-| Who called me? | Quem me ligou? |
-| It's a nice place, isn't it? | É um lugar bonito, não é? |
-| You don't eat meat, do you? | Você não come carne, come? |
-| I was tired, so I went to bed. | Eu estava cansado, então fui dormir. |
-| Call me when you arrive. | Me ligue quando chegar. |
+| **Inglês**                                                      | **Português natural**                                        |
+|-----------------------------------------------------------------|--------------------------------------------------------------|
+| {{What are you doing tonight? — I'm having dinner with Sarah.}} | O que você vai fazer hoje à noite? — Vou jantar com a Sarah. |
+| {{We're going to launch the new app next month.}}               | Vamos lançar o aplicativo novo no mês que vem.               |
+| {{Look at the time! We're going to miss our flight!}}           | Olha a hora! Vamos perder o nosso voo!                       |
+| {{Don't worry about the report — I'll help you finish it!}}     | Não se preocupe com o relatório — eu te ajudo a terminar!    |
+| {{I'll call you back in ten minutes, I promise.}}               | Eu te ligo de volta daqui a dez minutos, prometo.            |
+| {{I don't think the meeting will take very long.}}              | Acho que a reunião não vai demorar muito.                    |
+| {{Take a jacket with you — it might get cold in the evening.}}  | Leve uma jaqueta com você — pode ser que esfrie à noite.     |
+| {{We probably won't have time to visit the museum today.}}      | Provavelmente não teremos tempo de visitar o museu hoje.     |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  Where \_\_\_\_ your brother live? (do / does)
+**Degrau 1. Reconheça.** Escolha a forma mais natural entre parênteses para cada situação.
 
-2.  Who \_\_\_\_ you talking to? (is / are)
+1.  — My coffee is cold! — Sorry about that! I \_\_\_\_ you a hot cup right now. (am going to bring / 'll bring)
 
-3.  Who \_\_\_\_ the window? (broke / did break)
+2.  Look at that guy texting while walking! He \_\_\_\_ into the glass door! (will walk / is going to walk)
 
-4.  She's a teacher, \_\_\_\_? (is she / isn't she)
+3.  I \_\_\_\_ the dentist tomorrow morning at ten; my appointment is confirmed. (am seeing / see)
 
-5.  You don't eat meat, \_\_\_\_? (do you / don't you)
+4.  Don't worry, your secret is safe with me. I \_\_\_\_ anyone! (don't tell / won't tell)
 
-6.  I was tired, \_\_\_\_ I went to bed. (so / because)
+5.  I'm not sure about Sunday. I \_\_\_\_ stay home and rest. (might / might to)
 
-7.  I went to bed \_\_\_\_ I was tired. (so / because)
+6.  Our train to Montreal \_\_\_\_ at 7:45 tomorrow morning. (leaves / leave)
 
-8.  \_\_\_\_ it was raining, we went for a walk. (Although / But)
+7.  I \_\_\_\_ it will rain this afternoon; the sky is completely clear. (don't think / won't think)
 
-**Degrau 2. Complete.** Use um conector, uma preposição ou uma palavra pedida.
+8.  What \_\_\_\_ you \_\_\_\_ do after you graduate? (are... going to / will... to)
 
-1.  I like tea, \_\_\_\_ I don't like coffee. (and / but)
+**Degrau 2. Complete.** Preencha as lacunas com {{be going to}}, {{will / 'll / won't}}, {{might}} ou com o *Present Continuous* conforme o contexto indicado.
 
-2.  He was hungry, \_\_\_\_ he made a sandwich. (so / because)
+1.  — I can't open this PDF file! — Wait a second, I \_\_\_\_ (send) it to you again right now. *(oferta na hora)*
 
-3.  I can't come \_\_\_\_ I have to work. (so / because)
+2.  We already bought the tickets: we \_\_\_\_ (fly) to Lisbon next Friday at nine p.m.! *(compromisso agendado)*
 
-4.  \_\_\_\_ the room was expensive, we took it. (Although / Because)
+3.  Look at the traffic jam on the avenue! We \_\_\_\_ (be) late for the presentation! *(evidência visual)*
 
-5.  \_\_\_\_ you need help, call me. (If / Although)
+4.  — What are your plans for next year? — I \_\_\_\_ (start) an MBA in Finance. *(plano decidido antes)*
 
-6.  Call me \_\_\_\_ you arrive. (when / if)
+5.  The forecast for Saturday is uncertain: it \_\_\_\_ (rain), so take an umbrella just in case. *(possibilidade)*
 
-7.  We can go by bus \_\_\_\_ by train. (and / or)
+6.  I promise I \_\_\_\_ (not / be) late for dinner tonight! *(promessa)*
 
-8.  "I'm waiting for Ana." "Who are you waiting \_\_\_\_?"
+7.  I don't think she \_\_\_\_ (like) this hotel; it's too noisy. *(opinião com I don't think)*
 
-9.  You live in São Paulo, \_\_\_\_ you?
+8.  They \_\_\_\_ (probably / arrive) around midnight. *(will + probably)*
 
-10. She can swim, \_\_\_\_ she?
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-11. "Does he work here?" "Yes, he \_\_\_\_."
+1.  Conte dois planos que você já decidiu para este mês ou este ano usando {{I'm going to...}} e um que você não vai fazer usando {{I'm not going to...}}.
 
-**Degrau 3. Produza.**
+2.  Conte dois compromissos com hora marcada na sua agenda para amanhã ou para o fim de semana usando o *Present Continuous* ({{I'm meeting / I'm having / I'm going...}}).
 
-1.  Escreva cinco perguntas para um colega novo no albergue, com {{What}}, {{Where}}, {{Who}}, {{Why}} e {{How}}.
+3.  Responda a estas duas falas de um colega fazendo uma oferta espontânea na hora com {{I'll...}}: (a) *"I forgot my wallet at home!"* (b) *"These boxes are too heavy for me!"*.
 
-2.  Escreva duas perguntas com a preposição no fim ({{Who ... with?}}, {{What ... for?}}).
+4.  Escreva duas coisas que talvez você faça nas próximas férias usando {{I might...}}.
 
-3.  Escreva três *tags* sobre o tempo, a comida ou a cidade, esperando concordância.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-4.  Escreva quatro frases ligando ideias suas com {{because}}, {{so}}, {{although}} e {{if}}.
+1.  Tomorrow I travel to Rio for a conference.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+2.  — The phone is ringing! — Wait, I get it!
 
-1.  Where you live?
+3.  I will to call you tomorrow morning, I promise.
 
-2.  Who did call you?
+4.  She going to buy a new laptop next week.
 
-3.  What are you looking?
+5.  We might to be a little late for the meeting today.
 
-4.  She is nice, is she?
+6.  I think it doesn't rain tomorrow.
 
-5.  Although it was late, but we went out.
+7.  Look at those dark clouds — it's going to rain in a few minutes!
 
-6.  If it will rain tomorrow, we stay home.
-
-7.  Who are you talking to?
 :::::
 
 ## 8. O erro típico
 
-O erro mais comum nas perguntas é **esquecer o auxiliar**, porque o português pergunta só mudando a entonação: "Você mora aqui?" Em inglês, {{You live here?}} só funciona em conversa muito informal; a forma completa é {{Do you live here?}}. Do outro lado está o excesso de {{do}} quando o sujeito é a pergunta: ~~Who did call?~~
-
-Nos conectores, o erro é duplicar a ideia de contraste ({{although... but}}) e confundir {{so}} com {{because}}.
+Os três erros mais comuns de brasileiros ao falar do futuro são **usar o presente simples para planos pessoais** (dizendo ~~Tomorrow I go to the doctor~~), **esquecer o verbo {{to be}} antes de {{going to}}** (dizendo ~~I going to travel~~) e **colocar {{to}} depois de {{will}} ou {{might}}** (dizendo ~~I will to call you / It might to rain~~).
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~Where you live?~~ | {{Where do you live?}} | Falta o auxiliar {{do}}. |
-| ~~Who did call you?~~ | {{Who called you?}} | {{Who}} é o sujeito: sem auxiliar. |
-| ~~What are you looking?~~ | {{What are you looking for?}} | A preposição não pode ficar de fora. |
-| ~~Although it was late, but we went out.~~ | {{Although it was late, we went out.}} | {{Although}} e {{but}} não se combinam. |
-| ~~If it will rain, we stay home.~~ | {{If it rains, we'll stay home.}} | Depois de {{if}}, presente; o {{will}} fica na outra parte. |
+
+| **Errado**                                   | **Certo**                            | **Por quê**                                                                                |
+|----------------------------------------------|--------------------------------------|--------------------------------------------------------------------------------------------|
+| ~~Tomorrow I go to São Paulo.~~              | {{Tomorrow I'm going to São Paulo.}} | Planos pessoais futuros usam *Present Continuous* ou *going to*, nunca *Present Simple*.   |
+| ~~— I'm thirsty. — I bring you some water!~~ | {{— I'll bring you some water!}}     | Decisões e ofertas feitas no momento da fala exigem **{{I'll}}** (*will*).                 |
+| ~~I will to send / It might to rain.~~       | {{I'll send / It might rain.}}       | {{Will}} e {{might}} são modais e não aceitam {{to}} depois deles.                      |
+| ~~She going to study tonight.~~              | {{She's going to study tonight.}}    | A estrutura {{be going to}} exige sempre {{am / is / are}} antes de {{going}}.             |
+| ~~I think it doesn't rain tomorrow.~~        | {{I don't think it'll rain tomorrow.}} | Para o futuro, usamos {{will}} e a negativa vem em **{{I don't think}}**. (*I think he won't come* é compreendido, mas {{I don't think he'll come}} é a forma mais comum.) |
+| ~~in two days ago~~ (para o futuro)          | {{in two days}} (= daqui a 2 dias)   | **{{in}}** + tempo aponta para o futuro ("daqui a"); **{{ago}}** aponta só para o passado! |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 3.** Escreva as perguntas e as respostas curtas para: {{He works in a bank.}} → \_\_\_\_? Yes, he \_\_\_\_. / {{They don't speak French.}} → \_\_\_\_? No, they \_\_\_\_.
+1.  **Do Capítulo 12.** Complete: {{This apartment is \_\_\_\_ (bigger / more big) than mine, but it isn't \_\_\_\_ (close enough / enough close) to the subway.}}
 
-**Do capítulo 8.** Escreva o passado simples de {{buy}}, {{say}}, {{meet}} e {{write}}. Depois faça uma pergunta no passado: {{Where / you / go / yesterday}}.
+2.  **Do Capítulo 11 e 13.** Compare passado e futuro: {{Yesterday I **went** to the bank, and tomorrow I \_\_\_\_ to the bank. / Last week she **didn't work**, and next week she \_\_\_\_ work.}}
 
-**Do capítulo 12.** Escreva uma pergunta com {{How long...?}} e uma com {{Have you ever...?}}. Responda às duas com {{for}} ou {{since}} na primeira.
+3.  **Do Capítulo 6 e 13.** Qual é a diferença de significado entre {{two days **ago**}} e {{**in** two days}}? Qual tempo verbal cada uma exige?
 
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta, em duplas se puder, trocando as perguntas. |
-| Dia 3 | Escreva dez perguntas sobre um colega, cinco com {{who}} ou {{what}} e cinco com preposição no fim. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Escreva um diálogo de dez falas com pelo menos duas *tags* e quatro conectores diferentes. |
+| **Quando** | **O que fazer**                                                                                                                                          |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta observando quando Marina e Kevin usam {{I'm having}}, {{I'm going to}}, {{I'll}} e {{might}}.                                    |
+| Dia 3      | Escreva 6 frases sobre a sua próxima semana: 2 compromissos agendados (*Present Continuous*), 2 metas (*going to*) e 2 possibilidades (*might*).         |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                                                              |
+| Dia 14     | Grave um áudio de 1 minuto falando sobre os seus planos para o próximo ano, suas previsões para a sua área de trabalho e lugares que você talvez visite. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-**Pergunta:** palavra interrogativa + auxiliar + sujeito + verbo. Sem auxiliar quando {{who}} ou {{what}} é o sujeito.
 
-**Preposição:** no fim da pergunta. {{Who are you talking to?}}
+- **As 4 formas de falar do futuro (cada uma com a sua missão):**
 
-**Respostas curtas:** só o auxiliar. {{Yes, I do.}} {{No, she isn't.}}
+  1.  **{{am / is / are + going to + verbo}}:** planos decididos antes da fala e previsões com evidência visível agora ({{It's going to rain}}).
 
-**Question tag:** positiva leva negativa; negativa leva positiva; mesmo auxiliar da frase.
+  2.  **Present Continuous ({{am / is / are + -ing}}):** compromissos já marcados na agenda com hora/local ({{I'm meeting a client at 3 p.m.}}).
 
-**Conectores:** {{and}} soma, {{but}} contrasta, {{so}} dá o resultado, {{because}} dá a causa, {{although}} contrasta com oração (nunca junto de {{but}}), {{if}} e {{when}} pedem presente simples no futuro.
+  3.  **{{will / 'll / won't + verbo nu}}:** decisões tomadas no ato da fala, ofertas, promessas ({{I'll help you!}}) e previsões baseadas em opinião ({{I think / I don't think it'll...}}).
+
+  4.  **Present Simple:** usado para horários oficiais de voos, trens, lojas e eventos ({{The flight leaves at 7 a.m.}}).
+
+- **Possibilidade ("Talvez"):** **{{may / might + verbo nu}}** ({{I might go / I might not go}}) ou **{{Maybe}}** no início da frase ({{Maybe I'll go}}).
 
 **Já consigo?**
 
-Faço perguntas completas com {{what}}, {{where}}, {{who}}, {{why}} e {{how}}, com a preposição no fim quando preciso.
+- Falar dos meus planos e compromissos para o fim de semana usando {{I'm going to...}} e o *Present Continuous* sem usar o presente simples puro.
+- Reagir na hora oferecendo ajuda ou prometendo algo com {{I'll...}} e {{I won't...}}.
+- Expressar incerteza sobre o futuro com {{I might...}} sem colocar to depois.
 
-Respondo com {{Yes, I do}} ou {{No, he isn't}} sem repetir o verbo principal.
-
-Ligo duas ideias com {{so}}, {{because}}, {{but}} ou {{although}} sem trocar as funções.
 :::::
 
 ## Glossário do capítulo 13
 
-| Inglês | Português |
-|---|---|
-| question tag | pergunta-confirmação ("né?") |
-| short answer | resposta curta |
-| what, who, where | o que, quem, onde |
-| when, why, how | quando, por que, como |
-| which | qual (entre poucas opções) |
-| whose | de quem |
-| and, or | e, ou |
-| but | mas |
-| so | então, por isso |
-| because | porque |
-| although | embora, apesar de que |
-| if | se |
-| when | quando (tempo) |
-| to look for | procurar |
-| to wait for | esperar |
-| to talk to | conversar com |
-| to be afraid of | ter medo de |
-| to find | achar |
-| cushion | almofada |
-| worried | preocupado |
-| nervous | nervoso |
-| twice | duas vezes |
+| **Inglês**                                         | **Português**                                                  |
+|----------------------------------------------------|----------------------------------------------------------------|
+| {{What are you doing \[this weekend / tonight\]?}} | O que você vai fazer \[neste fim de semana / hoje à noite\]?   |
+| {{be going to \[do\]}} (fala: *gonna*)             | ir \[fazer\] (plano decidido ou evidência visual)              |
+| {{I'll \[help you / get it / call you back\].}}    | Eu \[te ajudo / atendo / te ligo de volta\] (decisão na hora). |
+| {{I won't \[be late / forget / tell anyone\].}}    | Eu não vou \[me atrasar / esquecer / contar a ninguém\].       |
+| {{I promise!}}                                     | Eu prometo!                                                    |
+| {{I think / I don't think \[it'll rain\].}}        | Acho que vai / Acho que não vai \[chover\].                    |
+| {{probably}} / {{definitely}}                      | provavelmente / com certeza (definitivamente)                  |
+| {{might}} / {{may}}                                | pode ser que, talvez (possibilidade)                           |
+| {{I'm not sure yet.}}                              | Ainda não tenho certeza.                                       |
+| {{I'll let you know!}}                             | Eu te aviso!                                                   |
+| {{lend}} × {{borrow}}                              | emprestar (dar emprestado) × pegar emprestado                  |
+| {{bring it back}}                                  | trazer de volta / devolver                                     |
+| {{book a table}}                                   | reservar uma mesa                                              |
+| {{locker}}                                         | armário individual (de guardar pertences)                      |
+| {{I'll text you.}}                                 | Eu te mando uma mensagem.                                      |
 
 ## Chave comentada do capítulo 13
 
 ::::: gabarito
-**Degrau 1.** 1 does (*brother* = he). 2 are (*you*). 3 broke (*who* sujeito: sem {{did}}). 4 isn't she (frase positiva, tag negativa). 5 do you (frase negativa, tag positiva). 6 so (resultado). 7 because (causa). 8 Although.
 
-**Degrau 2.** 1 but. 2 so. 3 because. 4 Although. 5 If ({{although}} contrasta, não condiciona). 6 when. 7 or. 8 for. 9 don't. 10 can't. 11 does.
+**Degrau 1.** 1 'll bring (oferta espontânea feita na hora da fala). 2 is going to walk (evidência visual diante dos seus olhos agora). 3 am seeing (consulta já confirmada na agenda). 4 won't tell (promessa usa {{won't}}). 5 might (modal não aceita *to*). 6 leaves (horário oficial de trem usa *Present Simple*). 7 don't think (o inglês prefere negar em {{I don't think}} + *will*). 8 are... going to (pergunta sobre planos futuros).
 
-**Degrau 3.** Respostas pessoais. Confira: auxiliar antes do sujeito; preposição no fim; tags com sentido oposto ao da frase; {{because}} antes da causa, {{so}} antes do resultado, {{although}} sem {{but}}.
+**Degrau 2.** 1 'll send (ou will send). 2 are flying (ou 're flying). 3 are going to be (ou 're going to be). 4 am going to start (ou 'm going to start). 5 might rain (ou may rain). 6 won't be. 7 will like (ou 'll like). 8 will probably arrive (ou 'll probably arrive).
+
+**Degrau 3.** Modelo: 1. {{This year I'm going to take an English exam and I'm going to save money, and I'm not going to buy a new car.}} 2. {{Tomorrow morning I'm having a call with my boss at ten, and on Saturday night I'm having dinner with my friends at eight.}} 3. (a) {{Don't worry, I'll pay for your lunch!}} (b) {{Wait, I'll help you carry them!}} 4. {{On my next vacation, I might travel to the south of Brazil, or I might visit Buenos Aires.}}
 
 **Degrau 4.**
 
-1.  Where do you live?
+1.  {{Tomorrow I'm traveling (ou I'm going to travel) to Rio for a conference.}}
 
-2.  Who called you?
+2.  {{— The phone is ringing! — Wait, I'll get it!}} (Decisão na hora exige {{I'll}}).
 
-3.  What are you looking for?
+3.  {{I'll call (ou I will call) you tomorrow morning, I promise.}} (Sem {{to}} após *will*).
 
-4.  She is nice, isn't she?
+4.  {{She's going to buy a new laptop next week.}} (Exige o verbo *to be* {{is / 's}} antes de *going to*).
 
-5.  Although it was late, we went out. (ou: It was late, but we went out.)
+5.  {{We might be a little late for the meeting today.}} (Sem {{to}} após *might*).
 
-6.  If it rains tomorrow, we'll stay home.
+6.  {{I don't think it'll rain (ou it's going to rain) tomorrow.}}
 
-7.  Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 3: Does he work in a bank? Yes, he does. / Do they speak French? No, they don't. Capítulo 8: bought, said, met, wrote; Where did you go yesterday? Capítulo 12: respostas pessoais (How long have you lived here? — For three years. Have you ever been to Peru? — No, I haven't.).
+**Retorno.** 1. {{bigger, close enough}}. 2. {{am going (ou am going to go), isn't going to (ou won't)}}. 3. {{two days ago}} = "há dois dias" (exige *Past Simple*: {{I arrived two days ago}}); {{in two days}} = "daqui a dois dias" (exige futuro: {{I'm leaving in two days}}).
+
 :::::

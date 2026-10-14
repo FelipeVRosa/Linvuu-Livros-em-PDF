@@ -1,358 +1,305 @@
-# Capítulo 11. Futuro: going to, will e planos (A2)
+# Capítulo 11. Contando o que aconteceu: Past Simple (regulares, irregulares e did) (A2)
 
-**Meta do capítulo.** Ao final, você fala dos seus planos com {{going to}} e do presente contínuo, decide e promete na hora com {{will}}, e expressa dúvida com {{may}} e {{might}}.
+**Meta do capítulo.** Ao final, você narra acontecimentos passados com verbos regulares ({{-ed}}) pronunciando corretamente os três sons finais (t, d, id), domina os verbos irregulares mais frequentes da língua inglesa ({{went, took, had, saw, made, bought, left, met}}) e faz perguntas e negativas com {{did}} e {{didn't}} sem duplicar o passado.
 
-## 1. Cena: planos para o fim de semana
+## 1. Cena: o que você fez no fim de semana?
 
-Marina e Tom se conheceram no albergue, em Lisboa. É sexta-feira de manhã, na cozinha.
+Lucas conversa com a colega Sarah na segunda-feira de manhã enquanto esperam o elevador no escritório.
 
 ::: dialogo
-**Marina:** What are you doing this weekend, Tom?
 
-**Tom:** I'm going to visit Sintra. I'm taking the nine-fifteen train on Saturday.
+**Sarah:** {{Morning, Lucas! Did you have a good weekend? What did you do?}}
 
-**Marina:** Nice! Is the weather going to be good?
+**Lucas:** {{Morning, Sarah! Yes, I did. On Saturday, I took the train to Niagara Falls with a friend from Brazil.}}
 
-**Tom:** Look at those clouds. It's going to rain, I think.
+**Sarah:** {{Oh, nice! How long did the train take?}}
 
-**Marina:** It might rain in the morning, but the forecast says it'll be sunny in the afternoon.
+**Lucas:** {{It took about two hours. We left Toronto at eight in the morning and arrived there around ten.}}
 
-**Tom:** Then I'll take my umbrella and my sunglasses. Do you want to come?
+**Sarah:** {{Did you take the boat tour near the falls?}}
 
-**Marina:** I'd love to, but I'm meeting my sister on Saturday. Maybe on Sunday?
+**Lucas:** {{No, we didn't. We wanted to go on the boat, but the line was huge! So we walked along the river, took a lot of photos, and had lunch at a great restaurant with a view.}}
 
-**Tom:** Sunday works. I'm not going to climb up to the castle again, though. Once is enough.
+**Sarah:** {{What did you do on Sunday? Did you go out too?}}
 
-**Marina:** Fine. I'll book the tickets tonight.
+**Lucas:** {{No, I didn't go anywhere on Sunday. It rained all afternoon, so I stayed at the hotel, watched a movie, and called my family. What about you?}}
+
+**Sarah:** {{I met my sister for brunch on Sunday, and we bought a birthday gift for our mom.}}
+
 :::
 
-Em português: O que você vai fazer neste fim de semana, Tom? / Vou visitar Sintra. Pego o trem das nove e quinze no sábado. / Que legal! Vai fazer tempo bom? / Olha aquelas nuvens. Acho que vai chover. / Pode ser que chova de manhã, mas a previsão diz que vai fazer sol à tarde. / Então levo o guarda-chuva e os óculos escuros. Quer vir junto? / Adoraria, mas vou encontrar minha irmã no sábado. Talvez no domingo? / Domingo está bom. Mas não vou subir de novo até o castelo. Uma vez basta. / Tudo bem. Eu reservo os ingressos hoje à noite.
+Em português: Bom dia, Lucas! Você teve um bom fim de semana? O que você fez? / Bom dia, Sarah! Tive, sim. No sábado, peguei o trem para as Cataratas do Niágara com um amigo do Brasil. / Ah, que legal! Quanto tempo levou o trem? / Levou umas duas horas. Saímos de Toronto às oito da manhã e chegamos lá por volta das dez. / Vocês fizeram o passeio de barco perto das cataratas? / Não. Queríamos ir no barco, mas a fila estava imensa! Então caminhamos ao longo do rio, tiramos muitas fotos e almoçamos em um restaurante ótimo com vista. / O que você fez no domingo? Saiu também? / Não, não fui a lugar nenhum no domingo. Choveu a tarde inteira, então fiquei no hotel, assisti a um filme e liguei para a minha família. E você? / Encontrei minha irmã para um brunch no domingo, e compramos um presente de aniversário para a nossa mãe.
 
-Repare que a conversa tem cinco maneiras de falar do futuro: {{I'm taking the train}} (combinado), {{I'm going to visit}} (plano), {{It's going to rain}} (as nuvens estão ali), {{It might rain}} (talvez) e {{I'll take my umbrella}} (decisão naquele instante). Em português, quase tudo isso seria "vou" ou o presente. Em inglês, a escolha muda o sentido.
+Repare que em inglês o passado tem uma grande vantagem sobre o português: **a forma do verbo é idêntica para todas as pessoas** ({{I went, you went, he went, we went, they went}}). E observe a regra de ouro: quando entram **{{did}}** ou **{{didn't}}**, o verbo principal volta imediatamente para a forma simples ({{Did you take...? / I didn't go}})!
 
 ## 2. A armadilha do português
 
-O português tem uma saída fácil para o futuro: o presente ("amanhã eu trabalho"), o "vou + infinitivo" ("vou trabalhar") ou o futuro do presente ("trabalharei", que quase só aparece na escrita formal). Na conversa, o "vou + infinitivo" resolve tudo.
+Ao contar histórias no passado em inglês, o falante de português enfrenta três armadilhas principais:
 
-O inglês divide esse território. Não existe uma forma única de futuro. Existem formas que dizem **por que** você fala do futuro: porque já decidiu, porque combinou, porque vê sinais, porque decidiu agora, porque promete ou porque não tem certeza.
+| **O hábito do português**         | **Como o inglês pensa (Certo)**                   | **O erro típico a evitar**                     |
+|-----------------------------------|---------------------------------------------------|------------------------------------------------|
+| Você foi à festa ontem?           | {{**Did** you **go** to the party yesterday?}}    | ~~Did you went to the party?~~                 |
+| Eu não vi a sua mensagem.         | {{I **didn't see** your message.}}                | ~~I didn't saw your message.~~                 |
+| Pronunciar o -e- de todos os -ed. | {{walked}} (uókt), {{called}} (kóld — 1 sílaba!). | ~~uó-kêd / có-lêd~~ (só tem -id após t ou d!). |
 
-| Em português você diz | Em inglês o sentido escolhe a forma |
-|---|---|
-| Amanhã eu trabalho. | {{I'm working tomorrow.}} (combinado, escala) |
-| Vou estudar medicina. | {{I'm going to study medicine.}} (plano antigo) |
-| Vou atender o telefone! | {{I'll get it!}} (decidi agora) |
-| Vai chover! | {{It's going to rain.}} (vejo as nuvens) |
-| Vai chover amanhã, acho. | {{I think it'll rain tomorrow.}} (opinião) |
-| Pode ser que eu vá. | {{I might go.}} (não sei) |
+**1. A Lei da Gangorra: se tem {{did / didn't}}, o verbo principal fica na forma base.** Em português, mantemos o verbo no passado na negativa (*"Eu não fui"*) e na pergunta (*"Você foi?"*). Em inglês, **só pode haver uma marca de passado por frase**. Na afirmativa, a marca fica no verbo ({{I went / I worked}}). Na pergunta e na negativa, o auxiliar **{{did / didn't}}** rouba a marca de passado para si, e o verbo principal volta à forma base ({{Did you go? / I didn't go}} — e não ~~Did you went?~~ ou ~~I didn't went~~!).
 
-::: atencao
-Dizer só {{I travel tomorrow}} soa estranho em inglês quando se trata de um plano pessoal. O presente simples fica para horários e calendários: {{The train leaves at nine.}} Para planos, use {{I'm traveling}} ou {{I'm going to travel}}.
-:::
-
-Há uma segunda armadilha: o "vou" do português vira {{will}} no seu ouvido, e a conversa fica sem naturalidade. {{I will visit Sintra on Saturday}}, dito a quem pergunta pelos seus planos, soa como se você tivesse acabado de decidir. Pior, a frase dá a impressão de um anúncio solene. Para plano já feito, a forma natural é {{going to}}.
+**2. O segredo sonoro do -ed: você quase nunca pronuncia a letra e!** O brasileiro tende a ler toda terminação -ed como uma sílaba extra (*"uó-kêd"*, *"plêi-êd"*). Na vida real, a letra **e é muda** em quase todos os verbos regulares! Só pronunciamos a sílaba extra **-id** quando o verbo já termina no som de **T** ou **D** ({{want → wanted}}, {{need → needed}}, {{decide → decided}}). Nos demais, o -ed gruda direto na consoante anterior como um sopro de t ({{worked}} = uârkt) ou de d ({{called}} = kóld).
 
 ## 3. Descubra você mesmo
 
-Leia os seis exemplos.
+Observe como funcionam os verbos regulares e irregulares nas três colunas abaixo:
 
-| | Frase | Situação |
-|---|---|---|
-| a | {{I'm going to study medicine.}} | Faz anos que você decidiu. |
-| b | {{I'm meeting Ana at seven tonight.}} | Vocês combinaram, tem hora marcada. |
-| c | {{The phone is ringing. I'll get it.}} | Você decide ao ouvir o toque. |
-| d | {{Look out! You're going to fall.}} | Você vê o degrau e a pessoa distraída. |
-| e | {{I'll call you tomorrow, I promise.}} | Você garante algo a alguém. |
-| f | {{I might go to the beach.}} | Você ainda não sabe. |
+| **Verbo Base**           | **Afirmativa no Passado (Sem *did*!)** | **Negativa ({{didn't}} + Base)**   | **Pergunta ({{Did}} + Sujeito + Base?)** |
+|--------------------------|----------------------------------------|------------------------------------|------------------------------------------|
+| **{{work}}** (regular)   | {{She **worked** yesterday.}}          | {{She **didn't work** yesterday.}} | {{**Did** she **work** yesterday?}}      |
+| **{{arrive}}** (regular) | {{We **arrived** at ten.}}             | {{We **didn't arrive** late.}}     | {{What time **did** you **arrive**?}}    |
+| **{{go}}** (irregular)   | {{I **went** to Niagara Falls.}}       | {{I **didn't go** on Sunday.}}     | {{Where **did** you **go**?}}            |
+| **{{have}}** (irregular) | {{They **had** lunch together.}}       | {{They **didn't have** dinner.}}   | {{**Did** they **have** a good time?}}   |
+| **{{buy}}** (irregular)  | {{He **bought** a new laptop.}}        | {{He **didn't buy** a tablet.}}    | {{How much **did** he **pay**?}}         |
 
 Perguntas:
 
-Qual dos exemplos mostra uma decisão tomada no instante da fala? E qual mostra uma previsão baseada no que se vê agora?
+1.  Na coluna da Negativa e na coluna da Pergunta, existe alguma diferença entre um verbo regular ({{work}}) e um verbo irregular ({{go, have}})?
 
-Em (b), onde aparece o futuro? Há alguma palavra como {{will}} ou {{going to}}?
+2.  Por que na frase {{What did you do?}} a palavra {{did}} aparece junto com {{do}}? Qual é a função de cada uma?
 
-Se você percebeu que o futuro não está só em {{will}}, e que cada forma conta uma coisa diferente sobre a sua cabeça (decidi antes, decidi agora, vejo sinais, não sei), descobriu a regra deste capítulo.
+Se você percebeu que nas perguntas e negativas todos os verbos (regulares e irregulares) voltam à forma base depois de {{did / didn't}}, e que em {{What did you do?}} o **{{did}}** é apenas o auxiliar do passado enquanto o **{{do}}** é o verbo principal ("fazer"), você já tem total controle sobre a estrutura.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Plano ou intenção que você já tinha:** {{am/is/are going to}} + verbo. {{I'm going to visit Sintra.}}
 
-2.  **Previsão com sinais à vista:** {{going to}}. {{Look at those clouds. It's going to rain.}}
+1.  **Forma Única para Todas as Pessoas:** No *Past Simple*, {{I, you, he, she, it, we, they}} usam exatamente a mesma forma!
 
-3.  **Combinado, com hora ou data marcada:** presente contínuo. {{I'm meeting my sister on Saturday.}}
+2.  **Afirmativa:**
 
-4.  **Decisão na hora, oferta, promessa:** {{will}} (forma curta {{'ll}}, negativa {{won't}}). {{I'll help you.}} {{I won't tell anyone.}}
+    - **Regulares (+ed):** Regra geral +ed ({{worked, stayed, watched}}); terminados em -e levam só +d ({{arrived, lived, liked}}); consoante + y vira **-ied** ({{study → studied, try → tried}}, mas {{play → played, stay → stayed}}); CVC tônico dobra a consoante ({{stop → stopped, plan → planned}}).
 
-5.  **Talvez:** {{may}} ou {{might}} + verbo. {{I might go.}}
+    - **Irregulares:** Mudam de forma na afirmativa ({{go → went, take → took, have → had, see → saw, make → made}}).
 
-6.  **Horários e calendários:** presente simples. {{The train leaves at 9:15.}}
+3.  **Negativa (Para regulares e irregulares):** **Sujeito + {{didn't}} + verbo na forma base** ({{I didn't work / I didn't go / She didn't have}}).
 
-7.  Depois de {{will}}, {{may}} e {{might}}, o verbo vem sem {{to}} e sem {{-s}}: {{She will come}}, nunca {{She will comes}}.
+4.  **Pergunta e Resposta Curta:** **(Wh-) + {{did}} + sujeito + verbo na forma base?** ({{Did you like it? — Yes, I did. / No, I didn't.}} \| {{Where did you stay?}}). *(Lembrete do Cap. 10: {{was / were}} não usam {{did}}!).*
+
 :::::
 
 ## 5. Por dentro
 
-**Going to: formação.** É o verbo {{be}} (cap. 2) no presente, mais {{going to}}, mais o verbo na forma básica.
+### 5.1 Os 3 sons do -ed nos verbos regulares
 
-| | Afirmativa | Negativa | Pergunta |
-|---|---|---|---|
-| I | I'm going to leave. | I'm not going to leave. | Am I going to leave? |
-| you / we / they | You're going to leave. | You aren't going to leave. | Are you going to leave? |
-| he / she / it | She's going to leave. | She isn't going to leave. | Is she going to leave? |
+Para soar natural e entender os áudios na velocidade real, divida os verbos regulares em apenas três gavetas sonoras:
 
-Respostas curtas: {{Yes, I am. / No, I'm not. / Yes, she is. / No, they aren't.}} Na conversa informal, {{going to}} costuma ser pronunciado "gonna". Você vai ouvir isso o tempo todo em filmes e séries, mas na escrita, use {{going to}}.
+| **Gaveta Sonora**                      | **Quando acontece**                                        | **Exemplos e Pronúncia Real**                                                                                                                                                                                                  |
+|----------------------------------------|------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Sílaba extra -id** (êd)           | **APENAS** quando o verbo termina em som de **T** ou **D** | {{want → **wanted**}} (uón-têd), {{need → **needed**}} (ní-dêd), {{start → **started**}} (stár-têd), {{wait → **waited**}} (uêi-têd), {{decide → **decided**}} (dê-sái-dêd), {{invite → **invited**}} (in-vái-têd).            |
+| **2. Som seco de T** (Sem vogal *e*!)  | Após sons surdos (p, k, f, s, sh, ch)                      | {{work → **worked**}} (uârkt), {{stop → **stopped**}} (stópt), {{walk → **walked**}} (uókt), {{watch → **watched**}} (uótcht), {{finish → **finished**}} (fê-nêsht), {{ask → **asked**}} (éskt), {{like → **liked**}} (láikt). |
+| **3. Som suave de D** (Sem vogal *e*!) | Após vogais e sons sonoros (l, m, n, r, v, z, b, g)        | {{call → **called**}} (kóld), {{arrive → **arrived**}} (ã-ráivd), {{live → **lived**}} (lêvd), {{play → **played**}} (plêid), {{stay → **stayed**}} (stêid), {{clean → **cleaned**}} (klínd), {{open → **opened**}} (ôu-pãnd). |
 
-Com o verbo {{go}}, as duas formas aparecem juntas e tudo bem: {{I'm going to go home}}. Mas o inglês prefere o presente contínuo quando o verbo é de movimento e o destino é claro: {{I'm going to the gym}}, {{We're leaving at six}}.
+### 5.2 Os 34 Verbos Irregulares Essenciais
 
-**Will: formação.** {{Will}} é um verbo modal (cap. 7): igual para todas as pessoas, sem {{-s}}, sem {{to}} depois dele.
+Em vez de decorar listas alfabéticas, aprenda estes 34 verbos, organizados por situação. Eles aparecem o tempo todo nas conversas cotidianas e profissionais no passado:
 
-| | Afirmativa | Negativa | Pergunta |
-|---|---|---|---|
-| todas as pessoas | I'll / you'll / she'll call. | I won't / you won't / she won't call. | Will you call? |
-
-Respostas curtas: {{Yes, I will. / No, I won't.}} Em inglês americano, a forma {{shall}} é rara; só aparece em convites como {{Shall we go?}} (mais comum no inglês britânico).
-
-**Quando usar will.** Quatro situações costumam aparecer no dia a dia:
-
-1.  **Decisão no momento da fala:** {{I'm cold. — I'll close the window.}}
-2.  **Oferta:** {{I'll carry your bag.}}
-3.  **Promessa ou recusa:** {{I'll be there at nine.}} {{I won't forget.}} {{He won't help us.}}
-4.  **Previsão que é uma opinião, sem sinais à vista:** {{I think the exam will be easy.}} {{She'll probably say yes.}}
-
-Para fazer um pedido, {{Will you open the door?}} é possível, mas {{Could you...?}} (cap. 7) é mais cortês.
-
-**Going to ou will, em resumo.** Se você já tinha pensado antes de falar, use {{going to}}. Se acabou de pensar, use {{will}}. Se a previsão vem de algo visível, {{going to}}. Se vem da sua opinião, {{will}}. Em muitas frases as duas formas são aceitáveis: {{It's going to be a good year / It will be a good year}}. Mas nas quatro situações acima, a escolha é clara.
+| **Grupo**                  | **Infinitivo → Passado**                                                                                                                                                                                                                                         | **Exemplo Prático no Passado**                                                      |
+|----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| **Os 6 Reis do Dia a Dia** | {{go → **went**}} (ir), {{have → **had**}} (ter; {{have lunch}} = almoçar), {{do → **did**}} (fazer), {{make → **made**}} (fazer/preparar), {{get → **got**}} (conseguir/chegar), {{take → **took**}} (tôk — pegar/levar)                                                          | {{We **went** out, **took** a taxi, **had** dinner, and **got** home at midnight.}} |
+| **Comunicação e Mente**    | {{say → **said**}} (séd! — dizer), {{tell → **told**}} (contar para alguém), {{speak → **spoke**}} (falar), {{know → **knew**}} (nú — saber), {{think → **thought**}} (thót — pensar/achar), {{read → **read**}} (escreve igual, mas lê-se **réd**!)             | {{She **said** hello, **told** me the news, and I **thought** about it.}}           |
+| **Movimento e Encontros**  | {{come → **came**}} (vir), {{leave → **left**}} (sair/partir/deixar), {{meet → **met**}} (encontrar/conhecer), {{see → **saw**}} (só — ver), {{find → **found**}} (achar/encontrar), {{lose → **lost**}} (perder)                                                | {{I **left** the office at six and **met** my friends at the café.}}                |
+| **Transações e Rotina**    | {{buy → **bought**}} (bót — comprar), {{pay → **paid**}} (pêid — pagar), {{give → **gave**}} (dar), {{send → **sent**}} (enviar), {{eat → **ate**}} (êit — comer), {{drink → **drank**}} (beber), {{sleep → **slept**}} (dormir), {{put → **put**}} (igual: pôr) | {{He **bought** the tickets, **paid** online, and **sent** me the confirmation.}}   |
+| **Corpo e Rotina**         | {{wake up → **woke up**}} (acordar), {{write → **wrote**}} (escrever), {{sit → **sat**}} (sentar), {{drive → **drove**}} (dirigir), {{run → **ran**}} (correr), {{bring → **brought**}} (bróot — trazer), {{feel → **felt**}} (sentir), {{begin → **began**}} (começar) | {{I **woke up** late, **drove** to work, and **felt** tired all morning.}}          |
 
 ::: atencao
-Em frases com {{I think}}, o inglês prefere negar o verbo de opinião, não o futuro: {{I don't think it will rain}}, mais natural que {{I think it won't rain}}. As duas existem; a primeira é a que você mais vai ouvir.
+
+**Como o seu ouvido vai escutar Did you...? no áudio:** Na fala rápida, **{{Did you...?}}** se funde em **Dê-dju...?** (ou até Dju...?):
+
+- {{Did you like it?}} soa como **Dê-dju lái-kêt?**.
+
+- {{What did you do?}} soa como **Uó-dê-dju dú?**.
+
 :::
-
-**Advérbios com will.** {{Probably}} e {{definitely}} ficam entre {{will}} e o verbo na afirmativa: {{I'll probably go}}, {{She'll definitely call}}. Na negativa, vão antes de {{won't}}: {{I probably won't go}}, {{He definitely won't come}}.
-
-**Presente contínuo para futuro.** Quando o plano está combinado com alguém, tem lugar, hora ou reserva, o presente contínuo (cap. 5) funciona como futuro: {{I'm seeing the dentist at four.}} {{We're having dinner with my parents on Sunday.}} {{She's flying to Recife next week.}} Quase sempre há uma expressão de tempo na frase, ou o contexto a deixa clara. Sem ela, a frase pode soar como o agora.
-
-**Presente simples para futuro.** Só para horários fixos, programas e calendários: {{The museum opens at ten.}} {{My flight leaves at 6:40.}} {{The course starts on Monday.}} Não vale para planos pessoais.
-
-**May e might.** Os dois expressam possibilidade. São modais (cap. 7): sem {{-s}}, sem {{to}}.
-
-| Afirmativa | Negativa |
-|---|---|
-| I may/might go. | I may not / might not go. |
-| She may/might be late. | She may not / might not be late. |
-
-Para perguntar se algo é possível, o inglês usa outras formas: {{Do you think it'll rain?}}, {{Are you going to come?}}. Perguntar com {{Might you...?}} é raro e formal. Em respostas curtas, {{I might}} funciona sozinho: {{Are you coming? — I might.}}
-
-::: atencao
-Não confunda {{maybe}} (advérbio, em geral no começo da frase) com {{may be}} (dois verbos). {{Maybe she's at home}} e {{She may be at home}} dizem a mesma coisa.
-:::
-
-**Expressões de tempo com o futuro.**
-
-| Expressão | Significa |
-|---|---|
-| tomorrow, tonight | amanhã, hoje à noite |
-| next week / month / year | semana / mês / ano que vem |
-| this weekend | neste fim de semana |
-| on Monday | na segunda |
-| soon, later | em breve, mais tarde |
-| in two days | daqui a dois dias |
-| the day after tomorrow | depois de amanhã |
-
-Cuidado com {{in}}: {{in two days}} é "daqui a dois dias". Para o passado, o inglês usa {{ago}} (cap. 8): {{two days ago}} é "há dois dias". As duas expressões usam o mesmo número, mas apontam para lados opostos.
-
-**Quando o futuro aparece em outra oração.** Depois de {{if}} e {{when}}, o inglês usa o presente simples, e o {{will}} fica na outra metade da frase: {{If it rains, I'll stay home}}. Esse ponto tem seu espaço no capítulo 13; por ora, use essa frase como bloco pronto.
 
 ## 6. Frases de ouro
 
-| Inglês | Português natural |
-|---|---|
-| What are you doing this weekend? | O que você vai fazer neste fim de semana? |
-| I'm going to look for a new job. | Vou procurar um emprego novo. |
-| Are you going to eat here? | Você vai comer aqui? |
-| I'll have the soup, please. | Vou querer a sopa, por favor. |
-| Don't worry, I'll help you. | Não se preocupe, eu te ajudo. |
-| I won't be late, I promise. | Não vou me atrasar, prometo. |
-| I might call you later. | Talvez eu te ligue mais tarde. |
-| My train leaves in ten minutes. | Meu trem sai daqui a dez minutos. |
+| **Inglês**                                                     | **Português natural**                                            |
+|----------------------------------------------------------------|------------------------------------------------------------------|
+| {{What did you do last weekend?}}                              | O que você fez no fim de semana passado?                         |
+| {{We left at eight in the morning and arrived at ten.}}        | Saímos às oito da manhã e chegamos às dez.                       |
+| {{I didn't see your email yesterday — sorry about that!}}      | Não vi o seu e-mail ontem — desculpe por isso!                   |
+| {{How much did you pay for the flight tickets?}}               | Quanto você pagou pelas passagens aéreas?                        |
+| {{She bought a new laptop and sent the report last night.}}    | Ela comprou um notebook novo e enviou o relatório ontem à noite. |
+| {{Did you have a good time in Montreal? — Yes, we did!}}       | Vocês se divertiram em Montreal? — Sim, nos divertimos!          |
+| {{I wanted to call you, but my phone battery died.}}           | Eu quis te ligar, mas a bateria do meu celular acabou.           |
+| {{He read the contract carefully and signed it this morning.}} | Ele leu o contrato com cuidado e o assinou hoje de manhã.        |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma mais natural.
 
-1.  Look at that car! It \_\_\_\_ hit the tree. (will / is going to)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2.  "I'm thirsty." "I \_\_\_\_ get you some water." (will / am going to)
+1.  Yesterday we \_\_\_\_ to an Italian restaurant and \_\_\_\_ great pasta. (went / goed) (eat / ate)
 
-3.  I \_\_\_\_ Carla for lunch tomorrow; we booked a table. (am meeting / meet)
+2.  \_\_\_\_ you \_\_\_\_ the email to the client this morning? (Did... send / Did... sent)
 
-4.  The museum \_\_\_\_ at ten every day. (opens / is going to open)
+3.  I \_\_\_\_ the movie last night because I \_\_\_\_ very tired. (didn't watch / didn't watched) (was / did be)
 
-5.  I'm not sure yet. I \_\_\_\_ go to the party. (might / will to)
+4.  Where \_\_\_\_ Sarah \_\_\_\_ her new jacket? (did... buy / bought)
 
-6.  Don't worry, I \_\_\_\_ be careful. I promise. (will / am going to)
+5.  Qual destes verbos tem o -ed pronunciado como uma sílaba extra -id? (worked / called / wanted)
 
-7.  Qual frase está correta? (a) I will to call you. (b) I'll call you. (c) I'll calling you.
+6.  Qual destes verbos tem o -ed pronunciado com som seco de t (1 sílaba)? (needed / stopped / lived)
 
-8.  Are you going to \_\_\_\_ a taxi? (take / took / taking)
+7.  He \_\_\_\_ the report last night and \_\_\_\_ me about the problem. (read / readed) (said / told)
 
-**Degrau 2. Complete.** Nos itens 1 a 4, use {{going to}}. Nos itens 5 a 8, use {{will}} ou {{won't}}. Nos itens 9 e 10, use {{might}}.
+8.  — Did they arrive on time? — Yes, they \_\_\_\_. (arrived / did)
 
-1.  I \_\_\_\_ (call) my mother tonight; we always talk on Fridays.
+**Degrau 2. Complete.** Passe os verbos entre parênteses para o *Past Simple* (afirmativa, negativa ou pergunta).
 
-2.  Look at the sky! It \_\_\_\_ (snow).
+1.  What time \_\_\_\_ you \_\_\_\_ (leave) the office yesterday evening?
 
-3.  What \_\_\_\_ you \_\_\_\_ (do) next weekend?
+2.  I \_\_\_\_ (try) to call you ten minutes ago, but you \_\_\_\_ (not / answer).
 
-4.  She \_\_\_\_ (not / work) on Saturday.
+3.  We \_\_\_\_ (take) a taxi to the airport because it \_\_\_\_ (rain) a lot this morning.
 
-5.  "The phone is ringing." "I \_\_\_\_ (get) it."
+4.  She \_\_\_\_ (not / go) to the gym last night; she \_\_\_\_ (stay) home and \_\_\_\_ (make) dinner.
 
-6.  "It's very cold." "I \_\_\_\_ (close) the window."
+5.  — \_\_\_\_ Lucas \_\_\_\_ (have) lunch with the client on Friday? — Yes, he \_\_\_\_.
 
-7.  I'm sorry. I \_\_\_\_ (not / be) late again.
+6.  My brother \_\_\_\_ (lose) his wallet last week, but somebody \_\_\_\_ (find) it and \_\_\_\_ (give) it back!
 
-8.  I think they \_\_\_\_ (win) the game.
+7.  Where \_\_\_\_ you \_\_\_\_ (meet) your best friend, and when \_\_\_\_ you \_\_\_\_ (start) working here?
 
-9.  Maybe I \_\_\_\_ (take) the bus.
+8.  They \_\_\_\_ (see) the presentation, \_\_\_\_ (think) about the proposal, and \_\_\_\_ (decide) to sign the contract.
 
-10. It \_\_\_\_ (rain) later. Take an umbrella.
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Conte quatro coisas que você fez ontem ({{yesterday}}) usando pelo menos três verbos irregulares ({{woke up, had, went, took, made, saw, bought}}).
 
-1.  Escreva três planos seus para o próximo mês, com {{I'm going to...}}.
+2.  Conte duas coisas que você **não** fez no fim de semana passado usando {{I didn't...}}.
 
-2.  Escreva duas coisas combinadas para esta semana, com o presente contínuo e uma expressão de tempo ({{on Friday}}, {{at six}}, {{tonight}}).
+3.  Escreva três perguntas com {{What time did you...?}}, {{Where did you...?}} e {{Did you...?}} para perguntar a um amigo sobre as últimas férias dele.
 
-3.  Responda a cada situação com uma oferta usando {{I'll...}}: (a) seu colega está carregando muitas caixas; (b) a pessoa ao lado está com frio; (c) um amigo esqueceu o dinheiro no almoço.
+4.  Escreva uma frase que combine um verbo de ação no passado ({{went, arrived, called}}) com o verbo {{was / were}} (ex.: *"Quisemos entrar, mas a fila estava enorme"*).
 
-4.  Escreva duas frases sobre algo que você não tem certeza de que vai fazer, com {{might}}.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  Did you went to the meeting yesterday morning?
 
-1.  I will to call you tomorrow.
+2.  I didn't saw your message because I lefted my phone in the car.
 
-2.  Next week I travel to Recife.
+3.  Where you bought that backpack, and how much did you paid?
 
-3.  She is going to goes to the party.
+4.  She studyed English all weekend and taked a test on Monday.
 
-4.  I think it doesn't rain tomorrow.
+5.  Did the flight was on time last night?
 
-5.  "Call me at nine." "OK, I call you at nine."
+6.  He no called me yesterday.
 
-6.  We might to see you on Sunday.
+7.  We left the hotel at eight, took the subway, and arrived at the office on time.
 
-7.  What are you going to eat?
 :::::
 
 ## 8. O erro típico
 
-O erro mais frequente é usar **o presente simples** para planos pessoais, como faria o português: {{Tomorrow I go to the doctor}}, {{Next week I travel}}. O brasileiro não percebe nada de errado, porque "amanhã eu vou ao médico" é perfeito. Em inglês, para um plano, a forma é {{I'm going to the doctor}} ou {{I'm going to see the doctor}}.
-
-O segundo erro é juntar duas formas: {{I will to go}}, {{She will goes}}, {{I'm going to went}}. Depois de {{will}}, {{may}} e {{might}}, nunca vem {{to}}. Depois de {{going to}}, vem sempre a forma básica do verbo.
+O erro mais importante a eliminar do seu inglês é o **duplo passado** (**~~Did you went? / I didn't saw / How much did you paid?~~**). Crie este reflexo automático: escreveu ou falou **{{did}}** ou **{{didn't}}**? O verbo seguinte fica obrigatoriamente na forma base do presente!
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~Tomorrow I go to the dentist.~~ | {{Tomorrow I'm going to the dentist.}} | Plano pessoal pede {{going to}} ou presente contínuo. |
-| ~~I will to help you.~~ | {{I'll help you.}} | {{Will}} é modal: sem {{to}}. |
-| ~~She will comes.~~ | {{She will come.}} | Modal não leva {{-s}}. |
-| ~~I think it doesn't rain.~~ | {{I don't think it will rain.}} | Futuro pede {{will}} (ou {{going to}}). |
-| ~~We might to go.~~ | {{We might go.}} | {{Might}} é modal: sem {{to}}. |
+
+| **Errado**                                  | **Certo**                                   | **Por quê**                                                                |
+|---------------------------------------------|---------------------------------------------|----------------------------------------------------------------------------|
+| ~~Did you went there?~~                     | {{Did you go there?}}                       | {{Did}} já marca o passado; o verbo principal volta à forma base ({{go}}). |
+| ~~I didn't saw him. / She didn't told me.~~ | {{I didn't see him. / She didn't tell me.}} | Após {{didn't}}, o verbo fica sempre na forma base ({{see, tell}}).        |
+| ~~I lefted / I buyed / I taked.~~           | {{I left / I bought / I took.}}             | Verbos irregulares não recebem -ed.                                        |
+| ~~Where you went yesterday?~~               | {{Where did you go yesterday?}}             | Perguntas no passado exigem o auxiliar {{did}} antes do sujeito.           |
+| ~~Did you were tired?~~                     | {{Were you tired?}}                         | O verbo {{to be}} ({{was / were}}) não usa {{did}}.                     |
+| ~~She studyed / He stoped.~~                | {{She studied / He stopped.}}               | Consoante + y vira -ied; CVC tônico dobra a consoante final (-pped).       |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 9.** Complete com {{in}}, {{on}} ou {{at}}: the class starts \_\_\_\_ eight \_\_\_\_ Monday; my birthday is \_\_\_\_ July.
+1.  **Do Capítulo 10 e 11.** Complete escolhendo entre {{was / were}} e {{did}}: (a) {{Where \_\_\_\_ you born?}} (b) {{Where \_\_\_\_ you grow up?}} \(c) {{\_\_\_\_ the movie good?}} (d) {{\_\_\_\_ you like the movie?}}
 
-**Do capítulo 8.** Escreva o passado de {{go}}, {{buy}}, {{see}} e {{eat}}. Depois responda: What did you do last weekend?
+2.  **Pronúncia do -ed.** Separe estes 6 verbos nas três gavetas de som final (t, d ou id): {{worked, wanted, called, watched, needed, arrived}}.
 
-**Do capítulo 7.** Complete: You \_\_\_\_ (should / must) see a doctor if the pain continues. You \_\_\_\_ (mustn't / don't have to) pay: the museum is free on Sundays.
+3.  **Do Capítulo 6 e 10.** Como você diz em inglês: *"Eu saí do escritório às seis e meia da tarde na sexta-feira passada"*?
 
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta, trocando os planos pelos seus. |
-| Dia 3 | Escreva dez frases sobre a próxima semana, usando {{going to}} em cinco e o presente contínuo em cinco. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Escreva um parágrafo de 60 palavras sobre suas próximas férias, com {{going to}}, {{will}} e {{might}}. |
+| **Quando** | **O que fazer**                                                                                                                                                             |
+|------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta prestando atenção na pronúncia dos regulares ({{walked, stayed, watched, called}} vs. {{wanted}}) e irregulares ({{took, left, had, met, bought}}). |
+| Dia 3      | Escreva um diário de 8 linhas contando tudo o que você fez ontem, da hora em que acordou até a hora de dormir.                                                              |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                                                                                 |
+| Dia 14     | Grave um áudio de 1 minuto e meio contando como foi a melhor viagem da sua vida (para onde foi, quanto tempo ficou, o que viu e o que comeu).                               |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-O inglês não tem um único futuro: a forma escolhida diz por que você fala do futuro.
 
-**Going to**: plano que você já tinha ou previsão com sinais à vista.
+- **Afirmativa no Passado (Igual para todas as pessoas):**
 
-**Presente contínuo**: combinado, com hora ou data.
+  - **Regulares (-ed):** Som de t após surdas ({{worked, watched}}), som de d após sonoras ({{called, arrived}}) e sílaba extra -id apenas após t ou d ({{wanted, needed, decided}}).
 
-**Will**: decisão na hora, oferta, promessa, opinião sobre o futuro. Negativa {{won't}}, forma curta {{'ll}}.
+  - **Irregulares:** Formas próprias ({{went, took, had, made, got, saw, bought, left, met, said, told, thought, read}}).
 
-**May / might**: talvez. Sem {{to}}, sem {{-s}}.
+- **Negativa e Pergunta (Lei da Gangorra):** Usa **{{didn't}}** e **{{did}}** + **verbo na forma base** ({{Did you go? / I didn't go}} — só um verbo marca o passado na frase!).
 
-**Presente simples**: só horários e calendários.
-
-**In** + tempo é "daqui a"; **ago** é "há".
+- **Contraste com {{was / were}}:** {{Was / were}} ("foi/era/estava") não usam {{did}}; todos os demais verbos de ação usam {{did / didn't}}.
 
 **Já consigo?**
 
-Falo dos meus planos com {{I'm going to...}} e do que está combinado com o presente contínuo.
+- Contar o que fiz ontem, no fim de semana ou nas férias usando verbos regulares e os irregulares essenciais.
+- Fazer perguntas com {{Did...?}} e negativas com {{didn't}} sem dizer *"did went"* ou *"didn't saw"*.
+- Pronunciar {{worked, walked, watched, called, arrived}} sem criar uma sílaba -ed extra.
 
-Faço uma oferta ou promessa com {{I'll...}} e {{I won't...}}.
-
-Digo que algo é possível com {{I might...}} sem acrescentar {{to}}.
 :::::
 
 ## Glossário do capítulo 11
 
-| Inglês | Português |
-|---|---|
-| going to + verbo | ir fazer (plano, previsão com sinais) |
-| will / 'll / won't | futuro (decisão, oferta, promessa) |
-| may / might | talvez, pode ser que |
-| maybe | talvez (no começo da frase) |
-| probably | provavelmente |
-| definitely | com certeza |
-| tomorrow | amanhã |
-| tonight | hoje à noite |
-| next week | semana que vem |
-| this weekend | neste fim de semana |
-| soon | em breve |
-| later | mais tarde |
-| in two days | daqui a dois dias |
-| the day after tomorrow | depois de amanhã |
-| forecast | previsão do tempo |
-| umbrella | guarda-chuva |
-| ticket | ingresso, passagem |
-| to book | reservar |
-| to promise | prometer |
-| to carry | carregar |
-| to leave | sair, partir, deixar |
-| to look out | tomar cuidado (Look out!) |
+| **Inglês**                                     | **Português**                                        |
+|------------------------------------------------|------------------------------------------------------|
+| {{What did you do \[last weekend\]?}}          | O que você fez \[no fim de semana passado\]?         |
+| {{Did you have a good time?}}                  | Você se divertiu? / Aproveitou bem?                  |
+| {{How long did it take? — It took two hours.}} | Quanto tempo levou? — Levou duas horas.              |
+| {{go → went}} / {{come → came}}                | ir → foi / vir → veio                                |
+| {{take → took}} / {{leave → left}}             | pegar, levar → pegou, levou / sair, partir → saiu    |
+| {{have → had}} / {{make → made}}               | ter, comer, tomar → teve / fazer, preparar → fez     |
+| {{see → saw}} / {{meet → met}}                 | ver → viu / encontrar, conhecer → encontrou          |
+| {{buy → bought}} / {{pay → paid}}              | comprar → comprou / pagar → pagou                    |
+| {{say → said}} / {{tell → told}}               | dizer → disse / contar (a alguém) → contou           |
+| {{think → thought}} / {{know → knew}}          | pensar, achar → pensou / saber → sabia, soube        |
+| {{lose → lost}} / {{find → found}}             | perder → perdeu / achar, encontrar → achou           |
+| {{go out}} / {{stay home}}                     | sair (para se divertir) / ficar em casa              |
+| {{My phone battery died.}}                     | A bateria do meu celular acabou / morreu.            |
+| {{write → wrote}} / {{drive → drove}}          | escrever → escreveu / dirigir → dirigiu              |
+| {{sit → sat}} / {{run → ran}}                  | sentar → sentou / correr → correu                    |
+| {{wake up → woke up}} / {{feel → felt}}        | acordar → acordou / sentir → sentiu                  |
 
 ## Chave comentada do capítulo 11
 
 ::::: gabarito
-**Degrau 1.** 1 is going to (há sinal à vista: o carro vai bater). 2 will (decisão na hora). 3 am meeting (combinado, reserva feita). 4 opens (horário fixo). 5 might. 6 will (promessa). 7 (b). 8 take (depois de {{to}}, forma básica).
 
-**Degrau 2.** 1 am going to call. 2 is going to snow. 3 are / going to do. 4 isn't (is not) going to work. 5 'll get (will get). 6 'll close (will close). 7 won't be (will not be). 8 will win ('ll win). 9 might take. 10 might rain.
+**Degrau 1.** 1 went, ate (passados irregulares de *go* e *eat*). 2 Did... send (com {{Did}}, o verbo fica na forma base {{send}}). 3 didn't watch, was (após {{didn't}}, forma base; *tired* exige {{was}}). 4 did... buy (pergunta exige {{did}} + forma base). 5 wanted (termina em t, logo ganha a sílaba -id). 6 stopped (termina em p surdo, logo o -ed soa t: stópt). 7 read, told (*read* é irregular; *told* é usado antes de pessoa {{me}}). 8 did (resposta curta repete o auxiliar {{did}}).
 
-**Degrau 3.** Respostas pessoais. Confira: {{going to}} + forma básica; presente contínuo com expressão de tempo; ofertas com {{I'll}} e verbo básico (por exemplo, {{I'll help you with those}}, {{I'll give you my jacket}}, {{I'll pay for lunch}}); {{might}} sem {{to}}.
+**Degrau 2.** 1 did, leave. 2 tried, didn't answer. 3 took, rained. 4 didn't go, stayed, made. 5 Did, have, did. 6 lost, found, gave. 7 did, meet, did, start. 8 saw, thought, decided.
+
+**Degrau 3.** Modelo: 1. {{Yesterday I woke up at six thirty, had black coffee, went to the office by subway, and made dinner at night.}} 2. {{Last weekend, I didn't work and I didn't watch TV.}} 3. {{Where did you go on your last vacation? What time did your flight leave? Did you like the hotel?}} 4. {{We wanted to buy the tickets, but the line was too long.}}
 
 **Degrau 4.**
 
-1.  I'll call you tomorrow. (ou: I will call you; sem {{to}})
+1.  {{Did you go to the meeting yesterday morning?}} (Após {{Did}}, usa-se a forma base {{go}}).
 
-2.  Next week I'm traveling to Recife. (ou: I'm going to travel. O presente simples não serve para plano pessoal.)
+2.  {{I didn't see your message because I left my phone in the car.}} ({{didn't see}}; o passado de *leave* é {{left}}).
 
-3.  She is going to go to the party.
+3.  {{Where did you buy that backpack, and how much did you pay?}} (Exige {{did you buy}} e {{did you pay}} na forma base).
 
-4.  I don't think it will rain tomorrow. (ou: I think it won't rain tomorrow.)
+4.  {{She studied English all weekend and took a test on Monday.}} (*study* → {{studied}}; *take* → {{took}}).
 
-5.  OK, I'll call you at nine. (decisão na hora)
+5.  {{Was the flight on time last night?}} (O verbo {{to be}} usa {{Was}}, nunca {{Did... was}}).
 
-6.  We might see you on Sunday.
+6.  {{He didn't call me yesterday.}} (Negativa no passado exige {{didn't}} + forma base).
 
-7.  Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 9: at, on, in. Capítulo 8: went, bought, saw, ate (a resposta sobre o fim de semana é pessoal, com passado simples). Capítulo 7: should; don't have to (a entrada é grátis, então não há obrigação de pagar; {{mustn't}} diria que é proibido).
+**Retorno.** 1. (a) {{were}} (*born* usa *to be*); (b) {{did}} (*grow up* é verbo de ação); \(c) {{Was}} (*good* é adjetivo com *to be*); (d) {{Did}} (*like* é verbo comum). 2. Som de t: {{worked, watched}}; som de d: {{called, arrived}}; sílaba extra -id: {{wanted, needed}}. 3. {{I left the office at half past six last Friday evening.}} (ou {{last Friday at six thirty p.m.}})
+
 :::::

@@ -1,411 +1,331 @@
-# Capítulo 6. Possessivos, demonstrativos e ordem do adjetivo (A1)
+# Capítulo 6. Horas, dias, datas e números: a agenda e o calendário com in, on, at (A1)
 
-**Meta do capítulo.** Ao final, você diz de quem é cada coisa com *my, your, his, her* e *'s*, aponta o que está perto e o que está longe com *this, that, these* e *those*, e coloca o adjetivo antes do substantivo, sem plural.
+**Meta do capítulo.** Ao final, você diz as horas de dois jeitos (digital e tradicional com {{past}} e {{to}}), fala dias da semana, meses e datas usando números ordinais ({{May 14th}}), aplica sem hesitar o funil de tempo ({{in, on, at}} e quando não usar preposição), e distingue ao ouvido e na fala os números de 13 a 19 dos de 30 a 90, sem confundir {{thirteen}} (13) com {{thirty}} (30).
 
-## 1. Cena: o armário do albergue
+## 1. Cena: remarcando uma reunião e reservando o voo
 
-Rafa e Emma dividem um quarto num albergue em Lisboa. Na hora de sair, os dois procuram suas coisas.
+Marina liga para a recepção de uma clínica odontológica em Boston e depois confere sua passagem com o colega Kevin.
 
 ::: dialogo
-**Rafa:** Excuse me, Emma. Is this your charger?
 
-**Emma:** No, mine is white. That one on the bed is probably Tom's. He's the guy in the top bunk.
+**Receptionist:** {{Good afternoon, Smile Dental Clinic. How can I help you?}}
 
-**Rafa:** OK. And these keys? Are they yours?
+**Marina:** {{Hi! I have an appointment with Dr. Miller on Wednesday, October 14th, at a quarter past three, but I need to reschedule it.}}
 
-**Emma:** No, my keys are in my bag. Look, there's a name on this tag: "Lucas". Maybe they're his.
+**Receptionist:** {{Let me check the calendar. Is Friday, October 16th good for you? We have an opening at ten thirty in the morning, or at a quarter to five in the afternoon.}}
 
-**Rafa:** Is Lucas your friend?
+**Marina:** {{A quarter to five on Friday works great for me!}}
 
-**Emma:** No, he's Sara's brother. She and her friends are in the room next door.
+**Receptionist:** {{Perfect. You're all set for Friday, October 16th, at four forty-five p.m.}}
 
-**Rafa:** I'll take the keys to the front desk. By the way, whose jacket is that, over there?
+**Marina:** {{Thank you! Bye! ... Kevin, when is our conference in Chicago? Is it in November?}}
 
-**Emma:** That one? It's mine! It's an old green jacket, but I love it.
+**Kevin:** {{Yes! It starts on Monday, November 2nd. Our flight leaves at seven fifteen a.m., from Gate 13.}}
+
+**Marina:** {{Wait — Gate 13 or Gate 30?}}
+
+**Kevin:** {{Thirteen: one-three! And the hotel is \$180 a night, so for three nights it's \$540.}}
+
 :::
 
-Em português: Com licença, Emma. Esse carregador é seu? / Não, o meu é branco. Aquele ali na cama provavelmente é do Tom. Ele é o cara do beliche de cima. / Certo. E estas chaves? São suas? / Não, as minhas estão na minha bolsa. Olha, tem um nome nesta etiqueta: "Lucas". Talvez sejam dele. / O Lucas é seu amigo? / Não, ele é irmão da Sara. Ela e as amigas dela estão no quarto ao lado. / Vou levar as chaves para a recepção. Aliás, de quem é aquela jaqueta ali? / Aquela? É minha! É uma jaqueta verde velha, mas eu adoro.
+Em português: Boa tarde, Clínica Smile Dental. Como posso ajudar? / Oi! Tenho uma consulta com o Dr. Miller na quarta-feira, 14 de outubro, às três e quinze, mas preciso remarcar. / Deixe-me checar a agenda. Sexta-feira, 16 de outubro, fica bom para você? Temos um horário vago às dez e meia da manhã, ou às quinze para as cinco da tarde. / Quinze para as cinco na sexta funciona muito bem para mim! / Perfeito. Tudo confirmado para sexta-feira, 16 de outubro, às 16h45. / Obrigada! Tchau! ... Kevin, quando é a nossa conferência em Chicago? É em novembro? / Sim! Começa na segunda-feira, 2 de novembro. Nosso voo sai às 7h15 da manhã, do Portão 13. / Espere — Portão 13 ou Portão 30? / Treze: um-três! E o hotel custa 180 dólares por noite, então por três noites dá 540 dólares.
 
-Repare em três coisas. Primeiro, o inglês tem uma palavra para cada dono: *your charger, my keys, her friends* (e, para pessoas, *Sara's brother*). Segundo, *mine, yours* e *his* aparecem sozinhos, sem substantivo depois. Terceiro, *this* e *these* falam do que está perto, *that* do que está longe, e no fim da cena aparece *an old green jacket*: dois adjetivos, os dois antes do substantivo.
+Repare nas preposições que acompanham o tempo na conversa: **{{at}}** para as horas ({{at a quarter past three, at ten thirty, at seven fifteen}}), **{{on}}** para os dias e datas ({{on Wednesday, on Friday, on November 2nd}}), e **{{in}}** para o mês e as partes do dia ({{in November, in the morning, in the afternoon}}).
 
 ## 2. A armadilha do português
 
-O português tem um problema que o inglês não tem, e o inglês tem outro que o português não tem.
+Em português, dizemos *"na segunda"*, *"em outubro"*, *"às três"*, escrevemos datas na ordem **dia/mês/ano** (*02/11/2026* = 2 de novembro), dizemos *"dia dois de novembro"* com número cardinal, e usamos ponto para milhar (*1.500*) e vírgula para centavos (*12,50*). Veja as quatro armadilhas que isso cria em inglês:
 
-**Problema do português: "dele" e "dela".** Em português, "seu carro" pode ser dele, dela, de você, do senhor. Para não confundir, a gente troca por "o carro dele", "o carro dela". O inglês faz essa separação sempre, e a escolha depende de **quem é o dono**, não de quem ou o que é possuído:
+| **O hábito do português**             | **Como o inglês pensa (Certo)**                | **O erro típico a evitar**                      |
+|---------------------------------------|------------------------------------------------|-------------------------------------------------|
+| A reunião é **na** segunda **às** 9h. | {{The meeting is **on** Monday **at** 9 a.m.}} | ~~in Monday in 9 a.m.~~                         |
+| Nasci **em** 14 de maio **de** 1995.  | {{I was born **on** May 14**th**, 1995.}}      | ~~in May 14 of 1995~~                           |
+| 03/04 nos EUA vs. no Brasil.          | Nos EUA, **03/04** = **March 4th** (mês/dia!). | Ler *03/04* americano achando que é 3 de abril. |
+| Te vejo **na** próxima semana.        | {{See you **next** week.}} (sem preposição!)   | ~~See you in the next week.~~                   |
 
-| Dono | Inglês | Português |
-|---|---|---|
-| Ana (mulher) | {{Ana loves her job.}} | Ana adora o trabalho **dela**. |
-| Pedro (homem) | {{Pedro loves his job.}} | Pedro adora o trabalho **dele**. |
-| Ana e Pedro | {{They love their jobs.}} | Eles adoram o trabalho **deles**. |
-| cachorro, empresa | {{The dog loves its bowl.}} | O cachorro adora a tigela **dele**. |
+**1. O Funil de Tempo ({{IN}} → {{ON}} → {{AT}}).** É a mesma lógica geométrica do Capítulo 4:
 
-O erro do brasileiro é decidir pelo gênero da coisa, como faz com "a casa" e "o carro". Em inglês, a casa pode ser *his house* ou *her house*; o que decide é quem mora nela. Se o dono é uma mulher, é *her* mesmo que a coisa seja um carro, um pai ou um chefe.
+- **{{IN}} (Períodos longos):** meses ({{in October}}), estações ({{in summer}}), anos ({{in 1998, in 2026}}), décadas/séculos ({{in the 90s}}) e 3 partes do dia ({{in the morning, in the afternoon, in the evening}}).
 
-**Problema do inglês: o adjetivo não concorda.** Em português, o adjetivo acompanha o substantivo: "carros novos", "casas bonitas". Em inglês ele **nunca** muda. E, em geral, ele vem antes do substantivo, não depois:
+- **{{ON}} (1 dia específico ou data com dia):** dias da semana ({{on Monday, on Fridays}}), datas completas ({{on October 14th, on my birthday, on Christmas Day}}) e dia + parte do dia ({{on Friday morning}}).
 
-| Português | Inglês | Erro típico |
-|---|---|---|
-| um carro novo | {{a new car}} | ~~a car new~~ |
-| dois carros novos | {{two new cars}} | ~~two news cars~~ |
-| uma casa grande e bonita | {{a big, beautiful house}} | ~~a house big~~ |
+- **{{AT}} (Hora exata no relógio e pontos curtos):** todas as horas ({{at 3 p.m., at 10:30, at noon, at midnight}}) e a exceção **{{at night}}** ("à noite", na madrugada).
 
-**O terceiro problema é o "de".** Em português, o dono vem depois: "o celular **da** minha irmã". Em inglês, para pessoas, ele vem antes e leva *'s*: {{my sister's phone}}. O português não tem nada parecido, então a tendência é traduzir palavra por palavra e escrever ~~the phone of my sister~~. Isso é entendido, mas soa estranho.
+**2. Datas exigem número ordinal ({{1st, 2nd, 3rd, 4th...}}) e preposição {{on}}.** Em português só o dia 1º é ordinal (*"primeiro de maio, dois de maio"*). Em inglês, **todos os dias do mês são ordinais**: {{May first (1st), May second (2nd), May third (3rd), May fourth (4th), May fourteenth (14th)}}.
+
+**3. Não se usa preposição antes de {{this, next, last, every, today, tomorrow, yesterday}}.** Diga {{I have a call **this** afternoon}}, {{See you **next** Friday}}, {{I work **every** day}} (não coloque *in, on* ou *at* antes dessas palavras!).
 
 ## 3. Descubra você mesmo
 
-Observe os pares.
+Compare os dois jeitos de dizer as horas e a regra dos números nas tabelas abaixo:
 
-| Frase | Quem é o dono? |
-|---|---|
-| {{Sara has a brother. Her brother is Lucas.}} | Sara |
-| {{Tom has a brother. His brother is Leo.}} | Tom |
-| {{Emma and I have a room. Our room is small.}} | Emma e eu |
-| {{This is my bag. This bag is mine.}} | eu |
-| {{Is this Tom's charger?}} | Tom |
-| {{These shoes are expensive. Those shoes are cheap.}} | (sem dono) |
-| {{It's a nice old house.}} | (sem dono) |
-| {{They have two small black bags.}} | (sem dono) |
+| **Hora no Relógio** | **Jeito Direto (Hora + Minuto)** | **Jeito Tradicional (Minutos + {{past / to}} + Hora)**     |
+|---------------------|----------------------------------|------------------------------------------------------------|
+| **3:00**            | {{It's three o'clock.}}          | {{It's three o'clock.}}                                    |
+| **3:10**            | {{It's three ten.}}              | {{It's ten **past** three.}} (10 passados das 3)           |
+| **3:15**            | {{It's three fifteen.}}          | {{It's **a quarter past** three.}} (EUA também: {{after}}) |
+| **3:30**            | {{It's three thirty.}}           | {{It's **half past** three.}} (meia hora passada das 3)    |
+| **3:45**            | {{It's three forty-five.}}       | {{It's **a quarter to** four.}} (um quarto para as 4)      |
+| **3:50**            | {{It's three fifty.}}            | {{It's ten **to** four.}} (10 para as 4)                   |
 
 Perguntas:
 
-Em *her brother* e *his brother*, o que muda: a palavra *brother* ou a palavra do dono? Quem decide entre *her* e *his*?
+1.  No jeito tradicional, até os 30 minutos usamos **{{past}}**; a partir dos 31 minutos (como 3:45 e 3:50), mudamos para **{{to}}** e olhamos para qual hora?
 
-Em *two small black bags*, o adjetivo está no plural? De que lado do substantivo ele fica?
+2.  Como o inglês diferencia no ouvido os números de 13 a 19 ({{thir**teen**, four**teen**, fif**teen**}}) das dezenas de 30 a 90 ({{**thir**ty, **for**ty, **fif**ty}})?
 
-Se você notou que *her/his* seguem o dono, que *bags* é o único plural da frase e que *this/these* acompanham o número, você já tem a regra.
+Se você percebeu que depois da meia hora olhamos para a **hora seguinte** com {{to}} ({{a quarter to four}} = 15 para as 4), e que nos números de 13 a 19 a sílaba forte e longa é a última (**{{-TEEN}}**), enquanto nas dezenas de 30 a 90 a sílaba forte é a primeira (**{{THIR-ty}}**), você já tem a chave do capítulo.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Antes do substantivo**, use *my, your, his, her, its, our, their*. Eles dependem do **dono**:
 
-| Dono | Antes do substantivo | Sozinho (sem substantivo) |
-|---|---|---|
-| I | my | mine |
-| you | your | yours |
-| he | his | his |
-| she | her | hers |
-| it | its | (quase não se usa) |
-| we | our | ours |
-| they | their | theirs |
+1.  **Funil {{IN / ON / AT}} de Tempo:**
 
-2.  **De pessoa:** nome + *'s* (*Tom's bag*). Plural regular: *'* depois do *s* (*my parents' house*). **De coisa:** substantivo + substantivo (*the kitchen door*) ou *of* (*the end of the film*).
+    - **{{AT}}** = Horas ({{at 7:15, at noon, at midnight}}) + **{{at night}}**.
 
-3.  **Perto:** *this* (um) e *these* (vários). **Longe:** *that* (um) e *those* (vários).
+    - **{{ON}}** = Dias e Datas ({{on Monday, on October 14th, on Friday afternoon, on the weekend}} \[US\] / {{at the weekend}} \[UK\]).
 
-4.  **Adjetivo:** antes do substantivo e sempre igual: *a new phone, two new phones*.
+    - **{{IN}}** = Meses, Estações, Anos ({{in May, in winter, in 2026}}) + **{{in the morning / afternoon / evening}}**. *(In + tempo também significa "daqui a": {{in ten minutes}} = daqui a 10 minutos!).*
 
-5.  Não use *the* junto de possessivo: ~~the my bag~~ é sempre *my bag*.
+    - **Zero preposição** antes de: {{this, next, last, every, today, tomorrow, yesterday}}.
+
+2.  **Horas ({{What time is it? — It's...}}):** Use o modo digital ({{three fifteen, four forty-five}}) ou tradicional ({{a quarter past three, half past three, a quarter to five}}). Use **{{a.m.}}** (0h às 11h59) e **{{p.m.}}** (12h às 23h59).
+
+3.  **Datas e Anos:** Dias da semana e meses têm **letra maiúscula** ({{Monday, October}}). Ordinais irregulares: **{{1st (first), 2nd (second), 3rd (third), 5th (fifth), 12th (twelfth), 20th (twentieth), 21st (twenty-first)}}**. Anos lêem-se em duas dezenas: *1995* = {{nineteen ninety-five}}; *2026* = {{twenty twenty-six}}.
+
+4.  **13 × 30 e Pontuação Numérica:** 13–19 = sílaba tônica longa no fim ({{thir**TEEN**}}); 30–90 = sílaba tônica na 1ª sílaba ({{**THIR**ty}} — e atenção à escrita de **{{forty}}**, sem *u*!). Em inglês, **vírgula** separa milhar ({{1,500}}) e **ponto** separa decimais ({{\$12.50}}).
+
 :::::
 
 ## 5. Por dentro
 
-### Possessivos antes do substantivo
+### 5.1 Como perguntar as horas e os horários de compromissos
 
-Os sete possessivos são *my, your, his, her, its, our, their*. Não há "meu/minha/meus/minhas" em inglês: *my* serve para tudo.
+Cuidado para não usar a mesma pergunta para as duas situações:
 
-| Frase | Observação |
-|---|---|
-| {{my brother, my sisters}} | *my* não muda com o gênero nem com o número |
-| {{your keys}} | *your* serve para "seu", "sua", "de vocês" |
-| {{her name}} | a dona é mulher |
-| {{his name}} | o dono é homem |
-| {{its name}} | o dono é coisa, animal ou lugar (*The hotel has its own restaurant.*) |
-| {{our apartment}} | nós |
-| {{their kids}} | eles ou elas |
-
-Há um fato que o português não tem: o inglês usa possessivo para **partes do corpo e roupas**, onde o português diria "o": {{I wash my hands.}} (lavo as mãos). {{She brushes her teeth.}} (escova os dentes). {{He puts on his jacket.}} (veste a jaqueta).
-
-::: atencao
-*Its* (possessivo, sem apóstrofo) não é *it's* (contração de *it is*). {{The dog is in its bed.}} / {{It's late.}} São palavras diferentes, com o mesmo som. Na dúvida, teste: se der para trocar por *it is*, escreva *it's*.
-:::
-
-### Possessivos sozinhos
-
-Quando o substantivo já foi dito ou é óbvio, o inglês troca *my* por *mine*, *your* por *yours*, e assim por diante: {{Is this your bag? No, mine is blue.}} Veja que em *mine is blue* o possessivo faz o papel de *my bag*. O português faz o mesmo: "o meu é azul".
-
-*Mine, yours, his, hers, ours, theirs* nunca são seguidos de substantivo e nunca levam *the*: ~~the mine~~. Também usamos essa forma depois de *of* para dizer "um amigo meu": {{a friend of mine}}, {{a colleague of hers}}. Não se diz ~~a friend of me~~.
-
-A pergunta que combina com tudo isso é *Whose...?* (de quem): {{Whose bag is this?}} / {{It's Tom's.}} ou {{It's mine.}}
-
-### O 's e o of
-
-**Pessoas e animais:** nome + *'s*, e o dono vem **antes**.
-
-| Português | Inglês |
-|---|---|
-| a bolsa da Emma | {{Emma's bag}} |
-| o irmão da minha amiga | {{my friend's brother}} |
-| o cachorro do Rafa | {{Rafa's dog}} |
-| a casa dos meus pais | {{my parents' house}} |
-| os brinquedos das crianças | {{the children's toys}} |
-
-Nos dois últimos exemplos há uma diferença de forma. Se o dono já termina em *-s* por ser plural regular, só se acrescenta o apóstrofo: *parents'*. Se o plural é irregular (*children, men, women, people*), volta o *'s*: *children's, women's*. Nomes próprios que terminam em *s* aceitam as duas formas na escrita: *James's book* ou *James' book*; na fala, a primeira costuma ser dita `DJÊIM-zɪz`.
-
-Você também pode usar *'s* sem substantivo, quando ele é óbvio: {{Whose coat is this? It's Ana's.}} / {{I'm at my mother's tonight.}} (na casa da minha mãe).
-
-::: atencao
-O *'s* também aparece em *he's, she's, it's, what's, there's* (do *is*, capítulo 2) e em *let's* (que você vê no próximo capítulo). Para saber qual é qual, olhe o que vem depois: se vem um **substantivo** (*Tom's bag*), é posse; se vem um adjetivo, um local ou um *-ing* (*Tom's tired*), é o *is*.
-:::
-
-**Coisas e lugares:** em geral, **não** se usa *'s*. Dois caminhos:
-
-| Caminho | Exemplo | Quando |
+| **O que você quer saber** | **A pergunta correta em inglês** | **A resposta natural** |
 |---|---|---|
-| substantivo + substantivo | {{the kitchen door, a phone number, a shoe store}} | o primeiro diz o tipo; o primeiro substantivo **fica no singular** |
-| substantivo + *of* + substantivo | {{the end of the film, the name of the street}} | a ideia é "parte de" ou "nome de" |
+| **Que horas são agora no relógio?** | {{What time is it?}} / {{Do you have the time?}} | {{It's ten twenty.}} / {{It's twenty past ten.}} |
+| **A que horas acontece um evento?** | {{What time is the meeting?}} {{What time does the flight leave?}} | {{It's **at** ten thirty.}} {{It leaves **at** seven fifteen a.m.}} |
+| **De que horas a que horas?** | {{What time is the store open?}} | {{It's open **from** nine **to** (ou **until**) six.}} |
 
-Cuidado com a ordem e com o singular. "Loja de sapatos" é {{a shoe store}}, não ~~a shoes store~~. "Número de telefone" é {{a phone number}}.
-
-Um uso a mais: com **tempo**, o *'s* aparece em {{today's news}}, {{yesterday's game}}, {{tomorrow's meeting}}. Vale decorar como bloco.
-
-### This, that, these, those
-
-São quatro palavras, em duas escolhas: um ou vários, perto ou longe.
-
-| | Perto | Longe |
-|---|---|---|
-| um | {{this}} | {{that}} |
-| vários | {{these}} | {{those}} |
-
-Servem **com** substantivo ({{this bag}}, {{those shoes}}) e **sozinhas** ({{This is Tom.}}, {{Are those yours?}}). Elas concordam em número com o substantivo: *this book / these books*. Como em português, a distância pode ser física (a mão alcança ou não) ou no tempo ({{this morning}}, {{that night}}).
-
-Para apresentar alguém, o inglês usa *this*: {{Rafa, this is Emma.}} Ao telefone, americanos dizem {{Hi, this is Rafa.}} ("aqui é o Rafa").
-
-Em português há três graus (este, esse, aquele). Em inglês, só dois: *this* cobre "este" e quase sempre "esse" quando se fala de algo próximo de você, e *that* cobre "esse" e "aquele" quando está longe de você.
-
-### Onde fica o adjetivo
-
-O adjetivo vem **antes** do substantivo, ou depois do verbo *be*:
-
-| Antes do substantivo | Depois de *be* |
-|---|---|
-| {{a cheap hotel}} | {{The hotel is cheap.}} |
-| {{two cheap hotels}} | {{The hotels are cheap.}} |
-
-Nunca ~~a hotel cheap~~, nunca ~~cheaps hotels~~. O adjetivo não varia em gênero nem em número. Isso é uma boa notícia: há menos coisa para decorar do que em português.
-
-Quando há **dois ou mais adjetivos**, existe uma ordem natural, que o falante nativo segue sem pensar. A versão simples para o nível A1–A2 é esta:
-
-| 1. opinião | 2. tamanho | 3. idade | 4. cor | 5. origem | 6. material | substantivo |
-|---|---|---|---|---|---|---|
-| nice | big | old | green | Italian | leather | jacket |
-
-Exemplos reais:
-
-| Inglês | Português |
-|---|---|
-| {{a nice big room}} | um quarto grande e agradável |
-| {{an old green jacket}} | uma jaqueta verde velha |
-| {{a small black bag}} | uma bolsa preta pequena |
-| {{a beautiful old Italian car}} | um belo carro italiano antigo |
-| {{a long hot summer}} | um verão longo e quente |
-
-Para o dia a dia, guarde o essencial: **opinião vem antes de fato** (*nice* antes de *big*), e **cor vem perto do substantivo**. Com um ou dois adjetivos você está seguro; com três, olhe a tabela. Entre dois adjetivos da mesma categoria, coloque *and* ou vírgula: {{a quiet, comfortable room}} ou {{a quiet and comfortable room}}.
+No Reino Unido, na fala informal, {{half four}} significa 4:30. Nos EUA ninguém entende assim: diga {{four thirty}} ou {{half past four}}.
 
 ::: atencao
-Antes de *a/an*, a vogal do **primeiro** adjetivo decide: *an old car*, mas *a nice old car*. A palavra que vem logo depois do artigo é a que conta.
+
+**A diferença entre {{evening}} e {{night}}:**
+
+- **{{Evening}}** (das 18h até a hora de ir dormir — quando você chega em casa, janta ou sai com amigos): usa **{{in the evening}}** e cumprimenta-se com **{{Good evening!}}** ("Boa noite" ao chegar).
+
+- **{{Night}}** (a madrugada ou a hora de dormir): usa a preposição **{{at night}}** ({{I don't drink coffee at night}}) e diz-se **{{Good night!}}** apenas ao se despedir ou ir para a cama!
+
 :::
 
-### Frase com possessivo, demonstrativo e adjetivo juntos
+### 5.2 Calendário completo: Dias, Meses e Números Ordinais
 
-Quando as três ideias aparecem juntas, a ordem é: demonstrativo ou possessivo → adjetivos → substantivo. {{This is my new phone.}} {{Those are her old shoes.}} Não se juntam dois deles: ~~the my new phone~~, ~~this my phone~~. Se quiser as duas ideias, use *of*: {{this phone of mine}}, com tom mais coloquial.
+| **Os 7 Dias da Semana (sempre com {{on}} e Maiúscula)**                                                                                                                                 | **Os 12 Meses do Ano (sempre com {{in}} e Maiúscula)**                                               |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| {{Monday}} (mân-dêi), {{Tuesday}} (túz-dêi), {{Wednesday}} (uênz-dêi — o *d* é mudo!), {{Thursday}} (thârz-dêi), {{Friday}} (frái-dêi), {{Saturday}} (sé-rãr-dêi), {{Sunday}} (sân-dêi) | {{January, February, March, April, May, June, July, August, September, October, November, December}} |
+
+Veja os números ordinais que você usa em todas as datas e andares de prédio:
+
+- **1º, 2º, 3º (os 3 reis irregulares):** {{1st = **first**}}, {{2nd = **second**}}, {{3rd = **third**}} (e se repetem no 21º, 22º, 23º, 31º: {{21st = twenty-first}}, {{22nd = twenty-second}}, {{23rd = twenty-third}}, {{31st = thirty-first}}).
+
+- **Do 4º em diante (regra do -th):** {{4th = fourth}}, {{5th = **fifth**}} (muda *ve* para *f*), {{8th = **eighth**}} (um *t* só), {{9th = **ninth**}} (sem *e*), {{12th = **twelfth**}}, {{13th = thirteenth}}, {{14th = fourteenth}}, {{20th = **twentieth**}}, {{30th = **thirtieth**}}.
+
+**Como ler e escrever datas nos EUA vs. Reino Unido:**
+
+- **Estados Unidos (Mês + Dia):** Escreve-se {{October 14th, 2026}} (ou 10/14/2026) e fala-se {{October fourteenth, twenty twenty-six}}.
+
+- **Reino Unido (Dia + Mês):** Escreve-se {{14th October 2026}} (ou 14/10/2026) e fala-se {{the fourteenth of October, twenty twenty-six}}.
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| Is this seat taken? | Este lugar está ocupado? |
-| Whose bag is this? | De quem é esta bolsa? |
-| That's mine. | Aquilo é meu. |
-| She's a friend of mine. | Ela é uma amiga minha. |
-| My phone's dead. Can I use yours? | Meu celular descarregou. Posso usar o seu? |
-| Those are my parents' keys. | Aquelas são as chaves dos meus pais. |
-| It's a small, quiet street. | É uma rua pequena e tranquila. |
-| What's your phone number? | Qual é o seu número de telefone? |
+| **Inglês**                                                          | **Português natural**                                      |
+|---------------------------------------------------------------------|------------------------------------------------------------|
+| {{Excuse me, what time is it? — It's a quarter to four.}}           | Com licença, que horas são? — São quinze para as quatro.   |
+| {{What time does our flight leave tomorrow morning?}}               | A que horas o nosso voo sai amanhã de manhã?               |
+| {{I have a doctor's appointment on Wednesday at ten thirty.}}       | Tenho uma consulta médica na quarta-feira às dez e meia.   |
+| {{My birthday is on May 21st, and I was born in 1994.}}             | Meu aniversário é no dia 21 de maio, e eu nasci em 1994.   |
+| {{The office is open from Monday to Friday, from 9 a.m. to 6 p.m.}} | O escritório abre de segunda a sexta, das 9h às 18h.       |
+| {{Are you free this afternoon, or next Monday?}}                    | Você está livre hoje à tarde, ou na próxima segunda-feira? |
+| {{The train leaves in fifteen minutes from Platform 14.}}           | O trem sai daqui a quinze minutos da Plataforma 14.        |
+| {{Wait — did you say fifteen dollars or fifty dollars?}}            | Espere — você disse quinze dólares ou cinquenta dólares?   |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  Ana loves \_\_\_\_ job. (she, her)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2.  That's my brother. \_\_\_\_ name is Leo. (His, Her)
+1.  Our presentation is \_\_\_\_ Monday \_\_\_\_ two thirty \_\_\_\_ the afternoon. (in / on) (at / on) (in / at)
 
-3.  Maria and \_\_\_\_ husband live in Porto. (she, her)
+2.  My sister was born \_\_\_\_ July, \_\_\_\_ July 3rd, \_\_\_\_ 1998. (in / on) (in / on) (in / on)
 
-4.  These bags are \_\_\_\_. (we, ours)
+3.  I usually read \_\_\_\_ night, and I never work \_\_\_\_ next Sunday. (in / at) (on / \[sem preposição\])
 
-5.  Is this book \_\_\_\_? (you, yours)
+4.  It's 4:45 → It's a quarter \_\_\_\_ five. (past / to)
 
-6.  \_\_\_\_ shoes are new. (This, These)
+5.  It's 8:30 → It's half \_\_\_\_ eight. (past / to)
 
-7.  I like \_\_\_\_ jacket over there. (that, those)
+6.  How do you spell the number 40? (fourty / forty)
 
-8.  She has two \_\_\_\_ cars. (nice, nices)
+7.  In the US, the date **05/12/2026** means \_\_\_\_. (May 12th / December 5th)
 
-**Degrau 2. Complete.**
+8.  The meeting starts \_\_\_\_ ten minutes! (in / ago)
 
-1.  I live with \_\_\_\_ parents. (I)
+**Degrau 2. Complete.** Preencha com {{in, on, at, from, to}}, com -- (sem preposição), ou escreva os horários e datas por extenso.
 
-2.  Tom and Lisa love \_\_\_\_ dog. (they)
+1.  Are you busy \_\_\_\_ tomorrow morning? Let's have coffee \_\_\_\_ ten o'clock!
 
-3.  The cat is hungry. \_\_\_\_ bowl is empty. (it)
+2.  The conference is \_\_\_\_ November: it starts \_\_\_\_ November 1st and ends \_\_\_\_ November 4th.
 
-4.  That isn't your pen. It's \_\_\_\_. (I)
+3.  Escreva 2:15 de dois jeitos: It's \_\_\_\_ = It's a \_\_\_\_ \_\_\_\_ two.
 
-5.  Whose bag is this? It's \_\_\_\_. (Paula)
+4.  Escreva 6:50 de dois jeitos: It's \_\_\_\_ = It's ten \_\_\_\_ \_\_\_\_.
 
-6.  Escreva "o celular da minha irmã": my \_\_\_\_ phone.
+5.  Escreva os ordinais por extenso: 1st = \_\_\_\_, 2nd = \_\_\_\_, 3rd = \_\_\_\_, 5th = \_\_\_\_, 21st = \_\_\_\_.
 
-7.  Escreva "a casa das meninas": the \_\_\_\_ house.
+6.  Escreva o ano por extenso: 1985 = \_\_\_\_; 2026 = \_\_\_\_.
 
-8.  Escreva "uma casa velha e grande" com a ordem natural: a \_\_\_\_ house.
+7.  We work \_\_\_\_ nine \_\_\_\_ six \_\_\_\_ weekdays, and we relax \_\_\_\_ the weekend.
 
-9.  \_\_\_\_ shoes here are my size. (this/these)
+8.  Look! Our flight is \_\_\_\_ Gate 18 (escreva por extenso: \_\_\_\_), not Gate 80 (\_\_\_\_).
 
-10. \_\_\_\_ is my seat, over there. (this/that)
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Diga o dia e o mês do seu aniversário ({{on...}}) e o ano em que você nasceu ({{in...}}), escrevendo a data e o ano por extenso.
 
-Escreva três frases sobre a sua família com *my + substantivo* e *his/her + substantivo*, por exemplo: *My sister has a dog. Her dog is very old.*
+2.  Escreva quatro compromissos da sua semana dizendo o dia da semana ({{on...}}) e a hora exata ({{at...}}) usando {{half past}}, {{a quarter past}} e {{a quarter to}}.
 
-Descreva o seu telefone, a sua bolsa ou a sua mochila com dois adjetivos antes do substantivo.
+3.  Escreva uma frase usando {{this evening}} e {{next week}} (lembrando da regra de zero preposição!).
 
-Escreva uma pergunta com *Whose* sobre algo que você vê agora, e responda com *'s* ou com *mine/yours*.
+4.  Faça uma pergunta a um atendente confirmando se o preço é \$14 ou \$40 ({{fourteen}} vs. {{forty}}).
 
-Escreva duas frases que usem *this/these* e *that/those* para comparar coisas perto e longe de você.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  The meeting is in Wednesday, in two o'clock in the afternoon.
 
-1.  Ana is happy with his job. (o emprego é dela)
+2.  My birthday is in October 22 of 1995.
 
-2.  The my sister lives in Lisbon.
+3.  See you on next Friday in the night!
 
-3.  I have two blues bags.
+4.  The store has open from 9 a.m. at 8 p.m., and the jacket costs fourty dollars.
 
-4.  This are my keys.
+5.  What time is it? — Is a quarter to five!
 
-5.  A friend of me is here.
+6.  I have a call in this afternoon with the team.
 
-6.  That phones are expensive. (os telefones estão longe)
+7.  Our flight leaves on Tuesday, May 3rd, at a quarter to seven in the morning.
 
-7.  My brother's friends are here.
 :::::
 
 ## 8. O erro típico
 
-O erro mais frequente do brasileiro aqui nasce de uma tradução inocente: **usar o gênero da coisa em vez do gênero do dono**. Como "casa" é feminina, a tentação é escrever *her house* mesmo para o Pedro. A pergunta certa é sempre: "de quem é?".
-
-O segundo erro vem do hábito de pôr "o" antes do possessivo ("o meu carro"). Em inglês, o possessivo já faz o papel do artigo, então *the my car* não existe.
-
-O terceiro é o adjetivo plural: *blues, news, nices*. O inglês não faz isso, nem com cores.
+O erro mais frequente de brasileiros ao agendar reuniões é **usar {{in}} antes de dias da semana e datas** (dizendo ~~in Monday~~ ou ~~in May 5th~~) e **colocar {{on / in}} antes de {{next, last, this}}** (dizendo ~~on next week~~ ou ~~in this afternoon~~). Grave a regra: se tem **Dia** na jogada (seja o nome do dia como {{Monday}}, seja o número do dia como {{May 5th}}), a preposição é sempre **{{on}}**!
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~Pedro loves her job.~~ (o emprego é dele) | Pedro loves **his** job. | o possessivo segue o dono |
-| ~~The my friend is late.~~ | **My** friend is late. | possessivo e artigo não se juntam |
-| ~~Two blues cars~~ | Two **blue** cars. | adjetivo não tem plural |
-| ~~A car red~~ | A **red car**. | adjetivo antes do substantivo |
-| ~~The phone of my sister~~ | **My sister's phone** | pessoas pedem *'s* |
-| ~~These is my bag.~~ | **This** is my bag. | *this* é um, *these* é vários |
+
+| **Errado**                           | **Certo**                         | **Por quê**                                                                                            |
+|--------------------------------------|-----------------------------------|--------------------------------------------------------------------------------------------------------|
+| ~~in Monday / in Friday morning~~    | {{on Monday / on Friday morning}} | Qualquer expressão que contenha o dia da semana exige **{{on}}**.                                      |
+| ~~in May 10 / in May ten~~           | {{on May 10th (tenth)}}           | Mês sozinho usa {{in}} ({{in May}}), mas quando entra o dia vira data e exige **{{on}}** + ordinal.    |
+| ~~in the night~~                     | {{at night}}                      | Dizemos {{in the morning / afternoon / evening}}, mas "à noite" (madrugada/dormir) é **{{at night}}**. |
+| ~~on next week / in this afternoon~~ | {{next week / this afternoon}}    | Nunca se usa preposição antes de {{this, next, last, every, today, tomorrow}}.                         |
+| ~~fourty (40)~~                      | {{forty}}                         | {{Four}} (4) e {{fourteen}} (14) têm *u*, mas **{{forty}}** (40) perde o *u*!                          |
+| ~~\$1.500,50~~ (padrão BR)           | {{\$1,500.50}}                    | Em inglês, a vírgula separa os milhares e o ponto separa os centavos.                                  |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 5.** Complete com o presente contínuo: *Right now, my sister \_\_\_\_ (work) and my parents \_\_\_\_ (watch) TV.*
+1.  **Do Capítulo 5.** Complete: {{What time \_\_\_\_ (do / does) your husband \_\_\_\_ (finish / finishes) work on Fridays? — He usually \_\_\_\_ (finish / finishes) at five.}}
 
-**Do capítulo 4.** Responda: *Is there any milk in the fridge?* Troque para a negativa: *There isn't \_\_\_\_ milk.*
+2.  **Do Capítulo 4 e 6.** Una o funil de Lugar (Cap. 4) com o funil de Tempo (Cap. 6): qual preposição ({{in, on, at}}) usamos para (a) cidades e meses; (b) andares, ruas e dias da semana; \(c) trabalho/casa e horas exatas?
 
-**Do capítulo 3.** Passe para a terceira pessoa: *I work in a hotel.* → *She \_\_\_\_ in a hotel.* / *I don't like coffee.* → *He \_\_\_\_ like coffee.*
+3.  **Do Capítulo 3.** Como dizemos *"a reunião de hoje"* e *"o voo de amanhã"* usando {{'s}}?
 
-**Do capítulo 2.** Complete com *am, is* ou *are*: *My name \_\_\_\_ Rafa and my friends \_\_\_\_ from Chile. I \_\_\_\_ 25.*
-
-**Do capítulo 1.** Leia em voz alta, devagar: *this, that, these, those, three, thirty.* Qual deles tem o som de *th* de "thin"? E qual tem o de "the"?
-
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta, trocando *Emma* por seu nome. |
-| Dia 3 | Descreva cinco objetos do seu quarto com *my + adjetivo + substantivo*. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Escreva um parágrafo de seis linhas sobre a sua família, só com *his, her, their* e *'s*. |
+| **Quando** | **O que fazer**                                                                                                          |
+|------------|--------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta praticando os horários e o contraste sonoro entre {{thirTEEN}} e {{THIRty}}.                     |
+| Dia 3      | Olhe para o seu celular 5 vezes ao longo do dia e diga a hora em voz alta dos dois jeitos (digital e com {{past / to}}). |
+| Dia 7      | Refaça o Degrau 4 sem consultar a chave comentada.                                                                       |
+| Dia 14     | Abra a sua agenda da próxima semana e fale em voz alta todos os seus compromissos com dia, data e hora em inglês.        |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-O possessivo segue o **dono**, não a coisa: *his, her, its, their*. Não há artigo antes dele.
 
-Sozinhos, usamos *mine, yours, his, hers, ours, theirs*. Depois de *of*: *a friend of mine*.
+- **Funil de Tempo ({{IN / ON / AT}}):**
 
-Pessoas: *Tom's bag*. Plural em *-s*: *my parents' house*. Coisas: *the kitchen door* ou *the end of the film*.
+  - **{{AT}}** = horas ({{at 8:30, at noon, at midnight}}) e {{at night}}.
 
-*This/these* perto, *that/those* longe. Concordam em número.
+  - **{{ON}}** = dias e datas ({{on Tuesday, on May 3rd, on Monday morning, on weekends}}).
 
-O adjetivo vem **antes** do substantivo e **não varia**. Ordem: opinião, tamanho, idade, cor, origem, material.
+  - **{{IN}}** = meses, estações, anos ({{in July, in winter, in 2026}}), partes do dia ({{in the morning / afternoon / evening}}) e "daqui a" ({{in ten minutes}}).
+
+  - **Zero preposição:** antes de {{this, next, last, every, today, tomorrow, yesterday}}.
+
+- **Horas:** Modo direto ({{ten fifteen, four forty-five}}) ou tradicional ({{a quarter past ten, half past ten, a quarter to five}}).
+
+- **Datas e Números:** Ordinais obrigatórios nas datas ({{1st first, 2nd second, 3rd third, 4th fourth...}}). Contraste de sílaba tônica em {{thir**TEEN**}} (13) vs. {{**THIR**ty}} (30).
 
 **Já consigo?**
 
-Digo de quem é uma coisa com *my, your, his, her* e *'s* sem hesitar.
+- Marcar ou remarcar uma consulta ou reunião dizendo o dia da semana ({{on}}), a data ordinal ({{October 16th}}) e a hora ({{at}}).
+- Dizer as horas tanto no formato digital quanto com {{half past}}, {{a quarter past}} e {{a quarter to}}.
+- Distinguir no ouvido e na fala 13–19 ({{-TEEN}}) de 30–90 ({{-ty}}) e ler preços e anos com fluidez.
 
-Aponto o que está perto e o que está longe com *this, that, these, those*.
-
-Descrevo um objeto com dois adjetivos na ordem certa e sem plural.
 :::::
 
 ## Glossário do capítulo 6
 
-| Inglês | Português |
-|---|---|
-| my, your, his, her, its, our, their | meu(s)/minha(s), seu(s)/sua(s), dele, dela, dele(a), nosso(s), deles |
-| mine, yours, hers, ours, theirs | o meu, o seu, o dela, o nosso, o deles |
-| whose | de quem |
-| this, these | este(s), esta(s), isto |
-| that, those | aquele(s), aquela(s), aquilo |
-| key | chave |
-| charger | carregador |
-| bag | bolsa, mochila |
-| jacket | jaqueta |
-| shoes | sapatos |
-| bunk | beliche |
-| front desk | recepção |
-| room | quarto |
-| tag | etiqueta |
-| old | velho, antigo |
-| new | novo |
-| big, small | grande, pequeno |
-| nice | agradável, legal |
-| cheap, expensive | barato, caro |
-| a friend of mine | um amigo meu |
-| parents | pais (pai e mãe) |
+| **Inglês**                                 | **Português**                                      |
+|--------------------------------------------|----------------------------------------------------|
+| {{What time is it?}}                       | Que horas são?                                     |
+| {{a quarter past \[three\]}}               | \[três\] e quinze (um quarto passado das \[três\]) |
+| {{half past \[three\]}}                    | \[três\] e meia                                    |
+| {{a quarter to \[five\]}}                  | quinze para as \[cinco\]                           |
+| {{at noon}} / {{at midnight}}              | ao meio-dia / à meia-noite                         |
+| {{in the morning / afternoon / evening}}   | de manhã / à tarde / à noite (início da noite)     |
+| {{at night}}                               | à noite (tarde da noite / de madrugada)            |
+| {{appointment}} / {{reschedule}}           | consulta (hora marcada) / remarcar                 |
+| {{We have an opening at...}}               | Temos um horário vago às...                        |
+| {{That works great for me!}}               | Esse horário funciona muito bem para mim!          |
+| {{gate}}                                   | portão de embarque                                 |
+| {{a.m.}} / {{p.m.}}                        | da manhã (0h–11h59) / da tarde ou noite (12h–23h59) |
+| {{weekdays}} / {{the weekend}}             | dias úteis / o fim de semana                       |
+| {{You're all set!}}                        | Tudo certo / confirmado para você!                 |
+| {{first (1st), second (2nd), third (3rd)}} | primeiro, segundo, terceiro                        |
+| {{in ten minutes}}                         | daqui a dez minutos                                |
 
 ## Chave comentada do capítulo 6
 
 ::::: gabarito
-**Degrau 1.** 1 her (Ana é mulher). 2 His (o dono é o irmão). 3 her (a dona do marido é Maria). 4 ours (sozinho, sem substantivo). 5 yours (sozinho). 6 These (*shoes* é plural). 7 that (singular, longe). 8 nice (adjetivo não varia).
 
-**Degrau 2.** 1 my. 2 their. 3 Its (sem apóstrofo). 4 mine. 5 Paula's. 6 sister's. 7 girls'. 8 big old (*a big old house*; tamanho antes de idade). 9 These. 10 That.
+**Degrau 1.** 1 on, at, in (dia = {{on}}; hora = {{at}}; parte do dia = {{in}}). 2 in, on, in (mês sozinho = {{in}}; data com dia = {{on}}; ano = {{in}}). 3 at, \[sem preposição\] ({{at night}}; antes de {{next}} não vai preposição). 4 to (4:45 = 15 para as 5). 5 past (8:30 = meia hora passada das 8). 6 forty (sem *u*). 7 May 12th (nos EUA o formato é mês/dia/ano). 8 in ("daqui a dez minutos").
 
-**Degrau 3.** Respostas pessoais. Confira: possessivo sem *the*, adjetivo antes do substantivo e no singular, *'s* depois do dono.
+**Degrau 2.** 1 --, at. 2 in, on, on. 3 two fifteen, quarter past. 4 six fifty, to seven. 5 first, second, third, fifth, twenty-first. 6 nineteen eighty-five; twenty twenty-six. 7 from, to, on, on (ou at). 8 at, eighteen, eighty.
+
+**Degrau 3.** Modelo: 1. {{My birthday is on August 22nd (twenty-second), and I was born in 1992 (nineteen ninety-two).}} 2. {{On Monday, I have a meeting at half past nine. On Wednesday, I have an English class at a quarter past seven. On Thursday, I have a dentist appointment at a quarter to four. On Friday, I finish work at five o'clock.}} 3. {{I'm free this evening, and I'm traveling to Chicago next week.}} 4. {{Excuse me, did you say fourteen dollars or forty dollars?}}
 
 **Degrau 4.**
 
-1.  Ana is happy with her job.
+1.  {{The meeting is on Wednesday, at two o'clock in the afternoon.}}
 
-2.  My sister lives in Lisbon. (sem *the*)
+2.  {{My birthday is on October 22nd, 1995.}} (Usa {{on}}, ordinal {{22nd}} e sem *"of"* antes do ano).
 
-3.  I have two blue bags.
+3.  {{See you next Friday night!}} (sem preposição antes de {{next}}; "à noite" aqui é {{Friday night}}).
 
-4.  These are my keys.
+4.  {{The store is open from 9 a.m. to 8 p.m., and the jacket costs forty dollars.}}
 
-5.  A friend of mine is here.
+5.  {{What time is it? — It's a quarter to five!}} (O sujeito {{It}} é obrigatório, como na Lei 1 da Introdução).
 
-6.  Those phones are expensive.
+6.  {{I have a call this afternoon with the team.}} (Sem {{in}} antes de {{this}}).
 
-7.  Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 5: is working, are watching. Capítulo 4: Sim ou não, conforme o caso (resposta pessoal); there isn't any milk. Capítulo 3: works, doesn't. Capítulo 2: is, are, am. Capítulo 1: *thin* e *three* e *thirty* têm o *th* surdo; *this, that, these, those* têm o *th* sonoro (como em *the*).
+**Retorno.** 1. {{does, finish, finishes}}. 2. (a) {{in}} (cidades/países e meses/anos); (b) {{on}} (andares/ruas e dias/datas); \(c) {{at}} ({{at work/home}} e horas exatas). 3. {{today's meeting}}, {{tomorrow's flight}}.
+
 :::::

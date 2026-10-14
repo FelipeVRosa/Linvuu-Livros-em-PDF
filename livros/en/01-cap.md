@@ -1,532 +1,315 @@
-# Capítulo 1. Sons e ortografia (A1)
+# Capítulo 1. Primeiro contato: quem você é, de onde vem e o que faz (A1)
 
-**Meta do capítulo.** Ao final, você soletra seu nome com as letras do inglês, evita acrescentar vogais no fim das palavras, diferencia {{ship}} de {{sheep}} e {{thirteen}} de {{thirty}}, lê {{-ed}} e {{-s}} finais com o som certo e sabe procurar o acento de uma palavra nova.
+**Meta do capítulo.** Ao final, você se apresenta no trabalho, em viagens ou na imigração usando o verbo {{to be}} ({{am, is, are}}) com as contrações faladas ({{I'm, you're, he's, isn't, aren't}}), aplica a regra dos artigos ({{a, an, the}} e quando não usar artigo), nunca deixa a frase sem sujeito ({{It's cold}}) e fala de idade e sensações físicas sem usar o verbo "ter".
 
-## 1. Cena: no balcão do albergue
+## 1. Cena: check-in no coworking em Toronto
 
-Camila chega a um albergue em Nova York, depois de um voo longo. A recepcionista confere a reserva.
+Lucas acabou de chegar a um espaço de coworking em Toronto para uma semana de reuniões internacionais e faz o cadastro na recepção.
 
 ::: dialogo
-**Receptionist:** {{Hi, welcome! Do you have a reservation?}}
 
-**Camila:** {{Yes. The name is Camila Rocha.}}
+**Receptionist:** {{Good morning! Welcome to HubWork. Are you here for the global tech event?}}
 
-**Receptionist:** {{Could you spell your last name, please?}}
+**Lucas:** {{Morning! Yes, I am. Actually, I'm here for the whole week.}}
 
-**Camila:** {{Sure. R, O, C, H, A.}}
+**Receptionist:** {{Great! What's your full name, please?}}
 
-**Receptionist:** {{Thanks. You're in room thirteen, on the third floor. It's thirty dollars a night.}}
+**Lucas:** {{It's Lucas Mendes.}}
 
-**Camila:** {{Sorry, thirteen or thirty?}}
+**Receptionist:** {{Got it. And where are you from, Lucas?}}
 
-**Receptionist:** {{Both! Room thirteen, thirty dollars.}}
+**Lucas:** {{I'm originally from Brazil, from São Paulo, but I'm in Toronto on business right now.}}
 
-**Camila:** {{Great. And the Wi-Fi password?}}
+**Receptionist:** {{Nice! Is this your first time in Canada?}}
 
-**Receptionist:** {{It's on the card. Enjoy your stay!}}
+**Lucas:** {{Yes, it is. The city is amazing, but it's a bit cold for me today, to be honest!}}
+
+**Receptionist:** {{Haha, it's only ten degrees outside! What do you do, by the way? Are you a software engineer?}}
+
+**Lucas:** {{No, I'm not an engineer. I'm a product manager at an international fintech.}}
+
+**Receptionist:** {{Awesome. Your visitor badge is ready. The Wi-Fi password is on the back, and coffee is free in the kitchen!}}
+
 :::
 
-Em português: Oi, bem-vinda! Você tem reserva? / Tenho. O nome é Camila Rocha. / Pode soletrar o sobrenome, por favor? / Claro. R, O, C, H, A. / Obrigada. Você está no quarto treze, no terceiro andar. São trinta dólares por noite. / Desculpe, treze ou trinta? / Os dois! Quarto treze, trinta dólares. / Ótimo. E a senha do Wi-Fi? / Está no cartão. Boa estadia!
+Em português: Bom dia! Bem-vindo ao HubWork. Você está aqui para o evento global de tecnologia? / Bom dia! Estou, sim. Na verdade, estou aqui pela semana inteira. / Ótimo! Qual é o seu nome completo, por favor? / É Lucas Mendes. / Entendi. E de onde você é, Lucas? / Sou originalmente do Brasil, de São Paulo, mas estou em Toronto a negócios agora. / Legal! É a sua primeira vez no Canadá? / Sim, é. A cidade é incrível, mas está um pouco frio para mim hoje, para ser sincero! / Haha, está só dez graus lá fora! O que você faz, aliás? Você é engenheiro de software? / Não, não sou engenheiro. Sou gerente de produto em uma fintech internacional. / Perfeito. Seu crachá de visitante está pronto. A senha do Wi-Fi está atrás, e o café é gratuito na cozinha!
 
-Repare em três coisas que esta cena já usa: o **soletrar** (as letras têm nomes diferentes dos do português), o par **treze × trinta**, que as duas pessoas precisaram esclarecer, e palavras como {{reservation}} e {{welcome}}, que você reconhece na escrita, mas cuja pronúncia não é a que o português sugere.
+Repare que um único verbo em inglês ({{am / is / are}}) resolve tanto o nosso "ser" quanto o "estar", que toda profissão no singular pede {{a}} ou {{an}} na frente ({{a product manager}}, {{an engineer}}), e que para falar do clima entra o sujeito obrigatório {{it}} ({{it's a bit cold}}).
 
 ## 2. A armadilha do português
 
-O português tem uma ortografia **quase fonética**: quem sabe as regras lê qualquer palavra nova e acerta. O inglês não é assim. A mesma letra faz sons diferentes, e o mesmo som se escreve de jeitos diferentes. Isso gera quatro armadilhas, e as quatro merecem atenção desde o primeiro dia.
+Logo nas primeiras frases em inglês, quem fala português cai em quatro armadilhas por traduzir ao pé da letra:
 
-**Armadilha 1. Ler o inglês como se fosse português.** O brasileiro olha para {{hot}} e fala `rótch`, olha para {{love}} e fala `lôvi`. No inglês, a letra **o** soa diferente em {{hot}}, {{go}}, {{love}}, {{women}} e {{do}}. Não há como adivinhar: a escrita sozinha não basta, e você precisa ouvir a palavra.
+| **O hábito do português**        | **Como o inglês pensa (Certo)**            | **O erro típico a evitar**                 |
+|----------------------------------|--------------------------------------------|--------------------------------------------|
+| Tenho 30 anos. / Estou com fome. | {{I'm 30 (years old).}} / {{I'm hungry.}}  | ~~I have 30 years.~~ / ~~I have hunger.~~  |
+| Sou gerente de produto.          | {{I'm a product manager.}}                 | ~~I'm product manager.~~                   |
+| Está frio hoje. / É tarde.       | {{It's cold today.}} / {{It's late.}}      | ~~Is cold today.~~ / ~~Is late.~~          |
+| Eu amo o café. / Moro no Brasil. | {{I love coffee.}} / {{I live in Brazil.}} | ~~I love the coffee.~~ / ~~in the Brazil~~ |
 
-**Armadilha 2. Acrescentar uma vogal.** O português quase não termina sílaba em consoante dura: "pa-pel", "ca-sa", "ho-je". Por isso, o ouvido brasileiro "completa" as palavras inglesas:
+**1. Idade e sensações usam {{to be}}, nunca {{have}}.** Em inglês, idade, fome ({{hungry}}), sede ({{thirsty}}), frio ({{cold}}), calor ({{hot}}), sono ({{sleepy}}), medo ({{afraid}}) e razão ({{You're right}}) são estados do corpo, expressos com {{am / is / are}}.
 
-| O que o inglês diz | O que o brasileiro costuma falar |
-|---|---|
-| {{hip-hop}} | `rípi rópi` |
-| {{Facebook}} | `feicebuki` |
-| {{stop}} | `istópi` |
-| {{school}} | `iscúl` |
-| {{team}} | `tchim` |
+**2. Profissão no singular exige {{a}} ou {{an}}.** Em português dizemos "Sou médico, ela é arquiteta". Em inglês, nunca deixe a profissão no singular sem artigo: {{I'm a doctor}}, {{She's an architect}}.
 
-**Armadilha 3. Sons que não existem no português.** Há quatro grandes ausências: o **th** (língua entre os dentes), o **i curto** de {{ship}} contra o **i longo** de {{sheep}}, o **a** de {{cat}}, e o **r** americano. Sem esses, {{I think so}} vira `ai sink sô`, e {{ship}} e {{sheep}} ficam iguais.
-
-**Armadilha 4. Ritmo.** O português dá mais ou menos o mesmo peso a todas as sílabas. O inglês escolhe **uma sílaba forte** por palavra e **encolhe as outras** para um som fraco e curto, o *schwa*. Quem fala {{banana}} com todas as sílabas iguais é entendido, mas soa estranho; quem fala {{photograph}} com o acento no lugar errado, às vezes não é entendido.
-
-**Como ler os guias de pronúncia deste livro.** Em vez de ensinar o alfabeto fonético inteiro, o livro mostra a pronúncia entre crases, com letras do português, assim: `ai ár ríli`. Valem estas convenções:
-
-| No guia | Significa | Exemplo |
-|---|---|---|
-| MAIÚSCULAS | a sílaba forte | {{hotel}} `hôu-TÉL` |
-| `th` | o som do {{th}} de {{think}}, língua entre os dentes, sem voz | {{think}} `thínk` |
-| `dh` | o som do {{th}} de {{this}}, língua entre os dentes, com voz | {{this}} `dhɪs` |
-| `tch`, `dj` | como em "tchau" e no "dj" de "DJ" | {{church}} `tchértch`, {{job}} `djáb` |
-| `r` | o r americano (seção 5.5) | {{red}} `réd` |
-| `ɪ ʌ ʊ æ ə ɑ` | símbolos que o português não escreve (seções 5.2 e 5.8) | {{ship}} `chɪp` |
-| `ː` | vogal longa | {{sheep}} `chiːp` |
-
-Poucos símbolos de IPA entram no livro, e só onde o português não tem como representar o som. O guia é uma ponte, não o destino: o ouvido é a ferramenta principal. Ouça e repita em voz alta; ler em silêncio ensina os olhos, não a boca.
+**3. Nenhuma frase começa direto em {{is}} sem sujeito.** Para clima, hora, distância ou situação, coloque sempre {{It's}} na frente ({{It's ten degrees}}, {{It's Lucas}}).
 
 ## 3. Descubra você mesmo
 
-Leia cada lista em voz alta, ou ouça-a no áudio do curso. Primeiro, o final {{-ed}} de verbos no passado:
+Observe como o verbo {{to be}} funciona nas três colunas abaixo:
 
-| A | B | C |
-|---|---|---|
-| worked | played | wanted |
-| stopped | cleaned | needed |
-| watched | lived | decided |
-
-Agora o final {{-s}} (plural ou verbo):
-
-| A | B | C |
-|---|---|---|
-| cats | dogs | buses |
-| books | plays | watches |
-| works | friends | judges |
+| **Afirmativa (Contraída)** | **Negativa**              | **Pergunta e Resposta Curta**                             |
+|----------------------------|---------------------------|-----------------------------------------------------------|
+| {{I'm a manager.}}         | {{I'm not an engineer.}}  | {{Are you ready? — Yes, I am. / No, I'm not.}}            |
+| {{He's from São Paulo.}}   | {{He isn't from Rio.}}    | {{Is he here on business? — Yes, he is. / No, he isn't.}} |
+| {{She's an executive.}}    | {{She isn't a director.}} | {{Is she at the hotel? — Yes, she is.}}                   |
+| {{It's cold outside.}}     | {{It isn't raining.}}     | {{Is it free? — Yes, it is. / No, it isn't.}}             |
+| {{We're in Toronto.}}      | {{We aren't late.}}       | {{Are we in Room 2? — Yes, we are.}}                      |
+| {{They're from Canada.}}   | {{They aren't hungry.}}   | {{Are they developers? — No, they aren't.}}               |
 
 Perguntas:
 
-O final de {{worked}}, {{played}} e {{wanted}} soa igual? E o de {{cats}}, {{dogs}} e {{buses}}?
+1.  O que acontece com a posição do verbo {{am / is / are}} quando transformamos uma afirmação em pergunta?
 
-Olhe o **último som** antes do final em cada coluna (o /k/ de {{worked}}, a vogal final de {{played}}, o /t/ de {{wanted}}). O que a coluna A tem em comum? E a C?
+2.  Olhe para as respostas curtas afirmativas ({{Yes, I am}}, {{Yes, he is}}, {{Yes, it is}}): por que nelas não usamos a forma contraída?
 
-Se você percebeu que o final depende do som anterior e não da letra, descobriu a regra que a seção 5 explica.
+Se você notou que na pergunta o verbo salta para antes da pessoa e que na resposta curta afirmativa não se contrai no final (nunca diga ~~Yes, I'm~~ ou ~~Yes, it's~~), você já domina a mecânica do verbo {{to be}}.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1. **Soletrar:** as letras têm nome próprio em inglês (A `êi`, E `i`, I `ai`, G `djí`, J `djêi`). Aprenda os 26 nomes. Você os usa toda vez que diz seu nome.
 
-2. **Nada de vogal extra no fim.** {{hip-hop}} termina em /p/, sem `-i`. {{Facebook}} termina em /k/. Feche a boca na consoante.
+1.  **As 3 formas de {{to be}} no presente:** **{{am}}** (só com {{I}}), **{{is}}** (com 1 pessoa ou coisa: {{he, she, it}}), **{{are}}** (com {{you}} e plurais: {{we, they}}). Na fala, contraia sempre: {{I'm, you're, he's, she's, it's, we're, they're}}.
 
-3. **T e D sempre duros.** {{team}} é `tim`, não `tchim`. {{deal}} é `dil`, não `djil`.
+2.  **Negativa e Pergunta autossuficientes:** O verbo {{to be}} nunca usa {{do / does / don't}}. Para negar, cole {{not}} ({{I'm not, isn't, aren't}}). Para perguntar, inverta o verbo para antes do sujeito ({{Are you...?}}, {{Where is she from?}}).
 
-4. **th:** ponha a língua entre os dentes e solte o ar. Não troque por t, f ou s.
+3.  **Artigo indefinido ({{a}} vs. {{an}}):** A escolha depende do **som** inicial da palavra seguinte: **{{a}}** antes de som de consoante ({{a manager}}, {{a university}} — som de iu); **{{an}}** antes de som de vogal ({{an engineer}}, {{an hour}} — o h é mudo).
 
-5. **i curto × longo:** {{ship}} (curto, relaxado) ≠ {{sheep}} (longo, esticado, sorrindo).
+4.  **Artigo definido ({{the}}) vs. Zero artigo:** Use **{{the}}** para coisas específicas ({{the Wi-Fi password in this room}}). **Não use {{the}}** para falar de coisas em geral ({{Coffee is great}}, {{I love music}}) nem antes de nomes de pessoas, cidades e da maioria dos países ({{Brazil}}, {{Canada}}, exceto plurais/uniões como {{the US}}, {{the UK}}).
 
-6. **-ed:** `t` depois de som surdo ({{worked}}), `d` depois de som sonoro ({{played}}), `id` depois de t e d ({{wanted}}).
-
-7. **-s:** `s` depois de som surdo ({{cats}}), `z` depois de sonoro ({{dogs}}), `iz` depois de s, z, ch, sh, j ({{buses}}).
-
-8. **13 × 30:** {{thirTEEN}} (final forte e longo) × {{THIRty}} (início forte, final curto).
-
-9. **Dúvida na leitura?** Procure a palavra num dicionário online com áudio. Em inglês, a escrita não diz como ler.
 :::::
 
 ## 5. Por dentro
 
-**5.1 O alfabeto e o nome das letras**
+### 5.1 Como aplicar o verbo {{to be}} passo a passo
 
-O inglês usa as mesmas 26 letras do português (K, W e Y fazem parte do alfabeto aqui). O que muda é o **nome** de cada letra, que você precisa para soletrar nome, e-mail, endereço e senha.
+::: passo 1 Identifique quem é o sujeito (Singular vs. Plural)
 
-| Letra | Nome | Guia | Letra | Nome | Guia |
-|---|---|---|---|---|---|
-| A | {{ay}} | `êi` | N | {{en}} | `én` |
-| B | {{bee}} | `bi` | O | {{oh}} | `ôu` |
-| C | {{see}} | `si` | P | {{pee}} | `pi` |
-| D | {{dee}} | `di` | Q | {{cue}} | `kiú` |
-| E | {{ee}} | `i` | R | {{ar}} | `ár` |
-| F | {{ef}} | `éf` | S | {{ess}} | `és` |
-| G | {{gee}} | `djí` | T | {{tee}} | `ti` |
-| H | {{aitch}} | `êitch` | U | {{you}} | `iú` |
-| I | {{eye}} | `ai` | V | {{vee}} | `vi` |
-| J | {{jay}} | `djêi` | W | {{double-u}} | `dâbliu` |
-| K | {{kay}} | `quêi` | X | {{ex}} | `éks` |
-| L | {{el}} | `él` | Y | {{why}} | `uai` |
-| M | {{em}} | `ém` | Z | {{zee}} (EUA) | `zi` |
+Para uma pessoa do sexo masculino, use {{he}}; feminino, {{she}}. Para **1 objeto, empresa, cidade ou situação**, use sempre **{{it}}** ({{The company is big — it's international}}). Mas atenção: no plural, **2 ou mais objetos** também usam **{{they}}** ({{The rooms are big — they're clean}})!
 
-::: atencao
-No inglês britânico, o Z se diz {{zed}} `zéd`. No americano, é {{zee}}. Os dois são entendidos. Neste livro usamos o americano.
 :::
 
-Os pares que mais confundem o brasileiro: **E** (`i`) e **I** (`ai`); **G** (`djí`) e **J** (`djêi`); **Q** (`kiú`) e **U** (`iú`); **B**, **P** e **V**, que rimam, e por isso você deve apoiar o som inicial (`bi`, `pi`, `vi`, com o lábio de baixo tocando os dentes de cima no V); **A** (`êi`) e **H** (`êitch`).
+::: passo 2 Monte a negativa (duas opções naturais na fala)
 
-Frases que você usará todo dia:
+Com {{I}}, só existe uma contração negativa: **{{I'm not}}**. Com as demais pessoas, você pode contrair no verbo ({{He isn't}}, {{You aren't}}) ou contrair no sujeito deixando o {{not}} livre ({{He's not}}, {{You're not}}, {{We're not}}). As duas formas são corretas e muito usadas.
 
-| Inglês | Português |
-|---|---|
-| {{How do you spell your name?}} | Como se soletra seu nome? |
-| {{Could you spell that, please?}} | Pode soletrar, por favor? |
-| {{Is that with one L or two?}} | É com um L ou dois? |
-| {{double L, double S}} | dois L, dois S |
-| {{capital R}} / {{lowercase r}} | R maiúsculo / minúsculo |
-| {{dot}}, {{at}}, {{dash}}, {{underscore}} | ponto, arroba, traço, sublinhado |
-
-Para um e-mail, diga {{at}} para @ e {{dot}} para o ponto: ana.souza@mail.com lê-se {{ana dot souza at mail dot com}}. Nos números de telefone, o zero costuma ser dito {{oh}} `ôu`: 205 é {{two oh five}}.
-
-**5.2 Vogais: curtas e longas**
-
-O inglês americano tem mais vogais do que o português. Para o aluno brasileiro, cinco merecem treino especial. Os símbolos `ɪ ʌ ʊ æ ə` aparecem aqui porque o português não tem letras para eles.
-
-| Som | Palavras | Como fazer | Armadilha |
-|---|---|---|---|
-| `ɪ` | {{ship, sit, big, fish, live}} (verbo) | i curto e relaxado, boca quase parada, parecido com o "e" final de "leite" | falar `i` tenso e longo |
-| `iː` | {{sheep, seat, eat, green}} | i longo, lábios esticados como num sorriso | fazer curto como o `ɪ` |
-| `æ` | {{cat, bad, man, hand}} | entre "é" e "a", boca bem aberta, mandíbula baixa | falar `quét` ou `cát` |
-| `ʌ` | {{cup, bus, love, money}} | "a" curto e fechado, como o "a" final de "casa" na sílaba forte | falar `ó` ou `u` |
-| `ɑ` | {{hot, stop, job, box}} | "a" aberto, como em "pá" (inglês americano) | falar `ó` em `rótch` |
-| `ʊ` | {{book, good, put, could}} | u curto, lábios pouco arredondados | falar `u` longo |
-| `uː` | {{food, blue, two, you}} | u longo, lábios bem arredondados | falar curto |
-
-**Os pares que mudam o sentido:**
-
-| Curto | Longo |
-|---|---|
-| {{ship}} `chɪp` | {{sheep}} `chip` |
-| {{sit}} `sɪt` | {{seat}} `sit` |
-| {{live}} (verbo) `lɪv` | {{leave}} `liv` |
-| {{full}} `fʊl` | {{fool}} `ful` |
-| {{pull}} `pʊl` | {{pool}} `pul` |
-
-E o trio que o brasileiro troca sem perceber: {{hat}} `hæt`, {{hut}} `hʌt`, {{hot}} `hɑt`.
-
-**Ditongos.** Cinco vogais "deslizam" no meio: {{day}} `dêi`, {{my}} `mai`, {{boy}} `bói`, {{go}} `gôu`, {{now}} `náu`. Em {{go}} e {{no}}, o brasileiro costuma parar no `ô` e dizer `gô`, mas o inglês termina com um leve `u`.
-
-**Como saber qual vogal uma letra faz?** Não há regra universal, mas dois padrões ajudam:
-
-| Padrão | Efeito | Exemplo |
-|---|---|---|
-| vogal + consoante + **e** final | a vogal fica "longa", falando o nome da letra; o **e** não soa | {{cap → cape}}, {{kit → kite}}, {{hop → hope}}, {{cut → cute}} |
-| vogal + duas consoantes | a vogal fica curta | {{hopping}} (curto), {{hoping}} (longo) |
-| **ee**, **ea** | em geral o som longo `iː` | {{see, eat, tea}} |
-| **oo** | `uː` ou `ʊ`, depende | {{food}} (longo), {{book}} (curto) |
-| **ai**, **ay** | `êi` | {{rain, day}} |
-| **ou**, **ow** | `áu` ou `ôu`, depende da palavra | {{house, now}} / {{know, show}} |
-
-Exceções aparecem, e são comuns. {{Have}}, {{give}}, {{come}}, {{some}}, {{love}} e {{done}} não seguem o padrão do "e mudo". Trate cada exceção como vocabulário e vá registrando.
-
-**5.3 O th**
-
-O inglês tem dois sons de **th**, e o português não tem nenhum. Em ambos, a ponta da língua fica **entre os dentes**.
-
-| Som | Como fazer | Palavras |
-|---|---|---|
-| `th` (surdo) | língua entre os dentes, solte só ar, sem vibrar a garganta | {{think, thank you, three, mouth, birthday}} |
-| `dh` (com voz) | mesma posição, mas com a garganta vibrando | {{this, that, the, mother, brother, with}} |
-
-O erro típico é trocar o surdo por **t**, **f** ou **s** ({{three}} → `tri`, `fri`, `sri`) e o sonoro por **d** ou **z** ({{this}} → `dis`, `zis`). Um treino: ponha a ponta da língua entre os dentes, deixe o ar passar e diga `thhh`; depois acrescente o som da voz, `dhhh`. A troca por t ou d não costuma atrapalhar a compreensão em contexto, mas {{three}} dito como `free` ou {{think}} dito como `sink` pode confundir.
-
-**5.4 O h e o t**
-
-O **h** inicial do inglês é um sopro de ar, como quando você embaça um espelho para limpá-lo. Sai ar da garganta, sem atrito forte. {{hotel}} `hôu-TÉL`, {{house}} `háus`, {{help}} `hélp`. Quem não faz esse sopro diz `ôu-TÉL`, e a palavra pode se confundir com outra: {{hair}} sem h soa como {{air}}, {{hat}} sem h soa como {{at}}.
-
-Em poucas palavras, o **h** é mudo: {{hour}} `áuər`, {{honest}} `Á-nəst`, {{honor}} `Á-nər`.
-
-O **t** e o **d** do português viram "tch" e "dj" antes de i ("tia", "dia"). No inglês, **não**: {{team}} `tim`, {{tip}} `tɪp`, {{deal}} `dil`, {{did}} `dɪd`. Em contrapartida, nos EUA o **t** no meio da palavra, entre vogais, vira um "d" rápido: {{water}} `UÓder`, {{better}} `BÉder`, {{thirty}} `THÉRdi`. Esse é um som natural do inglês americano e não precisa ser evitado.
-
-**5.5 O r**
-
-O r do inglês americano **não é** o "r" de "rato" nem o de "caro". É um som feito com a língua puxada para trás, sem encostar em nada, e com os lábios levemente arredondados. Pense em "r" caipira (como em "porta" no interior de São Paulo), mas sem exagerar.
-
-O r **também se pronuncia no fim da sílaba**, ao contrário do que o brasileiro faria: {{car}} `kár` (com o r), {{work}} `uérk`, {{teacher}} `TI-tchər`. As sequências **er**, **ir**, **ur**, **ear** (em palavras como {{learn}}) e **or** depois de **w** têm o mesmo som, um `ér` com r americano: {{bird, her, turn, learn, work, world}}.
-
-**5.6 Final -ed (passado regular)**
-
-Escreve-se sempre {{-ed}}, mas há **três** pronúncias, e a que vale depende do **último som** do verbo, não da letra.
-
-| Final | Quando | Exemplos |
-|---|---|---|
-| `t` | depois de som surdo: p, k, f, s, th, ch, sh | {{stopped}} `stápt`, {{worked}} `uérkt`, {{watched}} `uótcht`, {{missed}} `míst`, {{washed}} `uócht` |
-| `d` | depois de som sonoro (vogal ou b, g, v, z, l, m, n, r etc.) | {{played}} `plêid`, {{cleaned}} `klínd`, {{lived}} `lɪvd`, {{called}} `kóld` |
-| `ɪd` (uma sílaba a mais) | depois de **t** ou **d** | {{wanted}} `UÓN-tɪd`, {{needed}} `NI-dɪd`, {{decided}} `di-SAI-dɪd` |
-
-::: atencao
-Escute o som, não a letra. {{Liked}} termina na letra **d**, mas o som é `t` (`laikt`), porque o último som de {{like}} é /k/. {{Asked}} é `ásk-t`: não é "ásk-id".
 :::
 
-**5.7 Final -s (plural, 3ª pessoa, 's)**
+::: passo 3 Monte perguntas diretas e com Question Words
 
-O mesmo critério vale para o **-s** do plural, da terceira pessoa do presente e do {{'s}} possessivo.
+Coloque a palavra interrogativa ({{What, Where, Who, How, Why}}) na ponta e mantenha o verbo {{to be}} antes do sujeito:
 
-| Final | Quando | Exemplos |
-|---|---|---|
-| `s` | depois de som surdo: p, t, k, f, th | {{cats}} `kæts`, {{books}} `bʊks`, {{works}} `uérks` |
-| `z` | depois de som sonoro (vogal ou b, d, g, v, l, m, n, r) | {{dogs}} `dógz`, {{plays}} `plêiz`, {{friends}} `fréndz`, {{learns}} `lérnz` |
-| `ɪz` (sílaba a mais) | depois de s, z, sh, ch, j (sons de assobio) | {{buses}} `BÂ-sɪz`, {{watches}} `UÓ-tchɪz`, {{judges}} `DJÂ-djɪz`, {{washes}} `UÓ-chɪz` |
+- {{Where are you from?}} (De onde você é? — com {{from}} no final).
 
-**5.8 Schwa e acento da palavra**
+- {{How old is she?}} (Quantos anos ela tem? — nunca ~~How many years has she?~~).
 
-O som mais comum do inglês é o **schwa** `ə`, uma vogal fraca, curta, quase um "â" sem esforço. Ele aparece nas sílabas **sem acento**: a primeira de {{about}} `ə-BÁUT`, as duas últimas de {{banana}} `bə-NÆ-nə`, a de {{teacher}}, a de {{sofa}} `SÔU-fə`. Ele é a principal razão de o inglês falado soar "engolido": as sílabas fracas encolhem.
-
-Cada palavra de duas ou mais sílabas tem **uma sílaba forte**. Se você acertar essa sílaba, o resto fica fácil. Cinco regras cobrem muitos casos:
-
-| Regra | Exemplos |
-|---|---|
-| Substantivos e adjetivos de duas sílabas: em geral a 1ª | {{TAble, DOCtor, HAPpy, TEAcher}} |
-| Verbos de duas sílabas: em geral a 2ª | {{beGIN, reLAX, deCIDE, arRIVE}} |
-| Palavras em **-tion, -sion, -ic, -ical, -ity**: a sílaba imediatamente antes | {{inforMAtion, ecoNOmic, uniVERsity, persoNALity}} |
-| Substantivo × verbo (mesma grafia, acento muda) | {{REcord (nome) × reCORD (verbo)}}, {{PREsent × preSENT}} |
-| Palavras compostas: a 1ª parte | {{BEDroom, TOOTHbrush, AIRport}} |
-
-Há exceções (os verbos {{VISit}} e {{ANswer}} têm acento na primeira), mas o padrão vale para a maioria das palavras novas.
-
-**Falsos amigos do acento.** Palavras parecidas com o português que mudam de sílaba forte:
-
-| Inglês | Pronúncia | Português | Armadilha |
-|---|---|---|---|
-| {{police}} | `pə-LÍS` | polícia | falar `PO-li-cia` |
-| {{hospital}} | `HÁS-pi-təl` | hospital | falar `os-pi-TAL` |
-| {{animal}} | `Æ-ni-məl` | animal | falar `a-ni-MAL` |
-| {{university}} | `iu-ni-VÉR-si-di` | universidade | falar `u-ni-ver-si-DA-de` |
-| {{necessary}} | `NÉ-sə-sé-ri` | necessário | falar `ne-ces-SÁ-rio` |
-| {{photography}} | `fə-TÁ-grə-fi` | fotografia | falar `fo-to-gra-FI-a` |
-| {{family}} | `FÆM-li` | família | falar `fa-MÍ-lia` |
-
-Na fala normal, muitas palavras "perdem" uma sílaba: {{family}} soa `FÆM-li`, {{different}} soa `DIF-rənt`, {{interesting}} soa `IN-tres-ting`, {{chocolate}} soa `TCHÓK-lit`. Isso é natural e não precisa ser imitado de início, mas ajuda a entender.
-
-**5.9 Fim de palavra sem vogal extra**
-
-Mantenha a boca fechada na consoante final. Treine pares: {{hip}} (não `hipi`), {{bag}} (não `bagui`), {{big}} (não `bigui`), {{web}} (não `uébi`), {{club}} (não `clubi`), {{Wi-Fi}}. Depois de **s** + consoante no começo da palavra, também não entra vogal: {{school}} `scúl`, {{student}} `STÚ-dənt`, {{Spanish}} `SPÆ-nich`, {{small}} `smól`.
-
-O **-ng** de {{going}} é um único som nasal, `ŋ`: a língua fica atrás e o ar passa pelo nariz. O brasileiro costuma soltar um "g" extra (`gôuingui`) ou cortar o som e dizer `gôuin`. Feche a parte de trás da língua no céu da boca, deixe o ar sair pelo nariz e pare aí, sem soltar o g.
-
-O **l** final em {{milk}}, {{people}} e {{call}} é feito com a ponta da língua no céu da boca atrás dos dentes, e o brasileiro, que no português do Brasil faz "u" nessa posição ("Brasil" = `brazíu`), às vezes diz `míuk`. Não é grave, mas toque a língua para soar mais claro.
-
-**5.10 Ortografia irregular**
-
-Dois conjuntos de dificuldades: letras que **mudam de som** e letras **mudas**.
-
-**ough:** uma sequência de letras, várias pronúncias. Aprenda as palavras comuns como vocabulário:
-
-| Palavra | Pronúncia | Significado |
-|---|---|---|
-| {{though}} | `dhôu` | embora |
-| {{through}} | `thrú` | através de |
-| {{thought}} | `thót` | pensou, pensamento |
-| {{tough}} | `tâf` | duro, difícil |
-| {{cough}} | `kóf` | tosse |
-| {{enough}} | `i-NÂF` | suficiente |
-| {{bought}} | `bót` | comprou |
-
-**Letras mudas** mais comuns:
-
-| Padrão | Exemplos |
-|---|---|
-| **k** antes de **n** | {{know, knife, knee, knock}} |
-| **w** antes de **r** | {{write, wrong, wrap}} |
-| **b** depois de **m** | {{climb, thumb, comb, lamb}} |
-| **l** antes de k, f, m | {{talk, walk, half, calm}} |
-| **gh** | {{night, light, high, daughter}} |
-| **t** | {{listen, castle}} |
-| **h** inicial | {{hour, honest}} |
-| outras | {{Wednesday}} `UÉNZ-dei`, {{island}} `AI-lənd`, {{friend}} `frénd`, {{business}} `BIZ-nəs`, {{could / would / should}} (l mudo) |
-
-Mais três lembretes úteis de ortografia:
-
-**c** antes de e, i, y soa como **s** ({{city, cent, cycle}}); nos outros casos soa como **k** ({{cat, cut}}). O **g** antes de e, i varia: {{gentle}}, {{giant}} são `dj`, mas {{get}}, {{give}}, {{girl}} são `g` duro. O **ph** soa como **f** ({{phone}}), e o **tion** como `chən` ({{information}}).
-
-**5.11 Números 13 a 19 e 30 a 90**
-
-Os pares terminados em **-teen** e **-ty** são a armadilha mais frequente em preços, horas e idades.
-
-| -teen (13 a 19) | -ty (30 a 90) |
-|---|---|
-| {{thirteen}} `thér-TIN` | {{thirty}} `THÉR-di` |
-| {{fourteen}} `fór-TIN` | {{forty}} `FÓR-di` |
-| {{fifteen}} `fif-TIN` | {{fifty}} `FIF-ti` |
-| {{sixteen}} `siks-TIN` | {{sixty}} `SIKS-ti` |
-| {{seventeen}} `sé-vən-TIN` | {{seventy}} `SÉ-vən-ti` |
-| {{eighteen}} `êi-TIN` | {{eighty}} `ÊI-di` |
-| {{nineteen}} `nain-TIN` | {{ninety}} `NAIN-ti` |
-
-Duas diferenças: no **-teen**, a sílaba **final** é a forte e longa, com o **t** bem claro; no **-ty**, a sílaba forte é a **primeira**, e o final é curto (em {{thirty}}, {{forty}} e {{eighty}}, o t entre vogais ou depois de r vira o "d" rápido do inglês americano; em {{fifty}} e {{sixty}}, depois de consoante, o t fica `t`).
-
-::: atencao
-Se um número vier antes de um substantivo, o acento do -teen pode recuar ({{THIRteen DOLlars}}), mas o **-teen continua longo** e o **-ty continua curto**. Na dúvida, use o contexto: pergunte {{Thirteen or thirty?}} como a Camila fez, ou diga os dígitos ({{one three}}, {{three oh}}).
 :::
 
-Na escrita, repare em {{forty}} (sem **u**, ao contrário de {{four}} e {{fourteen}}) e em {{eighteen}} e {{eighty}} (um só **t**: o t de {{eight}} não se repete).
+::: atencao
+
+**Como o seu ouvido vai escutar no áudio:** Na fala rápida, {{You're}} tem o mesmo som de {{your}} (iór / iãr); {{They're}} tem o mesmo som de {{there}} e {{their}} (dér); e {{We're}} soa curtinho como uír. Em {{I'm}}, feche bem os lábios no m final (áim) para não soar apenas como {{I}} (ái).
+
+:::
+
+### 5.2 A regra completa de {{a}}, {{an}} e {{the}}
+
+Veja como decidir em dois segundos qual artigo usar (ou quando deixar sem artigo):
+
+| **Regra**                         | **Exemplo Correto**                                            | **Por que funciona assim**                                                                                                                  |
+|-----------------------------------|----------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| **{{a}}** + som de consoante      | {{a laptop, a hotel, a university, a European country}}        | {{university}} e {{European}} começam com o som consonantal iu, por isso exigem {{a}}.                                                      |
+| **{{an}}** + som de vogal         | {{an office, an idea, an umbrella, an hour, an MBA}}           | {{hour}} tem h mudo (áu-ãr) e a sigla {{MBA}} começa com som de é (êm-bi-êi).                                                               |
+| **{{the}}** (específico / único)  | {{The meeting is at ten. Close the door, please.}}             | Tanto quem fala quanto quem ouve sabem exatamente de qual reunião e de qual porta se trata.                                                 |
+| **Zero artigo** (geral e próprio) | {{I like coffee. Life is good. She works in Brazil, at home.}} | Coisas em geral ({{coffee, life}}), países no singular ({{Brazil}}) e expressões fixas ({{at home, at work, go to bed}}) não levam {{the}}. |
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| {{How do you spell that?}} | Como se escreve isso? |
-| {{Could you say that again, please?}} | Pode repetir, por favor? |
-| {{Sorry, thirteen or thirty?}} | Desculpe, treze ou trinta? |
-| {{Is that with one L or two?}} | É com um L ou dois? |
-| {{How do you pronounce this word?}} | Como se pronuncia esta palavra? |
-| {{Can you speak more slowly?}} | Pode falar mais devagar? |
-| {{My name is Camila: C, A, M, I, L, A.}} | Meu nome é Camila: C, A, M, I, L, A. |
-| {{I don't understand. Could you write it down?}} | Não entendi. Pode escrever? |
+| **Inglês**                                      | **Português natural**                        |
+|-------------------------------------------------|----------------------------------------------|
+| {{Hi! I'm Lucas, and I'm here on business.}}    | Olá! Sou o Lucas e estou aqui a trabalho.    |
+| {{Where are you from originally?}}              | De onde você é originalmente?                |
+| {{What do you do? — I'm a product manager.}}    | O que você faz? — Sou gerente de produto.    |
+| {{How old is your daughter? — She's seven.}}    | Quantos anos tem sua filha? — Ela tem sete.  |
+| {{Are you hungry, or just thirsty?}}            | Você está com fome ou só com sede?           |
+| {{Sorry, I'm in a hurry right now!}}            | Desculpe, estou com pressa agora mesmo!      |
+| {{It's really cold outside today, isn't it?}}   | Está bem frio lá fora hoje, não está?        |
+| {{You're right! The Wi-Fi is really fast here.}} | Você tem razão! O Wi-Fi é muito rápido aqui. |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a resposta certa.
 
-1. Qual palavra tem o mesmo som de vogal que {{sheep}}? (ship, seat, set)
+**Degrau 1. Reconheça.** Escolha a forma correta entre parênteses.
 
-2. Qual palavra tem o **th** com voz, como em {{this}}? (think, thank, brother)
+1.  She \_\_\_\_ from Canada, and she's \_\_\_\_ architect. (is / are) (a / an)
 
-3. Como termina {{worked}}? (t, d, id)
+2.  My brother is studying at \_\_\_\_ university in \_\_\_\_ US. (a / an) (US / the US)
 
-4. Como termina {{needed}}? (t, d, id)
+3.  — \_\_\_\_ thirty years old? — No, I \_\_\_\_. I'm twenty-eight! (Are you / Have you) (amn't / 'm not)
 
-5. Como termina o plural {{dogs}}? (s, z, iz)
+4.  — Is the hotel near the subway? — Yes, \_\_\_\_! (it's / it is)
 
-6. Qual letra é muda em {{knife}}? (k, n, f)
+5.  \_\_\_\_ very hot in Rio today, so I \_\_\_\_ thirsty. (Is / It's) (have / 'm)
 
-7. Você ouve `fif-TIN`. Qual número é? (15, 50)
+6.  I love \_\_\_\_ music, and \_\_\_\_ music at this bar is great! (\[sem artigo\] / the) (\[sem artigo\] / the)
 
-8. Onde está a sílaba forte de {{police}}? (PO-lice, po-LICE)
+7.  My meeting is in \_\_\_\_ hour. (a / an)
 
-**Degrau 2. Complete.** Escreva **t**, **d** ou **id** para -ed, e **s**, **z** ou **iz** para -s. Nos últimos três itens, escreva a palavra com a sílaba forte em maiúsculas.
+8.  \_\_\_\_ your parents at home right now? (Is / Are)
 
-1. {{stopped}} termina em \_\_\_\_.
+**Degrau 2. Complete.** Preencha as lacunas com {{am, is, are, 'm, 's, 're, isn't, aren't, a, an, the}} ou deixe sem artigo (--).
 
-2. {{played}} termina em \_\_\_\_.
+1.  Hi! My name \_\_\_\_ Rafael, and I \_\_\_\_ from \_\_\_\_ Brazil.
 
-3. {{wanted}} termina em \_\_\_\_.
+2.  My sister \_\_\_\_ \_\_\_\_ HR manager at \_\_\_\_ European company.
 
-4. {{watched}} termina em \_\_\_\_.
+3.  — \_\_\_\_ you hungry? — No, I \_\_\_\_ not, thanks.
 
-5. {{cats}} termina em \_\_\_\_.
+4.  Where \_\_\_\_ the keys? They \_\_\_\_ on the table.
 
-6. {{plays}} termina em \_\_\_\_.
+5.  \_\_\_\_ cold in this room! Where \_\_\_\_ the air conditioner?
 
-7. {{watches}} termina em \_\_\_\_.
+6.  — Is Lucas in Toronto on vacation? — No, he \_\_\_\_. He \_\_\_\_ there on business.
 
-8. {{hotel}}: \_\_\_\_ (separe em sílabas, ex.: ho-TEL ou HO-tel).
+7.  \_\_\_\_ life is too short to be stressed at \_\_\_\_ work!
 
-9. {{information}}: \_\_\_\_ (separe em sílabas).
+8.  — Are your coworkers ready for the call? — Yes, they \_\_\_\_.
 
-10. {{to present}} (verbo, "apresentar"): \_\_\_\_.
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Apresente-se dizendo seu nome, de qual cidade e país você é e qual é a sua profissão (com {{a}} ou {{an}}).
 
-1. Soletre seu nome e sobrenome em voz alta, com os nomes das letras do inglês, e escreva os guias de pronúncia (ex.: Ana = `êi én êi`).
+2.  Diga a sua idade e a idade de um familiar seu (sem usar o verbo {{have}}).
 
-2. Escreva seu e-mail do jeito que você diria em inglês, usando {{at}} e {{dot}}.
+3.  Diga que hoje está frio (ou quente) na sua cidade e que você está com fome e com pressa.
 
-3. Grave você mesmo dizendo 13, 30, 14, 40, 15, 50, 16, 60. Peça a um amigo que anote os números que ouvir e compare.
+4.  Faça duas perguntas com o verbo {{to be}} para um colega novo no trabalho e escreva as respostas curtas (uma afirmativa e uma negativa).
 
-4. Escolha cinco palavras inglesas que você já usa em português (por exemplo, {{shopping}}, {{show}}, {{pizza}}) e escreva como o inglês americano as pronuncia, com o guia do livro.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está perfeita. Corrija as seis erradas e indique a certa.
 
-**Degrau 4. Corrija o erro típico.** Em cada frase, uma pessoa pronunciou a palavra de um jeito. Diga se está certo ou aponte o erro e escreva a pronúncia correta. Uma delas está certa.
+1.  I have 32 years, and I'm project manager in São Paulo.
 
-1. {{hip-hop}} dito como `rípi rópi`.
+2.  Is very cold outside today, so I have cold!
 
-2. {{team}} dito como `tchim`.
+3.  My sister is an university student in the Brazil.
 
-3. {{school}} dito como `iscúl`.
+4.  — Are they in a hurry? — Yes, they're!
 
-4. {{ship}} dito como `chip` com i longo, para falar "navio".
+5.  The coffee is a great drink, and I'm at the home now.
 
-5. {{think}} dito como `fink`.
+6.  She has afraid of flying.
 
-6. {{Wednesday}} dito como `uéd-nes-dêi`, pronunciando todas as letras.
+7.  We're in London on business, and the hotel is great.
 
-7. {{fifteen}} dito como `fif-TIN`.
 :::::
 
 ## 8. O erro típico
 
-O erro que mais atrapalha a comunicação, mais do que o sotaque em si, é **acrescentar uma vogal** no fim das palavras (`hípi`, `bagui`, `Facebuki`). Ele nasce da sílaba típica do português, consoante + vogal, e passa despercebido para o falante brasileiro, porque a nossa língua nunca termina em consoante dura. Em segundo lugar vêm a **troca do i curto pelo longo** e o **th** trocado por t, f ou s.
+O erro mais persistente do brasileiro no nível básico é **usar o verbo {{have}} para idade e sensações** e **engolir o sujeito {{It}}** no início da frase. Em português, "Tenho 25 anos" e "Está chovendo" soam naturais; em inglês, diga sempre {{I'm 25}} e {{It's raining}}.
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~`hípi rópi`~~ | `hip-hop` | o inglês termina em consoante; a vogal extra muda o ritmo |
-| ~~`tchim`~~ ({{team}}) | `tim` | t e d não viram tch e dj antes do i |
-| ~~`iscúl`~~ ({{school}}) | `scúl` | s + consoante no começo não recebe vogal |
-| ~~`sink`~~ ({{think}}) | `thínk` | o th precisa da língua entre os dentes |
-| ~~`ship`~~ lido como {{sheep}} | `chɪp` | i curto e i longo mudam a palavra |
-| ~~`THÉR-di`~~ para "treze" | `thér-TIN` | no -teen, o acento fica no fim; no -ty, no começo |
+
+| **Errado**                 | **Certo**                    | **Por quê**                                                         |
+|----------------------------|------------------------------|---------------------------------------------------------------------|
+| ~~I have 28 years old.~~   | {{I'm 28 (years old).}}      | Idade em inglês é estado ({{to be}}), nunca posse ({{have}}).       |
+| ~~Is cold today.~~         | {{It's cold today.}}         | O sujeito neutro {{It}} é obrigatório para clima e hora.            |
+| ~~I'm engineer.~~          | {{I'm an engineer.}}         | Profissão no singular exige sempre {{a}} ou {{an}}.                 |
+| ~~Yes, I'm. / Yes, it's.~~ | {{Yes, I am. / Yes, it is.}} | Nunca se contrai o verbo no fim de uma resposta curta afirmativa.   |
+| ~~an university / a hour~~ | {{a university / an hour}}   | {{a/an}} seguem o som inicial (iu é consoante; h em *hour* é mudo). |
+| ~~I live in the Brazil.~~  | {{I live in Brazil.}}        | Países no singular não levam o artigo {{the}}.                      |
+
 :::
 
 ## 9. Retorno
 
-Este é o primeiro capítulo; por isso o retorno volta para dentro dele e para o que você já sabe.
+1.  **Da Introdução (Lei 1).** Como se diz em inglês *"Está frio"*, uma frase que em português dispensa o sujeito? Que palavra obrigatória abre a frase?
 
-**Do português.** Diga em voz alta o nome das 26 letras do inglês na ordem, sem olhar.
+2.  **Sons e artigos.** Por que dizemos {{a university}} (com {{a}}), mas {{an umbrella}} e {{an hour}} (com {{an}})?
 
-**Do início deste capítulo.** Escreva três palavras terminadas em consoante dura que você costuma falar com vogal extra, e treine-as sem a vogal.
+3.  **Pergunta de profissão.** Quando alguém pergunta {{What do you do?}}, o que a pessoa quer saber e como você responde?
 
-**Da Cena.** Diga as frases do albergue em voz alta, com {{thirteen}} e {{thirty}} bem diferentes.
-
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Ouça a Cena duas vezes e repita as falas da Camila. |
-| Dia 3 | Soletre cinco nomes de colegas ou ruas sem olhar. |
-| Dia 7 | Refaça o Degrau 4 sem a chave e grave os pares ship/sheep, full/fool, think/sink. |
-| Dia 14 | Leia em voz alta um parágrafo de qualquer texto em inglês e confira as palavras duvidosas num dicionário com áudio. |
+| **Quando** | **O que fazer**                                                                                               |
+|------------|---------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta imitando as contrações ({{I'm, What's, It's}}) e apresente-se em voz alta.            |
+| Dia 3      | Escreva dez frases sobre você e sua família dizendo idade, profissão e onde cada um está agora.               |
+| Dia 7      | Refaça o Degrau 4 sem olhar a chave comentada.                                                                |
+| Dia 14     | Grave um áudio de 45 segundos se apresentando como se estivesse no primeiro dia em uma empresa internacional. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-O inglês não se lê como se escreve: a letra não decide o som. Para cada palavra nova, confira o áudio.
 
-Nome das letras: A `êi`, E `i`, G `djí`, I `ai`, J `djêi`, Q `kiú`, U `iú`, W `dâbliu`, Y `uai`.
+- **Verbo {{to be}} no presente:** {{I'm}}, {{you're / we're / they're}}, {{he's / she's / it's}}. Negativa com {{not}} ({{I'm not, isn't, aren't}}); pergunta invertendo o verbo para antes do sujeito ({{Are you...? / Is it...?}}).
 
-Não acrescente vogal no fim das palavras. T e D permanecem duros diante de i.
+- **Respostas curtas:** {{Yes, I am}} / {{Yes, it is}} (sem contração no positivo); {{No, I'm not}} / {{No, it isn't}}.
 
-th: língua entre os dentes. i curto ({{ship}}) ≠ i longo ({{sheep}}).
+- **Estados físicos e idade:** sempre com {{to be}} ({{I'm 30, I'm hungry, I'm cold, I'm in a hurry, You're right}}).
 
--ed = `t`, `d` ou `ɪd` conforme o último som. -s = `s`, `z` ou `ɪz`.
-
-O acento está numa sílaba por palavra; as outras enfraquecem, muitas vezes em schwa.
-
--teen = forte no fim, longo. -ty = forte no começo, curto.
+- **Artigos:** {{a}} (som consonantal), {{an}} (som vocálico) obrigatórios antes de profissões no singular. {{The}} para algo específico; zero artigo para coisas em geral e países no singular.
 
 **Já consigo?**
 
-Soletro meu nome e e-mail em inglês, com as letras certas.
+- Apresentar meu nome, origem, idade e profissão sem esquecer {{a / an}} e sem usar {{have}} para idade.
+- Fazer perguntas com {{Am / Is / Are}} e responder com respostas curtas sem contrair no final afirmativo.
+- Usar o sujeito obrigatório {{It's}} para falar de clima, horas e situações.
 
-Distingo {{thirteen}} de {{thirty}} e {{ship}} de {{sheep}} ao ouvir e ao falar.
-
-Escolho entre `t`, `d` e `id` para um -ed, e entre `s`, `z` e `iz` para um -s.
 :::::
 
 ## Glossário do capítulo 1
 
-| Inglês | Pronúncia | Português |
-|---|---|---|
-| spell | `spél` | soletrar |
-| last name | `læst nêim` | sobrenome |
-| reservation | `ré-zər-VÊI-chən` | reserva |
-| welcome | `UÉL-kəm` | bem-vindo |
-| floor | `flór` | andar, chão |
-| night | `náit` | noite |
-| password | `PÆS-uérd` | senha |
-| dot | `dát` | ponto (em e-mails) |
-| at | `æt` | arroba |
-| ship | `chɪp` | navio |
-| sheep | `chip` | ovelha |
-| think | `thínk` | pensar |
-| three | `thri` | três |
-| this | `dhɪs` | este, isto |
-| sit | `sɪt` | sentar |
-| seat | `sit` | assento |
-| thirteen | `thér-TIN` | treze |
-| thirty | `THÉR-di` | trinta |
-| enough | `i-NÂF` | suficiente |
-| friend | `frénd` | amigo |
-| hour | `ÁU-ər` | hora |
+| **Inglês**                        | **Português**                             |
+|-----------------------------------|-------------------------------------------|
+| {{Where are you from?}}           | De onde você é?                           |
+| {{I'm originally from...}}        | Sou originalmente de...                   |
+| {{on business}} / {{on vacation}} | a trabalho (a negócios) / de férias       |
+| {{What do you do?}}               | O que você faz? (Qual é a sua profissão?) |
+| {{product manager}}               | gerente de produto                        |
+| {{software engineer}}             | engenheiro(a) de software                 |
+| {{to be honest}}                  | para ser sincero(a)                       |
+| {{by the way}}                    | aliás, por falar nisso                    |
+| {{visitor badge}}                 | crachá de visitante                       |
+| {{hungry}} / {{thirsty}}          | com fome / com sede                       |
+| {{in a hurry}} / {{in a rush}}    | com pressa                                |
+| {{You're right!}}                 | Você tem razão! / Está certo!             |
+| {{full name}} / {{last name}}     | nome completo / sobrenome                 |
+| {{free}}                          | gratuito, livre                           |
+| {{outside}}                       | lá fora                                   |
 
 ## Chave comentada do capítulo 1
 
 ::::: gabarito
-**Degrau 1.** 1 seat (ship tem o i curto; set tem o `é`). 2 brother (think e thank têm o th surdo). 3 t (o último som de {{work}} é /k/, surdo). 4 id (depois de /d/ entra a sílaba extra). 5 z (depois de /g/, sonoro). 6 k ({{kn}} no início perde o k: `naif`). 7 15 (fifteen, o acento no fim; fifty seria `FIF-ti`). 8 po-LICE (`po-LÍS`; o português tem "po-LÍ-cia").
 
-**Degrau 2.** 1 t. 2 d. 3 id. 4 t (o som anterior é /ch/, surdo). 5 s. 6 z. 7 iz (depois de /ch/). 8 ho-TEL (acento na 2ª; o h soa). 9 in-for-MA-tion. 10 pre-SENT (verbo; o substantivo {{present}} é PRE-sent).
+**Degrau 1.** 1 is, an ({{she}} pede {{is}}; {{architect}} começa com som de vogal). 2 a, the ({{university}} começa com som iu; {{the US}} é plural/união). 3 Are you, 'm not (idade usa {{to be}}). 4 it is (resposta curta afirmativa nunca contrai). 5 It's, 'm (clima exige sujeito {{It}}; sede usa {{to be}}). 6 \[sem artigo\], the (1º = música em geral; 2º = a música específica deste bar). 7 an ({{hour}} tem h mudo). 8 Are ({{your parents}} = {{they}}, plural).
 
-**Degrau 3.** Respostas pessoais. Confira que o i soa `ai` e o e soa `i` no seu nome, que {{at}} e {{dot}} aparecem no e-mail, e que a palavra {{pizza}} fica `PI-tsə` (não `piza`) e {{show}} `chôu`.
+**Degrau 2.** 1 is (ou 's), 'm (ou am), -- (Brasil não leva artigo). 2 is (ou 's), an ({{HR}} começa com som êitch), a ({{European}} começa com som iu). 3 Are, 'm (ou am). 4 are, 're (ou are). 5 It's, is. 6 isn't, 's (ou is). 7 -- (vida em geral), -- ({{at work}} não usa artigo). 8 are.
+
+**Degrau 3.** Respostas pessoais. Modelo: 1. {{Hi, I'm Lucas. I'm from São Paulo, Brazil, and I'm a software engineer.}} 2. {{I'm 30 years old, and my sister is 27.}} 3. {{It's hot in my city today, and I'm hungry and in a hurry.}} 4. {{Are you from Rio? — Yes, I am. / Is the meeting at ten? — No, it isn't.}}
 
 **Degrau 4.**
 
-1. Errado. Sem vogais extras: `hip-hop`, terminando em /p/.
+1.  {{I'm 32 (years old), and I'm a project manager in São Paulo.}} (Idade usa {{I'm}}, e profissão exige {{a}}).
 
-2. Errado. `tim`, com t duro.
+2.  {{It's very cold outside today, so I'm cold!}} (Exige sujeito {{It's}} e {{I'm cold}}).
 
-3. Errado. `scúl`, sem a vogal antes do s.
+3.  {{My sister is a university student in Brazil.}} ({{a university}}, sem {{the}} antes de {{Brazil}}).
 
-4. Errado. {{ship}} tem i curto, `chɪp`. Com i longo, a palavra vira {{sheep}} (ovelha).
+4.  {{— Are they in a hurry? — Yes, they are!}} (Na resposta curta afirmativa, {{they're}} não se usa).
 
-5. Errado. `thínk`, com a língua entre os dentes. {{fink}} e {{sink}} são outras palavras.
+5.  {{Coffee is a great drink, and I'm at home now.}} (Sem {{The}} para café em geral e sem {{the}} em {{at home}}).
 
-6. Errado. `UÉNZ-dei`: o primeiro d é mudo.
+6.  {{She is afraid of flying.}} ("Ter medo" usa {{be afraid}}, não {{have}}).
 
-7. Certo.
+7.  **Está certa.**
 
-**Retorno.** Respostas pessoais; confira com a tabela de letras (5.1), a seção 5.9 e a Cena.
+**Retorno.** 1. {{It's cold.}} (a palavra obrigatória é o sujeito {{It}}). 2. Porque {{university}} começa com som consonantal iu, enquanto {{umbrella}} (ã) e {{hour}} (áu, h mudo) começam com som vocálico. 3. Quer saber a profissão; responde-se {{I'm a/an \[profissão\]}}.
+
 :::::

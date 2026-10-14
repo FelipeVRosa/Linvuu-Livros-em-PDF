@@ -1,396 +1,335 @@
-# Capítulo 7. Can, must, have to, should e o imperativo (A1)
+# Capítulo 7. No mercado e à mesa: contáveis, incontáveis e quantidades (A1)
 
-**Meta do capítulo.** Ao final, você pede, oferece, dá conselhos e fala de regras e obrigações com *can, could, should, must* e *have to*, e usa o imperativo e *Let's* sem soar brusco.
+**Meta do capítulo.** Ao final, você identifica substantivos incontáveis que não têm plural nem recebem {{a / an}} ({{information, advice, news, furniture, luggage}}), escolhe entre {{some}} e {{any}}, entre {{much}}, {{many}} e {{a lot of}}, entre {{a little}} e {{a few}}, e faz perguntas com {{How much...?}} e {{How many...?}}.
 
-## 1. Cena: no café da esquina
+## 1. Cena: preparando um jantar no apartamento
 
-Julia está há uma semana em Dublin e quer almoçar com um colega, o Daniel, antes da aula.
+Marina e seu colega Kevin estão na cozinha do apartamento dela em Boston conferindo o que falta comprar no supermercado antes da chegada dos amigos.
 
 ::: dialogo
-**Waiter:** Hi there. Can I help you?
 
-**Julia:** Yes, could I see the menu, please?
+**Marina:** {{Kevin, let's check the fridge before we go to the supermarket. Do we have any cheese for the pasta?}}
 
-**Waiter:** Sure. Here you go. Would you like something to drink?
+**Kevin:** {{Let me see... We have some parmesan, and there are a few tomatoes in the drawer, but we don't have any garlic or olive oil.}}
 
-**Julia:** I'd like a coffee, please. Daniel, what about you?
+**Marina:** {{OK, I'll put those on the list. How much pasta do we have in the cabinet?}}
 
-**Daniel:** Just water for me. Can I have a sandwich too?
+**Kevin:** {{Only a little — maybe half a box. We need two more boxes because eight people are coming tonight.}}
 
-**Waiter:** Of course. Sorry, you can't sit at that table, it's reserved. You can sit by the window.
+**Marina:** {{Right! And how many bottles of wine should we buy?}}
 
-**Julia:** No problem. Let's sit here. Oh, we have to be in class at one. Is that OK?
+**Kevin:** {{Three or four bottles. By the way, do you have any news about Sarah's flight?}}
 
-**Waiter:** Yes, the kitchen is quick. You don't have to wait long.
+**Marina:** {{Yes, I have good news! She just sent me a message. She had a lot of luggage, so she took a taxi from the airport.}}
 
-**Daniel:** You should try the soup, Julia. It's great.
+**Kevin:** {{Awesome. Oh, can you give me some advice on the dessert? Should I make a chocolate cake or buy some ice cream?}}
 
-**Julia:** Good idea. And please don't forget my coffee!
+**Marina:** {{Here's a piece of advice: buy ice cream! We don't have much time before seven!}}
+
 :::
 
-Em português: Oi. Posso ajudar? / Sim, posso ver o cardápio, por favor? / Claro. Aqui está. Vocês gostariam de beber alguma coisa? / Eu queria um café, por favor. Daniel, e você? / Só água para mim. Posso pedir um sanduíche também? / Claro. Desculpe, vocês não podem sentar naquela mesa, ela está reservada. Podem sentar perto da janela. / Sem problema. Vamos sentar aqui. Ah, a gente tem que estar na aula à uma hora. Tudo bem? / Sim, a cozinha é rápida. Vocês não precisam esperar muito. / Você devia experimentar a sopa, Julia. É ótima. / Boa ideia. E, por favor, não esqueça o meu café!
+Em português: Kevin, vamos checar a geladeira antes de irmos ao supermercado. Temos queijo para o macarrão? / Deixe-me ver... Temos um pouco de parmesão, e há alguns tomates na gaveta, mas não temos alho nem azeite de oliva. / Certo, vou colocar esses na lista. Quanto macarrão temos no armário? / Só um pouco — talvez meia caixa. Precisamos de mais duas caixas porque oito pessoas vêm hoje à noite. / Verdade! E quantas garrafas de vinho devemos comprar? / Três ou quatro garrafas. Aliás, você tem alguma notícia sobre o voo da Sarah? / Sim, tenho uma boa notícia! Ela acabou de me mandar mensagem. Ela estava com muita bagagem, então pegou um táxi do aeroporto. / Ótimo. Ah, você pode me dar um conselho sobre a sobremesa? Devo fazer um bolo de chocolate ou comprar sorvete? / Aqui vai um conselho: compre sorvete! Não temos muito tempo antes das sete!
 
-Repare no que não aparece: em nenhuma frase há *-s* depois de *can* ou *should*, em nenhuma há *to* depois de *can*, *could* ou *should*. E, no entanto, depois de *have* há *to*: *we have to be*, *you don't have to wait*. O capítulo todo gira em torno dessa diferença.
+Repare na divisão clara da língua inglesa: para coisas que contamos por unidade ({{tomatoes, boxes, people, bottles}}), entram **{{a few}}** e **{{How many}}**. Para massas, líquidos e substantivos abstratos ({{cheese, pasta, olive oil, time, news, luggage, advice}}), entram **{{some}}**, **{{a little}}**, **{{much}}** e **{{How much}}** — e nunca se usa {{a / an}} nem plural!
 
 ## 2. A armadilha do português
 
-Em português, os verbos de obrigação e capacidade são verbos como quaisquer outros: "eu posso", "ele pode", "nós temos que ir". Mudam de forma com a pessoa e podem vir com preposição ("tenho **de** ir", "tenho **que** ir"). O inglês trata alguns deles como uma classe à parte, os **verbos modais** (*modal verbs*). Eles têm três regras que fogem do que o aluno brasileiro espera.
+Em português, dizemos tranquilamente *"Preciso de umas informações"*, *"Me dá um conselho"*, *"Tenho duas notícias boas"*, *"Comprei móveis novos"*. Em inglês, essas palavras são **incontáveis (*uncountable*)** — tratadas como uma massa indivisível, exatamente como *água* ou *arroz*. Veja as quatro armadilhas que você precisa desarmar:
 
-| Em português | Inglês correto | Erro típico |
-|---|---|---|
-| ele pode nadar | {{He can swim.}} | ~~He cans swim.~~ |
-| eu posso nadar | {{I can swim.}} | ~~I can to swim.~~ |
-| você pode nadar? | {{Can you swim?}} | ~~Do you can swim?~~ |
-| você não pode fumar aqui | {{You can't smoke here.}} | ~~You don't can smoke here.~~ |
+| **O hábito do português**       | **Como o inglês pensa (Certo)**                                | **O erro típico a evitar**      |
+|---------------------------------|----------------------------------------------------------------|---------------------------------|
+| Preciso de algumas informações. | {{I need **some information**.}}                               | ~~I need some informations.~~   |
+| Posso te dar um conselho?       | {{Can I give you **some advice** (ou **a piece of advice**)?}} | ~~Can I give you an advice?~~   |
+| As notícias são ótimas!         | {{The news **is** great!}}                                     | ~~The news are great!~~         |
+| Quantas pessoas vêm?            | {{**How many** people are coming?}}                            | ~~How much people are coming?~~ |
 
-**Regra dos modais:** (1) nenhum *-s* na terceira pessoa, (2) nenhum *to* depois deles, (3) a pergunta e a negativa se fazem com o próprio modal, sem *do/does* (capítulo 3). Eles formam uma lista curta: *can, could, should, must* (mais *may, might, will, would*, que vêm depois).
+**1. Os incontáveis mais traiçoeiros (sem {{a / an}} e sem -s).** Grave estas dez palavras que são contáveis em português, mas **incontáveis e sempre singulares** em inglês:
 
-Há um segundo problema: **"saber" e "poder" se misturam**. Em português, "sei nadar" e "posso nadar" quase se confundem. Em inglês, "saber fazer algo" é *can*: {{I can swim.}} Dizer ~~I know swim~~ é erro garantido. A forma ~~I know to swim~~ também não existe. Para um idioma, use *speak*: {{I can speak English.}}
+- **{{information}}** (informação/informações)
 
-O terceiro problema é **"tem que"**. Em português, "você não tem que pagar" é "não é obrigatório"; "você não pode pagar" é "é proibido". Em inglês as duas ideias têm formas diferentes, e é aqui que mora o erro mais perigoso do capítulo: *mustn't* **não** é a negativa de "tem que". Você vai ver isso em detalhe adiante.
+- **{{advice}}** (conselho/conselhos)
+
+- **{{news}}** (notícia/notícias — termina em *s*, mas é singular: {{The news is good!}})
+
+- **{{furniture}}** (móvel/móveis)
+
+- **{{luggage / baggage}}** (bagagem/malas)
+
+- **{{equipment}}** (equipamento/equipamentos)
+
+- **{{homework / housework}}** (lição de casa / tarefas domésticas)
+
+- **{{work}}** (trabalho — para "um emprego", diga **{{a job}}**!)
+
+- **{{money}}** (dinheiro — contamos *dollars/reais*, mas {{money}} é incontável: {{Money is...}})
+
+- **{{bread}}** (pão — para "um pão", diga **{{a bread roll}}** ou **{{a loaf of bread}}**!)
+
+**2. Como contar o que é incontável? Use um "recipiente" ({{a piece of...}}).** Quando quiser especificar "um conselho", "uma informação", "um móvel" ou "dois pães", coloque uma unidade contável na frente com **{{of}}**:
+
+- {{a piece of advice / two pieces of information / a piece of furniture}}
+
+- {{a glass of water / two cups of coffee / a bottle of wine / a slice of bread / a bar of chocolate}}
 
 ## 3. Descubra você mesmo
 
-Observe as frases.
+Observe como os quantificadores mudam conforme o tipo de substantivo e o tipo de frase:
 
-| Frase | O que ela comunica |
-|---|---|
-| {{She can speak three languages.}} | habilidade |
-| {{Can I sit here?}} | pedir permissão |
-| {{You can't park here.}} | é proibido |
-| {{You must wear a helmet.}} | regra firme |
-| {{I have to get up at six every day.}} | obrigação (horário do trabalho) |
-| {{You don't have to come. It's optional.}} | não é obrigatório |
-| {{You should see a doctor.}} | conselho |
-| {{Open the window, please.}} | ordem ou pedido |
-| {{Let's go to the beach!}} | sugestão para todos |
+| **Tipo de Frase**                                | **Com Contáveis no Plural ({{tomatoes, bottles, friends}})** | **Com Incontáveis no Singular ({{cheese, time, money, advice}})** |
+|--------------------------------------------------|--------------------------------------------------------------|-------------------------------------------------------------------|
+| **Afirmativa ("alguns / um pouco de")**          | {{We have **some** tomatoes.}}                               | {{We have **some** cheese.}}                                      |
+| **Negativa ("nenhum / nada de")**                | {{We don't have **any** tomatoes.}}                          | {{We don't have **any** cheese.}}                                 |
+| **Pergunta ("algum?")**                          | {{Do we have **any** tomatoes?}}                             | {{Do we have **any** cheese?}}                                    |
+| **Grande quantidade ("muitos / muito")**         | {{**many** friends}} / {{**a lot of** friends}}              | {{**much** time}} / {{**a lot of** time}}                         |
+| **Pequena quantidade ("alguns / um pouco")**     | {{**a few** minutes / **a few** friends}}                    | {{**a little** time / **a little** milk}}                         |
+| **Pergunta de quantidade ("Quantos / Quanto?")** | {{**How many** bottles do we need?}}                         | {{**How much** pasta do we have?}}                                |
 
 Perguntas:
 
-O que acontece com o verbo depois de *can*, *must* e *should*? Aparece *-s*, *to* ou *-ing*?
+1.  Quando trocamos **{{some}}** por **{{any}}**?
 
-Qual é a diferença entre *You must come* e *You don't have to come*? Em qual dos dois a pessoa pode ficar em casa?
+2.  Qual expressão para "muito(s)" funciona **tanto** para contáveis quanto para incontáveis sem você precisar pensar?
 
-Se você viu que o verbo depois de um modal é sempre o verbo simples, sem nada, e que *don't have to* é "não precisa", você já está dentro da regra.
+Se você notou que {{some}} vive nas frases afirmativas enquanto {{any}} entra nas negativas e perguntas, e que **{{a lot of}}** (ou {{lots of}}) é o curinga universal para dizer "muito/muitos" em frases afirmativas, você já entendeu o coração do capítulo.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Can** = conseguir/poder. *Can't* = não poder. Depois, o verbo no infinitivo sem *to*: *I can help. She can't come.*
 
-2.  **Pedido educado:** *Could you ...?* *Can I ...?* **Oferta:** *Can I help you?* *Would you like ...?* **Desejo no restaurante:** *I'd like ...*
+1.  **Contáveis × Incontáveis:** Contáveis têm singular e plural ({{a bottle / three bottles}}). Incontáveis (líquidos, grãos e a lista {{information, advice, news, furniture, luggage, bread, money, time, traffic, work}}) **não têm plural**, **não aceitam {{a / an}}** e usam **verbo no singular** ({{is / has}}).
 
-3.  **Obrigação:** *must* (regra) ou *have to* (necessidade). **Proibição:** *mustn't* ou *can't*. **Não é preciso:** *don't have to*.
+2.  **{{Some}} × {{Any}}:**
 
-4.  **Conselho:** *You should ...* *You shouldn't ...*
+    - **{{some}}** = em frases **afirmativas** ({{I need some advice}}) e em **ofertas ou pedidos** onde esperamos um "sim" ({{Would you like some coffee? / Can I get some water?}}).
 
-5.  **Imperativo:** o verbo sozinho (*Sit down.*), ou *Don't* + verbo (*Don't worry.*). *Please* suaviza. **Sugestão a dois ou mais:** *Let's* + verbo (*Let's go.*).
+    - **{{any}}** = em frases **negativas** ({{I don't have any cash}}) e na maioria das **perguntas** ({{Do you have any questions?}}).
+
+3.  **Muito(s) ({{many / much / a lot of}}):**
+
+    - **{{many}}** + contáveis no plural ({{many people, many emails}}).
+
+    - **{{much}}** + incontáveis ({{much time, much money, much traffic}}) — usado principalmente em **negativas e perguntas** ({{I don't have much time}}).
+
+    - **{{a lot of / lots of}}** + qualquer um dos dois (é a forma mais natural nas frases afirmativas: {{We have a lot of work and a lot of meetings}}).
+
+4.  **Pouco(s) ({{a few / a little}}):** **{{a few}}** + plural ({{a few days, a few questions}}); **{{a little}}** + incontável ({{a little water, a little help}}).
+
+5.  **Perguntas:** **{{How many}}** + plural? \| **{{How much}}** + incontável (ou para perguntar preço: {{How much is this?}}).
+
 :::::
 
 ## 5. Por dentro
 
-### Can e can't
+### 5.1 A sutileza entre {{a few / a little}} (positivo) e {{few / little}} (negativo)
 
-*Can* tem três usos principais.
+A presença da palavrinha **{{a}}** faz toda a diferença no tom da sua frase:
 
-| Uso | Exemplo | Português |
-|---|---|---|
-| habilidade | {{My brother can play the guitar.}} | meu irmão sabe tocar violão |
-| permissão | {{You can use my phone.}} | você pode usar meu celular |
-| possibilidade, pedido | {{Can you help me?}} | você pode me ajudar? |
+| **Com {{a}} (Sentido Positivo: "alguns / um pouquinho, o suficiente")**                          | **Sem {{a}} (Sentido Negativo: "quase nenhum / muito pouco, insuficiente")**             |
+|--------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| {{I have **a few** friends in Boston, so I'm not alone.}} (Tenho alguns amigos em Boston).       | {{I have **few** friends here, so I feel lonely.}} (Tenho poucos amigos — quase nenhum). |
+| {{We still have **a little** time before the flight; let's grab a coffee!}} (Temos um tempinho). | {{Hurry up! We have **little** time before the flight!}} (Temos pouquíssimo tempo).      |
 
-A forma é igual para todas as pessoas. Na fala, *can* soa fraco (`kən`) e *can't* soa forte, com a vogal plena (`kænt`; o t final quase não se ouve), o que ajuda a diferenciar. Na escrita, a forma completa da negativa é *cannot*, uma palavra só (mais formal) ou *can not* (raro); na fala e na escrita informal, use *can't*. As respostas curtas usam o modal: {{Can you swim? Yes, I can. / No, I can't.}}
+*(Na fala cotidiana, no lugar de {{few / little}} sem "a", os nativos costumam dizer **{{not many}}** / **{{not much}}** ou **{{very few}}** / **{{very little}}**).*
 
-Para falar de uma habilidade (um idioma, um ofício), *can* + verbo: {{Can you drive?}} {{I can't cook.}}
+### 5.2 Palavras que têm dupla personalidade (Contável vs. Incontável)
 
-### Could para pedir
+Algumas palavras mudam de significado dependendo de serem usadas como massa incontável ou como unidade contável:
 
-*Could* aqui **não** é passado: é um pedido mais polido que *can*. {{Could you open the window, please?}} {{Could I have the bill, please?}} A resposta típica a um pedido é *Sure*, *Of course* ou *Sorry, I can't*. O passado de *can* (*could* = "conseguia") vem junto com o passado simples, no capítulo 8; por enquanto, guarde *could* só como pedido educado.
-
-Para pedir algo a um desconhecido, na dúvida, *Could you ...?* está sempre seguro. Entre amigos, *Can you ...?* é perfeito.
-
-### Must, have to e don't have to
-
-As duas formas se traduzem por "ter que", mas não são idênticas.
-
-| Forma | Quando | Exemplo |
-|---|---|---|
-| must | regra, lei, ou algo que o falante julga importante | {{You must wear a seat belt.}} |
-| have to | necessidade vinda de fora (horário, chefe, situação) | {{I have to work on Saturday.}} |
-
-Na prática, as duas formas são muito próximas na afirmativa, e *have to* é mais frequente no inglês falado. *Must* aparece mais em avisos, regras escritas e conselhos fortes: {{You must show your passport.}} ("Passageiros devem mostrar o passaporte.")
-
-*Have to* se comporta como um verbo comum, então faz a terceira pessoa com *has to* e usa *do/does* nas perguntas e negativas:
-
-| | Exemplo |
-|---|---|
-| afirmativa | {{She has to leave at five.}} |
-| pergunta | {{Do you have to work tomorrow?}} |
-| negativa | {{I don't have to work tomorrow.}} |
-
-Aqui está a **armadilha central do capítulo**:
-
-| | Significado | Exemplo |
-|---|---|---|
-| **mustn't** | é proibido | {{You mustn't smoke here.}} (não faça isso) |
-| **don't / doesn't have to** | não é necessário | {{You don't have to pay.}} (é grátis, mas se você pagar, tudo bem) |
-
-*Must* (afirmativa) é obrigatório. *Mustn't* **não** é "não é obrigatório": é "é proibido". Para "não é preciso", use *don't have to*. Os dois sentidos em português se confundem ("você não precisa" é diferente de "você não pode"), e o brasileiro que escreve ~~You mustn't pay~~ está dizendo "é proibido pagar".
-
-*Must* não tem passado nem infinitivo. Quando precisar dessas formas, use *have to*. O passado dele é *had to* ({{I had to work yesterday.}}).
+| **Palavra**                 | **Como Incontável (A substância ou conceito geral)**                 | **Como Contável (Uma unidade, porção ou ocorrência)**                           |
+|-----------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| **{{coffee / tea / beer}}** | {{I don't drink **coffee** at night.}} (a bebida café)               | {{Can we get **two coffees** and **a tea**, please?}} (= duas xícaras)          |
+| **{{time}}**                | {{I don't have **much time** today.}} (tempo no relógio)             | {{I go to the gym **three times** a week.}} (vezes!)                            |
+| **{{paper}}**               | {{We need to buy **some paper** for the printer.}} (folhas de papel) | {{I read **the morning paper** / **two scientific papers**.}} (jornal / artigo) |
+| **{{chicken / fish}}**      | {{Do you eat **chicken** or **fish**?}} (a carne no prato)           | {{My grandmother has **five chickens** on her farm.}} (as aves vivas)           |
+| **{{room}}**                | {{Is there **any room** for my bag in the trunk?}} (espaço livre!)   | {{The apartment has **three rooms**.}} (cômodos / quartos)                      |
 
 ::: atencao
-Na pergunta, a gente quase não usa *must*: ~~Must I go?~~ é raro e formal. Diga {{Do I have to go?}} Para "tenho que ir?", essa é a forma natural.
+
+**Como o seu ouvido vai escutar no áudio:** Na fala americana rápida, **{{a lot of}}** soa como uma palavra só: **ã-ló-rãv** (ou **ã-ló-rã** antes de consoante: {{a lot of time}} = ã-ló-rã táim). E **{{a little}}** soa como **ã-lí-rôl** (o *t* vira um "r" rápido)!
+
 :::
-
-### Should e shouldn't
-
-*Should* dá um conselho ou diz o que é uma boa ideia. {{You should drink more water.}} {{He shouldn't eat so late.}} {{Should I call her?}} É mais fraco que *must*: o ouvinte pode fazer outra coisa e ninguém vai obrigá-lo.
-
-Com *I think*, o conselho fica mais suave: {{I think you should talk to your boss.}} Note que a negativa vai com *I don't think you should*, e não com *I think you shouldn't* (a segunda existe, mas é menos comum): {{I don't think you should go.}}
-
-### O imperativo
-
-O imperativo é o verbo sem sujeito e sem nada: {{Sit down. Come in. Wait here.}} Para a negativa, *Don't* + verbo: {{Don't worry. Don't touch that.}} Não existe forma diferente para singular e plural, nem para "tu" e "você": {{Open your books.}} serve para um aluno ou trinta.
-
-*Please* suaviza e pode vir no início ou no fim: {{Please sit down.}} {{Sit down, please.}} Sem *please*, o imperativo é uma ordem direta; com tom amigável, é normal ({{Have a seat!}}), mas com desconhecidos, *Could you ...?* é mais seguro.
-
-Quando o imperativo é para você mesmo e para os outros ("vamos"), use **Let's**, que é a contração de *let us*:
-
-| Sugestão | Resposta |
-|---|---|
-| {{Let's go.}} | {{OK.}} / {{Good idea.}} / {{Sorry, I can't.}} |
-| {{Let's not wait.}} | {{Let's eat first.}} |
-
-A negativa é *Let's not*: {{Let's not argue.}} Sem *don't* e sem *to*.
-
-### Would you like e I'd like
-
-Para oferecer algo, use *Would you like ...?* Esta forma é a mais polida:
-
-| Oferta | Exemplo |
-|---|---|
-| com substantivo | {{Would you like a coffee?}} |
-| com verbo | {{Would you like to sit down?}} |
-
-A resposta aceitando é {{Yes, please.}} e recusando, {{No, thanks.}} (ou {{No, thank you.}}).
-
-Para pedir, a forma é *I'd like* (a contração de *I would like*), seguida de substantivo ou de *to* + verbo: {{I'd like a table for two.}} {{I'd like to book a room.}} Compare com *I want*: {{I want a coffee.}} é direto demais, quase uma ordem, e em restaurantes ou lojas soa brusco. *I'd like* é a forma neutra e educada de qualquer pedido.
-
-::: atencao
-Não confunda **Do you like coffee?** (você gosta de café, em geral) com **Would you like some coffee?** (você quer café agora, é uma oferta). A primeira pergunta sobre gosto; a segunda, sobre o momento.
-:::
-
-### Reunindo tudo
-
-| Quero ... | Digo ... |
-|---|---|
-| pedir algo a um desconhecido | {{Could you tell me the time, please?}} |
-| pedir algo a um amigo | {{Can you help me?}} |
-| pedir no restaurante | {{I'd like the soup, please.}} |
-| oferecer | {{Would you like some water?}} |
-| permitir | {{You can sit here.}} |
-| proibir | {{You can't park here.}} / {{You mustn't park here.}} |
-| dar conselho | {{You should go to bed early.}} |
-| dizer que é preciso | {{I have to leave.}} |
-| dizer que não é preciso | {{You don't have to wait.}} |
-| convidar | {{Let's have lunch.}} |
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| Can I help you? | Posso ajudar? |
-| Could I have the bill, please? | Pode trazer a conta, por favor? |
-| I'd like a table for two. | Eu queria uma mesa para dois. |
-| You can't park here. | Você não pode estacionar aqui. |
-| You don't have to pay. | Você não precisa pagar. |
-| You mustn't tell anyone. | Você não pode contar a ninguém. |
-| You should get some rest. | Você devia descansar. |
-| Let's take a break. | Vamos fazer uma pausa. |
+| **Inglês**                                                     | **Português natural**                                           |
+|----------------------------------------------------------------|-----------------------------------------------------------------|
+| {{Can I ask you for a piece of advice?}}                       | Posso te pedir um conselho?                                     |
+| {{Could you send me some information about the course?}}       | Você poderia me enviar algumas informações sobre o curso?       |
+| {{I have good news: I got a new job!}}                         | Tenho uma ótima notícia: consegui um emprego novo!              |
+| {{We don't have much time — our train leaves in ten minutes.}} | Não temos muito tempo — nosso trem sai daqui a dez minutos.     |
+| {{How many people are coming to the meeting today?}}           | Quantas pessoas vêm para a reunião hoje?                        |
+| {{How much money do we need for the taxi?}}                    | De quanto dinheiro precisamos para o táxi?                      |
+| {{I speak a little Spanish and a few words in German.}}        | Falo um pouco de espanhol e algumas palavras em alemão.         |
+| {{Would you like some more coffee? — Just a little, thanks!}}  | Você aceita mais um pouco de café? — Só um pouquinho, obrigado! |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  She \_\_\_\_ speak French. (can, cans)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2.  \_\_\_\_ you swim? (Do, Can)
+1.  Can you give me \_\_\_\_ before the interview? (an advice / some advice)
 
-3.  I can \_\_\_\_ you tomorrow. (to call, call)
+2.  All the \_\_\_\_ on the website \_\_\_\_ up to date. (information / informations) (is / are)
 
-4.  You \_\_\_\_ smoke in the hospital. (don't have to, mustn't)
+3.  How \_\_\_\_ luggage do you have, and how \_\_\_\_ bags are you checking? (much / many) (much / many)
 
-5.  You \_\_\_\_ pay. It's free. (mustn't, don't have to)
+4.  We don't have \_\_\_\_ milk left in the fridge. (some / any)
 
-6.  He \_\_\_\_ get up at five. (have to, has to)
+5.  Would you like \_\_\_\_ tea or \_\_\_\_ cookies? (some / any) (a few / a little)
 
-7.  \_\_\_\_ you like some tea? (Do, Would)
+6.  I have \_\_\_\_ questions about the contract. (a little / a few)
 
-8.  It's late. Let's \_\_\_\_ home now. (go, to go)
+7.  There isn't \_\_\_\_ traffic on Sundays, so it takes \_\_\_\_ time. (many / much) (a few / a little)
 
-**Degrau 2. Complete.** Use *can, can't, must, mustn't, have to, don't have to, should* ou *shouldn't*.
+8.  How \_\_\_\_ people work in your department? (much / many)
 
-1.  I \_\_\_\_ play the piano. I don't know how. (não sei)
+**Degrau 2. Complete.** Preencha as lacunas com {{some, any, much, many, a lot of, a few, a little, piece, slices, glass}}.
 
-2.  You \_\_\_\_ use your phone in the exam. It's not allowed.
+1.  I don't have \_\_\_\_ cash with me. Is there an ATM near here?
 
-3.  We \_\_\_\_ wear a uniform. It's the school's rule.
+2.  — How \_\_\_\_ emails do you receive every day? — \_\_\_\_! Maybe a hundred a day.
 
-4.  You \_\_\_\_ come with me. You can stay at home if you want.
+3.  Let me give you a \_\_\_\_ of advice: don't take \_\_\_\_ luggage on a short trip!
 
-5.  You look tired. You \_\_\_\_ go to bed early.
+4.  We only need \_\_\_\_ tomatoes and \_\_\_\_ olive oil for the salad.
 
-6.  \_\_\_\_ I sit here? (pedido de permissão)
+5.  Could I have a \_\_\_\_ of water and two \_\_\_\_ of bread, please?
 
-7.  She \_\_\_\_ work on Sundays. (it's her job)
+6.  — Do you have \_\_\_\_ news about the project? — Yes, I have \_\_\_\_ great news!
 
-8.  You \_\_\_\_ eat so much sugar. (conselho negativo)
+7.  Hurry up! We don't have \_\_\_\_ time before the presentation starts.
 
-9.  Complete o pedido: \_\_\_\_ you open the door, please? (educado)
+8.  She speaks English very well, and she only makes \_\_\_\_ mistakes.
 
-10. Complete: I\_\_\_\_ a glass of water, please. (I'd like, I like)
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Monte uma lista do que há e do que não há na sua geladeira agora usando {{some}}, {{a few}}, {{a little}} e {{don't have any}}.
 
-Escreva três regras do lugar onde você trabalha ou estuda, com *must, mustn't* e *have to*.
+2.  Escreva frases usando corretamente os incontáveis {{information}}, {{advice}}, {{news}} e {{furniture}} (com verbo no singular ou com {{a piece of}}).
 
-Escreva cinco coisas que você *can* e duas que *can't* fazer.
+3.  Faça uma pergunta com {{How much}} e uma com {{How many}} para organizar uma viagem ou um churrasco com amigos.
 
-Dê três conselhos a um amigo que está cansado, com *should* e *shouldn't*.
+4.  Ofereça algo para um visitante beber usando {{Would you like some...?}} e escreva a resposta aceitando "só um pouquinho" ({{Just a little, please}}).
 
-Escreva um mini-diálogo de quatro falas pedindo uma mesa e uma bebida, usando *I'd like*, *Could I ...?* e *Would you like ...?*
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  I need some informations about the hotel, and can you give me an advice?
 
-1.  He cans swim very well.
+2.  The news about the economy are very good today!
 
-2.  Do you can help me?
+3.  How much people are there in the meeting room?
 
-3.  I must to go now.
+4.  We don't have some bread, so I'm going to buy two breads at the bakery.
 
-4.  You mustn't pay. The museum is free on Sundays.
+5.  She has a few money and a little friends in this city.
 
-5.  I want a coffee, please. (no restaurante, para soar educado)
+6.  My sister bought three new furnitures for her living room.
 
-6.  She doesn't has to work today.
+7.  We don't have much time, so let's just ask a few questions.
 
-7.  Let's not wait for them.
 :::::
 
 ## 8. O erro típico
 
-O erro mais custoso é **trocar *mustn't* por *don't have to***, ou o contrário. Quem diz a um turista ~~You mustn't buy a ticket~~ está proibindo-o de comprar. Quem diz ~~You don't have to smoke here~~ quer dizer que não precisa fumar, quando a intenção era proibir. Antes de falar, pergunte-se: "É proibido, ou é só desnecessário?"
-
-O segundo erro é **fazer o modal como verbo comum**: ~~Do you can?~~, ~~He cans~~, ~~I must to~~. Em inglês, esses verbos se bastam. Um bom truque: depois de *can, could, should, must*, deixe o verbo nu.
+O erro mais marcante de falantes de português, até mesmo em níveis mais altos, é **colocar -s ou a / an em {{information, advice, news, furniture, luggage, bread, work}}**. Grave este alerta mental: se você estiver prestes a dizer ~~an advice~~, ~~some informations~~ ou ~~two breads~~, freia na hora e troque por **{{some advice / a piece of advice}}**, **{{some information}}** e **{{two bread rolls / two slices of bread}}**!
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~He cans swim.~~ | He **can** swim. | modal não tem *-s* |
-| ~~Do you can swim?~~ | **Can** you swim? | o modal faz a pergunta |
-| ~~I must to go.~~ | I **must** go. | sem *to* depois do modal |
-| ~~You mustn't pay.~~ (é grátis) | You **don't have to** pay. | *mustn't* proíbe |
-| ~~She doesn't has to go.~~ | She **doesn't have** to go. | *does* já leva o *-s* |
-| ~~I want a coffee, please.~~ (num café) | **I'd like** a coffee, please. | educado |
+
+| **Errado**                             | **Certo**                                                  | **Por quê**                                                                                                            |
+|----------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
+| ~~some informations / an information~~ | {{some information / a piece of information}}              | {{Information}} é incontável em inglês.                                                                           |
+| ~~an advice / two advices~~            | {{some advice / a piece of advice / two pieces of advice}} | {{Advice}} é incontável; nunca leva *an* nem *-s*.                                                                     |
+| ~~The news are good.~~                 | {{The news is good.}}                                      | Apesar do *-s* final, {{news}} é incontável e singular ({{it is}}).                                                    |
+| ~~How much people / How much emails?~~ | {{How many people / How many emails?}}                     | Pessoas e e-mails são contáveis no plural e exigem **{{How many}}**.                                                   |
+| ~~I don't have some money.~~           | {{I don't have any money.}}                                | Frases negativas com n't pedem **{{any}}**, nunca {{some}}.                                                            |
+| ~~I bought two breads.~~               | {{I bought two bread rolls / two loaves of bread.}}        | {{Bread}} é a massa incontável; conta-se por pãezinhos ({{rolls}}), fatias ({{slices}}) ou pães de forma ({{loaves}}). |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 6.** Complete: *Is this \_\_\_\_ (you) phone? No, it isn't. \_\_\_\_ (I) is in my bag.* E escolha: *Look at \_\_\_\_ (that, those) shoes over there.*
+1.  **Do Capítulo 6.** Complete com {{in, on, at}} ou --: {{Our flight is \_\_\_\_ Friday, May 1st, \_\_\_\_ 8:45 a.m., so let's meet \_\_\_\_ tomorrow morning \_\_\_\_ 6:30!}}
 
-**Do capítulo 5.** Complete com o presente contínuo: *Look! The waiter \_\_\_\_ (bring) our coffee.*
+2.  **Do Capítulo 5.** Passe para a negativa e para a pergunta: {{She has a lot of work on Mondays.}}
 
-**Do capítulo 4.** Complete com *some* ou *any*: *Is there \_\_\_\_ milk in the fridge? I don't want \_\_\_\_ sugar.*
+3.  **Do Capítulo 4 e 7.** Por que dizemos {{There **is** a lot of traffic today}} (com {{is}}), mas {{There **are** a lot of cars today}} (com {{are}})?
 
-**Do capítulo 3.** Faça a pergunta: *She works on Sundays.* → *\_\_\_\_ she work on Sundays?* E use o advérbio: *I (always) have coffee in the morning.*
-
-**Do capítulo 2.** Traduza para o inglês: "Tem um café perto daqui?" e "Tenho 25 anos."
-
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta. Depois, troque o pedido de Julia pelo seu. |
-| Dia 3 | Escreva dez regras da sua casa com *must, mustn't, have to, don't have to*. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Grave um áudio de um minuto pedindo comida em um restaurante, com *I'd like*, *Could I ...?* e *Would you like ...?* |
+| **Quando** | **O que fazer**                                                                                                                                                                  |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta reparando em todos os substantivos que vieram depois de {{some, any, a few, a little, much, many}}.                                                      |
+| Dia 3      | Abra a sua geladeira e o seu armário e diga em voz alta 8 frases descrevendo o que tem lá dentro com {{There's some / a little...}} e {{There are a few / a lot of...}}.         |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                                                                                      |
+| Dia 14     | Escreva um pequeno e-mail de 5 linhas pedindo informações e conselhos sobre uma viagem em inglês usando {{some information}}, {{a piece of advice}}, {{luggage}} e {{How much}}. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Modais (*can, could, should, must*): sem *-s*, sem *to*, sem *do/does*.
 
-*Can* = habilidade, permissão, pedido. *Could* = pedido educado.
+- **Incontáveis Críticos (Sem plural, sem {{a / an}}, verbo no singular):** {{information, advice, news, furniture, luggage, equipment, homework, work, money, bread, traffic, time}}. Para contar unidades, use **{{a piece of...}}**, **{{a slice of...}}**, **{{a glass / cup / bottle of...}}**.
 
-*Must* = regra. *Have to* = necessidade (com *do/does*). *Mustn't* = proibido. *Don't have to* = não precisa.
+- **{{Some}} vs. {{Any}}:** {{some}} para afirmativas, ofertas e pedidos; {{any}} para negativas e perguntas abertas.
 
-*Should* = conselho.
+- **Quantidade:**
 
-Imperativo: o verbo nu, *Don't* + verbo, *Please* para suavizar. *Let's* + verbo.
+  - **Contáveis (plural):** {{many}}, {{a lot of}}, {{a few}} ("alguns"), {{How many...?}}.
 
-*Would you like ...?* oferece. *I'd like ...* pede.
+  - **Incontáveis (singular):** {{much}} (em negativas/perguntas), {{a lot of}} (em afirmativas), {{a little}} ("um pouco"), {{How much...?}}.
 
 **Já consigo?**
 
-Faço um pedido educado num café ou num restaurante com *Could I ...?* e *I'd like ...*
+- Usar {{information, advice, news, furniture, luggage}} sem colocar -s ou a / an e conjugando o verbo no singular ({{is}}).
+- Escolher automaticamente entre {{How much}} e {{How many}}, e entre {{a little}} e {{a few}}.
+- Fazer perguntas e negativas com {{any}} e ofertas educadas com {{Would you like some...?}}.
 
-Diferencio *mustn't* de *don't have to*.
-
-Dou um conselho com *should* e faço uma sugestão com *Let's*.
 :::::
 
 ## Glossário do capítulo 7
 
-| Inglês | Português |
-|---|---|
-| can / can't | poder, saber / não poder, não saber |
-| could | poderia (pedido educado) |
-| must / mustn't | dever, ter que / não dever, ser proibido |
-| have to / don't have to | ter que / não precisar |
-| should / shouldn't | dever, deveria / não deveria |
-| let's | vamos |
-| would you like | você gostaria |
-| I'd like | eu gostaria, eu queria |
-| please | por favor |
-| menu | cardápio |
-| bill (US: check) | conta |
-| waiter | garçom |
-| table for two | mesa para dois |
-| soup | sopa |
-| sandwich | sanduíche |
-| reserved | reservado |
-| rule | regra |
-| rest | descanso |
-| break | pausa |
-| seat belt | cinto de segurança |
-| helmet | capacete |
-| worry | preocupar-se |
-| tired | cansado |
+| **Inglês**                                        | **Português**                                |
+|---------------------------------------------------|----------------------------------------------|
+| {{some information}} / {{a piece of information}} | algumas informações / uma informação         |
+| {{some advice}} / {{a piece of advice}}           | um conselho (alguns conselhos)               |
+| {{good news}} / {{bad news}}                      | uma boa notícia / uma má notícia             |
+| {{furniture}} / {{luggage (baggage)}}             | móveis (mobília) / bagagem (malas)           |
+| {{a loaf of bread}} / {{a slice of bread}}        | um pão de forma (inteiro) / uma fatia de pão |
+| {{a few \[minutes / questions\]}}                 | alguns \[minutos\] / algumas \[perguntas\]   |
+| {{a little \[time / water / help\]}}              | um pouco de \[tempo / água / ajuda\]         |
+| {{a lot of}} / {{lots of}}                        | muito(a), muitos(as)                         |
+| {{How much \[time / money\]...?}}                 | Quanto \[tempo / dinheiro\]...?              |
+| {{How many \[people / bottles\]...?}}             | Quantas \[pessoas / garrafas\]...?           |
+| {{fridge}} / {{cabinet}} / {{drawer}}             | geladeira / armário / gaveta                 |
+| {{olive oil}} / {{garlic}}                        | azeite de oliva / alho                       |
+| {{grocery list}}                                  | lista de compras                             |
+| {{Just a little, thanks!}}                        | Só um pouquinho, obrigado(a)!                |
+| {{We're out of...}}                               | Acabou o / Estamos sem...                    |
 
 ## Chave comentada do capítulo 7
 
 ::::: gabarito
-**Degrau 1.** 1 can (sem *-s*). 2 Can (pergunta com o modal, sem *do*). 3 call (sem *to*). 4 mustn't (é proibido). 5 don't have to (é grátis, não é necessário). 6 has to (terceira pessoa). 7 Would (oferta). 8 go (depois de *Let's*, verbo nu).
 
-**Degrau 2.** 1 can't. 2 mustn't (ou can't). 3 have to (ou must, regra da escola). 4 don't have to. 5 should. 6 Can (ou Could). 7 has to. 8 shouldn't. 9 Could (ou Can, menos educado). 10 I'd like.
+**Degrau 1.** 1 some advice ({{advice}} é incontável, proibido {{an}}). 2 information, is ({{information}} não tem plural e exige verbo no singular {{is}}). 3 much, many ({{luggage}} é incontável; {{bags}} é contável no plural). 4 any (frase negativa). 5 some, a few (oferta de bebida: {{some tea}}; {{cookies}} é plural contável: {{a few cookies}}). 6 a few ({{questions}} é plural). 7 much, a little ({{traffic}} e {{time}} são incontáveis). 8 many ({{people}} é plural contável).
 
-**Degrau 3.** Respostas pessoais. Confira: verbo nu depois dos modais, *has to* na terceira pessoa, *mustn't* só para proibição.
+**Degrau 2.** 1 any (ou much). 2 many, A lot. 3 piece, much (ou a lot of). 4 a few (ou some), a little (ou some). 5 glass, slices. 6 any, some. 7 much. 8 a few.
+
+**Degrau 3.** Modelo: 1. {{In my fridge, there's some milk, a little butter, and a few eggs, but we don't have any cheese or vegetables.}} 2. {{I need some information about the flight. My boss gave me a great piece of advice. The news is very good today, and the office furniture is new.}} 3. {{How many people are coming to the barbecue, and how much meat should we buy?}} 4. {{Would you like some coffee? — Yes, just a little, please!}}
 
 **Degrau 4.**
 
-1.  He can swim very well.
+1.  {{I need some information about the hotel, and can you give me some advice (ou a piece of advice)?}}
 
-2.  Can you help me?
+2.  {{The news about the economy is very good today!}} ({{news}} exige verbo no singular {{is}}).
 
-3.  I must go now. (ou *I have to go*)
+3.  {{How many people are there in the meeting room?}}
 
-4.  You don't have to pay. (o museu é grátis, não proibido)
+4.  {{We don't have any bread, so I'm going to buy two bread rolls (ou two loaves of bread) at the bakery.}}
 
-5.  I'd like a coffee, please.
+5.  {{She has a little money and a few friends in this city.}} ({{money}} é incontável = {{a little}}; {{friends}} é contável = {{a few}}).
 
-6.  She doesn't have to work today.
+6.  {{My sister bought three new pieces of furniture for her living room.}} (ou {{some new furniture}}).
 
-7.  Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 6: your, Mine; those. Capítulo 5: is bringing. Capítulo 4: any, any (pergunta e negativa pedem *any*). Capítulo 3: Does; I always have coffee in the morning. Capítulo 2: Is there a café near here? / I'm 25.
+**Retorno.** 1. {{on, at, --, at}}. 2. {{She doesn't have much (ou a lot of) work on Mondays. / Does she have a lot of work on Mondays?}} 3. Porque {{traffic}} (trânsito) é um substantivo incontável singular ({{There is}}), enquanto {{cars}} (carros) é um substantivo contável no plural ({{There are}}).
+
 :::::

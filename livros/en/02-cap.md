@@ -1,421 +1,319 @@
-# Capítulo 2. To be, pronomes e artigos (A1)
+# Capítulo 2. Cafés, restaurantes e pedidos na rua: demonstrativos e plurais (A1)
 
-**Meta do capítulo.** Ao final, você se apresenta e descreve pessoas e lugares com {{am / is / are}}, nunca deixa a frase sem sujeito, diz idade e sensações com {{be}} (não com "ter"), escolhe {{a}}, {{an}} ou {{the}} e usa {{there is / there are}} para "tem" e "há".
+**Meta do capítulo.** Ao final, você faz pedidos educados em cafés, restaurantes e lojas usando {{Can I get...?}}, {{I'll have...}} e {{I'd like...}} (sem soar rude com *"I want"*), aponta objetos perto e longe no singular e no plural ({{this, that, these, those}}), e forma plurais regulares e os sete plurais irregulares essenciais ({{people, men, women, children}}).
 
-## 1. Cena: a cozinha do albergue
+## 1. Cena: pedido rápido em um café em Nova York
 
-Na primeira noite, Camila vai à cozinha comum do albergue. Lá estão Ben e Mei.
+Lucas entra em uma cafeteria movimentada perto do metrô às 8h30 da manhã para tomar café e levar um lanche para o escritório.
 
 ::: dialogo
-**Ben:** {{Hi! I'm Ben. Are you new here?}}
 
-**Camila:** {{Yes, I am. I'm Camila. I'm from Brazil.}}
+**Barista:** {{Hi there! What can I get started for you today?}}
 
-**Ben:** {{Nice to meet you. This is Mei. She's from China.}}
+**Lucas:** {{Hi! Can I get a medium latte with oat milk, please?}}
 
-**Mei:** {{Hi, Camila. Are you a student?}}
+**Barista:** {{Sure thing! Hot or iced?}}
 
-**Camila:** {{No, I'm not. I'm a nurse. And you?}}
+**Lucas:** {{Hot, please. And how much are those sandwiches on the top shelf over there?}}
 
-**Mei:** {{I'm a student. I'm twenty-two.}}
+**Barista:** {{Those are eight fifty each. We have turkey, cheese, and roast beef.}}
 
-**Ben:** {{There's a market on the corner. It's open until ten.}}
+**Lucas:** {{That sounds great. I'll have a turkey sandwich, and I'd also like two of these chocolate cookies right here.}}
 
-**Camila:** {{Great! I'm hungry. And it's cold in here!}}
+**Barista:** {{Got it. Look — there are a lot of people in line today, so the kitchen is a bit busy, but your sandwich will be ready in two minutes. Is this for here or to go?}}
 
-**Mei:** {{Yes, it's cold at night. Are there blankets in your room?}}
+**Lucas:** {{To go, please.}}
 
-**Camila:** {{Yes, there are. Thanks!}}
+**Barista:** {{Your total is twenty-one seventy-five. You can tap your card right here on the screen.}}
+
+**Lucas:** {{Here you go. Have a great day!}}
+
 :::
 
-Em português: Oi! Eu sou o Ben. Você é nova aqui? / Sou, sim. Eu sou a Camila. Sou do Brasil. / Prazer. Esta é a Mei. Ela é da China. / Oi, Camila. Você é estudante? / Não. Sou enfermeira. E você? / Sou estudante. Tenho vinte e dois anos. / Tem um mercado na esquina. Fica aberto até as dez. / Ótimo! Estou com fome. E aqui está frio! / É, à noite fica frio. Tem cobertores no seu quarto? / Tem, sim. Obrigada!
+Em português: Olá! O que posso preparar para você hoje? / Oi! Você me vê um latte médio com leite de aveia, por favor? / Com certeza! Quente ou gelado? / Quente, por favor. E quanto custam aqueles sanduíches na prateleira de cima lá atrás? / Aqueles custam oito e cinquenta cada. Temos de peito de peru, queijo e rosbife. / Parece ótimo. Vou querer um sanduíche de peru, e gostaria também de dois destes cookies de chocolate bem aqui. / Anotado. Olha — tem muitas pessoas na fila hoje, então a cozinha está um pouco corrida, mas seu sanduíche fica pronto em dois minutos. É para comer aqui ou para viagem? / Para viagem, por favor. / Seu total dá vinte e um e setenta e cinco. Você pode aproximar seu cartão bem aqui na tela. / Aqui está. Tenha um ótimo dia!
 
-Repare no que o português diz de um jeito e o inglês de outro: "Tenho vinte e dois anos" virou {{I'm twenty-two}}; "estou com fome" virou {{I'm hungry}}; "aqui está frio" virou {{it's cold}}; "tem um mercado" virou {{there's a market}}; e "sou enfermeira" ganhou um {{a}}: {{I'm a nurse}}.
+Observe que Lucas não diz *"I want"* nem *"Give me"*: ele usa {{Can I get...}}, {{I'll have...}} e {{I'd like...}}. Além disso, usa {{these}} para os cookies perto da mão dele, {{those}} para os sanduíches lá longe na prateleira, e {{That sounds great}} para reagir ao que o atendente acabou de dizer.
 
 ## 2. A armadilha do português
 
-O português consegue falar sem sujeito: "É legal", "Está frio", "Tem um mercado". O inglês **exige** um sujeito em quase toda frase, mesmo quando ele não "significa" nada. Esse sujeito vazio é {{it}} (para clima, hora, avaliação) ou {{there}} (para existência).
+Em um balcão no Brasil, dizemos *"Eu quero um café"*, *"Eu vou querer o salmão"* ou *"Me dá uma água"*. Se você traduzir isso ao pé da letra em inglês, cai em quatro armadilhas imediatas:
 
-| Português (sem sujeito) | Inglês (sujeito obrigatório) |
-|---|---|
-| ~~Is nice.~~ É legal. | {{It's nice.}} |
-| ~~Is cold today.~~ Está frio hoje. | {{It's cold today.}} |
-| ~~Is ten o'clock.~~ São dez horas. | {{It's ten o'clock.}} |
-| ~~Has a market.~~ Tem um mercado. | {{There's a market.}} |
+| **O hábito do português**      | **Como o inglês pensa (Certo)**                          | **O erro típico a evitar**                                       |
+|--------------------------------|----------------------------------------------------------|------------------------------------------------------------------|
+| Eu quero um café, por favor.   | {{Can I get a coffee, please?}} / {{I'd like a coffee.}} | ~~I want a coffee.~~ / ~~Give me a coffee.~~                     |
+| Eu vou querer o sanduíche.     | {{I'll have the sandwich, please.}}                      | ~~I will want the sandwich.~~                                    |
+| (Reagindo:) Isto é ótimo!      | {{That's great!}} / {{That sounds great!}}               | ~~This is great!~~ (para o que o outro disse)                    |
+| Três mulheres e duas crianças. | {{Three women and two children.}}                        | ~~Three womans and two childs.~~                                 |
 
-A segunda armadilha: o português usa **ter** para idade e sensações. O inglês usa **be** (ser/estar):
+**1. *"I want"* no balcão soa rude.** Com garçons e atendentes, substitua *"I want"* pela tríade educada: **{{Can I get...?}}** (ou {{Can I have...?}}), **{{I'll have...}}** ("Eu vou querer...") e **{{I'd like...}}** ("Eu gostaria de...").
 
-| Português | Inglês |
-|---|---|
-| Tenho 22 anos. | {{I'm 22.}} |
-| Estou com fome / com sede. | {{I'm hungry / thirsty.}} |
-| Estou com frio / com calor. | {{I'm cold / hot.}} |
-| Estou com sono / com medo. | {{I'm sleepy / scared.}} |
-| Você tem razão. | {{You're right.}} |
+**2. Para reagir ao que a outra pessoa acabou de dizer, o natural é {{That}}.** Quando alguém te dá uma notícia, diz um preço ou faz uma sugestão, essa ideia está "lá com a pessoa", então reagimos com **{{That}}**: {{That's awesome!}}, {{That makes sense!}}, {{That's expensive!}}.
 
-A terceira: em "sou enfermeira", o português dispensa artigo; o inglês pede **a / an** antes da profissão: {{I'm a nurse.}} E o contrário: "o Brasil", "a Camila" levam artigo no português; no inglês, nomes próprios não: {{Brazil}}, {{Camila}}.
+**3. Plurais irregulares proíbem -s.** Palavras como {{person}}, {{man}}, {{woman}} e {{child}} têm plurais próprios ({{people, men, women, children}}) e nunca recebem -s no final.
 
 ## 3. Descubra você mesmo
 
-Leia os exemplos.
+Compare os pares abaixo observando a distância (**perto** vs. **longe**) e a quantidade (**um** vs. **vários**):
 
-| Afirmativa | Negativa | Pergunta |
-|---|---|---|
-| I am a nurse. | I am not a student. | Am I late? |
-| You are new. | You are not tired. | Are you ready? |
-| He is from Peru. | He is not here. | Is he a doctor? |
-| She is 27. | She is not 30. | Is she from China? |
-| It is cold. | It is not open. | Is it far? |
-| We are friends. | We are not late. | Are we ready? |
-| They are students. | They are not here. | Are they from Brazil? |
+| **Perto de mim ({{right here}})**                        | **Longe de mim ({{over there}})**                       |
+|----------------------------------------------------------|---------------------------------------------------------|
+| {{This coffee is hot.}} (1 item perto)                   | {{That sandwich over there looks good.}} (1 item longe) |
+| {{These cookies right here are fresh.}} (2+ itens perto) | {{Those tables outside are free.}} (2+ itens longe)     |
+| {{How much is this shirt?}}                              | {{How much is that jacket?}}                            |
+| {{How much are these shoes?}}                            | {{How much are those glasses?}}                         |
 
 Perguntas:
 
-Onde fica a palavra {{not}} em relação ao verbo?
+1.  Quais duas palavras usamos para apenas **1 item** (com {{is}})? E quais duas usamos para **2 ou mais itens** (com {{are}})?
 
-Como se faz a pergunta? Compare {{You are new}} e {{Are you new?}}
+2.  Na Cena, por que a palavra {{sandwich}} virou {{sandwiches}} (com -es), enquanto {{cookie}} virou apenas {{cookies}} (com -s)?
 
-Quantas formas o verbo {{be}} tem no presente? Quais?
-
-Se você viu que o verbo muda de lugar para virar pergunta e que {{not}} vem logo depois dele, descobriu o mecanismo central.
+Se você percebeu que {{this / that}} são singulares, {{these / those}} são plurais, e que palavras terminadas em som chiado como -ch precisam de -es para podermos pronunciar o plural, a regra já ficou clara.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1. **Be no presente tem três formas:** {{am}} (só com {{I}}), {{is}} ({{he, she, it}}), {{are}} ({{you, we, they}}).
 
-2. **Forma curta (a que se fala):** {{I'm, you're, he's, she's, it's, we're, they're}}.
+1.  **Tríade dos Pedidos:** No balcão, peça com **{{Can I get \[item\], please?}}**; na mesa decidindo do cardápio, use **{{I'll have \[item\], please}}**; em qualquer situação polida, **{{I'd like \[item\], please}}**.
 
-3. **Negativa:** {{am / is / are + not}}: {{I'm not}}, {{he isn't}}, {{they aren't}}. Também se diz {{he's not}}, {{they're not}}.
+2.  **Demonstrativos (Apontar):**
 
-4. **Pergunta:** o verbo vem **antes** do sujeito: {{Are you ready?}} {{Is she a nurse?}}
+    - **Perto (Aqui):** Singular = **{{this}}** (dês) \| Plural = **{{these}}** (dííz).
 
-5. **Resposta curta:** {{Yes, I am.}} / {{No, I'm not.}} / {{Yes, he is.}} / {{No, they aren't.}} Em "Yes", nunca contraia: ~~Yes, I'm.~~
+    - **Longe (Lá / O que o outro disse):** Singular = **{{that}}** (dét) \| Plural = **{{those}}** (dôuz).
 
-6. **Idade e sensação com be:** {{I'm 22. I'm hungry.}}
+3.  **Plurais Regulares:** Regra geral +s ({{cars, days}}); após -s, -sh, -ch, -x, -z, -o, adicione **-es** ({{boxes, buses, sandwiches, watches, potatoes}}); após consoante + y, troque por **-ies** ({{city → cities, company → companies}}); após -f / -fe, troque por **-ves** ({{wife → wives, shelf → shelves, knife → knives}}).
 
-7. **Sujeito sempre:** {{It's cold.}} {{It's nice.}} {{There's a market.}}
+4.  **Os 7 Plurais Irregulares (Sem -s!):** {{person → people}}, {{man → men}}, {{woman → women}} (atenção ao som: *uú-man* no singular e *uí-min* no plural!), {{child → children}}, {{foot → feet}}, {{tooth → teeth}}, {{mouse → mice}}.
 
-8. **Artigos:** {{a}} antes de som de consoante, {{an}} antes de som de vogal, {{the}} para algo conhecido. Sem artigo antes de nomes próprios e antes de plural geral.
-
-9. **Plural:** acrescente **-s** ({{books}}); **-es** depois de s, x, z, ch, sh ({{buses}}, {{boxes}}); **-ies** depois de consoante + y ({{city → cities}}).
 :::::
 
 ## 5. Por dentro
 
-**5.1 Os pronomes de sujeito**
+### 5.1 Como conduzir um pedido do início ao fim
 
-| Pessoa | Singular | Plural |
-|---|---|---|
-| 1ª | {{I}} (eu) | {{we}} (nós, a gente) |
-| 2ª | {{you}} (você, tu, o senhor) | {{you}} (vocês, os senhores) |
-| 3ª | {{he}} (ele), {{she}} (ela), {{it}} (isso, ele/ela para coisas) | {{they}} (eles, elas) |
+Veja os blocos exatos que atendentes usam nos Estados Unidos, Canadá e Reino Unido e como responder com autonomia:
 
-Em inglês há **um só** {{you}}, para uma ou várias pessoas, para amigo ou chefe. Não existe "tu / você / o senhor". A formalidade está em outras escolhas ({{please}}, {{could you}}, {{Mr. / Ms.}}).
-
-O {{I}} é sempre maiúsculo. {{It}} serve para coisas, animais, ideias, clima, hora, distância: {{It's a good idea.}} {{It's 5 km from here.}} {{It's Tuesday.}} Para pessoas, use {{he}} e {{she}}; {{it}} para uma pessoa soa desrespeitoso.
-
-**5.2 O verbo be**
-
-| | Afirmativa | Contração | Negativa | Pergunta |
-|---|---|---|---|---|
-| I | I am | I'm | I'm not | Am I...? |
-| you | you are | you're | you aren't / you're not | Are you...? |
-| he | he is | he's | he isn't / he's not | Is he...? |
-| she | she is | she's | she isn't / she's not | Is she...? |
-| it | it is | it's | it isn't / it's not | Is it...? |
-| we | we are | we're | we aren't / we're not | Are we...? |
-| they | they are | they're | they aren't / they're not | Are they...? |
-
-Na fala e na escrita informal, **use as contrações**. {{I am from Brazil}} soa duro, como quem enfatiza; {{I'm from Brazil}} é o normal. Quando você quer **ênfase**, não contraia: {{I am tired!}}
-
-**Perguntas com palavra interrogativa** (o verbo vem logo depois): {{Where are you from?}} {{What's your name?}} {{Who is she?}} {{How old are you?}} {{Why is it closed?}} A resposta de {{How old are you?}} é {{I'm 22}} ou {{I'm 22 years old}}. Nunca ~~I have 22 years~~.
-
-**Respostas curtas.** Em inglês, é natural responder a uma pergunta com {{be}} repetindo o verbo: {{Are you tired? Yes, I am. / No, I'm not.}} Na afirmativa, a contração não é possível, porque o verbo no fim da frase recebe acento: {{Yes, I am}}, não ~~Yes, I'm~~. Na negativa, a contração é normal: {{No, he isn't.}}
-
-**5.3 Para que serve o be**
-
-| Uso | Exemplo |
-|---|---|
-| quem é, profissão | {{I'm Camila. She's a nurse.}} |
-| origem, nacionalidade | {{He's from Peru. They're Brazilian.}} |
-| idade | {{My brother's 30.}} |
-| como alguém está | {{We're tired. I'm happy.}} |
-| onde alguém está | {{She's at work. They're in São Paulo.}} |
-| descrição | {{The room is small.}} |
-| hora, dia, clima, distância | {{It's seven. It's Monday. It's sunny.}} |
-
-Nacionalidades, idiomas, países e cidades se escrevem sempre com maiúscula: {{Brazilian}}, {{Portuguese}}, {{Brazil}}, {{São Paulo}}. Nacionalidade não leva artigo quando está sozinha depois de {{be}}: {{She's Italian.}} Se for substantivo para profissão, sim: {{He's a doctor.}}
-
-**As sensações com be.** A lista que o brasileiro mais precisa memorizar, porque em português "ter" faz o papel de {{be}}:
-
-| Inglês | Português |
-|---|---|
-| {{I'm hungry / thirsty}} | tenho fome / sede |
-| {{I'm cold / hot}} | tenho frio / calor |
-| {{I'm sleepy}} | tenho sono |
-| {{I'm scared / afraid}} | tenho medo |
-| {{I'm right / wrong}} | tenho razão / estou errado |
-| {{I'm in a hurry}} | estou com pressa |
-| {{I'm 22 (years old)}} | tenho 22 anos |
+| **Momento no Café ou Restaurante** | **O que o atendente pergunta**                            | **Como você responde com naturalidade**                                                                                                |
+|------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Chegando / Pedindo**          | {{What can I get for you?}} / {{Are you ready to order?}} | {{Can I get a latte, please?}} / {{I'll have the grilled salmon.}}                                                                     |
+| **2. Água (Sem gás vs. Com gás)**  | {{Still or sparkling water?}}                             | {{Still water, please.}} (sem gás) / {{Sparkling water.}} (com gás — nunca diga ~~water with gas~~, pois {{gas}} é gasolina nos EUA!). |
+| **3. Aqui ou para viagem?**        | {{For here or to go?}} (UK: {{Eat in or takeaway?}})      | {{For here, please.}} / {{To go, please.}}                                                                                             |
+| **4. Encerrando o pedido**         | {{Anything else for you today?}}                          | {{No, I'm good, thanks! That's all.}} (Estou bem, obrigado! É só isso).                                                                |
+| **5. Pedindo a conta**             | *(Você chama o garçom)*                                   | {{Excuse me, could we get the check (UK: the bill), please?}}                                                                          |
 
 ::: atencao
-O inglês também tem o verbo {{have}}, mas ele tem outro papel (posse, capítulo 3). {{I have hunger}} e {{I have 22 years}} são erros típicos do brasileiro.
+
+**Como o seu ouvido vai diferenciar {{this}} de {{these}} no áudio:** A diferença não está só no tamanho da vogal, mas na consoante final!
+
+- **{{this}}** (singular) é curtinho e termina com som de **S** seco: dês.
+
+- **{{these}}** (plural) é longo e termina vibrando a garganta com som de **Z**: díííz.
+
+- E no pedido rápido {{Can I get a...?}}, o nativo emenda tudo em Ké-nái gué-ra...?!
+
 :::
 
-**5.4 It e there**
+### 5.2 Os Plurais Irregulares e Palavras Sempre Plurais
 
-{{It}} refere-se a algo que **já está definido**: {{Where's the key? It's on the table.}} {{There}} apresenta algo **novo**: {{There's a key on the table.}}
+| **Singular (usa {{is / this / that}})** | **Plural (usa {{are / these / those}})**            | **Exemplo Real e Alerta de Concordância**                                                                                        |
+|-----------------------------------------|-----------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| {{a person}}                            | **{{people}}** (pí-pôl)                             | {{There are twenty people here.}} ({{People}} é sempre plural: {{People are nice}}!).                                            |
+| {{a man}} / {{a woman}}                 | **{{men}}** / **{{women}}** (mén / uí-min)                | {{Those two women are directors.}} (Em {{women}}, a 1ª sílaba muda de som: *uú* em {{woman}}, *uí* em {{women}}.).                                              |
+| {{a child}}                             | **{{children}}** (tchíl-drãn)                       | {{How many children do they have?}} (Nunca diga ~~childs~~ nem ~~childrens~~).                                                   |
+| *(Só existem no plural)*                | **{{glasses, sunglasses, jeans, pants, scissors}}** | Objetos de duas partes são sempre plurais: {{Where are my glasses? These jeans are new!}} (Para 1 unidade: {{a pair of jeans}}). |
 
-| Forma | Quando | Exemplo |
-|---|---|---|
-| {{It's...}} | hora, clima, avaliação, algo conhecido | {{It's eight. It's raining. It's far.}} |
-| {{There is / There's...}} | apresenta uma coisa nova | {{There's a market on the corner.}} |
-| {{There are...}} | vários | {{There are two beds in the room.}} |
+### 5.3 Como ler preços no balcão em 2 segundos
 
-Negativa e pergunta de {{there is / are}}:
+Na fila do café, quase ninguém diz *"twenty-one dollars and seventy-five cents"*. Basta dividir o preço em dois números (dólares + centavos):
 
-| | Singular | Plural |
-|---|---|---|
-| afirmativa | {{There is a kitchen.}} | {{There are two kitchens.}} |
-| negativa | {{There isn't a kitchen.}} | {{There aren't any kitchens.}} |
-| pergunta | {{Is there a kitchen?}} | {{Are there any kitchens?}} |
-| resposta curta | {{Yes, there is. / No, there isn't.}} | {{Yes, there are. / No, there aren't.}} |
+- **\$8.50** = {{eight fifty}}
 
-(O {{any}} das frases acima é apresentado no capítulo 4; por enquanto, use-o como bloco pronto na negativa e na pergunta no plural.)
+- **\$21.75** = {{twenty-one seventy-five}}
 
-Se a lista misturar singular e plural, o verbo costuma concordar com o primeiro item: {{There's a bed and two chairs.}} Na fala, {{there's}} também aparece diante de plural ({{There's two chairs}}); na escrita cuidada, use {{there are}}.
-
-::: atencao
-{{Has}} não vale para "tem" no sentido de "existe". ~~Has a pharmacy near here?~~ está errado. O certo é {{Is there a pharmacy near here?}} Já {{The hostel has a kitchen}} (o albergue **possui** uma cozinha) é correto, porque o sujeito é o albergue; o capítulo 3 explica o verbo {{have}}.
-:::
-
-**5.5 Os artigos a, an e the**
-
-{{A}} e {{an}} significam "um, uma", e só existem no **singular**. A escolha depende do **som** da palavra seguinte, não da letra:
-
-| Artigo | Antes de | Exemplos |
-|---|---|---|
-| {{a}} | som de consoante | {{a book, a hotel, a university}} ({{u}} soa `iu`) |
-| {{an}} | som de vogal | {{an apple, an hour}} ({{h}} mudo), {{an honest person}} |
-
-{{The}} corresponde a "o, a, os, as", mas serve para tudo: {{the book, the books, the hostel}}. Usa-se quando quem fala e quem ouve sabem de qual coisa se trata, ou quando só existe uma: {{The kitchen is on the second floor. The sun is out.}}
-
-| Situação | Artigo? | Exemplo |
-|---|---|---|
-| profissão (singular) | a / an | {{She's a nurse.}} |
-| primeira menção | a / an | {{There's a market.}} |
-| segunda menção | the | {{The market is open.}} |
-| nome próprio de pessoa | nenhum | {{Camila is here.}} |
-| a maioria dos países e cidades | nenhum | {{Brazil, Peru, São Paulo}} |
-| plural em geral | nenhum | {{Dogs are friendly.}} |
-| idiomas | nenhum | {{I speak Portuguese.}} |
-
-Alguns países levam {{the}}: {{the United States}}, {{the United Kingdom}}, {{the Netherlands}}. Aprenda-os como exceções.
-
-**5.6 O plural**
-
-| Regra | Exemplo |
-|---|---|
-| a maioria: + **-s** | {{book → books, bed → beds}} |
-| depois de s, x, z, ch, sh: + **-es** | {{bus → buses, box → boxes, watch → watches, dish → dishes}} |
-| consoante + y: **-ies** | {{city → cities, baby → babies}} |
-| vogal + y: + **-s** | {{day → days, boy → boys}} |
-
-A pronúncia do final segue o que você viu no capítulo 1 (seção 5.7): `s`, `z` ou `ɪz`. Há plurais irregulares ({{man → men, child → children}}), que o capítulo 4 reúne.
-
-Com sujeito plural, use {{are}}: {{The beds are small.}} {{My friends are here.}}
+- **\$10.05** = {{ten oh-five}} (o zero antes de centavos lê-se {{oh}}).
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| {{I'm from Brazil.}} | Sou do Brasil. |
-| {{Where are you from?}} | De onde você é? |
-| {{How old are you?}} | Quantos anos você tem? |
-| {{I'm hungry.}} | Estou com fome. |
-| {{It's cold in here.}} | Está frio aqui. |
-| {{Is there a pharmacy near here?}} | Tem uma farmácia por aqui? |
-| {{Yes, there is.}} | Tem, sim. |
-| {{I'm not sure.}} | Não tenho certeza. |
+| **Inglês**                                                      | **Português natural**                                           |
+|-----------------------------------------------------------------|-----------------------------------------------------------------|
+| {{Can I get a large black coffee to go, please?}}               | Você me vê um café preto grande para viagem, por favor?         |
+| {{I'll have the chicken salad and a bottle of still water.}}    | Vou querer a salada de frango e uma garrafa de água sem gás.    |
+| {{How much are those backpacks on the top shelf?}}              | Quanto custam aquelas mochilas na prateleira de cima?           |
+| {{These muffins right here look delicious!}}                    | Estes muffins bem aqui parecem deliciosos!                      |
+| {{— Anything else? — No, I'm good, thanks. That's all.}}        | — Mais alguma coisa? — Não, estou bem, obrigado. É só isso.     |
+| {{There are ten people in our team — five men and five women.}} | Há dez pessoas na nossa equipe — cinco homens e cinco mulheres. |
+| {{Excuse me, could we get the check, please?}}                  | Com licença, você poderia nos trazer a conta, por favor?        |
+| {{You can tap your card right here on the screen.}}             | Você pode aproximar seu cartão bem aqui na tela.                |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. \_\_\_\_ hungry. (I'm, I have)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2. \_\_\_\_ cold today. (Is, It's)
+1.  — What would you like to drink? — \_\_\_\_ an iced tea, please. (I will want / I'll have)
 
-3. She \_\_\_\_ a doctor. (are, is)
+2.  How much \_\_\_\_ sunglasses right here, and how much \_\_\_\_ watch over there? (is this / are these) (is that / are those)
 
-4. \_\_\_\_ a pharmacy near here? (Has, Is there)
+3.  — The flight to Miami is only \$300 today! — Wow, \_\_\_\_ is a great price! (this / that)
 
-5. They \_\_\_\_ from Peru. (is, are)
+4.  How many \_\_\_\_ work in these two \_\_\_\_? (person / people) (companys / companies)
 
-6. I'm \_\_\_\_ engineer. (a, an)
+5.  My brother has two \_\_\_\_, and our two \_\_\_\_ are teachers. (childs / children) (wifes / wives)
 
-7. Are you tired? Yes, I \_\_\_\_. (am, I'm)
+6.  Can I get a bottle of \_\_\_\_ water, please? (gas / sparkling)
 
-8. How old \_\_\_\_ you? (is, are)
+7.  — Anything else for you? — No, \_\_\_\_, thanks! (I'm good / I want nothing)
 
-**Degrau 2. Complete.** Use a forma correta de {{be}}, o artigo ou o plural.
+8.  Where \_\_\_\_ my new jeans? (is / are)
 
-1. My sister \_\_\_\_ 27. (be)
+**Degrau 2. Complete.** Passe os substantivos para o plural ou complete com {{this, that, these, those}}.
 
-2. We \_\_\_\_ late. (be, negativa, forma curta)
+1.  I'd like two \_\_\_\_ (sandwich) and three \_\_\_\_ (box) of tea, please.
 
-3. \_\_\_\_ you ready? (be)
+2.  How much are \_\_\_\_ shoes right here in my hand?
 
-4. There \_\_\_\_ two beds in the room. (be)
+3.  Who is \_\_\_\_ man standing over there by the door?
 
-5. \_\_\_\_ there a kitchen here? (be)
+4.  There are four \_\_\_\_ (woman) and three \_\_\_\_ (man) in the meeting room.
 
-6. She's \_\_\_\_ honest person. (a, an)
+5.  Big \_\_\_\_ (city) usually have good subways.
 
-7. It's \_\_\_\_ hour from here. (a, an)
+6.  Put the books on those two \_\_\_\_ (shelf), please.
 
-8. city → \_\_\_\_
+7.  — The meeting is canceled! — \_\_\_\_'s great news!
 
-9. box → \_\_\_\_
+8.  \_\_\_\_ cookies right here are for you, and \_\_\_\_ ones over there are for Sarah.
 
-10. Pergunta: \_\_\_\_ she from Brazil? (be)
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Peça em um café um cappuccino médio quente e dois destes croissants de chocolate aqui para viagem.
 
-1. Apresente-se em seis frases: nome, origem, profissão, idade e dois estados (como você está agora).
+2.  Pergunte a um vendedor quanto custam aquelas garrafas de vinho lá longe ({{over there}}) e diga que vai levar uma por \$18.50 (escreva o preço por extenso).
 
-2. Descreva seu quarto ou sua sala com quatro frases usando {{There is / There are}} (e uma negativa).
+3.  Escreva uma frase usando {{people}}, {{children}} e {{cities}}.
 
-3. Faça quatro perguntas sobre um colega, usando {{be}}: origem, idade, profissão, estado.
+4.  Diga ao garçom que você está satisfeito ({{I'm good, thanks}}) e peça a conta educadamente.
 
-4. Escreva três frases sobre o tempo ou a hora de hoje, começando com {{It's}}.
+**Degrau 4. Corrija o erro típico.** Seis frases contêm erros clássicos e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  Give me a coffee with milk, and I want two sandwichs, please!
 
-1. Is very cold today.
+2.  This shoes right here are very comfortable, but that ones over there are small.
 
-2. I have 25 years.
+3.  There are three womans and four mans waiting for the elevator.
 
-3. She is nurse.
+4.  How much is those backpacks on the top shelf?
 
-4. Has a pharmacy near here?
+5.  Can I get a water with gas, please?
 
-5. Are they students? Yes, they're.
+6.  How many boxs do those two persons have?
 
-6. They are from the Brazil.
+7.  I'll have the grilled salmon and a sparkling water, please.
 
-7. There are two kitchens in the hostel.
 :::::
 
 ## 8. O erro típico
 
-O erro que mais denuncia o brasileiro é **começar a frase sem sujeito**: {{Is nice}}, {{Has a market}}, {{Is cold}}. O português permite, e o ouvido brasileiro não sente falta. Em segundo lugar, **usar "ter" no lugar de be**: {{I have 22 years}}, {{I have hungry}}.
-
-::: atencao
-Antes de falar uma frase de descrição, clima, hora ou existência, pergunte: qual é o meu sujeito? Se não há um, use {{it}} ou {{there}}.
-:::
+O erro mais comum em lojas e restaurantes é misturar singular e plural nos demonstrativos (dizendo ~~this shoes~~ em vez de {{these shoes}}) e esquecer que {{people}}, {{women}}, {{men}} e {{children}} já são plurais (dizendo ~~peoples~~ ou ~~womans~~).
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~Is very nice.~~ | {{It's very nice.}} | o sujeito não pode faltar |
-| ~~Has a market here.~~ | {{There's a market here.}} | "tem" no sentido de "existe" é there is |
-| ~~I have 22 years.~~ | {{I'm 22.}} | idade com be |
-| ~~I have hungry.~~ | {{I'm hungry.}} | sensações com be |
-| ~~She is nurse.~~ | {{She is a nurse.}} | profissão pede a / an |
-| ~~Yes, I'm.~~ | {{Yes, I am.}} | na resposta curta afirmativa não se contrai |
+
+| **Errado**                                | **Certo**                                             | **Por quê**                                                                   |
+|-------------------------------------------|-------------------------------------------------------|-------------------------------------------------------------------------------|
+| ~~I want a coffee. / Give me a tea.~~     | {{Can I get a coffee, please?}} / {{I'd like a tea.}} | *"I want"* e *"Give me"* soam como ordens rudes no balcão.                    |
+| ~~I will want the steak.~~                | {{I'll have the steak, please.}}                      | Para escolher do cardápio, o natural é {{I'll have}} (ou {{I'll go with}}).                 |
+| ~~This shoes are nice.~~                  | {{These shoes are nice.}}                             | {{Shoes}} é plural, exigindo o plural {{these}} (perto) ou {{those}} (longe). |
+| ~~Three womans and two childs.~~          | {{Three women and two children.}}                     | Plurais irregulares nunca recebem -s.                                         |
+| ~~Water with gas.~~                       | {{Sparkling water.}}                                  | {{Gas}} nos EUA significa gasolina; água com gás é {{sparkling water}}.       |
+| ~~— I passed the test! — This is great!~~ | {{— That's great!}}                                   | Ao reagir ao que o outro acabou de dizer, usamos {{That}}; {{This}} soa como se você falasse de algo seu. |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 1.** Como se pronuncia o plural de {{bus}} (buses): `s`, `z` ou `iz`? E o de {{dog}}?
+1.  **Do Capítulo 1.** Passe estas três frases inteiras para o plural (lembrando que {{a / an}} somem no plural!): (a) {{This is a new company.}} (b) {{That woman is an executive.}} \(c) {{This child is hungry.}}
 
-**Do capítulo 1.** Por que se diz {{an hour}}, e não ~~a hour~~?
+2.  **Do Capítulo 1.** Como você pergunta a idade de alguém e como responde que tem 29 anos?
 
-**Do capítulo 1.** Soletre em voz alta seu primeiro nome e diga {{I'm}} + sua idade, com a diferença entre {{thirteen}} e {{thirty}}.
+3.  **Pronúncia.** Qual é a diferença de som final entre {{this}} (1 coisa) e {{these}} (2 ou mais coisas)?
 
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta, trocando os nomes pelos seus. |
-| Dia 3 | Escreva dez frases de apresentação sobre pessoas da sua vida ({{He's... She's...}}). |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Descreva em voz alta o lugar onde você mora com {{There is / There are}} e {{It's}}. |
+| **Quando** | **O que fazer**                                                                                                          |
+|------------|--------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta praticando a entonação de {{Can I get...}}, {{I'll have...}} e {{I'd like...}}.                  |
+| Dia 3      | Olhe ao redor do seu quarto ou escritório e diga 5 frases com {{this / these}} (perto) e 5 com {{that / those}} (longe). |
+| Dia 7      | Refaça o Degrau 4 sem olhar o gabarito.                                                                                  |
+| Dia 14     | Simule em voz alta um pedido completo de almoço, bebida e conta em um restaurante nos EUA.                               |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-{{Be}} no presente: {{am}} ({{I}}), {{is}} ({{he, she, it}}), {{are}} ({{you, we, they}}). Na fala, as contrações: {{I'm, he's, they're}}.
 
-Negativa com {{not}} depois do verbo. Pergunta com o verbo antes do sujeito. Resposta curta: {{Yes, I am. / No, I'm not.}}
+- **Pedidos educados:** {{Can I get \[item\], please?}} (balcão), {{I'll have \[item\], please}} (mesa/cardápio) e {{I'd like \[item\], please}}.
 
-Idade e sensações com {{be}}: {{I'm 22. I'm hungry.}}
+- **Demonstrativos:** Perto = {{this}} (singular) e {{these}} (plural). Longe ou reagindo ao que o outro disse = {{that}} (singular) e {{those}} (plural).
 
-Sujeito obrigatório: {{It's cold. There's a market.}}
+- **Plurais regulares:** +s geral; +es após -s, -sh, -ch, -x, -o ({{boxes, sandwiches}}); -ies após consoante + y ({{cities}}); -ves após -f / -fe ({{wives, shelves}}).
 
-{{A}} antes de som de consoante, {{an}} antes de som de vogal; {{the}} para algo conhecido. Plural: -s, -es, -ies.
+- **Plurais irregulares:** {{person → people}}, {{man → men}}, {{woman → women}} (uí-min), {{child → children}}, {{foot → feet}}, {{tooth → teeth}}, {{mouse → mice}}.
 
 **Já consigo?**
 
-Me apresento com nome, origem, profissão e idade, sem usar "ter".
+- Fazer qualquer pedido em um café ou restaurante sem usar *"I want"* e sabendo pedir água com ou sem gás ({{sparkling / still}}).
+- Apontar itens perto e longe acertando de primeira {{this, that, these, those}}.
+- Usar {{people, men, women, children}} no plural com o verbo {{are}}.
 
-Pergunto e respondo com {{Are you...? Yes, I am. / No, I'm not.}}
-
-Pergunto se existe algo com {{Is there...?}} e respondo com {{Yes, there is.}}
 :::::
 
 ## Glossário do capítulo 2
 
-| Inglês | Português |
-|---|---|
-| nurse | enfermeiro(a) |
-| student | estudante |
-| doctor | médico(a) |
-| engineer | engenheiro(a) |
-| new | novo, novato |
-| market | mercado |
-| corner | esquina |
-| kitchen | cozinha |
-| blanket | cobertor |
-| hungry | com fome |
-| thirsty | com sede |
-| cold | frio |
-| hot | quente, com calor |
-| tired | cansado |
-| sleepy | com sono |
-| scared | assustado, com medo |
-| right | certo, com razão |
-| open | aberto |
-| closed | fechado |
-| far | longe |
-| near here | por aqui, perto |
-| Nice to meet you | Prazer |
+| **Inglês**                            | **Português**                                     |
+|---------------------------------------|---------------------------------------------------|
+| {{Can I get \[a latte\], please?}}    | Você me vê / Posso pedir \[um latte\], por favor? |
+| {{I'll have \[the salmon\].}}         | Eu vou querer \[o salmão\].                       |
+| {{For here or to go?}}                | Para comer aqui ou para viagem?                   |
+| {{still water}} / {{sparkling water}} | água sem gás / água com gás                       |
+| {{I'm good, thanks!}}                 | Estou bem (satisfeito), obrigado!                 |
+| {{That sounds great!}}                | Isso parece ótimo!                                |
+| {{Could we get the check / bill?}}    | Poderia nos trazer a conta?                       |
+| {{right here}} / {{over there}}       | bem aqui / lá longe (ali)                         |
+| {{top shelf}}                         | prateleira de cima                                |
+| {{in line}} (UK: {{in the queue}})    | na fila                                           |
+| {{tap your card}}                     | aproximar o cartão                                |
+| {{Here you go!}}                      | Aqui está! (ao entregar algo)                     |
+| {{Keep the change.}}                  | Fique com o troco.                                |
+| {{oat milk}}                          | leite de aveia                                    |
+| {{eight fifty each}}                  | oito e cinquenta cada                             |
+| {{Sure thing!}}                       | Com certeza!                                      |
+| {{Your total is...}}                  | O total dá...                                     |
 
 ## Chave comentada do capítulo 2
 
 ::::: gabarito
-**Degrau 1.** 1 I'm (ter fome = be hungry). 2 It's (sujeito do clima). 3 is. 4 Is there (has não serve para "tem"). 5 are. 6 an (som de vogal: {{engineer}}). 7 am (a resposta curta afirmativa não contrai). 8 are.
 
-**Degrau 2.** 1 is. 2 aren't ou 're not (we aren't / we're not). 3 Are. 4 are. 5 Is. 6 an (h mudo em {{honest}}). 7 an (h mudo em {{hour}}). 8 cities. 9 boxes. 10 Is.
+**Degrau 1.** 1 I'll have ("vou querer" nunca é ~~I will want~~). 2 are these, is that ({{sunglasses}} é plural e está perto; {{watch}} é singular e está longe). 3 that (reação ao que o outro disse). 4 people, companies. 5 children, wives. 6 sparkling. 7 I'm good. 8 are ({{jeans}} é sempre plural).
 
-**Degrau 3.** Respostas pessoais. Confira: nenhum "I have ... years"; todas as frases com sujeito; {{a / an}} antes de profissão; {{there is}} com singular e {{there are}} com plural.
+**Degrau 2.** 1 sandwiches, boxes. 2 these. 3 that. 4 women, men. 5 cities. 6 shelves. 7 That. 8 These, those.
+
+**Degrau 3.** Modelo: 1. {{Can I get a medium hot cappuccino and two of these chocolate croissants to go, please?}} 2. {{Excuse me, how much are those bottles of wine over there? I'll take one for eighteen fifty.}} 3. {{A lot of people and children live in big cities.}} 4. {{I'm good, thanks! Could we get the check, please?}}
 
 **Degrau 4.**
 
-1. It's very cold today.
+1.  {{Can I get a coffee with milk, and I'd like two sandwiches, please?}}
 
-2. I'm 25.
+2.  {{These shoes right here are very comfortable, but those ones over there are small.}}
 
-3. She is a nurse.
+3.  {{There are three women and four men waiting for the elevator.}}
 
-4. Is there a pharmacy near here?
+4.  {{How much are those backpacks on the top shelf?}} ({{backpacks}} é plural: pede {{are}}).
 
-5. Yes, they are.
+5.  {{Can I get a sparkling water, please?}}
 
-6. They are from Brazil.
+6.  {{How many boxes do those two people have?}}
 
-7. Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 1: buses termina em `iz` (depois do som `s`); dogs termina em `z`. {{An hour}} porque o h é mudo e o som que começa a palavra é vogal. Soletrar e diferenciar {{thirteen}} e {{thirty}}: respostas pessoais.
+**Retorno.** 1. (a) {{These are new companies.}} (b) {{Those women are executives.}} \(c) {{These children are hungry.}} 2. {{How old are you? — I'm 29 (years old).}} 3. {{this}} termina em som de s seco (dês); {{these}} é longo e termina vibrando em z (díííz).
+
 :::::

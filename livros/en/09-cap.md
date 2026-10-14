@@ -1,404 +1,342 @@
-# Capítulo 9. Preposições de tempo e lugar; horas, datas, números (A1)
+# Capítulo 9. Habilidades, regras, pedidos e conselhos: can, could, must, have to, should e o imperativo (A1–A2)
 
-**Meta do capítulo.** Ao final, você escolhe entre *in, on* e *at* para dizer quando e onde, diz as horas, as datas e os preços em inglês americano e lê números sem confundir 13 com 30.
+**Meta do capítulo.** Ao final, você expressa habilidades, permissões e pedidos educados com {{can}} e {{could}} (inclusive habilidade no passado: {{I could swim at five}}), dá conselhos com {{should}}, diferencia proibição ({{mustn't / can't}}) de ausência de obrigação ({{don't have to}}), e usa o imperativo e {{Let's}} para instruções e convites.
 
-## 1. Cena: reserva no albergue
+## 1. Cena: regras de segurança e almoço na fábrica
 
-Marina chega à recepção de um albergue em Chicago.
+Lucas visita a fábrica de um cliente em Chicago com a engenheira norte-americana Rachel.
 
 ::: dialogo
-**Marina:** Hi. I have a reservation under Marina Costa.
 
-**Clerk:** Let me see. Yes, a bed in a four-bed room, from October 14th to October 17th. Is that right?
+**Rachel:** {{Welcome to our Chicago plant, Lucas! Before we go inside, could you put on this yellow helmet and these safety glasses, please?}}
 
-**Marina:** Yes. What time is check-in?
+**Lucas:** {{Sure, no problem! Can I take photos inside the factory?}}
 
-**Clerk:** Check-in is at 3 p.m., but you can leave your bag here. Breakfast is from 7:30 to 9:30 in the morning, on the second floor.
+**Rachel:** {{Sorry, you can't take photos in the production area — it's a strict company rule. You must keep your phone in your pocket there.}}
 
-**Marina:** Great. And what time is it now?
+**Lucas:** {{Got it. And do I have to wear ear protection too?}}
 
-**Clerk:** It's a quarter to two. The room is ready at three. Your bed is on the third floor, number 12. It's $38 a night, so that's $114 for three nights.
+**Rachel:** {{No, you don't have to wear it in this section because the machines aren't running right now.}}
 
-**Marina:** OK. I want to wait in the lobby. There's a good café on the corner, right? A friend and I have coffee there at four.
+**Lucas:** {{By the way, Rachel, I have a free afternoon tomorrow. What should I see in Chicago?}}
 
-**Clerk:** Yes, it's at the end of the street, next to the bank. It closes at six on Sundays.
+**Rachel:** {{You should definitely take the architecture boat tour on the river! It's amazing. You shouldn't miss it.}}
+
+**Lucas:** {{That sounds great! Do I have to book the ticket in advance?}}
+
+**Rachel:** {{Yes, you should buy it online tonight. Now, let's grab some lunch at the cafeteria! Please watch your step on the stairs.}}
+
 :::
 
-Em português: Oi. Tenho uma reserva no nome de Marina Costa. / Deixe-me ver. Sim, uma cama em um quarto de quatro camas, de 14 a 17 de outubro. Está certo? / Sim. A que horas é o check-in? / O check-in é às 3 da tarde, mas você pode deixar a mala aqui. O café da manhã é das 7h30 às 9h30, no segundo andar. / Ótimo. E que horas são agora? / É um quarto para as duas. O quarto fica pronto às três. Sua cama é no terceiro andar, número 12. São 38 dólares por noite, então são 114 dólares por três noites. / Certo. Quero esperar no saguão. Tem um café bom na esquina, certo? Uma amiga e eu tomamos café lá às quatro. / Sim, fica no fim da rua, ao lado do banco. Fecha às seis aos domingos.
+Em português: Bem-vindo à nossa fábrica de Chicago, Lucas! Antes de entrarmos, você poderia colocar este capacete amarelo e estes óculos de proteção, por favor? / Claro, sem problema! Posso tirar fotos dentro da fábrica? / Desculpe, você não pode tirar fotos na área de produção — é uma regra rígida da empresa. Você deve manter seu celular no bolso lá. / Entendi. E eu tenho que usar proteção auricular também? / Não, você não precisa usar nesta seção porque as máquinas não estão funcionando agora. / Aliás, Rachel, tenho a tarde livre amanhã. O que eu deveria conhecer em Chicago? / Você definitivamente deveria fazer o passeio de barco de arquitetura pelo rio! É incrível. Você não deveria perder. / Parece ótimo! Eu tenho que reservar o ingresso com antecedência? / Sim, você deveria comprar online hoje à noite. Agora, vamos almoçar no refeitório! Por favor, cuidado com o degrau na escada.
 
-Repare nas palavras pequenas: *at 3 p.m., from 7:30 to 9:30, in the morning, on the second floor, at four, at the end, on Sundays*. Em português, quase todas elas são "em" ou "a". Em inglês, são três: *in, on, at*.
+Observe como os verbos especiais desta cena ({{could, can, can't, must, should, shouldn't}}) seguem uma lei própria: nenhum deles tem {{-s}} na terceira pessoa, nenhum deles usa {{to}} antes do verbo seguinte ({{can take, must keep, should see}}), e nenhum deles usa {{do / does}}! O único da família de obrigação que usa {{to}} e {{do / don't}} é **{{have to}}** ({{Do I have to wear...? / You don't have to wear}}).
 
 ## 2. A armadilha do português
 
-O português tem uma preposição que resolve quase tudo: "em". "Em outubro", "em casa", "no domingo", "no ônibus", "na esquina", "às três" (que é "a"). O inglês divide a tarefa em três e exige que você escolha:
+Em português, dizemos *"Eu sei nadar"*, *"Ele pode ir"*, *"Eu devo estudar"* e *"Você não precisa pagar"*. Ao passar para o inglês, surgem quatro armadilhas perigosas:
 
-| Português | Inglês | Erro típico |
-|---|---|---|
-| em outubro | {{in October}} | ~~on October~~ |
-| no domingo | {{on Sunday}} | ~~in Sunday~~ |
-| às três | {{at three}} | ~~in three~~ |
-| em casa | {{at home}} | ~~in home~~ |
-| na mesa | {{on the table}} | ~~in the table~~ |
-| no Brasil | {{in Brazil}} | ~~on Brazil~~ |
+| **O hábito do português**                       | **Como o inglês pensa (Certo)**               | **O erro típico a evitar**                                |
+|-------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|
+| Eu **sei** dirigir / nadar / cozinhar.          | {{I **can** drive / swim / cook.}}            | ~~I know drive / I know to swim.~~                        |
+| Ela pode ajudar? — Sim, ela pode.               | {{**Can** she **help**? — Yes, she **can**.}} | ~~Does she can help? / She cans help.~~                   |
+| Eu devo ir agora.                               | {{I **must go** / I **have to go** now.}}     | ~~I must to go now.~~                                     |
+| A entrada é grátis; você **não precisa** pagar. | {{It's free; you **don't have to** pay.}}     | ~~You mustn't pay.~~ (Isso significa "É proibido pagar"!) |
 
-A segunda armadilha está nas datas. O Brasil escreve **dia/mês/ano**: 03/04/2027 é 3 de abril. Nos Estados Unidos, escreve-se **mês/dia/ano**: 03/04/2027 é 4 de março. O mesmo número, duas datas diferentes. No Reino Unido, a ordem é como a nossa. Se você mandar um documento ou fizer uma reserva para um americano, escreva o mês por extenso para evitar confusão.
+**1. As 3 Leis de Ferro dos Verbos Modais ({{can, could, must, should, would}}):**
 
-A terceira armadilha está nos números. O Brasil escreve **1.500** (mil e quinhentos) e **1,5** (um e meio). Os países de língua inglesa fazem o contrário: **1,500** e **1.5**. E a pronúncia de *13* e *30* é muito parecida, o que faz bastante confusão em preços e telefones.
+- **Lei 1 — Sem -s nunca:** {{He can swim, She should go, It must be here}} (e não ~~cans, shoulds, musts~~).
+
+- **Lei 2 — Sem to depois deles:** O verbo seguinte vem sempre "nu", sem {{to}} ({{I can help, You should rest, We must leave}} — e não ~~can to help, must to leave~~).
+
+- **Lei 3 — Sem do / does / don't:** Eles mesmos fazem a negativa ({{can't, couldn't, mustn't, shouldn't}}) e pulam para a frente na pergunta ({{Can you...? / Should I...?}}).
+
+**2. Habilidade prática ("saber fazer") é {{can}}, nunca {{know}}.** Em inglês, nunca diga ~~I know swim~~ ou ~~I know speak English~~. Para habilidades aprendidas (nadar, dirigir, cozinhar, tocar instrumento, falar idiomas), use sempre **{{can}}**: {{I can swim}}, {{She can speak three languages}} (ou {{know how to}}: {{I know how to drive}}).
+
+**3. O abismo entre {{mustn't}} (Proibido!) e {{don't have to}} (Não precisa!).** Na afirmativa, {{must}} e {{have to}} são parecidos ("ter que / dever"). Mas na negativa eles se separam completamente:
+
+- **{{You mustn't \[do\]}}** (ou {{You can't \[do\]}}) = **É proibido! Não faça!** ({{You mustn't smoke on the plane}}).
+
+- **{{You don't have to \[do\]}}** = **Não é necessário / É opcional** ({{Today is Sunday, so I don't have to wake up early}}).
 
 ## 3. Descubra você mesmo
 
-Observe os grupos.
+Compare o grau de força e a função de cada estrutura abaixo:
 
-| Tempo | Lugar |
-|---|---|
-| {{at 7:30, at noon, at night}} | {{at home, at work, at the station, at the door}} |
-| {{on Monday, on October 14th, on Sunday morning}} | {{on the table, on the wall, on the second floor, on the bus}} |
-| {{in the morning, in October, in 2027, in the summer}} | {{in the room, in Chicago, in the car, in Brazil}} |
+| **Estrutura em Inglês**                                                                    | **Qual é a função real na conversa?**                                         |
+|--------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| {{**Can** you help me?}} × {{**Could** you help me, please?}}                              | Pedido direto (entre amigos) × Pedido mais polido e educado ({{Could}}).      |
+| {{You **should** take the boat tour.}} / {{You **shouldn't** work so late.}}               | Conselho amigável / recomendação ("Você deveria / não deveria").              |
+| {{You **must** wear a helmet.}} / {{I **have to** be at the airport at six.}}              | Obrigação / regra necessária ("Você deve / Eu tenho que").                    |
+| {{You **mustn't** take photos here.}} × {{You **don't have to** wear a tie.}}              | Proibição ("É proibido tirar fotos") × Opcional ("Não precisa usar gravata"). |
+| {{**Watch** your step!}} / {{**Don't forget** your passport!}} / {{**Let's** grab lunch!}} | Ordem/instrução direta (Imperativo) / Convite para nós dois ({{Let's}}).      |
 
 Perguntas:
 
-Compare os grupos de tempo: o que *at, on* e *in* têm em comum com cada tipo de expressão (hora, dia, mês)?
+1.  Se um amigo está com dor de cabeça, você usa {{You must see a doctor}} ou {{You should see a doctor}} para dar um conselho sem parecer autoritário?
 
-Compare os grupos de lugar: qual deles descreve um ponto, qual descreve uma superfície e qual descreve um espaço fechado ou uma área grande?
+2.  Por que na frase {{Don't forget your passport!}} não existe a palavra {{you}} antes do verbo?
 
-Se você viu que a preposição vai do menor ao maior (*at* para o ponto, *on* para o dia ou a superfície, *in* para o espaço amplo), você tem a chave do capítulo.
+Se você percebeu que **{{should}}** é a ferramenta ideal para dar conselhos e sugestões, e que no **imperativo** o inglês omite o sujeito {{you}} e começa direto no verbo ({{Wait here! / Don't worry!}}), você já pegou toda a mecânica do capítulo.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  **Tempo:** *at* + hora e momentos pontuais (*at 7*, *at night*, *at noon*). *On* + dia e data (*on Monday*, *on May 5th*). *In* + parte do dia, mês, estação, ano (*in the morning*, *in May*, *in summer*, *in 2027*).
 
-2.  **Lugar:** *at* = ponto (*at the door, at home*). *On* = superfície, andar, rua, transporte público (*on the table, on the 3rd floor, on the bus*). *In* = dentro de um espaço, cidade, país (*in the room, in Chicago, in Brazil*).
+1.  **Habilidade, Permissão e Pedidos ({{can / could}}):**
 
-3.  **Horas:** *It's three o'clock. / half past three. / a quarter past three. / a quarter to four.*
+    - **{{can / can't}} + verbo nu:** habilidade ("saber fazer": {{I can drive}}) e permissão ({{Can I sit here? / You can't park here}}).
 
-4.  **Datas (EUA):** mês, dia, ano: *October 14th, 2027*. Dizemos *October fourteenth*.
+    - **{{Could you \[verbo\], please?}} / {{Could I...?}}:** a forma mais educada e universal para pedir algo a qualquer pessoa ({{Could you send me the link, please?}}).
 
-5.  **Números:** *13* = thirTEEN (acento no fim), *30* = THIRty (acento no começo). Preço: *$12.50* = *twelve fifty*.
+2.  **Conselho e Recomendação ({{should / shouldn't}}):**
+
+    - **{{should / shouldn't}} + verbo nu:** "deveria / não deveria" ({{You should get some rest / What should I do?}}). Com opinião: **{{I think you should...}}** e na negativa **{{I don't think you should...}}**.
+
+3.  **Obrigação, Proibição e Opcional ({{must}} vs. {{have to}}):**
+
+    - **Obrigação:** **{{have to / has to}}** (o mais comum no dia a dia: {{I have to work, She has to leave}}) e **{{must}}** (regras escritas, leis ou ênfase pessoal: {{Passengers must show their ID}}).
+
+    - **Proibição (Não pode!):** **{{mustn't}}** ou **{{can't}}** ({{You mustn't tell anyone / You can't smoke here}}).
+
+    - **Ausência de obrigação (Não precisa!):** **{{don't have to / doesn't have to}}** ({{You don't have to pay; it's free!}}).
+
+4.  **Imperativo e {{Let's}}:**
+
+    - **Afirmativo:** Verbo puro sem sujeito ({{Come in! / Turn left / Please sit down}}).
+
+    - **Negativo:** **{{Don't}}** + verbo puro ({{Don't worry! / Don't be late!}}).
+
+    - **Sugestão para o grupo ("Vamos..."):** **{{Let's}}** + verbo puro ({{Let's take a break!}} \| Negativa: **{{Let's not}}** + verbo: {{Let's not wait outside}}).
+
 :::::
 
 ## 5. Por dentro
 
-### Tempo: in, on, at
+### 5.1 O segredo auditivo: como diferenciar {{can}} de {{can't}} na fala nativa
 
-| Preposição | Usa-se com | Exemplos |
-|---|---|---|
-| **at** | horas | {{at 6 o'clock, at 9:15, at noon, at midnight}} |
-| | momentos curtos | {{at night, at lunchtime, at Christmas, at the weekend (UK)}} |
-| **on** | dias da semana | {{on Monday, on Fridays, on Saturday night}} |
-| | datas | {{on May 5th, on my birthday, on New Year's Day}} |
-| | período de um dia específico | {{on Monday morning}} |
-| **in** | partes do dia | {{in the morning, in the afternoon, in the evening}} |
-| | meses, estações, anos, séculos | {{in July, in winter, in 2027, in the 21st century}} |
+Muitos brasileiros têm medo de não saber se o americano disse {{I can go}} ("Eu posso ir") ou {{I can't go}} ("Eu não posso ir"), porque o t final de {{can't}} quase não explode na garganta. O segredo dos nativos não está no t, mas na **vogal** e no **ritmo da frase**:
 
-Dois detalhes que surpreendem:
-
-**1. "À noite" é *at night*, mas "de manhã" é *in the morning*.** Isso não tem lógica; é preciso decorar. Em compensação, *on Monday night* e *on Monday morning* usam *on*, porque o dia vem antes.
-
-**2. Fim de semana.** O inglês americano usa *on the weekend* ou *on weekends*: {{I work on the weekend.}} O britânico usa *at the weekend*. Ambos são corretos; o livro segue o americano.
-
-Sem preposição: quando a expressão tem **next, last, this, every, tomorrow, yesterday, today**, não se usa preposição.
-
-| Com preposição | Sem preposição |
-|---|---|
-| {{in the morning}} | {{this morning}} |
-| {{on Monday}} | {{next Monday}}, {{every Monday}} |
-| {{in the evening}} | {{tomorrow evening}} |
-| {{in March}} | {{last March}} |
-
-Assim: {{I'm busy this afternoon.}} (não ~~in this afternoon~~) e {{She came last week.}} (ver capítulo 8).
-
-*In* também significa "daqui a": {{The train leaves in ten minutes.}} (daqui a dez minutos). E *from ... to* ou *until* marcam o intervalo: {{The office is open from nine to five.}} {{I'm here until Friday.}}
-
-### Lugar: in, on, at
-
-| Preposição | Ideia | Exemplos |
-|---|---|---|
-| **at** | ponto, endereço ou local de atividade | {{at home, at work, at school, at the airport, at the bus stop, at 25 Main Street}} |
-| **on** | em cima de, numa linha ou superfície | {{on the table, on the wall, on the floor, on the second floor, on Main Street, on the left}} |
-| **in** | dentro de um espaço fechado ou uma área | {{in the kitchen, in a taxi, in the park, in Chicago, in the US}} |
-
-Comparações úteis:
-
-| | |
-|---|---|
-| {{I'm at the hotel.}} | ponto de encontro (estou no hotel, aqui) |
-| {{I'm in the hotel.}} | dentro do prédio, num quarto |
-| {{The book is on the table.}} | em cima |
-| {{The book is in the bag.}} | dentro |
-| {{Call me when you get to the airport.}} | chegar a um lugar |
-
-**Transportes.** Diz-se *in* para carro e táxi (espaços pequenos, em que você não fica de pé) e *on* para ônibus, trem, avião, metrô, navio, bicicleta: {{in a car, in a taxi}} / {{on the bus, on the train, on a plane, on a bike}}. Para "ir de", use *by*: {{by bus, by car, by train}}, sem artigo. A pé: {{on foot}}.
-
-**Moradia.** Para o endereço, a regra do funil: *at* + número e rua (*at 25 Main Street*), *on* + nome da rua (*on Main Street*), *in* + cidade ou país (*in Chicago*). Apartamento e andar: {{in an apartment, on the fifth floor}}.
-
-**Sem preposição com *home*.** Com movimento, o inglês dispensa preposição: {{I'm going home.}} (não ~~to home~~) e {{I get home at six.}} Sem movimento: {{I'm at home.}} O mesmo vale para {{go downtown, go upstairs}}.
-
-**Chegar.** Para países e cidades, *arrive in*; para locais menores (aeroporto, estação, hotel), *arrive at*: {{We arrived in São Paulo at ten.}} / {{We arrived at the hotel at eleven.}} Com *get*: {{get to}} (também sem preposição com *here/there/home*: {{get here, get there, get home}}).
-
-### Horas
-
-Pergunta: {{What time is it?}} ou {{Do you have the time?}} Resposta com *It's*.
-
-| Hora | Inglês | Alternativa |
-|---|---|---|
-| 3:00 | {{It's three o'clock.}} | {{It's three.}} |
-| 3:05 | {{It's five past three.}} | {{It's three oh five.}} |
-| 3:10 | {{It's ten past three.}} | {{It's three ten.}} |
-| 3:15 | {{It's a quarter past three.}} | {{It's three fifteen.}} (EUA: *a quarter after three*) |
-| 3:30 | {{It's half past three.}} | {{It's three thirty.}} |
-| 3:45 | {{It's a quarter to four.}} | {{It's three forty-five.}} |
-| 3:50 | {{It's ten to four.}} | {{It's three fifty.}} |
-| 12:00 | {{It's noon.}} / {{It's midnight.}} | {{It's twelve o'clock.}} |
-
-Duas regras: **(1)** passa-se do *past* ao *to* depois da meia hora. **(2)** Ao dizer *half past three*, "três e meia", evite ~~half three~~ nos Estados Unidos: é uma forma informal britânica (também 3:30) que o americano pode não entender. Em inglês americano, *half past three* é a forma segura.
-
-Para marcar o período do dia, use *a.m.* (antes do meio-dia) e *p.m.* (depois): {{7 a.m.}} (sete da manhã), {{7 p.m.}} (sete da noite). O relógio de 24 horas é comum em horários de transporte, mas na fala: {{The train leaves at fourteen thirty.}} só aparece em contextos formais ou militares.
-
-Pergunta pelo horário de um evento: {{What time does the museum open?}} {{When does it close?}} Resposta com *at*: {{It opens at nine and closes at five.}}
-
-### Dias, meses e datas
-
-| Dias | Meses |
-|---|---|
-| Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday | January, February, March, April, May, June, July, August, September, October, November, December |
-
-Os dias e os meses são escritos com **inicial maiúscula** em inglês (ao contrário do português): {{on Monday in June}}.
-
-**Como se diz a data.** Os números ordinais servem para o dia: 1st first, 2nd second, 3rd third, 4th fourth, 5th fifth, 12th twelfth, 21st twenty-first, 22nd twenty-second, 30th thirtieth.
-
-| Escrito | Dito (EUA) |
-|---|---|
-| October 14th | October fourteenth |
-| Oct 14, 2027 | October fourteenth, twenty twenty-seven |
-| 10/14/2027 | o mesmo, em números |
-
-Para o britânico, a ordem é diferente: {{14 October}} ou {{the fourteenth of October}}. A pergunta é {{What's the date today?}} ou {{What day is it?}} (dia da semana).
-
-**Anos.** Dizem-se em dois blocos de dois dígitos: 1995 = *nineteen ninety-five*; 2027 = *twenty twenty-seven*; 2005 = *two thousand five*; 1900 = *nineteen hundred*. A preposição é *in*: {{in 1995}}. Para a data de nascimento: {{I was born in 1990.}} / {{on May 3rd, 1990.}}
-
-### Números
-
-| Números | Inglês |
-|---|---|
-| 0 a 10 | zero, one, two, three, four, five, six, seven, eight, nine, ten |
-| 11 a 19 | eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen |
-| dezenas | twenty, thirty, forty, fifty, sixty, seventy, eighty, ninety |
-| 100 e 1.000 | one hundred, one thousand |
-
-Note a ortografia: *forty* perde o *u* de *four* (não ~~fourty~~); *fifteen* e *fifty* trocam o *v* de *five* por *f*; *eighteen* e *eighty* têm um só *t* depois de *eigh*.
-
-Do 21 ao 99, combina-se com hífen: {{twenty-one, thirty-five, ninety-nine}}. Centenas e milhares: {{one hundred, two hundred, one thousand, two thousand five hundred}}. Entre as centenas e as dezenas, o britânico usa *and*: {{a hundred and ten}}; o americano costuma omitir: {{one hundred ten}}. Os dois são entendidos.
-
-**13 × 30.** Os pares terminados em *-teen* e *-ty* se diferenciam pelo acento: {{thirTEEN}} (acento no fim, sílaba final longa) e {{THIRty}} (acento no começo, final curto). O mesmo vale para 14/40, 15/50 e assim por diante. Em preços e telefones, o falante nativo costuma repetir os números ou soletrar: "fifteen, one-five". Faça o mesmo se estiver em dúvida.
-
-**Telefone:** diga os dígitos um a um. O zero é lido como *zero* ou *oh*: {{five five five, oh one two three}}. Números repetidos (*55*) podem ser *double five* em inglês britânico.
-
-### Preços
-
-Preços em dólar se leem em duas partes: {{$5}} = *five dollars*; {{$5.50}} = *five fifty* (ou *five dollars and fifty cents*); {{$12.99}} = *twelve ninety-nine*. Preços em libra: {{£3.20}} = *three pounds twenty*. Valores abaixo de um dólar: {{50¢}} = *fifty cents*.
-
-Pergunte o preço com {{How much is it?}} / {{How much are they?}} / {{How much does it cost?}} Na resposta: {{It's $12.}} / {{They're $5 each.}}
+| **Frase**                               | **Como o nativo pronuncia (Ritmo e Vogal)**                                         | **Onde cai a força (Sílaba Tônica)**                                                         |
+|-----------------------------------------|-------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| **Afirmativa:** {{I **can** help you.}} | O {{can}} encolhe para **kãn** bem baixinho e rápido: Ái kãn RÉLP iú.               | A força cai toda no verbo principal (**{{HELP}}**).                                          |
+| **Negativa:** {{I **can't** help you.}} | O {{can't}} abre a vogal forte **ként** e trava a garganta no fim: Ái KÉNT rélp iú. | A força cai em cima de **{{CAN'T}}** (e na dúvida você também pode dizer **{{I cannot}}**!). |
 
 ::: atencao
-Os preços usam o **ponto** decimal: $1.50. E a **vírgula** separa milhares: $1,500. Se você ler "$1,50", o americano pode entender "cento e cinquenta" (ou ficar confuso). O mesmo vale para outros números: 1,000 é mil, 1.5 é um e meio.
+
+**Letras mudas importantes na pronúncia dos modais:**
+
+- Em **{{could}}** (kôd), **{{should}}** (shôd) e **{{would}}** (uôd), a letra **L é muda**! Elas rimam perfeitamente com a palavra {{good}} (gôd).
+
+- Em **{{mustn't}}**, o primeiro **t é mudo**: pronuncia-se **mâ-sânt** (nunca mâst-nânt).
+
 :::
+
+### 5.2 Como {{have to}} funciona nas 3 pessoas (com {{do / does}})
+
+Ao contrário de {{can, must, should}}, o verbo **{{have to}}** se comporta como um verbo regular do *Present Simple* (Capítulo 5):
+
+| **Tipo de Frase**            | **{{I, you, we, they}}**                   | **{{he, she, it}} (3ª pessoa)**               |
+|------------------------------|--------------------------------------------|-----------------------------------------------|
+| **Afirmativa ("tem que")**   | {{We **have to** leave at six.}}           | {{She **has to** leave at six.}}              |
+| **Negativa ("não precisa")** | {{You **don't have to** wait for me.}}     | {{He **doesn't have to** work tomorrow.}}     |
+| **Pergunta ("tem que?")**    | {{**Do** we **have to** book in advance?}} | {{What time **does** she **have to** start?}} |
+
+*(Na fala informal americana, {{have to}} soa como **réf-tchu** e {{has to}} soa como **rés-tchu**, com o *s* surdo: {{I have to go}} = Ái réf-tchu gôu!).*
+
+### 5.3 {{Could}} também fala do passado
+
+Além do pedido educado, {{could}} é o passado de {{can}} para falar de uma habilidade geral que você tinha: {{I could swim when I was five}}, {{She couldn't drive in 2015}}. Para uma ocasião específica, afirmativa, use {{was able to}}: {{Yesterday I was able to finish the report}}. Na negativa, {{couldn't}} serve para os dois casos: {{I couldn't finish the report yesterday}}.
 
 ## 6. Frases de ouro
 
-| Inglês | Português |
-|---|---|
-| What time is it? | Que horas são? |
-| It's a quarter to two. | É um quarto para as duas. |
-| See you on Monday at nine. | A gente se vê na segunda, às nove. |
-| I was born in 1995. | Eu nasci em 1995. |
-| It's on the second floor. | Fica no segundo andar. |
-| I'm at the airport. | Estou no aeroporto. |
-| How much is it? | Quanto custa? |
-| It's twelve fifty. | São doze e cinquenta. |
+| **Inglês**                                                             | **Português natural**                                                     |
+|------------------------------------------------------------------------|---------------------------------------------------------------------------|
+| {{Could you send me that file when you have a minute, please?}}        | Você poderia me enviar aquele arquivo quando tiver um minuto, por favor?  |
+| {{Can you speak Spanish, or just English and Portuguese?}}             | Você sabe falar espanhol, ou só inglês e português?                       |
+| {{You should definitely try the local food — it's delicious!}}         | Você definitivamente deveria experimentar a comida local — é deliciosa!   |
+| {{You look exhausted. You shouldn't work so late every night.}}        | Você parece exausto. Você não deveria trabalhar até tão tarde toda noite. |
+| {{We have to be at the airport two hours before the flight.}}          | Temos que estar no aeroporto duas horas antes do voo.                     |
+| {{You don't have to print the ticket; you can show it on your phone.}} | Você não precisa imprimir a passagem; pode mostrar no celular.            |
+| {{You mustn't share your password with anyone.}}                       | Você não pode (é proibido) compartilhar sua senha com ninguém.            |
+| {{Don't worry about the traffic — let's take the subway!}}             | Não se preocupe com o trânsito — vamos pegar o metrô!                     |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha a preposição.
 
-1.  The class starts \_\_\_\_ nine. (at, on)
+**Degrau 1. Reconheça.** Escolha a opção correta entre parênteses.
 
-2.  My birthday is \_\_\_\_ May. (on, in)
+1.  My sister \_\_\_\_ three languages, and she \_\_\_\_ very well. (can speak / cans speak) (can drive / knows drive)
 
-3.  We have a meeting \_\_\_\_ Monday. (in, on)
+2.  \_\_\_\_ you open the window, please? It's hot in here. (Do can / Could)
 
-4.  I always wake up early \_\_\_\_ the morning. (in, at)
+3.  The museum is free on Sundays, so you \_\_\_\_ pay for the ticket! (mustn't / don't have to)
 
-5.  The keys are \_\_\_\_ the table. (on, in)
+4.  This is a hospital: you \_\_\_\_ smoke anywhere inside the building. (don't have to / mustn't)
 
-6.  I'm \_\_\_\_ work right now. (at, on)
+5.  What \_\_\_\_ I do to improve my pronunciation? (should / should to)
 
-7.  We were \_\_\_\_ the bus when it started to rain. (on, in)
+6.  Emma \_\_\_\_ wake up at five tomorrow for her flight. (have to / has to)
 
-8.  She was born \_\_\_\_ 1998. (on, in)
+7.  — \_\_\_\_ I have to wear a suit to the conference? — No, you \_\_\_\_. (Do / Must) (don't / mustn't)
 
-**Degrau 2. Complete.**
+8.  It's raining a lot! \_\_\_\_ wait outside; \_\_\_\_ go into that café! (Don't / Not) (let's / let's to)
 
-1.  Escreva por extenso: 7:45 → It's a quarter \_\_\_\_ eight.
+**Degrau 2. Complete.** Preencha as lacunas com {{can, can't, could, should, shouldn't, must, mustn't, have to, has to, don't have to, doesn't have to, Don't, Let's}}.
 
-2.  Escreva por extenso: 4:30 → It's \_\_\_\_ \_\_\_\_ four.
+1.  \_\_\_\_ you repeat that more slowly, please? I didn't catch the last word.
 
-3.  Escreva por extenso: 9:10 → It's ten \_\_\_\_ nine.
+2.  You \_\_\_\_ drink so much coffee at night if you want to sleep well!
 
-4.  Escreva por extenso: $12.50 → \_\_\_\_ fifty.
+3.  Tomorrow is a holiday, so we \_\_\_\_ go to the office!
 
-5.  Escreva por extenso: 15 e 50 → \_\_\_\_ and \_\_\_\_.
+4.  Passengers \_\_\_\_ fasten their seat belts during takeoff.
 
-6.  Complete: I'm meeting my friend \_\_\_\_ Saturday \_\_\_\_ 8 p.m.
+5.  Lucas \_\_\_\_ leave the meeting early today because he has a dentist appointment.
 
-7.  Complete: The shop is open \_\_\_\_ 9 \_\_\_\_ 6.
+6.  Keep this document secret: you \_\_\_\_ show it to our competitors!
 
-8.  Escreva a data americana de 5 de agosto de 2027: August \_\_\_\_, 2027.
+7.  \_\_\_\_ take a five-minute break and grab some coffee!
 
-9.  Complete: My apartment is \_\_\_\_ the third floor, \_\_\_\_ Oak Street.
+8.  \_\_\_\_ forget to lock the door when you leave the apartment.
 
-10. Complete: I arrive \_\_\_\_ São Paulo \_\_\_\_ noon.
+**Degrau 3. Produza.** Escreva frases completas em inglês para cada situação.
 
-**Degrau 3. Produza.**
+1.  Diga duas habilidades que você sabe fazer ({{I can...}}) e uma que você não sabe fazer ({{I can't...}}), uma habilidade que você tinha na infância ({{I could...}}) e faça um pedido bem educado a um colega usando {{Could you..., please?}}.
 
-Diga a sua rotina de um dia comum com cinco horas diferentes (*I get up at ..., I have lunch at ...*).
+2.  Explique para um colega novo no seu trabalho uma coisa que é **proibida** ({{You mustn't / can't...}}), uma coisa que é **obrigatória** ({{You have to...}}) e uma coisa que **não é necessária** ({{You don't have to...}}).
 
-Escreva a sua data de nascimento e a de duas pessoas da família, em inglês americano e por extenso.
+3.  Dê dois conselhos ({{You should... / You shouldn't...}}) para um amigo estrangeiro que vai visitar a sua cidade pela primeira vez.
 
-Escreva três frases dizendo onde alguma coisa está (*on, in, at*).
+4.  Escreva um convite com {{Let's...}} e uma sugestão negativa com {{Let's not...}} para o fim de semana.
 
-Escreva um diálogo de quatro falas: você pergunta o preço de dois itens e o horário de fechamento da loja.
+**Degrau 4. Corrija o erro típico.** Seis frases têm erros clássicos de brasileiros e uma está certa. Corrija as seis erradas e aponte a certa.
 
-**Degrau 4. Corrija o erro típico.** Uma delas está certa.
+1.  My husband cans cook very well, and I know swim.
 
-1.  I'll see you in Monday.
+2.  Does she can come to the meeting tomorrow morning?
 
-2.  The meeting is on 3 p.m.
+3.  You must to wear a badge in the building, and you should to arrive early.
 
-3.  I live at Chicago.
+4.  You mustn't come to the office on Saturday — it's completely optional!
 
-4.  It's half three. (americano, 3:30)
+5.  She doesn't has to work tonight.
 
-5.  Wait for me on the door.
+6.  Let's to take a taxi, and not be late!
 
-6.  She was born in September 4th.
+7.  Could you send me the report when you have a moment, please?
 
-7.  We arrived at the station at six.
 :::::
 
 ## 8. O erro típico
 
-O erro mais comum é **usar um só "em" para tudo**, dizendo *in Monday*, *in 3 o'clock*, *on June*. A saída prática é pensar em três perguntas: é uma **hora** (at)? É um **dia** (on)? É um **período maior** (in)? Se for lugar: **ponto** (at), **superfície** (on) ou **espaço** (in)?
-
-O segundo erro é **ler uma data americana como brasileira**. Se uma passagem diz *03/04*, na dúvida confirme: *April 3rd* ou *March 4th*?
-
-O terceiro é a confusão entre *thirteen* e *thirty* ao falar de preço ou telefone. Treine o acento e, se não tiver certeza, repita os dígitos.
+Os dois erros mais perigosos deste capítulo são **colocar to depois de verbos modais** (dizendo ~~I can to go, You should to study, I must to leave~~) e **usar mustn't achando que significa "não precisa"**. Antes de negar uma obrigação, faça sempre a pergunta de segurança: *"É proibido fazer ({{mustn't / can't}}) ou só não precisa fazer ({{don't have to}})?"*.
 
 ::: erros
-| Errado | Certo | Por quê |
-|---|---|---|
-| ~~See you in Monday.~~ | See you **on** Monday. | dia da semana pede *on* |
-| ~~The class is on 9 o'clock.~~ | The class is **at** 9 o'clock. | hora pede *at* |
-| ~~I live at Chicago.~~ | I live **in** Chicago. | cidade pede *in* |
-| ~~I go to home.~~ | I go **home**. | *home* sem preposição |
-| ~~Half three~~ (para 3:30) | **Half past three** | em inglês americano, seguro |
-| ~~$12,50~~ | **$12.50** | ponto decimal |
+
+| **Errado**                                      | **Certo**                                 | **Por quê**                                                                                   |
+|-------------------------------------------------|-------------------------------------------|-----------------------------------------------------------------------------------------------|
+| ~~I can to speak English. / You should to go.~~ | {{I can speak English. / You should go.}} | Verbos modais ({{can, could, should, must}}) **não** levam {{to}} depois deles.            |
+| ~~He cans help. / Do you can help?~~            | {{He can help. / Can you help?}}          | Modais nunca levam -s e nunca usam o auxiliar {{do / does}}.                                  |
+| ~~I know drive. / I know to swim.~~             | {{I can drive. / I can swim.}}            | "Saber fazer" uma habilidade prática em inglês é **{{can}}**, nunca {{know}} + verbo.         |
+| ~~You mustn't pay; it's free!~~                 | {{You don't have to pay; it's free!}}     | {{Mustn't}} significa "é proibido"; para dizer "não é necessário", use **{{don't have to}}**. |
+| ~~She doesn't has to go.~~                      | {{She doesn't have to go.}}               | Após {{doesn't}}, o verbo volta para {{have}} (sem -s).                                       |
+| ~~Let's to go! / Let's don't wait!~~            | {{Let's go! / Let's not wait!}}           | {{Let's}} é seguido de verbo puro sem {{to}}, e sua negativa é **{{Let's not}}**.             |
+
 :::
 
 ## 9. Retorno
 
-**Do capítulo 8.** Passe para o passado: *I go to the bank at ten.* → *I \_\_\_\_ to the bank at ten yesterday.* E faça a pergunta: *Did you \_\_\_\_ (see) him last week?*
+1.  **Do Capítulo 8.** Complete com *Present Simple* ou *Present Continuous*: {{Right now, Lucas \_\_\_\_ (wear) a yellow helmet because he \_\_\_\_ (walk) inside the factory, and he \_\_\_\_ (know) all the safety rules.}}
 
-**Do capítulo 7.** Faça um pedido educado com *Could ...* para saber as horas.
+2.  **Do Capítulo 7.** Corrija: ~~Can you give me an advice and some informations about the factory?~~
 
-**Do capítulo 6.** Escolha: *\_\_\_\_ (This / These) is my room, and \_\_\_\_ (that / those) are Tom's bags.*
+3.  **Do Capítulo 6.** Como você diz: *"A fábrica abre de segunda a sexta, das 7h30 às 17h15"*?
 
-**Do capítulo 5.** Responda: *What are you doing now?*
-
-**Do capítulo 2.** Complete: *There \_\_\_\_ a café near here. There \_\_\_\_ two banks on this street.*
-
-| Quando | O que fazer |
-|---|---|
-| Dia 1 | Leia a Cena em voz alta, trocando datas e horários pelos seus. |
-| Dia 3 | Diga em voz alta as horas do seu relógio, a cada 15 minutos, durante um dia. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Grave um áudio dizendo a sua rotina do fim de semana com horas e lugares. |
+| **Quando** | **O que fazer**                                                                                                                                                               |
+|------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Dia 1      | Leia a Cena em voz alta prestando atenção no contraste entre {{can't}}, {{must}}, {{don't have to}} e {{should}}.                                                             |
+| Dia 3      | Escreva 6 frases sobre as regras do seu trabalho ou condomínio usando {{have to}}, {{don't have to}}, {{mustn't}} e {{can}}.                                                  |
+| Dia 7      | Refaça o Degrau 4 sem consultar o gabarito.                                                                                                                                   |
+| Dia 14     | Grave um áudio de 1 minuto dando dicas de viagem sobre o Brasil para um colega estrangeiro usando {{You should}}, {{You shouldn't}}, {{You have to}} e {{You don't have to}}. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-**Tempo:** *at* + hora; *on* + dia e data; *in* + parte do dia, mês, estação, ano. Sem preposição: *this, next, last, every, today, tomorrow*.
 
-**Lugar:** *at* = ponto; *on* = superfície, andar, rua, ônibus; *in* = dentro, cidade, país. *Home* sem preposição quando há movimento.
+- **Regras dos Modais ({{can, could, must, should}}):** Sem -s na 3ª pessoa, sem to antes do próximo verbo e sem do / does nas perguntas e negativas.
 
-**Horas:** *past* até a meia hora, *to* depois. *Half past*, *a quarter past/to*. *a.m.* e *p.m.*
+- **Funções:**
 
-**Datas (EUA):** mês, dia, ano. Ordinais: *first, second, third, fourth...*
+  - **{{can / can't}}:** habilidade ("saber fazer") e permissão.
 
-**Números:** *13* ≠ *30* pelo acento. Ponto decimal, vírgula nos milhares.
+  - **{{Could you..., please?}} / {{Could I...?}}:** pedidos polidos; **{{could}}** também é a habilidade no passado ({{I could swim at five}}).
+
+  - **{{should / shouldn't}}:** conselhos, dicas e recomendações ("deveria").
+
+  - **{{have to / has to}} e {{must}}:** obrigação ("ter que / dever").
+
+  - **{{mustn't}} / {{can't}}:** proibição ("é proibido").
+
+  - **{{don't / doesn't have to}}:** ausência de obrigação ("não precisa, é opcional").
+
+- **Imperativo e {{Let's}}:** Verbo puro para instruções ({{Watch your step!}}), {{Don't}} + verbo para negativas ({{Don't worry!}}), {{Let's}} + verbo para convites ({{Let's grab lunch!}} / {{Let's not wait}}).
 
 **Já consigo?**
 
-Escolho *in, on* e *at* para dizer quando e onde, na maior parte dos casos.
+- Usar {{can, could, should, must}} sem colocar to ou -s depois deles.
+- Diferenciar {{You mustn't do it}} (proibido) de {{You don't have to do it}} (não precisa).
+- Dar conselhos com {{should}}, fazer pedidos educados com {{Could you...}} e convidar com {{Let's}}.
 
-Digo as horas e a data de hoje em inglês americano.
-
-Pergunto e entendo um preço, mesmo com números parecidos.
 :::::
 
 ## Glossário do capítulo 9
 
-| Inglês | Português |
-|---|---|
-| in / on / at | em (tempo e lugar) |
-| o'clock | em ponto |
-| a quarter past / to | um quarto depois / para |
-| half past | e meia |
-| noon, midnight | meio-dia, meia-noite |
-| a.m. / p.m. | da manhã / da tarde ou noite |
-| morning, afternoon, evening | manhã, tarde, início da noite |
-| night | noite |
-| weekend | fim de semana |
-| date | data |
-| birthday | aniversário |
-| floor | andar |
-| street | rua |
-| corner | esquina |
-| lobby | saguão |
-| front desk / clerk | recepção / atendente |
-| check-in | registro de entrada |
-| reservation | reserva |
-| price | preço |
-| dollar, cent | dólar, centavo |
-| each | cada, por unidade |
-| hundred, thousand | cem, mil |
-| the first, the second ... | primeiro, segundo ... |
+| **Inglês**                               | **Português**                                            |
+|------------------------------------------|----------------------------------------------------------|
+| {{Could you \[open the door\], please?}} | Você poderia \[abrir a porta\], por favor?               |
+| {{You should definitely...}}             | Você definitivamente deveria...                          |
+| {{You shouldn't miss it!}}               | Você não deveria perder isso! (É imperdível!)            |
+| {{have to / has to}}                     | ter que (precisar por obrigação)                         |
+| {{don't have to / doesn't have to}}      | não precisar (ser opcional)                              |
+| {{must}} / {{mustn't}}                   | dever (regra) / ser proibido (não poder de jeito nenhum) |
+| {{put on \[a helmet / jacket\]}}         | colocar, vestir \[um capacete / jaqueta\]                |
+| {{in advance}}                           | com antecedência                                         |
+| {{Let's grab some lunch / coffee!}}      | Vamos pegar um almoço / tomar um café!                   |
+| {{Watch your step!}}                     | Cuidado onde pisa! / Cuidado com o degrau!               |
+| {{fasten your seat belt}}                | apertar o cinto de segurança                             |
+| {{take a break}}                         | fazer uma pausa / intervalo                              |
+| {{strict rule}}                          | regra rígida                                             |
+| {{safety glasses}} / {{ear protection}}  | óculos de proteção / proteção auricular                  |
+| {{I could swim when I was five.}}        | Eu sabia nadar quando tinha cinco anos.                  |
 
 ## Chave comentada do capítulo 9
 
 ::::: gabarito
-**Degrau 1.** 1 at (hora). 2 in (mês). 3 on (dia da semana). 4 in (parte do dia). 5 on (em cima de). 6 at (local de atividade). 7 on (ônibus). 8 in (ano).
 
-**Degrau 2.** 1 to (a quarter *to* eight = 7:45). 2 half past. 3 past (ten *past* nine = 9:10). 4 twelve (twelve fifty = $12.50). 5 fifteen and fifty (-teen e -ty: acento no fim e no começo). 6 on, at. 7 from, to. (ou *until*: *from 9 until 6*) 8 5th (August 5th, 2027). 9 on, on (*on the third floor, on Oak Street*). 10 in, at (*in São Paulo*, cidade; *at noon*, hora).
+**Degrau 1.** 1 can speak, can drive (modais não levam -s; habilidade usa {{can}}, nunca {{know drive}}). 2 Could (pedido educado sem {{do}}). 3 don't have to (é grátis, logo "não precisa" pagar). 4 mustn't (é proibido fumar no hospital). 5 should (sem {{to}}). 6 has to (3ª pessoa {{Emma}} = {{she}}). 7 Do, don't ({{have to}} faz pergunta e resposta curta com {{do / don't}}). 8 Don't, let's (imperativo negativo = {{Don't}}; {{let's}} sem *to*).
 
-**Degrau 3.** Respostas pessoais. Confira: *at* nas horas, *on* nos dias e datas, *in* nos meses e anos.
+**Degrau 2.** 1 Could (ou Can). 2 shouldn't. 3 don't have to. 4 must (ou have to). 5 has to. 6 mustn't (ou can't). 7 Let's. 8 Don't.
+
+**Degrau 3.** Modelo: 1. {{I can swim and I can cook Italian food, but I can't play the guitar. Could you send me the meeting link, please?}} 2. {{In our office, you mustn't share client data, you have to wear your badge, and you don't have to wear a suit on Fridays.}} 3. {{When you visit Rio, you should definitely go to Christ the Redeemer, and you shouldn't walk alone late at night.}} 4. {{Let's go to the Italian restaurant tonight, and let's not talk about work!}}
 
 **Degrau 4.**
 
-1.  I'll see you on Monday.
+1.  {{My husband can cook very well, and I can swim.}} (Sem -s em {{can}}; habilidade usa {{can}}, não {{know}}).
 
-2.  The meeting is at 3 p.m.
+2.  {{Can she come to the meeting tomorrow morning?}} ({{Can}} não usa {{Does}}).
 
-3.  I live in Chicago.
+3.  {{You must (ou have to) wear a badge in the building, and you should arrive early.}} (Sem {{to}} após {{must}} e {{should}}).
 
-4.  It's half past three. (*half three* é informal britânico, também 3:30, e soa estranho para o americano)
+4.  {{You don't have to come to the office on Saturday — it's completely optional!}} (Opcional é {{don't have to}}, nunca {{mustn't}}).
 
-5.  Wait for me at the door.
+5.  {{She doesn't have to work tonight.}} (Após {{doesn't}}, usa-se {{have}}).
 
-6.  She was born on September 4th.
+6.  {{Let's take a taxi and not be late!}} (Sem {{to}} após {{Let's}}; a segunda parte também fica sem {{to}}).
 
-7.  Está certa.
+7.  **Está certa.**
 
-**Retorno.** Capítulo 8: went; see. Capítulo 7: Could you tell me the time, please? Capítulo 6: This, those. Capítulo 5: resposta pessoal, no presente contínuo (*I'm studying English.*). Capítulo 2: is, are.
+**Retorno.** 1. {{is wearing, is walking, knows}}. 2. {{Can you give me some advice (ou a piece of advice) and some information about the factory?}} 3. {{The factory is open from Monday to Friday, from seven thirty a.m. to five fifteen p.m.}}
+
 :::::
