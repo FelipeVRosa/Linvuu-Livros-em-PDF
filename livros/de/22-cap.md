@@ -183,23 +183,39 @@ Se você notou o trema, o infinitivo no fim depois de *würde* e o *mit* + dativ
 
 **Degrau 2. Complete.**
 
-Conjugue *hätte* e *wäre* (ich, du, er, wir).
+Conjugue **hätte** e **wäre** nas pessoas indicadas:
 
-Transforme em pedido educado: Hilf mir! / Mach das Fenster zu! / Ich will einen Kaffee. / Sagen Sie mir die Zeit!
+1.  **haben (Konjunktiv II):** ich \_\_\_\_, du \_\_\_\_, er \_\_\_\_, wir \_\_\_\_, ihr \_\_\_\_
 
-Complete o conselho: Du \_\_\_\_ früher schlafen gehen. (sollen) An deiner Stelle \_\_\_\_ ich zu Hause bleiben. (werden)
+2.  **sein (Konjunktiv II):** ich \_\_\_\_, du \_\_\_\_, er \_\_\_\_, wir \_\_\_\_, Sie \_\_\_\_
 
-Complete a sugestão: Wir \_\_\_\_ ins Kino gehen. (können) Wie \_\_\_\_ es mit einem Spaziergang? (sein)
+Transforme cada frase direta em um pedido educado no Konjunktiv II:
 
-Escolha *konnte* ou *könnte*: Gestern \_\_\_\_ ich nicht kommen. / \_\_\_\_ du morgen kommen?
+3.  Hilf mir! (*du*) → \_\_\_\_?
+
+4.  Mach das Fenster zu! (*du*, com *würden*) → \_\_\_\_?
+
+5.  Ich will einen Kaffee. → \_\_\_\_.
+
+6.  Sagen Sie mir die Zeit! (*Sie*) → \_\_\_\_?
+
+Complete os conselhos, sugestões e o contraste entre passado (*konnte*) e pedido educado (*könnte*):
+
+7.  Conselho: Du \_\_\_\_ früher schlafen gehen. (*sollen*) · An deiner Stelle \_\_\_\_ ich heute zu Hause bleiben. (*werden*)
+
+8.  Sugestão: Wir \_\_\_\_ heute Abend ins Kino gehen. (*können*) · Wie \_\_\_\_ es mit einem Spaziergang? (*sein*)
+
+9.  Passado vs. Konjunktiv II: Gestern \_\_\_\_ ich leider nicht kommen. / \_\_\_\_ du morgen vielleicht kommen? (*konnte* ou *könntest*?)
 
 **Degrau 3. Produza.**
 
-Escreva cinco pedidos educados (hotel, café, loja, escritório, rua).
+1.  Escreva cinco pedidos educados para situações reais: no hotel, no café, numa loja, no escritório e na rua (*Ich hätte gern … / Könnten Sie mir bitte …? / Würden Sie bitte …?*).
 
-Escreva três desejos com *Ich hätte gern* ou *Ich würde gern*.
+2.  Escreva três desejos usando *Ich hätte gern …*, *Ich wäre jetzt gern …* e *Ich würde gern …*.
 
-Escreva três conselhos para um amigo cansado. Escreva um diálogo de hotel, no estilo da Cena.
+3.  Escreva três conselhos para um amigo estressado usando *Du solltest …*, *Du könntest …* e *An deiner Stelle würde ich …*.
+
+4.  Escreva um diálogo de check-in no hotel (4 falas) no estilo da Cena.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -220,12 +236,20 @@ Escreva três conselhos para um amigo cansado. Escreva um diálogo de hotel, no 
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar *würde* com *haben*, *sein* e modais**: *ich würde haben*. O segundo é **confundir passado e Konjunktiv II**: *Konnten Sie mir helfen?* (pretérito) em vez de *Könnten Sie mir helfen?* O terceiro é **esquecer o infinitivo no fim** ou **a inversão**: *An deiner Stelle ich würde …*
+O erro que mais custa caro é **usar *würde* com *haben*, *sein* e modais** (*ich würde haben / ich würde sein* em vez de **ich hätte / ich wäre**), **esquecer o trema que diferencia o Konjunktiv II do passado** (*Konnten Sie mir helfen?* significa “O senhor pôde me ajudar ontem?”; o pedido educado é **Könnten Sie mir helfen?**) e **esquecer a inversão depois de *An deiner Stelle***.
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich würde haben gern einen Kaffee.~~ | Ich **hätte** gern einen Kaffee. | *Haben, sein* e os modais têm Konjunktiv II próprio (**hätte, wäre, könnte**), sem *würde*. |
+| ~~Konnten Sie mir bitte helfen?~~ | **Könnten** Sie mir bitte helfen? | Sem trema (*konnten*) é passado; o pedido educado exige trema (**könnten**). |
+| ~~An deiner Stelle ich würde bleiben.~~ | An deiner Stelle **würde ich** bleiben. | *An deiner Stelle* ocupa a Posição 1; o verbo **würde** vem obrigatoriamente na Posição 2. |
+| ~~Wir könnten gehen ins Kino.~~ | Wir **könnten** ins Kino **gehen**. | O verbo principal no infinitivo fecha a moldura no **fim da frase**. |
+:::
 
 ::: atencao
 *Hätte, wäre, könnte* para *haben, sein* e modais. *Würde* + infinitivo no fim para o resto. Trema = educação.
 :::
-
 
 ## 9. Retorno
 
@@ -253,9 +277,9 @@ Konjunktiv II = voz educada: pedir, desejar, aconselhar, sugerir.
 
 *Hätte, wäre, könnte, müsste, sollte, möchte, würde*: decore.
 
-Outros verbos: *würde* + infinitivo no fim.
+Outros verbos: *würde* + infinitivo no fim (*Ich würde gern reisen*).
 
-Trema separa passado de educado: *konnte* ≠ *könnte*.
+Trema separa passado de educado: *konnte* ≠ *könnte*, *hatte* ≠ *hätte*, *war* ≠ *wäre*.
 
 Conselho: *Du solltest …, An deiner Stelle würde ich …*
 
@@ -263,7 +287,7 @@ Conselho: *Du solltest …, An deiner Stelle würde ich …*
 
 Peço algo num hotel ou numa loja com educação.
 
-Digo o que gostaria com *Ich hätte gern …* Dá para dar um conselho amigo a um colega.
+Digo o que gostaria com *Ich hätte gern …* e dou um conselho amigo a um colega.
 :::::
 
 ## Glossário do capítulo 22
@@ -299,9 +323,21 @@ Digo o que gostaria com *Ich hätte gern …* Dá para dar um conselho amigo a u
 ::::: gabarito
 **Degrau 1.** 1 Könnten. 2 hätte. 3 Würden. 4 solltest. 5 (b). 6 (b). 7 wäre.
 
-**Degrau 2.** hätte, hättest, hätte, hätten; wäre, wärst, wäre, wären. Könntest du mir helfen? Würdest du bitte das Fenster zumachen? Ich hätte gern einen Kaffee. (ou: Ich möchte einen Kaffee.) Könnten Sie mir bitte die Zeit sagen? solltest, würde. könnten, wäre. konnte, Könntest.
+**Degrau 2.** 1 hätte, hättest, hätte, hätten, hättet. 2 wäre, wärst, wäre, wären, wären. 3 Könntest du mir bitte helfen? 4 Würdest du bitte das Fenster zumachen? 5 Ich hätte gern einen Kaffee (ou *Ich möchte einen Kaffee*). 6 Könnten Sie mir bitte die Uhrzeit sagen? 7 solltest, würde. 8 könnten, wäre. 9 konnte, Könntest.
 
-**Degrau 3.** Respostas pessoais. Confira o trema, o *würde* na posição 2 e o infinitivo no fim.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Hotel: Ich hätte gern ein Einzelzimmer für drei Nächte. / Café: Ich hätte gern einen Cappuccino, bitte. / Loja: Könnten Sie mir bitte diese Jacke in Größe M zeigen? / Escritório: Würden Sie mir bitte die E-Mail noch einmal schicken? / Rua: Entschuldigung, könnten Sie mir bitte den Weg zum Bahnhof erklären?*
+
+2.  *Ich hätte gern mehr Freizeit. Ich wäre jetzt gern am Strand in Brasilien. Ich würde gern nächstes Jahr nach Wien reisen.*
+
+3.  *Du solltest am Abend früher schlafen gehen. Du könntest am Wochenende einen Ausflug machen. An deiner Stelle würde ich mit dem Chef sprechen.*
+
+4.  Modelo de diálogo:
+    *— Guten Abend! Ich hätte gern ein Zimmer für eine Nacht.*
+    *— Gern! Hätten Sie gern ein Zimmer mit Frühstück?*
+    *— Ja, bitte. Könnten Sie mir auch das WLAN-Passwort geben?*
+    *— Natürlich, hier ist das Passwort und Ihr Schlüssel.*
 
 **Degrau 4.**
 

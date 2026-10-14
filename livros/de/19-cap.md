@@ -175,23 +175,33 @@ No sul da Alemanha, na Áustria e na Suíça, a fala usa mais o Perfekt, até pa
 
 **Degrau 2. Complete.**
 
-Conjugue *sein* e *haben* no pretérito (ich, du, er, wir, ihr).
+Conjugue **sein** e **haben** no Präteritum:
 
-Passe para o pretérito: Ich bin müde. / Wir haben keine Zeit. / Er kann nicht kommen. / Ihr müsst lange warten. / Sie will nach Hause gehen. / Du darfst nicht bleiben.
+1.  **sein:** ich \_\_\_\_, du \_\_\_\_, er \_\_\_\_, wir \_\_\_\_, ihr \_\_\_\_
 
-Escreva o pretérito: kaufen, wohnen, arbeiten, kochen, fragen.
+2.  **haben:** ich \_\_\_\_, du \_\_\_\_, er \_\_\_\_, wir \_\_\_\_, ihr \_\_\_\_
 
-Troque o Perfekt pelo pretérito: Er ist nach Hause gegangen. / Sie hat einen Film gesehen. / Wir sind nach Berlin gefahren. / Ich habe viel gelesen.
+Passe as frases do presente para o **Präteritum** (como fazemos na fala com *sein, haben* e modais):
+
+3.  Ich bin müde. → \_\_\_\_ · Wir haben keine Zeit. → \_\_\_\_
+
+4.  Er kann nicht kommen. → \_\_\_\_ · Ihr müsst lange warten. → \_\_\_\_
+
+5.  Sie will nach Hause gehen. → \_\_\_\_ · Du darfst nicht bleiben. → \_\_\_\_
+
+Escreva o Präteritum dos verbos regulares e troque o Perfekt pelo Präteritum nos irregulares:
+
+6.  **kaufen** → ich \_\_\_\_ · **wohnen** → ich \_\_\_\_ · **arbeiten** → ich \_\_\_\_ · **kochen** → wir \_\_\_\_ · **fragen** → er \_\_\_\_
+
+7.  Er ist nach Hause gegangen. → Er \_\_\_\_ nach Hause. · Sie hat einen Film gesehen. → Sie \_\_\_\_ einen Film. · Wir sind nach Berlin gefahren. → Wir \_\_\_\_ nach Berlin. · Ich habe viel gelesen. → Ich \_\_\_\_ viel.
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases sobre o que você não pôde fazer ontem (*Ich konnte … nicht*).
+1.  Escreva quatro frases contando como foi o seu dia de ontem usando **war**, **hatte**, **konnte** e **musste**.
 
-Escreva três frases sobre o que você teve de fazer (*Ich musste …*).
+2.  Escreva um mini-diário de quatro linhas no estilo do diário da Camila usando o Präteritum (*Gestern war ein langer Tag. Ich stand um … auf und fuhr …*).
 
-Escreva um mini-texto de cinco linhas sobre ontem, no estilo do diário de Camila.
-
-Escreva uma história de quatro frases começando com *Es war einmal …*
+3.  Escreva o início de uma história de três frases começando por *Es war einmal …*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -212,12 +222,21 @@ Escreva uma história de quatro frases começando com *Es war einmal …*
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **colocar *-te* num verbo irregular**: *gehte, kommte, sahte*. O segundo é **dar terminação a *ich* ou a *er***: *ich hattest, er konnten*. Lembre: *ich = er*, sem terminação. O terceiro é **usar o Perfekt de *sein* e *haben* na fala**: *Ich habe gehabt Hunger.* Diga *Ich hatte Hunger.*
+O erro que mais custa caro é **colocar *-te* num verbo irregular** (*gehte, kommte, sahte* em vez de *ging, kam, sah*), **colocar terminação em *ich* ou *er/sie/es* no Präteritum** (*er konnten / er gingt*) ou **manter o trema nos modais no Präteritum** (*könnte/müsste* têm trema no Konjunktiv II, mas no passado real são **konnte / musste** sem trema!).
 
-::: atencao
-regular = radical + *-te*. Irregular = vogal nova, sem *-te*. *Ich = er*. E *konnte* não é *könnte*.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Sie gehte / Er kommte~~ | Sie **ging** / Er **kam** | Verbos fortes mudam a vogal da raiz e **nunca** levam *-te* no Präteritum. |
+| ~~Ich hattest / Er konnten / Er gingt~~ | Ich **hatte** / Er **konnte** / Er **ging** | No Präteritum, **ich = er/sie/es** (sem terminação *-t* ou *-st*!). |
+| ~~Ich musste lange arbeiteten.~~ | Ich **musste** lange **arbeiten**. | Conjugamos apenas o modal (*musste*); o verbo no final fica no infinitivo! |
+| ~~Gestern könnte ich nicht kommen.~~ | Gestern **konnte** ich nicht kommen. | No Präteritum ("ontem não pude"), os modais **perdem o trema** (*konnte, musste, durfte, mochte*). |
+| ~~Er aufstand um sieben Uhr.~~ | Er **stand** um sieben Uhr **auf**. | Nos verbos separáveis, o prefixo continua indo para o fim no Präteritum. |
 :::
 
+::: atencao
+regular = radical + *-te*. Irregular = vogal nova, sem *-te*. *Ich = er*. E *konnte* (pude) não é *könnte* (poderia).
+:::
 
 ## 9. Retorno
 
@@ -241,78 +260,82 @@ regular = radical + *-te*. Irregular = vogal nova, sem *-te*. *Ich = er*. E *kon
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-*War, hatte* e os modais: pretérito na fala.
+*War, hatte* e os modais (*konnte, musste, wollte, sollte, durfte*): usam o **pretérito (Präteritum)** mesmo na fala cotidiana.
 
-Regulares: radical + *-te*. Irregulares: vogal nova, sem *-te*.
+Regulares: radical + **-te** (*machte, arbeitete*). Irregulares: vogal nova, sem *-te* (*ging, kam, sah, fuhr, gab*).
 
-*Ich = er*, sem terminação.
+**Ich = er/sie/es**, sempre iguais no Präteritum.
 
-Outros verbos: Perfekt na fala; pretérito em histórias e textos. O quarteto: infinitivo, 3ª pessoa, pretérito, particípio.
+Outros verbos: Perfekt na fala; Präteritum em histórias, notícias e textos escritos.
 
 **Já consigo?**
 
-Conto como me senti e o que não consegui fazer.
+Conto como me senti (*Ich war...*) e o que tive ou não consegui fazer (*Ich hatte / musste / konnte...*).
 
-Entendo uma pequena história em pretérito.
-
-Escolho entre Perfekt e pretérito conforme a situação.
+Entendo uma pequena história em Präteritum e escolho entre Perfekt e Präteritum conforme a situação.
 :::::
 
 ## Glossário do capítulo 19
 
-| Alemão          | Português         |
-|-----------------|-------------------|
-| sein — war      | ser, estar        |
-| haben — hatte   | ter               |
-| können — konnte | poder, conseguir  |
-| müssen — musste | ter de            |
-| wollen — wollte | querer            |
-| sollen — sollte | dever             |
-| dürfen — durfte | poder (permissão) |
-| mögen — mochte  | gostar de         |
-| gehen — ging         | ir              |
-| kommen — kam         | vir             |
-| sehen — sah          | ver             |
-| essen — aß           | comer           |
-| trinken — trank      | beber           |
-| fahren — fuhr        | ir (de veículo) |
-| bleiben — blieb      | ficar           |
-| geben — gab          | dar             |
-| finden — fand        | achar           |
-| schreiben — schrieb  | escrever        |
-| sprechen — sprach    | falar           |
-| nehmen — nahm        | pegar           |
-| stehen — stand       | estar de pé     |
-| schlafen — schlief   | dormir          |
-| lesen — las          | ler             |
-| laufen — lief        | correr          |
-| fliegen — flog       | voar            |
-| wissen — wusste      | saber (um fato) |
-| bringen — brachte    | trazer, levar   |
-| denken — dachte      | pensar          |
-| machen — machte      | fazer           |
-| kaufen — kaufte      | comprar         |
-| wohnen — wohnte      | morar           |
-| arbeiten — arbeitete | trabalhar       |
-| kochen — kochte      | cozinhar        |
-| fragen — fragte      | perguntar       |
-| das Tagebuch         | diário          |
-| das Büro             | escritório      |
-| die Arbeit           | trabalho        |
-| müde                 | cansado         |
-| zusammen             | juntos          |
-| einmal               | uma vez         |
-| der König            | rei             |
-| der Kollege          | colega          |
+| Alemão               | Português         |
+|----------------------|-------------------|
+| sein — war           | ser, estar        |
+| haben — hatte        | ter               |
+| können — konnte      | poder, conseguir  |
+| müssen — musste      | ter de            |
+| wollen — wollte      | querer            |
+| sollen — sollte      | dever             |
+| dürfen — durfte      | poder (permissão) |
+| mögen — mochte       | gostar de         |
+| gehen — ging         | ir                |
+| kommen — kam         | vir               |
+| sehen — sah          | ver               |
+| essen — aß           | comer             |
+| trinken — trank      | beber             |
+| fahren — fuhr        | ir (de veículo)   |
+| bleiben — blieb      | ficar             |
+| geben — gab          | dar               |
+| finden — fand        | achar             |
+| schreiben — schrieb  | escrever          |
+| sprechen — sprach    | falar             |
+| nehmen — nahm        | pegar             |
+| stehen — stand       | estar de pé       |
+| schlafen — schlief   | dormir            |
+| lesen — las          | ler               |
+| laufen — lief        | correr            |
+| fliegen — flog       | voar              |
+| wissen — wusste      | saber (um fato)   |
+| bringen — brachte    | trazer, levar     |
+| denken — dachte      | pensar            |
+| machen — machte      | fazer             |
+| kaufen — kaufte      | comprar           |
+| wohnen — wohnte      | morar             |
+| arbeiten — arbeitete | trabalhar         |
+| kochen — kochte      | cozinhar          |
+| fragen — fragte      | perguntar         |
+| das Tagebuch         | diário            |
+| das Büro             | escritório        |
+| die Arbeit           | trabalho          |
+| müde                 | cansado           |
+| zusammen             | juntos            |
+| einmal               | uma vez           |
+| der König            | rei               |
+| der Kollege          | colega            |
 
 ## Chave comentada do capítulo 19
 
 ::::: gabarito
 **Degrau 1.** 1 war. 2 hatten. 3 konnte. 4 musstest. 5 ging. 6 machte. 7 (a).
 
-**Degrau 2.** war, warst, war, waren, wart; hatte, hattest, hatte, hatten, hattet. Ich war müde. Wir hatten keine Zeit. Er konnte nicht kommen. Ihr musstet lange warten. Sie wollte nach Hause gehen. Du durftest nicht bleiben. kaufte, wohnte, arbeitete, kochte, fragte. Er ging nach Hause. Sie sah einen Film. Wir fuhren nach Berlin. Ich las viel.
+**Degrau 2.** 1 war, warst, war, waren, wart. 2 hatte, hattest, hatte, hatten, hattet. 3 Ich war müde. Wir hatten keine Zeit. 4 Er konnte nicht kommen. Ihr musstet lange warten. 5 Sie wollte nach Hause gehen. Du durftest nicht bleiben. 6 kaufte, wohnte, arbeitete, kochten, fragte. 7 Er ging nach Hause. Sie sah einen Film. Wir fuhren nach Berlin. Ich las viel.
 
-**Degrau 3.** Respostas pessoais. Confira *ich = er*, o *-te* nos regulares e a vogal nova nos irregulares.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Gestern war ich sehr müde, denn ich hatte viel Arbeit im Büro. Ich musste bis neunzehn Uhr bleiben und konnte am Abend nicht zum Sport gehen.*
+
+2.  *Gestern war ein schöner Tag. Ich stand um sieben Uhr auf, trank einen Kaffee und fuhr mit der U-Bahn in die Stadt. Dort traf ich meine Freunde, und wir aßen zusammen im Restaurant.*
+
+3.  *Es war einmal ein junger Mann. Er wohnte in einer kleinen Stadt, aber er wollte die Welt sehen. Eines Tages nahm er seinen Rucksack und ging los.*
 
 **Degrau 4.**
 

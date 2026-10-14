@@ -89,6 +89,6 @@ Três sessões por semana, em dias alternados, dão um capítulo por semana. Nes
 
 **Um caderno de erros.** Anote cada erro seu com a frase certa ao lado. Procure o erro em "Procure pelo seu erro" e escreva o número do capítulo. Em um mês, o caderno mostra quais armadilhas são as suas, e elas não são as mesmas de todo mundo.
 
-**Voz alta e áudio.** A versão final prevê áudio para os exemplos. Quando ele estiver disponível, use assim: ouça a Cena sem ler, ouça lendo, depois repita frase por frase, imitando o ritmo. Sem áudio, leia em voz alta mesmo assim, devagar. O capítulo 1 ensina os sons de que você precisa.
+**Voz alta e áudio na plataforma Linvuu.** Todos os diálogos (Cenas), Frases de ouro e exemplos deste livro contam com áudio na plataforma da Linvuu (**linvuu.com.br**). Use sempre em três passos: 1) ouça a Cena de olhos fechados sem ler; 2) ouça acompanhando o texto; 3) repita frase por frase em voz alta, imitando o ritmo e a melodia. O capítulo 1 ensina todos os sons de que você precisa.
 
 **Os apêndices.** No final do livro, o Apêndice reúne as tabelas-mestras (artigos, pronomes, adjetivos, preposições, verbos irregulares), o índice "Procure pelo seu erro", o glossário dos termos gramaticais e o mapa de revisão. Use-o como consulta, sempre com o capítulo aberto ao lado.

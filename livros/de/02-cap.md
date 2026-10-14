@@ -131,7 +131,7 @@ Se você completou *komme, kommst, kommt*, descobriu a regra.
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Escolha o pronome certo.
+**Degrau 1. Reconheça.** Escolha o pronome ou verbo certo.
 
 1.  Maria mora em Berlim: \_\_\_\_ wohnt in Berlin. (er, sie, es)
 
@@ -143,21 +143,39 @@ Se você completou *komme, kommst, kommt*, descobriu a regra.
 
 5.  Você fala com um colega de classe da sua idade: \_\_\_\_ lernst Deutsch. (du, ihr, Sie)
 
+6.  Qual forma completa *Du \_\_\_\_ in München*? (a) arbeitst (b) arbeitest \(c\) arbeitet
+
+7.  Como se diz “Eu tenho 28 anos” em alemão? (a) Ich habe 28 Jahre. (b) Ich bin 28 Jahre alt.
+
 **Degrau 2. Complete.**
 
-Terminações: ich lern\_\_, du wohn\_\_, er komm\_\_, wir lern\_\_, ihr arbeit\_\_, Sie wohn\_\_, du heiß\_\_.
+Complete as terminações dos verbos regulares no presente:
 
-*Sein* ou *haben*: ich \_\_\_\_ müde. Du \_\_\_\_ hier. Tom \_\_\_\_ aus Irland. Wir \_\_\_\_ Freunde. Ihr \_\_\_\_ zu spät. Ich \_\_\_\_ Hunger. Du \_\_\_\_ Zeit. Camila \_\_\_\_ Durst.
+1.  ich lern\_\_ Deutsch · du wohn\_\_ in Köln · er komm\_\_ aus Spanien
+
+2.  wir lern\_\_ zusammen · ihr arbeit\_\_ viel · Sie wohn\_\_ in Wien · du heiß\_\_ Jonas
+
+3.  du wart\_\_ (warten) · er find\_\_ (finden) · du tanz\_\_ (tanzen)
+
+Complete com a forma correta de **sein** (ser/estar):
+
+4.  Ich \_\_\_\_ müde. · Du \_\_\_\_ hier richtig. · Tom \_\_\_\_ aus Irland.
+
+5.  Wir \_\_\_\_ Freunde. · Ihr \_\_\_\_ zu spät. · \_\_\_\_ Sie Frau Weber?
+
+Complete com a forma correta de **haben** (ter):
+
+6.  Ich \_\_\_\_ Hunger. · \_\_\_\_ du Zeit? · Camila \_\_\_\_ Durst. · Wir \_\_\_\_ eine Wohnung.
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases sobre você com *ich*: nome, origem, onde mora, o que aprende, quantos anos tem.
+1.  Escreva cinco frases sobre você com *ich*: nome (*heißen*), origem (*kommen aus*), onde mora (*wohnen in*), o que estuda/onde trabalha (*lernen / arbeiten*) e sua idade (*sein ... Jahre alt*).
 
-Conjugue *lernen* em voz alta nas seis pessoas.
+2.  Conjugue por escrito os verbos *lernen* e *arbeiten* nas seis pessoas (*ich, du, er/sie/es, wir, ihr, sie/Sie*).
 
-Escreva um diálogo de quatro falas em que você se apresenta a um desconhecido, usando *Sie*.
+3.  Escreva um diálogo de quatro falas em que você se apresenta a um cliente ou professor desconhecido usando *Sie*.
 
-**Degrau 4. Corrija o erro típico.**
+**Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
 1.  *Wohne in Recife.*
 
@@ -170,16 +188,27 @@ Escreva um diálogo de quatro falas em que você se apresenta a um desconhecido,
 5.  *Ich habe 25 Jahre.*
 
 6.  *Er arbeitt in München.*
+
+7.  *Du heißt Camila, oder?*
 :::::
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **dizer a idade com *haben***. “Eu tenho 25 anos” vira *Ich habe 25 Jahre*, e o alemão entende outra coisa: “eu possuo 25 anos”. O certo é *Ich bin 25 Jahre alt.* O mesmo vale para quem pergunta: *Wie alt bist du?* (Quantos anos você tem?)
+O erro que mais custa caro é **dizer a idade com *haben***. “Eu tenho 25 anos” vira *Ich habe 25 Jahre*, e o alemão entende outra coisa: “eu possuo 25 anos”. O certo é *Ich bin 25 Jahre alt.* O segundo erro clássico é **omitir o pronome** (*Wohne in Recife*), hábito normal em português mas proibido em alemão.
 
-::: atencao
-idade combina com *sein*. Fome, sede e tempo combinam com *haben*: *Ich habe Hunger.*
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich habe 25 Jahre.~~ | Ich **bin** 25 Jahre **alt**. | Idade em alemão é um estado (*sein*), nunca posse (*haben*). |
+| ~~Wohne in Recife.~~ | **Ich** wohne in Recife. | O pronome sujeito nunca pode ser omitido. |
+| ~~Du lernt Deutsch.~~ | Du lern**st** Deutsch. | A 2ª pessoa (*du*) exige sempre a terminação **-st**. |
+| ~~Er arbeitt / du arbeitst~~ | Er arbeit**et** / du arbeit**est** | Radicais terminados em **-t** ou **-d** ganham **-e-** de apoio. |
+| ~~Du heißst Camila.~~ | Du **heißt** Camila. | Radicais terminados em **s, ß, z** fundem o *s* e recebem só **-t**. |
 :::
 
+::: atencao
+idade combina com *sein*. Fome, sede e tempo combinam com *haben*: *Ich habe Hunger / Durst / Zeit.*
+:::
 
 ## 9. Retorno
 
@@ -237,6 +266,8 @@ Digo minha idade com *sein*.
 | jetzt                | agora                                  |
 | lernen               | aprender, estudar                      |
 | arbeiten             | trabalhar                              |
+| warten               | esperar                                |
+| finden               | achar, encontrar                       |
 | heißen               | chamar-se                              |
 | kochen               | cozinhar                               |
 | zusammen             | juntos                                 |
@@ -256,25 +287,37 @@ Digo minha idade com *sein*.
 ## Chave comentada do capítulo 2
 
 ::::: gabarito
-**Degrau 1.** 1 sie (Maria é ela). 2 wir (Tom e eu). 3 Sie (formal). 4 ihr (duas pessoas, informal). 5 du (uma pessoa, informal).
+**Degrau 1.** 1 sie (Maria é ela). 2 wir (Tom e eu). 3 Sie (formal). 4 ihr (duas pessoas, informal). 5 du (uma pessoa, informal). 6 (b) arbeitest. 7 (b) Ich bin 28 Jahre alt.
 
-**Degrau 2.** ich lerne, du wohnst, er kommt, wir lernen, ihr arbeitet, Sie wohnen, du heißt. *Sein* e *haben*: bin, bist, ist, sind, seid, habe, hast, hat. Nota: *Camila hat Durst* (haben).
+**Degrau 2.** 1 ich lerne, du wohnst, er kommt. 2 wir lernen, ihr arbeitet, Sie wohnen, du heißt. 3 du wartest, er findet, du tanzt. 4 bin, bist, ist. 5 sind, seid, Sind. 6 habe, Hast, hat, haben.
 
-**Degrau 3.** Respostas pessoais. Modelo: *Ich heiße Bruno. Ich komme aus Brasilien. Ich wohne in Recife. Ich lerne Deutsch. Ich bin 30 Jahre alt.* *Lernen*: lerne, lernst, lernt, lernen, lernt, lernen.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich heiße Bruno. Ich komme aus Brasilien. Ich wohne in São Paulo. Ich lerne Deutsch und arbeite hier. Ich bin 30 Jahre alt.*
+
+2.  **lernen:** *ich lerne, du lernst, er/sie/es lernt, wir lernen, ihr lernt, sie/Sie lernen.* **arbeiten:** *ich arbeite, du arbeitest, er/sie/es arbeitet, wir arbeiten, ihr arbeitet, sie/Sie arbeiten.*
+
+3.  Modelo de diálogo formal com *Sie*:
+    *— Guten Tag! Ich heiße Bruno Silva. Sind Sie Herr Müller?*
+    *— Guten Tag, Herr Silva! Ja, ich bin Thomas Müller. Woher kommen Sie?*
+    *— Ich komme aus Brasilien, aber ich wohne jetzt in München. Und Sie?*
+    *— Ich komme aus Frankfurt und arbeite hier.*
 
 **Degrau 4.**
 
 1.  Falta o pronome: *Ich wohne in Recife.*
 
-2.  Falta o **-e** final: *wohne*.
+2.  Falta o **-e** final: *Ich wohne in Recife.*
 
-3.  Segunda pessoa leva **-st**: *Du lernst.*
+3.  Segunda pessoa leva **-st**: *Du lernst Deutsch.*
 
 4.  *Er* pede *hat*: *Er hat Hunger.*
 
 5.  Idade usa *sein*: *Ich bin 25 Jahre alt.*
 
-6.  Radical em -t ganha **-e-**: *Er arbeitet.*
+6.  Radical em -t ganha **-e-**: *Er arbeitet in München.*
+
+7.  Está certa.
 
 **Retorno do capítulo 1.** *wohnen* começa com som de v. *viel* começa com som de f. *Zeit* começa com ts. *Sonne* começa com z.
 :::::

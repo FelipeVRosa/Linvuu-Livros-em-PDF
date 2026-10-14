@@ -92,12 +92,13 @@ Se você viu que *wo* pede dativo, *wohin* pede acusativo, e que *mit, aus, zu* 
 
 7.  **Destino:** *nach Berlin, nach Brasilien, nach Hause* (para casa), *zum Arzt, zur Schule, in den Supermarkt.* **Lugar:** *zu Hause* (em casa).
 
-8.  **Pares de verbos:** *stehen/stellen, liegen/legen, hängen.* O primeiro de cada par descreve onde algo está (dativo). O segundo descreve colocar algo (acusativo).
+8.  **Pares de verbos de posição:** *stehen/stellen* (em pé), *liegen/legen* (deitado), *sitzen/sich setzen* (sentado) e *hängen* (pendurado). O primeiro de cada par descreve onde algo já está (**wo? → dativo**). O segundo descreve o movimento de colocar ou sentar (**wohin? → acusativo**).
 
-| Parado (dativo)                    | Colocar (acusativo)                     |
-|------------------------------------|-----------------------------------------|
-| Die Lampe **steht** auf dem Tisch. | Ich **stelle** die Lampe auf den Tisch. |
-| Das Buch **liegt** auf dem Tisch.  | Ich **lege** das Buch auf den Tisch.    |
+| Parado (wo? → dativo)               | Colocar / Sentar (wohin? → acusativo)   |
+|-------------------------------------|-----------------------------------------|
+| Die Lampe **steht** auf **dem** Tisch. | Ich **stelle** die Lampe auf **den** Tisch. |
+| Das Buch **liegt** auf **dem** Tisch.  | Ich **lege** das Buch auf **den** Tisch.    |
+| Das Kind **sitzt** auf **dem** Stuhl.  | Ich **setze** mich auf **den** Stuhl.       |
 :::::
 
 ## 5. Por dentro
@@ -110,7 +111,14 @@ Se você viu que *wo* pede dativo, *wohin* pede acusativo, e que *mit, aus, zu* 
 
 **Bei e mit.** *Bei* quer dizer “na casa de” ou “junto de”: *bei Tom, beim Arzt.* *Mit* quer dizer “com”: *mit Tom.*
 
-**Seit e presente.** *Seit* pede dativo e o verbo fica no **presente**: *Ich wohne seit einem Monat in München.* Em português diríamos “moro aqui há um mês”.
+**O quarteto do tempo que mais engana brasileiros: *seit*, *vor*, *in* e *für*.** Em português usamos “há” para duas coisas opostas: *“Moro aqui há um mês”* (continua hoje) e *“Cheguei aqui há um mês”* (passado encerrado). Em alemão, misturar isso é erro grave. Veja a diferença exata:
+
+| Preposição + Caso | Sentido e Tempo Verbal | Exemplo Real |
+|---|---|---|
+| **seit + Dativo** | **há / desde** (começou no passado e **continua hoje** → **Presente!**) | *Ich wohne **seit einem Monat** hier.* (Moro aqui há um mês.) |
+| **vor + Dativo** | **há ... atrás** (ação **já concluída no passado** → **Passado!**) | *Ich kam **vor einem Monat** an.* (Cheguei há um mês atrás.) |
+| **in + Dativo** | **daqui a ...** (no futuro) | *Der Kurs beginnt **in einer Woche**.* (O curso começa daqui a uma semana.) |
+| **für + Acusativo** | **por ...** (duração planejada) | *Wir bleiben **für drei Tage** in Wien.* (Ficamos por três dias em Viena.) |
 
 **Os três modos de perguntar.** Revise o capítulo 4: *Wo wohnst du?* (*in der Küche*), *Wohin gehst du?* (*in die Küche*), *Woher kommst du?* (*aus der Küche*).
 
@@ -148,21 +156,33 @@ Se você viu que *wo* pede dativo, *wohin* pede acusativo, e que *mit, aus, zu* 
 
 7.  Ich lege das Buch auf \_\_\_\_ Tisch. (dem, den)
 
+8.  “Moro aqui há um ano (e continuo morando)”: Ich wohne \_\_\_\_ einem Jahr hier. (seit, vor)
+
 **Degrau 2. Complete.**
 
-Contrações: zu + dem, in + dem, zu + der, von + dem, in + das, an + dem.
+Escreva as contrações obrigatórias do dia a dia:
 
-Preposições: Ich gehe \_\_\_\_ Hause. Ich bin \_\_\_\_ Hause. Ich fahre \_\_\_\_ Berlin. Ich gehe \_\_\_\_ Arzt. Ich wohne \_\_\_\_ drei Monaten hier.
+1.  zu + dem = \_\_\_\_ · in + dem = \_\_\_\_ · zu + der = \_\_\_\_ · von + dem = \_\_\_\_ · in + das = \_\_\_\_ · an + dem = \_\_\_\_
 
-Artigos: mit \_\_\_\_ Freund, ohne \_\_\_\_ Auto, für \_\_\_\_ Lehrerin, nach \_\_\_\_ Kurs.
+Complete com a preposição correta (**nach, zu/zum, in, seit, vor, für**):
+
+2.  Ich gehe jetzt \_\_\_\_ Hause. · Heute Abend bin ich \_\_\_\_ Hause.
+
+3.  Morgen fahre ich \_\_\_\_ Berlin und gehe \_\_\_\_ Arzt.
+
+4.  Ich wohne \_\_\_\_ drei Monaten in München (presente!). · Ich kam \_\_\_\_ drei Monaten in München an (passado!). · Ich bleibe \_\_\_\_ eine Woche in Wien.
+
+Complete com o artigo no caso exigido pela preposição:
+
+5.  mit \_\_\_\_ Freund (m.) · ohne \_\_\_\_ Auto (n.) · für \_\_\_\_ Lehrerin (f.) · nach \_\_\_\_ Kurs (m.) · gegenüber \_\_\_\_ Bahnhof (m.)
 
 **Degrau 3. Produza.**
 
-Descreva seu caminho de casa até o trabalho ou o curso, com seis preposições. Diga onde estão seis objetos do seu quarto, com *liegt, steht, hängt* e *auf, neben, unter, vor* (dativo).
+1.  Descreva seu trajeto de casa até o trabalho ou curso em quatro frases usando *aus, mit, zu/zum, in, nach*.
 
-Diga o que você vai colocar onde: *Ich lege … auf … / Ich stelle … neben …* (acusativo).
+2.  Diga onde estão quatro objetos do seu quarto usando *liegt, steht, hängt* + *auf, neben, unter, an* (**Dativo**), e depois diga onde você os coloca usando *Ich lege / Ich stelle* (**Acusativo**).
 
-Explique a um amigo como chegar à sua casa, em quatro frases.
+3.  Explique a um amigo como chegar à estação ou à sua casa em quatro frases (*Gehen Sie geradeaus, dann nach links...*).
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -183,12 +203,22 @@ Explique a um amigo como chegar à sua casa, em quatro frases.
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **ignorar o caso depois da preposição**: *in der Küche* ou *in die Küche*? Em português, “na cozinha” e “para a cozinha” usam palavras diferentes, mas o alemão usa *in* nos dois e muda o artigo. A pergunta é: estou parado ou me movendo?
+O erro que mais custa caro é **ignorar a diferença entre parado (*wo? → Dativo*) e movimento (*wohin? → Acusativo*)** depois das 9 preposições espaciais, ou **misturar *nach*, *zu* e *in*** ao dizer “vou para”.
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich gehe in der Küche.~~ | Ich gehe **in die** Küche. | Movimento para dentro (*wohin?*) exige o Acusativo (**in die**). |
+| ~~Ich bin in die Küche.~~ | Ich bin **in der** Küche. | Lugar parado (*wo?*) exige o Dativo (**in der**). |
+| ~~Ich fahre mit den Bus.~~ | Ich fahre **mit dem** Bus. | A preposição *mit* exige sempre o Dativo (**dem**). |
+| ~~Ich gehe zu Hause.~~ | Ich gehe **nach** Hause. | “Para casa” (movimento) é **nach Hause**; “em casa” (parado) é **zu Hause**. |
+| ~~Ich fahre zu Berlin / nach dem Arzt.~~ | Ich fahre **nach** Berlin / **zum** Arzt. | Cidades e países sem artigo usam **nach**; pessoas e médicos usam **zu (zum/zur)**. |
+| ~~Ich wohne vor einem Jahr hier.~~ | Ich wohne **seit** einem Jahr hier. | Ação que começou no passado e continua hoje exige **seit + Dativo + Presente**. |
+:::
 
 ::: atencao
 *wo?* pede dativo. *Wohin?* pede acusativo. Pergunte antes de escrever.
 :::
-
 
 ## 9. Retorno
 
@@ -212,13 +242,13 @@ O erro que mais custa caro é **ignorar o caso depois da preposição**: *in der
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Preposição pede caso: acusativo (*durch, für, gegen, ohne, um*), dativo (*aus, bei, mit, nach, seit, von, zu*).
+Preposição pede caso: acusativo (*durch, für, gegen, ohne, um*), dativo (*aus, bei, mit, nach, seit, von, zu, gegenüber*).
 
-As nove de dois casos pedem dativo para lugar (*wo?*) e acusativo para movimento (*wohin?*).
+As nove de dois casos (*an, auf, hinter, in, neben, über, unter, vor, zwischen*) pedem **dativo** para lugar parado (*wo?*) e **acusativo** para movimento (*wohin?*).
 
 Contrações: *im, am, zum, zur, vom, beim, ins, ans*.
 
-*Seit* usa o presente: “há três meses”.
+Tempo: **seit** + dativo + presente ("há X tempo e continua"); **vor** + dativo + passado ("há X tempo atrás"); **in** + dativo ("daqui a X tempo"); **für** + acusativo ("por X tempo").
 
 *Nach Hause* (para casa), *zu Hause* (em casa).
 
@@ -226,7 +256,7 @@ Contrações: *im, am, zum, zur, vom, beim, ins, ans*.
 
 Escolho entre *nach, zu* e *in* para ir a um lugar.
 
-Digo *in der Küche* e *in die Küche* na situação certa. Explico como chegar a algum lugar.
+Digo *in der Küche* e *in die Küche* na situação certa e explico como chegar a algum lugar.
 :::::
 
 ## Glossário do capítulo 10
@@ -234,17 +264,17 @@ Digo *in der Küche* e *in die Küche* na situação certa. Explico como chegar 
 | Alemão                                                 | Português                                                              |
 |--------------------------------------------------------|------------------------------------------------------------------------|
 | durch                                                  | por, através de                                                        |
-| für                                                    | para (benefício)                                                       |
+| für                                                    | para (benefício), por (duração)                                        |
 | gegen                                                  | contra                                                                 |
 | ohne                                                   | sem                                                                    |
 | um                                                     | em volta de, às (hora)                                                 |
 | aus                                                    | de (origem), de dentro                                                 |
 | bei                                                    | na casa de, junto de                                                   |
-| mit                                                    | com                                                                    |
+| mit                                                    | com, de (meio de transporte)                                           |
 | nach                                                   | para (cidade), depois de                                               |
-| seit                                                   | desde, há                                                              |
+| seit                                                   | desde, há (continua no presente)                                       |
 | von                                                    | de                                                                     |
-| zu                                                     | a, para (pessoa, lugar)                                                |
+| zu                                                     | a, para (pessoa, instituição)                                          |
 | gegenüber                                              | em frente a                                                            |
 | an, auf, hinter, in, neben, über, unter, vor, zwischen | em/a, sobre, atrás, em, ao lado, sobre/acima, sob, antes/frente, entre |
 | der Bahnhof                                            | estação de trem                                                        |
@@ -261,16 +291,23 @@ Digo *in der Küche* e *in die Küche* na situação certa. Explico como chegar 
 | zu Fuß                                                 | a pé                                                                   |
 | liegen / legen                                         | estar deitado / deitar, pôr                                            |
 | stehen / stellen                                       | estar de pé / pôr de pé                                                |
+| sitzen / sich setzen                                   | estar sentado / sentar-se                                              |
 | hängen                                                 | estar pendurado, pendurar                                              |
 
 ## Chave comentada do capítulo 10
 
 ::::: gabarito
-**Degrau 1.** 1 dem (mit pede dativo). 2 dich (für pede acusativo). 3 die (movimento). 4 der (parado). 5 der (aus pede dativo). 6 dem (wo?). 7 den (wohin?).
+**Degrau 1.** 1 dem (*mit* pede dativo). 2 dich (*für* pede acusativo). 3 die (movimento). 4 der (parado). 5 der (*aus* pede dativo). 6 dem (*wo?*). 7 den (*wohin?*). 8 seit.
 
-**Degrau 2.** zum, im, zur, vom, ins, am. Preposições: nach, zu, nach, zum, seit. Artigos: dem Freund, das Auto, die Lehrerin, dem Kurs.
+**Degrau 2.** 1 zum, im, zur, vom, ins, am. 2 nach, zu. 3 nach, zum. 4 seit, vor, für. 5 dem Freund, das Auto, die Lehrerin, dem Kurs, dem Bahnhof.
 
-**Degrau 3.** Respostas pessoais. Confira o caso depois de cada preposição, e o par *liegt/legt* conforme parado ou movimento.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich gehe um acht Uhr aus dem Haus. Dann gehe ich zu Fuß zur Haltestelle. Ich fahre mit dem Bus in die Stadt und gehe ins Büro.*
+
+2.  **Parado (Dativo):** *Der Laptop liegt auf dem Tisch. Die Lampe steht neben dem Bett. Die Tasche liegt unter dem Stuhl. Das Bild hängt an der Wand.* **Movimento (Acusativo):** *Ich lege den Laptop auf den Tisch. Ich stelle die Lampe neben das Bett.*
+
+3.  *Sie gehen hier geradeaus bis zur Bank. Dann gehen Sie nach rechts. Die Haltestelle ist vor dem Supermarkt. Mit dem Bus fahren Sie fünf Minuten bis zum Bahnhof.*
 
 **Degrau 4.**
 

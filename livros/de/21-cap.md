@@ -138,6 +138,15 @@ Se você notou que o presente + *morgen* já é futuro, que *werden* pede o infi
 
 **Tempo com *in*.** *In zwei Wochen* é “daqui a duas semanas”. Você já sabe: *in* + dativo, aqui para tempo (capítulo 10).
 
+**Planos e intenções com *zu + Infinitiv* (*vorhaben, planen, Lust/Zeit haben, vergessen*).** No capítulo 15 você aprendeu que os verbos modais (*können, müssen, wollen, möchten*) e o auxiliar *werden* mandam o infinitivo puro para o fim, **sem *zu*** (*Ich will nach Berlin fahren / Ich werde bleiben*). Mas com quase todos os outros verbos e expressões de plano, vontade ou importância (*vorhaben, planen, versuchen, vergessen, anfangen, Lust haben, Zeit haben, es ist wichtig / schön*), o verbo final vai para o fim precedido de **zu** (separado por uma vírgula quando o bloco é longo). E se o verbo for **separável**, o **-zu-** entra exatamente no meio, entre o prefixo e a raiz (igual ao *-ge-* do Perfekt!):
+
+| Estrutura com *zu + Infinitiv* | Exemplo com verbo simples | Exemplo com verbo separável (*-zu-* no meio!) |
+|---|---|---|
+| **Ich habe vor / Ich plane, …** (Planejo…) | *Ich habe vor, in München **zu bleiben**.* | *Ich habe vor, dich morgen **anzurufen**.* |
+| **Ich habe Lust / Zeit, …** (Tenho vontade/tempo de…) | *Hast du Lust, ins Kino **zu gehen**?* | *Hast du Lust, heute Abend **mitzukommen**?* |
+| **Ich vergesse / versuche, …** (Esqueço / tento…) | *Ich versuche, pünktlich **zu sein**.* | *Ich vergesse immer, die Tasche **mitzunehmen**.* |
+| **Es ist wichtig / schön, …** (É importante / bom…) | *Es ist wichtig, jeden Tag Deutsch **zu lernen**.* | *Es ist schwer, am Sonntag früh **aufzustehen**.* |
+
 **O irmão de *wird*.** No capítulo 22, você verá *würde* + infinitivo, que serve para dizer “iria”, “faria”. No B1, *werden* + particípio servirá para a passiva.
 
 **Subordinadas.** No capítulo 24, o *werden* vai para o fim da frase: *dass ich bleiben werde.* Fica raro na fala.
@@ -172,27 +181,35 @@ Se você notou que o presente + *morgen* já é futuro, que *werden* pede o infi
 
 6.  Wir \_\_\_\_ nächste Woche nach Wien fahren. (werden, werdet)
 
-7.  Pedro \_\_\_\_ mich am Flughafen ab. (holt, holtet)
+7.  Hast du Lust, heute Abend \_\_\_\_? (mitkommen, mitzukommen)
 
 **Degrau 2. Complete.**
 
-Conjugue *werden* (ich, du, er, wir, ihr).
+Conjugue o verbo **werden** no presente:
 
-Reescreva com *werden*: Ich fahre nach Berlin. / Wir kaufen ein. / Er ruft mich an. / Sie bleibt zu Hause.
+1.  ich \_\_\_\_, du \_\_\_\_, er/sie/es \_\_\_\_, wir \_\_\_\_, ihr \_\_\_\_, sie/Sie \_\_\_\_
 
-Reescreva com presente + tempo: Ich werde nächste Woche arbeiten. / Wir werden morgen kommen. / Du wirst bald anrufen.
+Reescreva as frases no futuro com **werden + Infinitiv** e depois com **Presente + palavra de tempo**:
 
-Complete: Es \_\_\_\_ dunkel. Er \_\_\_\_ Lehrer. (werden) Responda duas vezes: *Was hast du vor?*
+2.  Ich fahre nach Berlin. → Ich \_\_\_\_ nach Berlin \_\_\_\_. · Wir kaufen ein. → Wir \_\_\_\_ \_\_\_\_.
+
+3.  Er ruft mich an. → Er \_\_\_\_ mich \_\_\_\_. · Sie bleibt zu Hause. → Sie \_\_\_\_ zu Hause \_\_\_\_.
+
+4.  Ich werde nächste Woche arbeiten. → Nächste Woche \_\_\_\_ ich. · Du wirst bald anrufen. → Bald \_\_\_\_ du \_\_\_\_.
+
+Complete com **werden** (“ficar / tornar-se”) e com **zu + Infinitiv** (ou *-zu-* no meio se for separável!):
+
+5.  Es \_\_\_\_ schon dunkel und kalt. · Mein Bruder \_\_\_\_ nächstes Jahr Arzt.
+
+6.  Ich habe vor, im Sommer nach Deutschland \_\_\_\_ (fliegen). · Es ist wichtig, früh \_\_\_\_ (aufstehen). · Vergiss nicht, mich \_\_\_\_ (anrufen)!
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases sobre o próximo mês: três com presente + tempo, duas com *werden*.
+1.  Escreva cinco frases sobre os seus planos para o próximo mês ou ano: três com **Presente + palavra de tempo** e duas com **werden + Infinitiv**.
 
-Escreva três previsões com *Es wird bestimmt …*
+2.  Escreva três previsões para o futuro usando *Es wird bestimmt …* ou *Er/Sie wird wohl …*.
 
-Escreva um plano de fim de semana em cinco frases.
-
-Escreva um diálogo curto *Was hast du vor?*, no estilo da Cena.
+3.  Escreva três frases sobre os seus planos e intenções usando *Ich habe vor, … zu …*, *Ich habe Lust, … zu …* e *Es ist wichtig, … zu …*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -213,12 +230,21 @@ Escreva um diálogo curto *Was hast du vor?*, no estilo da Cena.
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar *gehen* + infinitivo como “vou + infinitivo”**: *Ich gehe essen* não é futuro. O segundo é **colocar o infinitivo logo depois de *werden***: *Ich werde fahren morgen nach Berlin.* O infinitivo vai para o fim. O terceiro é **errar a forma**: *du wirdst* (o certo é *wirst*) ou **pôr artigo na profissão**: *Er wird ein Arzt*.
+O erro que mais custa caro é **decalcar o “vou + infinitivo” do português usando *gehen*** (*Ich gehe morgen arbeiten* em vez de *Morgen arbeite ich / Ich werde morgen arbeiten*), **esquecer de mandar o infinitivo para o fim com *werden*** ou **esquecer onde usar (e onde não usar) o *zu* antes do infinitivo**.
 
-::: atencao
-*Morgen fahre ich* é futuro. *Werden* + infinitivo no fim. *Er wird Arzt* não tem artigo.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich gehe morgen nach Berlin fahren.~~ | **Morgen fahre ich** nach Berlin. | Em alemão, *gehen* significa caminhar a pé; o futuro usa o **Presente + tempo** ou **werden**. |
+| ~~Ich werde anrufen dich.~~ | Ich **werde** dich **anrufen**. | Com *werden*, o verbo principal vai inteiro no infinitivo para o **fim** da moldura. |
+| ~~Du wirdst / Er wirdt~~ | Du **wirst** / Er **wird** | Na 2ª e 3ª pessoa, *werden* muda a vogal para **i** e perde o *d* extra (**du wirst, er wird**). |
+| ~~Er wird ein Arzt.~~ | Er **wird Arzt**. | Profissões após *sein* e *werden* não levam artigo indefinido. |
+| ~~Ich habe Lust, ins Kino gehen / zu mitkommen.~~ | Ich habe Lust, ins Kino **zu gehen** / **mitzukommen**. | Expressões que não são modais exigem **zu + Infinitiv** (e **-zu-** no meio dos separáveis!). |
 :::
 
+::: atencao
+*Morgen fahre ich* é futuro. *Werden* + infinitivo no fim (sem *zu*). *Vorhaben / Lust haben* + **zu + infinitivo** no fim.
+:::
 
 ## 9. Retorno
 
@@ -242,23 +268,19 @@ O erro que mais custa caro é **usar *gehen* + infinitivo como “vou + infiniti
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Futuro de todos os dias: presente + palavra de tempo.
+Futuro de todos os dias: **presente + palavra de tempo** (*Morgen fahre ich nach Berlin*).
 
-*Werden* na posição 2, infinitivo no fim, para promessa, previsão e suposição.
+**Werden** na posição 2 + infinitivo no fim: para promessa, previsão e suposição (*Ich werde dich anrufen*).
 
-*Werden* sozinho = tornar-se: *Er wird Arzt.*
+**Werden** sozinho = ficar / tornar-se (*Es wird kalt. Er wird Arzt*).
 
-*Gehen* + infinitivo não é futuro.
-
-*Was hast du vor?* para perguntar pelos planos.
+Intenções e planos fora dos modais usam **zu + Infinitiv** no fim (*Ich habe vor, Deutsch **zu lernen** / früh **aufzustehen***).
 
 **Já consigo?**
 
-Conto os meus planos para as férias.
+Conto os meus planos para as férias com o presente e com *vorhaben + zu*.
 
-Faço uma promessa com *Ich werde …*
-
-Pergunto a um colega o que ele tem planejado.
+Faço uma promessa ou previsão com *Ich werde … / Es wird …* sem usar *gehen*.
 :::::
 
 ## Glossário do capítulo 21
@@ -266,8 +288,10 @@ Pergunto a um colega o que ele tem planejado.
 | Alemão                               | Português                |
 |--------------------------------------|--------------------------|
 | werden — wird — wurde — ist geworden | ficar, tornar-se; futuro |
-| vorhaben (hat vor)                   | ter planejado            |
+| vorhaben (hat vor)                   | ter planejado, pretender |
 | planen                               | planejar                 |
+| versuchen                            | tentar                   |
+| Lust haben (auf / + zu)              | ter vontade de           |
 | fliegen — flog — ist geflogen        | voar                     |
 | abholen (holt ab)                    | buscar                   |
 | bleiben                              | ficar                    |
@@ -294,11 +318,17 @@ Pergunto a um colega o que ele tem planejado.
 ## Chave comentada do capítulo 21
 
 ::::: gabarito
-**Degrau 1.** 1 fahre. 2 werde. 3 wirst. 4 wird. 5 (b). 6 werden. 7 holt.
+**Degrau 1.** 1 fahre. 2 werde. 3 wirst. 4 wird. 5 (b). 6 werden. 7 mitzukommen (com *Lust haben*, usa-se *-zu-* no meio do verbo separável).
 
-**Degrau 2.** werde, wirst, wird, werden, werdet. Ich werde nach Berlin fahren. Wir werden einkaufen. Er wird mich anrufen. Sie wird zu Hause bleiben. Nächste Woche arbeite ich. Morgen kommen wir. Bald rufst du an. wird, wird. Respostas pessoais para *Was hast du vor?*
+**Degrau 2.** 1 werde, wirst, wird, werden, werdet, werden. 2 werde … fahren; werden einkaufen. 3 wird … anrufen; wird … bleiben. 4 arbeite; rufst … an. 5 wird, wird. 6 zu fliegen, aufzustehen, anzurufen.
 
-**Degrau 3.** Respostas pessoais. Confira o *werden* na posição 2 e o infinitivo no fim.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Nächsten Monat fahre ich ans Meer. In zwei Wochen besuche ich meine Eltern. Am Samstag koche ich für meine Freunde. Ich werde im Urlaub jeden Tag schwimmen und ich werde viel lesen.*
+
+2.  *Morgen wird das Wetter bestimmt schön sein. Der Kurs wird bestimmt sehr interessant! Jonas wird jetzt wohl noch im Büro sein.*
+
+3.  *Ich habe vor, nächstes Jahr in Deutschland zu studieren. Hast du Lust, heute Abend ins Restaurant mitzukommen? Es ist sehr wichtig, jeden Tag neue Wörter zu lernen.*
 
 **Degrau 4.**
 

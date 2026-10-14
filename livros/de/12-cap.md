@@ -164,15 +164,29 @@ Se você viu *-er* e *am … -sten*, o *-e-* depois de *d/t*, e o trema, descobr
 
 **Degrau 2. Complete.**
 
-Comparativo e superlativo: schnell, jung, teuer, hoch, gern, viel, kalt.
+Escreva o comparativo e o superlativo (*am ... -sten*) de cada palavra:
 
-Complete com *als* ou *wie*: Die Wohnung ist größer \_\_\_\_ meine. Er ist so alt \_\_\_\_ ich. Ich bin nicht so schnell \_\_\_\_ du.
+1.  **schnell** → \_\_\_\_, \_\_\_\_ · **jung** → \_\_\_\_, \_\_\_\_ · **kalt** → \_\_\_\_, \_\_\_\_
+
+2.  **teuer** → \_\_\_\_, \_\_\_\_ · **hoch** → \_\_\_\_, \_\_\_\_
+
+3.  **gut** → \_\_\_\_, \_\_\_\_ · **gern** → \_\_\_\_, \_\_\_\_ · **viel** → \_\_\_\_, \_\_\_\_
+
+Complete as comparações com **als** (diferença) ou **wie** (igualdade):
+
+4.  Die Wohnung in München ist teurer \_\_\_\_ meine Wohnung in Recife.
+
+5.  Er ist genau so alt \_\_\_\_ ich.
+
+6.  Der Bus ist nicht so schnell \_\_\_\_ der Zug, aber er ist billiger \_\_\_\_ das Taxi.
 
 **Degrau 3. Produza.**
 
-Compare duas cidades em seis frases, com *als, wie, so … wie* e *am … -sten*.
+1.  Compare duas cidades que você conhece em cinco frases usando *größer als, teurer als, wärmer als, nicht so … wie* e *am schönsten*.
 
-Escreva suas preferências com *gern, lieber, am liebsten* (bebidas ou comidas). Escreva um mini-diálogo escolhendo entre dois produtos.
+2.  Escreva suas preferências de comida, bebida ou lazer usando a tríade **gern — lieber — am liebsten**.
+
+3.  Escreva um mini-diálogo de quatro falas comparando dois apartamentos ou dois notebooks em uma loja.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -193,12 +207,22 @@ Escreva suas preferências com *gern, lieber, am liebsten* (bebidas ou comidas).
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar *mehr* + adjetivo**: *mehr schön*. Em português “mais bonito” usa uma palavra solta; em alemão o final vai no adjetivo: *schöner*. O segundo erro é *größer wie*.
+O erro que mais custa caro é **usar *mehr* + adjetivo** (*mehr schön* em vez de *schöner*, decalcando o português “mais bonito”) e **trocar *als* por *wie*** (*größer wie* em vez de *größer als*).
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Das ist mehr schön / mehr groß.~~ | Das ist **schöner** / **größer**. | O comparativo alemão é feito colando **-er** ao adjetivo, nunca com *mehr*. |
+| ~~Tom ist größer wie Lena.~~ | Tom ist größer **als** Lena. | Comparação de desigualdade ("maior do que") exige sempre **als**. |
+| ~~Lena ist so alt als Tom.~~ | Lena ist **so** alt **wie** Tom. | Comparação de igualdade ("tão... quanto") exige **so ... wie**. |
+| ~~guter / viel / am gutsten~~ | **besser** / **mehr** / **am besten** | *Gut, viel, gern, hoch, nah* têm formas comparativas irregulares. |
+| ~~Meine Wohnung ist teuerer.~~ | Meine Wohnung ist **teurer**. | Adjetivos em *-er* e *-el* (*teuer, dunkel*) perdem o *e* antes de *-er*. |
+| ~~Er läuft schnelle.~~ | Er läuft **schnell**. | Adjetivos funcionando como advérbio ou após *sein* não levam terminação. |
+:::
 
 ::: atencao
 diferença = **als**. Igualdade = **wie**. Comparou? Cole o **-er**.
 :::
-
 
 ## 9. Retorno
 
@@ -228,15 +252,15 @@ Comparativo: **-er + als**. Superlativo: **am -sten**.
 
 Igualdade: **so … wie**.
 
-Irregulares: *gut, besser, am besten; viel, mehr, am meisten; gern, lieber, am liebsten*.
+Irregulares: *gut, besser, am besten; viel, mehr, am meisten; gern, lieber, am liebsten; hoch, höher, am höchsten; nah, näher, am nächsten*.
 
-O adjetivo serve também de advérbio.
+O adjetivo serve também de advérbio sem mudar de forma (*Er läuft schnell*).
 
 **Já consigo?**
 
-Comparo duas coisas com *als*.
+Comparo duas coisas com *-er als* e *so ... wie*.
 
-Digo o que prefiro com *gern, lieber, am liebsten*. Uso *zu* para “demais”.
+Digo o que prefiro com *gern, lieber, am liebsten* e uso *zu* para “demais” (*zu teuer*).
 :::::
 
 ## Glossário do capítulo 12
@@ -268,9 +292,19 @@ Digo o que prefiro com *gern, lieber, am liebsten*. Uso *zu* para “demais”.
 ::::: gabarito
 **Degrau 1.** 1 (a). 2 (b), com trema. 3 (b), com *-esten* depois de *t*. 4 (b), irregular. 5 als. 6 wie.
 
-**Degrau 2.** schneller, am schnellsten; jünger, am jüngsten; teurer, am teuersten; höher, am höchsten; lieber, am liebsten; mehr, am meisten; kälter, am kältesten. Complete: als, wie, wie.
+**Degrau 2.** 1 schneller, am schnellsten; jünger, am jüngsten; kälter, am kältesten. 2 teurer, am teuersten; höher, am höchsten. 3 besser, am besten; lieber, am liebsten; mehr, am meisten. 4 als. 5 wie. 6 wie / als.
 
-**Degrau 3.** Respostas pessoais. Confira *als* na diferença e *wie* na igualdade.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *São Paulo ist viel größer als Florianópolis. Aber die Wohnungen in São Paulo sind auch teurer als dort. Im Winter ist Rio wärmer als Curitiba. Berlin ist nicht so alt wie Rom, aber für mich ist München am schönsten!*
+
+2.  *Am Morgen trinke ich gern Tee, lieber trinke ich Kaffee und am liebsten trinke ich frischen Orangensaft. Am Wochenende lese ich gern, aber noch lieber koche ich für Freunde.*
+
+3.  Modelo de diálogo:
+    *— Welcher Laptop gefällt dir besser?*
+    *— Dieser hier ist schneller und leichter als der andere, aber er ist auch viel teurer.*
+    *— Ist der billigere Laptop genauso gut wie dieser?*
+    *— Ja, für meine Arbeit ist er gut genug und nicht zu teuer!*
 
 **Degrau 4.**
 

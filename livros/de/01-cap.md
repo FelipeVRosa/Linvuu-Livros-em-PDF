@@ -1,6 +1,6 @@
 # Capítulo 1. Sons e letras (A1)
 
-**Meta do capítulo.** Ao final, você soletra seu nome em alemão, lê em voz alta qualquer palavra sem errar as letras mais traiçoeiras e sabe pedir ajuda quando não entende. Cada exemplo ganha áudio na versão final.
+**Meta do capítulo.** Ao final, você soletra seu nome em alemão, lê em voz alta qualquer palavra sem errar as letras mais traiçoeiras e sabe pedir ajuda quando não entende. Todos os exemplos têm áudio disponível na plataforma Linvuu (linvuu.com.br).
 
 ## 1. Cena: na recepção
 
@@ -157,7 +157,7 @@ São seis frases para sobreviver ao primeiro dia. Decore como blocos prontos, se
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a opção certa.
 
-1.  **Wein** começa com som de (a) v (b) f (c) u.
+1.  **Wein** começa com som de (a) v (b) f \(c\) u.
 
 2.  **Vater** começa com som de (a) v (b) f.
 
@@ -169,48 +169,81 @@ São seis frases para sobreviver ao primeiro dia. Decore como blocos prontos, se
 
 6.  O **eu** de **heute** soa (a) como “eu” (b) como “oi”.
 
+7.  O **ch** de **ich** e **Milch** é (a) suave, soprado no céu da boca (b) áspero, na garganta como em *Buch*.
+
+8.  O final **-er** de **Vater** e **Wasser** soa na fala como (a) “êr” forte (b) um “a” curto e relaxado (“fá-ta”, “vá-ssa”).
+
 **Degrau 2. Complete.**
 
-Dê o nome alemão destas letras: J, W, V, Z, H.
+Escreva o nome alemão destas letras para soletrar ao telefone:
 
-Complete com **ei** ou **ie**, conforme o som: B_r (cerveja, “bia”), m_n (meu), T_r (animal), Z_t (tempo), L_be (amor), kl_n (pequeno).
+1.  **J** → \_\_\_\_ · **W** → \_\_\_\_ · **V** → \_\_\_\_ · **Z** → \_\_\_\_ · **H** → \_\_\_\_ · **Ä** → \_\_\_\_ · **ß** → \_\_\_\_
+
+Complete com **ei** (som “ai”) ou **ie** (som “i” longo):
+
+2.  B\_\_r (cerveja, “bía”)
+
+3.  m\_\_n (meu, “máin”)
+
+4.  T\_\_r (animal, “tía”)
+
+5.  Z\_\_t (tempo, “tsáit”)
+
+6.  L\_\_be (amor, “lí-be”)
+
+7.  kl\_\_n (pequeno, “kláin”)
+
+8.  Br\_\_f (carta, “bríf”)
+
+9.  Arb\_\_t (trabalho, “ár-bait”)
+
+Complete com **sch**, **sp** ou **st**:
+
+10. \_\_\_\_ule (escola) · \_\_\_\_ort (esporte) · \_\_\_\_adt (cidade) · \_\_\_\_raße (rua)
 
 **Degrau 3. Produza.**
 
-Soletre seu nome e sobrenome em voz alta, usando os nomes alemães das letras. Modelo: Bruno = be – er – u – en – o.
+1.  Soletre seu nome e sobrenome em voz alta usando os nomes alemães das letras (Modelo: *Bruno = be – er – u – en – o*).
 
-Soletre Berlin e Köln. Para o ö, diga “ö”.
+2.  Soletre estas três cidades alemãs: **Berlin**, **Köln** e **München**.
 
-Escreva uma cena como a da recepção, trocando o nome pelo seu: você diz o nome, a pessoa não entende, você soletra.
+3.  Escreva um diálogo completo de recepção (5 falas) no estilo da Cena: o recepcionista cumprimenta e pergunta seu nome, você responde, ele pede para repetir (*Wie bitte? / Buchstabieren Sie das bitte*), você soletra e ele agradece.
 
 **Degrau 4. Corrija o erro típico.** Cada leitura abaixo vem de um iniciante brasileiro. Aponte o erro e escreva a leitura certa.
 
-1.  Vater lido como “váter”.
+1.  *Vater* lido como “váter”.
 
-2.  Jahr lido como “jár”, como em “já”.
+2.  *Jahr* lido como “jár”, como em “já”.
 
-3.  Sport lido como “sport”, com s de “sol”.
+3.  *Sport* lido como “sport”, com s de “sol”.
 
-4.  Zeit lido como “zeit”.
+4.  *Zeit* lido como “zeit”.
 
-5.  Tag lido como “tági”.
+5.  *Tag* lido como “tági”.
 
-6.  Sonne lido como “sone”, com s de “sol”.
+6.  *Sonne* lido como “sone”, com s de “sol”.
+
+7.  *heute* lido como “rêute”.
 :::::
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **trocar v e w**. Sem ele, você ainda é entendido. Com ele, vira outra palavra:
+O erro que mais custa caro é **trocar v e w**. Sem ele, você ainda é entendido. Com ele, vira outra palavra (*Wein* = vinho vs. *fein* = fino; *Wetter* = clima vs. *Vetter* = primo). O segundo erro mais comum é colocar um “i” fantasma depois de consoantes finais (*Tag* lido como “tági” em vez de “tak”).
 
-| Você quis dizer       | Você disse     |
-|-----------------------|----------------|
-| Wein (vinho)          | fein (fino)    |
-| Wetter (tempo, clima) | Vetter (primo) |
-
-::: atencao
-antes de cada palavra com v ou w, pergunte-se: “É a letra do meu v ou a do meu f?”
+::: erros
+| Errado (Leitura brasileira) | Certo (Pronúncia alemã) | Por quê |
+|---|---|---|
+| ~~Vater = “váter”~~ | **“fá-ta”** | **v** soa *f* e o **-er** final vira um *a* curto. |
+| ~~Wein = “uáin / fáin”~~ | **“váin”** | **w** em alemão tem sempre som de *v*. |
+| ~~Zeit = “zêit”~~ | **“tsáit”** | **z** soa *ts* e **ei** soa *ai*. |
+| ~~heute = “rêute”~~ | **“hói-te”** | **h** inicial é um sopro leve e **eu/äu** soam *oi*. |
+| ~~Tag = “tági”~~ | **“tak”** | **g** final ensurdece para *k*, sem vogal “i” no fim. |
+| ~~Sport / Stadt com “s”~~ | **“xport” / “xtat”** | **sp** e **st** no início de sílaba soam *xp* e *xt*. |
 :::
 
+::: atencao
+antes de cada palavra com v ou w, pergunte-se: “É a letra do meu v (W) ou a do meu f (V)?”
+:::
 
 ## 9. Retorno
 
@@ -221,26 +254,26 @@ O capítulo 1 é o primeiro, e por isso o Retorno olha para a frente. A ideia é
 | Dia 1  | Leia a tabela das letras em voz alta.                      |
 | Dia 3  | Soletre seu nome e três palavras do glossário do capítulo. |
 | Dia 7  | Refaça o Degrau 4 sem olhar a chave.                       |
-| Dia 14 | Leia a Cena inteira em voz alta, com o áudio.              |
+| Dia 14 | Leia a Cena inteira em voz alta, com o áudio na Linvuu.    |
 
 Nos capítulos 2, 3 e 4, o Retorno voltará aos sons deste capítulo com palavras novas.
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-As letras são as mesmas do português, mas muitas soam diferente. As dez trocas da armadilha cobrem a maior parte dos tropeços. **w** = v, **v** = f, **z** = ts, **j** = i, **sch** = x, **ei** = ai, **ie** = i longo, **eu** = oi.
+As letras são as mesmas do português, mas muitas soam diferente. As dez trocas da armadilha cobrem a maior parte dos tropeços: **w** = v, **v** = f, **z** = ts, **j** = i, **sch** = x, **ei** = ai, **ie** = i longo, **eu/äu** = oi.
 
-A vogal curta ou longa muda o sentido: Staat e Stadt.
+A vogal curta ou longa muda o sentido: *Staat* (Estado, longa) e *Stadt* (cidade, curta).
 
-Final seco: não acrescente vogal depois da consoante.
+Final seco: não acrescente vogal depois da consoante (*Tag* = “tak”).
 
 **Já consigo?** Marque quando fizer sem olhar.
 
 Soletro meu nome com os nomes alemães das letras.
 
-Leio Wasser, Vater, Zeit, Jahr, Sonne e Schule sem errar a primeira letra.
+Leio *Wasser, Vater, Zeit, Jahr, Sonne* e *Schule* sem errar a primeira letra.
 
-Peço “Wie bitte?” e “Noch einmal, bitte.” sem travar. Explico a diferença entre Wein e fein.
+Peço *“Wie bitte?”* e *“Noch einmal, bitte.”* sem travar e explico a diferença entre *Wein* e *fein*.
 :::::
 
 ## Glossário do capítulo 1
@@ -265,6 +298,8 @@ Peço “Wie bitte?” e “Noch einmal, bitte.” sem travar. Explico a diferen
 | Jahr       | ano                |
 | Tier       | animal             |
 | Bier       | cerveja            |
+| Brief      | carta              |
+| Arbeit     | trabalho           |
 | Liebe      | amor               |
 | heute      | hoje               |
 | Leute      | pessoas            |
@@ -281,17 +316,26 @@ Peço “Wie bitte?” e “Noch einmal, bitte.” sem travar. Explico a diferen
 ## Chave comentada do capítulo 1
 
 ::::: gabarito
-**Degrau 1.** 1 (a): w soa v. 2 (b): v soa f. 3 (b): z soa ts. 4 (a): s antes de vogal soa z. 5 (a): ie é i longo. 6 (b): eu soa oi.
+**Degrau 1.** 1 (a): w soa v. 2 (b): v soa f. 3 (b): z soa ts. 4 (a): s antes de vogal soa z. 5 (a): ie é i longo. 6 (b): eu soa oi. 7 (a): depois de *i* e de consoante (*Milch*), o *ch* é suave. 8 (b): *-er* final soa como um *a* curto.
 
-**Degrau 2.** J = jot, W = we, V = vau, Z = zet, H = ha. Palavras: Bier, mein, Tier, Zeit, Liebe, klein. Regra: o som “ai” se escreve ei e o “i” longo se escreve ie.
+**Degrau 2.** 1 J = jot, W = we, V = vau, Z = zet, H = ha, Ä = A-Umlaut, ß = Eszett. 2 Bier. 3 mein. 4 Tier. 5 Zeit. 6 Liebe. 7 klein. 8 Brief. 9 Arbeit. 10 **Sch**ule, **Sp**ort, **St**adt, **St**raße.
 
-**Degrau 3.** As respostas são pessoais. Berlin = be – e – er – el – i – en. Köln = ka – ö – el – en.
+**Degrau 3 (Respostas-modelo).**
 
-Confira se o seu diálogo tem a pergunta de nome, o “Wie bitte?” e a soletração.
+1.  *Lucas Silva = el – u – ce – a – es / es – i – el – vau – a.*
+
+2.  **Berlin** = *be – e – er – el – i – en*. **Köln** = *ka – ö – el – en*. **München** = *em – ü – en – ce – ha – e – en*.
+
+3.  Modelo de diálogo:
+    *— Guten Tag! Wie heißen Sie?*
+    *— Guten Tag. Ich heiße Lucas Silva.*
+    *— Wie bitte? Buchstabieren Sie das bitte.*
+    *— L-U-C-A-S, S-I-L-V-A.*
+    *— Danke, Herr Silva. Willkommen in Berlin!*
 
 **Degrau 4.**
 
-1.  v soa f: “fá-ta”.
+1.  v soa f e -er soa a curto: “fá-ta”.
 
 2.  j soa i: “iár”.
 
@@ -302,4 +346,6 @@ Confira se o seu diálogo tem a pergunta de nome, o “Wie bitte?” e a soletra
 5.  Sem vogal no fim, g final soa k: “tak”.
 
 6.  s antes de vogal soa z: “zone”.
+
+7.  h é sopro leve e eu soa oi: “hói-te”.
 :::::

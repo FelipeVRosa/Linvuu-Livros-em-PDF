@@ -217,13 +217,13 @@ Complete com *deshalb, trotzdem* ou *außerdem*:
 
 **Degrau 3. Produza.**
 
-Escreva três frases com dois objetos, uma com dois substantivos, uma com pronome e substantivo, uma com dois pronomes.
+1.  Escreva três frases com dois objetos, uma com dois substantivos, uma com pronome e substantivo, uma com dois pronomes.
 
-Escreva três frases com tempo, modo e lugar (*Ich fahre …*, *Wir gehen …*).
+2.  Escreva três frases com tempo, modo e lugar (*Ich fahre …*, *Wir gehen …*).
 
-Escreva três frases negativas com *nicht*, uma com particípio, uma com adjetivo e uma com lugar.
+3.  Escreva três frases negativas com *nicht*, uma com particípio, uma com adjetivo e uma com lugar.
 
-Escreva dois pares de frases ligadas por *deshalb* e *trotzdem*.
+4.  Escreva dois pares de frases ligadas por *deshalb* e *trotzdem*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -338,7 +338,15 @@ Coloco o *nicht* num lugar que soa certo.
 
 **Degrau 2.** 1 Ich gebe dem Mann das Buch. 2 Ich habe es ihm gestern gegeben. 3 Wir sind am Samstag mit dem Auto nach Wien gefahren. 4 Ich gebe es ihm (ou, trocando só um: Ich gebe es dem Kind / Ich gebe ihm das Buch). 5 Ich zeige es meiner Mutter (ou, trocando os dois: Ich zeige es ihr). 6 Ich schenke ihr ein Buch (ou, trocando os dois: Ich schenke es ihr). 7 Ich habe das Buch nicht gelesen. 8 Ich kann heute nicht kommen. 9 Er arbeitet nicht in Wien. 10 Ich kenne ihn nicht. 11 trotzdem. 12 deshalb.
 
-**Degrau 3.** Respostas pessoais. Confira: pronome antes de substantivo; acusativo e depois dativo entre pronomes; tempo, modo, lugar; *nicht* antes do particípio, do adjetivo, do lugar; verbo logo depois de *deshalb* e *trotzdem*.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich schicke dem Kunden die Rechnung (dois substantivos). Ich schicke sie dem Kunden (pronome + substantivo). Ich schicke sie ihm (dois pronomes: Akk. + Dat.).*
+
+2.  *Ich fahre morgen früh mit der U-Bahn ins Büro. Wir fliegen im Juli mit dem Flugzeug nach München. Sie geht heute Abend zu Fuß nach Hause.*
+
+3.  *Ich habe die E-Mail noch nicht gelesen (particípio). Die Wohnung ist nicht teuer (adjetivo). Wir fahren dieses Jahr nicht nach Berlin (lugar).*
+
+4.  *Ich muss morgen früh aufstehen, deshalb gehe ich jetzt ins Bett. Das Wetter ist heute kalt, trotzdem essen wir draußen im Garten.*
 
 **Degrau 4.**
 

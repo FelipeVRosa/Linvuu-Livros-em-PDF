@@ -115,7 +115,7 @@ O adjetivo depois de *sein* não muda (*Der Tisch ist groß*). Antes do substant
 | Dativo plural | -en | -en | -en |
 | Genitivo (qualquer gênero e plural) | -en | -en | raro; o livro não o treina |
 
-Exemplos do capítulo 13: *der rote Rucksack* (A), *ein blaues Auto* (B), *viele neue Bücher* (C), *mit den bunten Blumen* (dativo plural). Dois adjetivos seguidos levam o mesmo final: *ein neues, großes Zimmer*. Ajustes de raiz: *hoch* → *hohe*, *teuer* → *teure*, *dunkel* → *dunkle*.
+Exemplos do capítulo 13: *der rote Rucksack* (A), *ein blaues Auto* (B), *viele neue Bücher* \(C\), *mit den bunten Blumen* (dativo plural). Dois adjetivos seguidos levam o mesmo final: *ein neues, großes Zimmer*. Ajustes de raiz: *hoch* → *hohe*, *teuer* → *teure*, *dunkel* → *dunkle*.
 
 ### Comparativo e superlativo
 
@@ -237,7 +237,7 @@ Capítulo 20. Aprenda o bloco inteiro, com o caso.
 | Angst haben vor | dativo | ter medo de |
 | teilnehmen an | dativo | participar de |
 
-Para coisas, a pergunta é *wo(r)* + preposição (*Worauf wartest du?*) e a resposta é *da(r)* + preposição (*Ich warte darauf*). Para pessoas, preposição + *wen* ou *wem* (*Auf wen wartest du?*).
+Para coisas, a pergunta é *wo\(r\)* + preposição (*Worauf wartest du?*) e a resposta é *da\(r\)* + preposição (*Ich warte darauf*). Para pessoas, preposição + *wen* ou *wem* (*Auf wen wartest du?*).
 
 ## Verbos irregulares e fortes
 

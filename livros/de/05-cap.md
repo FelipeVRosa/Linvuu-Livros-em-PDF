@@ -150,25 +150,41 @@ Quantos tipos de final de plural aparecem? Quais palavras ganham trema (ä, ö, 
 
 6.  \_\_\_\_ Brötchen (der, die, das)
 
-7.  Plural de *Kind*: (a) Kinde (b) Kinder (c) Kinden
+7.  Plural de *Kind*: (a) Kinde (b) Kinder \(c\) Kinden
 
-8.  Plural de *Frau*: (a) Fraue (b) Frauen (c) Fraus
+8.  Plural de *Frau*: (a) Fraue (b) Frauen \(c\) Fraus
 
-9.  Plural de *Auto*: (a) Auten (b) Autoe (c) Autos
+9.  Plural de *Auto*: (a) Auten (b) Autoe \(c\) Autos
 
 **Degrau 2. Complete.**
 
-Com ein, eine, der, die ou das: Das ist \_\_\_\_ Lampe. Das ist \_\_\_\_ Tisch. Das ist \_\_\_\_ Fenster. \_\_\_\_ Schrank ist neu. \_\_\_\_ Küche ist groß. \_\_\_\_ Bett ist alt.
+Complete primeiro com o artigo indefinido (**ein / eine**) e depois com o definido (**der / die / das**):
 
-Plural: der Tag, die Stadt, das Haus, die Schule, der Lehrer, das Auto. Feminino destas profissões: Lehrer, Student, Arzt.
+1.  Das ist \_\_\_\_ Lampe. → \_\_\_\_ Lampe ist neu.
+
+2.  Das ist \_\_\_\_ Tisch. → \_\_\_\_ Tisch ist modern.
+
+3.  Das ist \_\_\_\_ Fenster. → \_\_\_\_ Fenster ist groß.
+
+4.  Das ist \_\_\_\_ Schlüssel. → \_\_\_\_ Schlüssel ist klein.
+
+5.  Das ist \_\_\_\_ Wohnung. → \_\_\_\_ Wohnung ist schön.
+
+6.  Das ist \_\_\_\_ Bett. → \_\_\_\_ Bett ist alt.
+
+Escreva o plural com *die* e o feminino das profissões:
+
+7.  Plural: der Tag → \_\_\_\_ · die Stadt → \_\_\_\_ · das Haus → \_\_\_\_ · die Schule → \_\_\_\_ · der Lehrer → \_\_\_\_ · das Auto → \_\_\_\_
+
+8.  Feminino: der Lehrer → die \_\_\_\_ · der Student → die \_\_\_\_ · der Arzt → die \_\_\_\_
 
 **Degrau 3. Produza.**
 
-Escreva seis frases sobre o seu quarto, com *Hier ist ein/eine …* e *Der/Die/Das … ist …* (use *groß*, *klein*, *neu*, *alt*, *schön*).
+1.  Escreva seis frases descrevendo o seu quarto ou escritório com *Hier ist ein/eine …* e *Der/Die/Das … ist …* (use *groß, klein, neu, alt, schön*).
 
-Escolha dez objetos da sua casa e escreva o artigo e o plural de cada um. Use o dicionário.
+2.  Escreva seis substantivos essenciais do cotidiano com artigo e plural (ex.: *der Schlüssel, die Zeitung, das Buch, die Wohnung, der Stuhl, das Auto*).
 
-Forme três palavras compostas e diga o gênero de cada: Kaffee + Tasse, Haus + Tür, Zeitung + Artikel.
+3.  Forme três palavras compostas e indique o artigo de cada uma: **der Kaffee + die Tasse**, **das Haus + die Tür**, **die Zeitung + der Artikel** (com *-s-* de ligação).
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -187,12 +203,21 @@ Forme três palavras compostas e diga o gênero de cada: Kaffee + Tasse, Haus + 
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **trazer o gênero do português**. “A casa” vira *die Haus* e fica errado. O certo é *das Haus*. O erro aparece de novo em tudo que vem depois (adjetivos, casos), por isso vale cortar já.
+O erro que mais custa caro é **trazer o gênero do português** (*die Haus* para “a casa”, *der Sonne* para “o sol”) ou colocar artigo antes de profissão depois de *sein* (*Ich bin eine Lehrerin*).
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Das ist eine Tisch.~~ | Das ist **ein** Tisch. | *Tisch* é masculino (*der Tisch*), logo pede **ein**. |
+| ~~Die Haus ist schön.~~ | **Das** Haus ist schön. | “Casa” em alemão é neutro (**das Haus**). |
+| ~~Der Sonne / Die Mond~~ | **Die** Sonne / **Der** Mond | Em alemão, o sol é feminino e a lua é masculina. |
+| ~~Ich bin eine Lehrerin.~~ | Ich bin **Lehrerin**. | Profissão após *sein* não leva artigo indefinido. |
+| ~~der Kaffeetasse~~ | **die** Kaffeetasse | Na palavra composta, quem manda no gênero é sempre a **última** palavra (*die Tasse*). |
+:::
 
 ::: atencao
 *ein* serve para *der* e para *das*. Só o *die* pede *eine*. Isso já reduz a dúvida pela metade.
 :::
-
 
 ## 9. Retorno
 
@@ -200,7 +225,7 @@ O erro que mais custa caro é **trazer o gênero do português**. “A casa” v
 
 **Do capítulo 3.** Reescreva começando por *Heute*: *Der Tisch ist neu.* *Die Lampe ist alt.*
 
-**Do capítulo 2.** Troque o substantivo pelo pronome: *Der Tisch ist neu. Die Lampe ist alt. Das Bett ist groß.*
+**Do capítulo 2.** Troque o substantivo pelo pronome (*er, sie, es*): *Der Tisch ist neu. Die Lampe ist alt. Das Bett ist groß.*
 
 **Do capítulo 1.** Leia em voz alta: *Städte*, *Mütter*, *Frühling*, *Bücher*.
 
@@ -214,13 +239,11 @@ O erro que mais custa caro é **trazer o gênero do português**. “A casa” v
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Três gêneros: der, die, das. Plural: die.
+Três gêneros: **der**, **die**, **das**. Plural: sempre **die**.
 
-O gênero do alemão não segue o do português.
+O gênero do alemão não segue o do português. Aprenda cada palavra com artigo e plural.
 
-Aprenda cada palavra com artigo e plural.
-
-Pistas: -ung/-heit/-keit/-schaft/-tion = die; -chen/-lein = das. Plural tem cinco finais. Composto segue a última parte.
+Pistas: *-ung/-heit/-keit/-schaft/-tion* = **die**; *-chen/-lein* = **das**. Composto segue sempre a última parte.
 
 **Já consigo?**
 
@@ -228,24 +251,21 @@ Digo *der Tisch*, nunca só *Tisch*.
 
 Uso *Das ist ein/eine …* para apontar algo.
 
-Escolho *er*, *sie* ou *es* conforme o gênero. Formo o plural de palavras comuns.
+Escolho *er*, *sie* ou *es* conforme o gênero e formo o plural de palavras comuns.
 :::::
 
 ## Glossário do capítulo 5
 
-| Alemão      | Plural       | Português      |
-|-------------|--------------|----------------|
-| der Tisch   | die Tische   | mesa           |
-| der Stuhl   | die Stühle   | cadeira        |
-| das Bett    | die Betten   | cama           |
-| das Fenster | die Fenster  | janela         |
-| die Tür     | die Türen    | porta          |
-| die Lampe   | die Lampen   | luminária      |
-| der Schrank | die Schränke | armário        |
-| das Zimmer  | die Zimmer   | quarto, cômodo |
-
 | Alemão                       | Plural             | Português                            |
 |------------------------------|--------------------|--------------------------------------|
+| der Tisch                    | die Tische         | mesa                                 |
+| der Stuhl                    | die Stühle         | cadeira                              |
+| das Bett                     | die Betten         | cama                                 |
+| das Fenster                  | die Fenster        | janela                               |
+| die Tür                      | die Türen          | porta                                |
+| die Lampe                    | die Lampen         | luminária                            |
+| der Schrank                  | die Schränke       | armário                              |
+| das Zimmer                   | die Zimmer         | quarto, cômodo                       |
 | die Küche                    | die Küchen         | cozinha                              |
 | das Sofa                     | die Sofas          | sofá                                 |
 | das Buch                     | die Bücher         | livro                                |
@@ -277,11 +297,17 @@ Escolho *er*, *sie* ou *es* conforme o gênero. Formo o plural de palavras comun
 ## Chave comentada do capítulo 5
 
 ::::: gabarito
-**Degrau 1.** 1 die (-ung). 2 das (-chen). 3 der (-er, pessoa). 4 die (-ung). 5 der (dia da semana). 6 das (-chen). 7 (b) Kinder. 8 (b) Frauen. 9 (c) Autos.
+**Degrau 1.** 1 die (-ung). 2 das (-chen). 3 der (-er, pessoa). 4 die (-ung). 5 der (dia da semana). 6 das (-chen). 7 (b) Kinder. 8 (b) Frauen. 9 \(c\) Autos.
 
-**Degrau 2.** eine Lampe, ein Tisch, ein Fenster (se o objeto já é conhecido, *die Lampe*, *der Tisch*, *das Fenster* também estão certos), Der Schrank, Die Küche, Das Bett. Plurais: die Tage, die Städte, die Häuser, die Schulen, die Lehrer, die Autos. Femininos: Lehrerin, Studentin, Ärztin.
+**Degrau 2.** 1 eine Lampe / Die Lampe. 2 ein Tisch / Der Tisch. 3 ein Fenster / Das Fenster. 4 ein Schlüssel / Der Schlüssel. 5 eine Wohnung / Die Wohnung. 6 ein Bett / Das Bett. 7 Plurais: die Tage, die Städte, die Häuser, die Schulen, die Lehrer, die Autos. 8 Femininos: die Lehrerin, die Studentin, die Ärztin.
 
-**Degrau 3.** Respostas pessoais. Compostos: *die Kaffeetasse* (da última parte, *die Tasse*), *die Haustür* (*die Tür*), *der Zeitungsartikel* (*der Artikel*; entra um *-s-* no meio).
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Hier ist ein Bett. Das Bett ist groß. Dort ist ein Tisch. Der Tisch ist neu. Da ist eine Lampe. Die Lampe ist sehr schön.*
+
+2.  *der Schlüssel, die Schlüssel; die Zeitung, die Zeitungen; das Buch, die Bücher; die Wohnung, die Wohnungen; der Stuhl, die Stühle; das Auto, die Autos.*
+
+3.  Compostos: **die Kaffeetasse** (gênero da última parte: *die Tasse*), **die Haustür** (*die Tür*), **der Zeitungsartikel** (*der Artikel*).
 
 **Degrau 4.**
 

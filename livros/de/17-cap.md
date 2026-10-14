@@ -163,9 +163,9 @@ Se você notou que o prefixo vai para o fim, que com o modal o verbo volta intei
 
 3.  \_\_\_\_ du mit? (Kommst, Mitkommst)
 
-4.  Qual verbo é separável? (a) verstehen (b) einkaufen (c) besuchen
+4.  Qual verbo é separável? (a) verstehen (b) einkaufen \(c\) besuchen
 
-5.  Qual verbo é inseparável? (a) aussteigen (b) bekommen (c) mitnehmen
+5.  Qual verbo é inseparável? (a) aussteigen (b) bekommen \(c\) mitnehmen
 
 6.  Ich muss früh \_\_\_\_. (aufstehen, stehen auf)
 
@@ -173,21 +173,31 @@ Se você notou que o prefixo vai para o fim, que com o modal o verbo volta intei
 
 **Degrau 2. Complete.**
 
-Conjugue *anrufen* (ich, du, er, wir, ihr).
+Conjugue o verbo separável **anrufen** no presente:
 
-Complete no presente: Er \_\_\_\_ mich später \_\_\_\_ (anrufen). Wir \_\_\_\_ heute \_\_\_\_ (einkaufen). Du \_\_\_\_ viel \_\_\_\_ (fernsehen). Der Bus \_\_\_\_ um zehn Uhr \_\_\_\_ (abfahren).
+1.  ich \_\_\_\_ … \_\_\_\_ · du \_\_\_\_ … \_\_\_\_ · er \_\_\_\_ … \_\_\_\_ · wir \_\_\_\_ … \_\_\_\_ · ihr \_\_\_\_ … \_\_\_\_
 
-Reescreva com o modal: Ich stehe früh auf. (müssen) / Wir kaufen heute ein. (wollen) / Kommst du mit? (können)
+Complete as frases no presente separando o prefixo (ou mantendo junto se for inseparável):
 
-Escreva o imperativo: aufstehen (du, ihr, Sie), mitkommen (du), aufräumen (du).
+2.  Er \_\_\_\_ mich heute Abend \_\_\_\_ (anrufen). · Wir \_\_\_\_ im Supermarkt \_\_\_\_ (einkaufen).
+
+3.  Du \_\_\_\_ abends gern \_\_\_\_ (fernsehen). · Der Zug \_\_\_\_ um acht Uhr \_\_\_\_ (abfahren). · Wann \_\_\_\_ der Kurs \_\_\_\_ (anfangen)?
+
+4.  Ich \_\_\_\_ (verstehen) die Frage nicht, aber der Lehrer \_\_\_\_ (erklären) alles.
+
+Reescreva com o verbo modal indicado e escreva o imperativo:
+
+5.  Ich stehe früh auf. (**müssen**) → \_\_\_\_ · Wir kaufen heute ein. (**wollen**) → \_\_\_\_ · Kommst du mit? (**können**) → \_\_\_\_
+
+6.  Imperativo: **aufstehen** (du: \_\_\_\_! / ihr: \_\_\_\_! / Sie: \_\_\_\_!) · **mitkommen** (du: \_\_\_\_!) · **aufräumen** (du: \_\_\_\_!)
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases sobre a sua manhã com verbos separáveis (*Ich stehe … auf*).
+1.  Escreva cinco frases contando a sua rotina diária com verbos separáveis (*aufstehen, abfahren, ankommen, einkaufen, zurückkommen, fernsehen*).
 
-Convide um amigo para ir junto a algum lugar (*Kommst du … mit?*).
+2.  Escreva três pedidos em casa usando o imperativo de verbos separáveis (*Mach bitte … zu! / Räum … auf! / Nimm … mit!*).
 
-Escreva três regras de arrumar a casa com *Mach … zu! Räum … auf!* Escreva um diálogo curto, no estilo da Cena.
+3.  Escreva um diálogo de quatro falas combinando de ir ao mercado ou ao cinema junto com um amigo (*Kommst du mit? / Wann fahren wir ab?*).
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -208,7 +218,17 @@ Escreva três regras de arrumar a casa com *Mach … zu! Räum … auf!* Escreva
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **deixar o prefixo colado ao verbo**: *Ich anrufe dich.* O prefixo vai para o fim. O segundo erro é **separar o que não separa**: *Ich stehe dich nicht ver.* O terceiro é **separar o verbo com modal**: *Ich muss früh stehen auf.* Com modal, o verbo fica inteiro no infinitivo.
+O erro que mais custa caro é **deixar o prefixo colado ao verbo conjugado** (*Ich anrufe dich* em vez de *Ich rufe dich an*), **colocar o prefixo no meio da frase em vez de no fim** (*Wir steigen aus am Marienplatz*), **separar verbos inseparáveis** (*be-, ge-, er-, ver-, ent-, emp-*) ou **separar depois de verbo modal**.
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich anrufe dich später.~~ | Ich **rufe** dich später **an**. | No presente, o verbo fica na Posição 2 e o prefixo tônico vai para o **fim**. |
+| ~~Wir steigen aus am Marienplatz.~~ | Wir **steigen** am Marienplatz **aus**. | O prefixo separável fecha a moldura no final absoluto da oração. |
+| ~~Mitkommst du heute?~~ | **Kommst** du heute **mit**? | Na pergunta de sim/não, o verbo abre na Posição 1 e o prefixo fica no fim. |
+| ~~Ich muss früh stehe auf / stehen auf.~~ | Ich **muss** früh **aufstehen**. | Com verbo modal, o verbo separável vai inteiro no infinitivo para o final. |
+| ~~Ich stehe dich nicht ver.~~ | Ich **verstehe** dich nicht. | Os prefixos átonos **be-, ge-, er-, ver-, ent-, emp-** nunca se separam! |
+:::
 
 ::: atencao
 presente com prefixo separável: verbo na posição 2, prefixo no fim. Com modal, o verbo volta inteiro. *Ver-* e *be-* nunca soltam.
@@ -236,26 +256,26 @@ presente com prefixo separável: verbo na posição 2, prefixo no fim. Com modal
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Separável: verbo na posição 2, prefixo no fim.
+Separável: verbo na posição 2, prefixo no fim (*Ich stehe um sieben Uhr auf*).
 
-Com modal ou no infinitivo, o verbo fica inteiro. Imperativo: o prefixo vai para o fim.
+Com modal ou no infinitivo, o verbo fica inteiro (*Ich muss früh aufstehen*). Imperativo: o prefixo vai para o fim (*Steh auf! Komm mit!*).
 
-*Be-, ge-, er-, ver-, ent-, emp-* nunca se separam. *Bekommen* = receber.
+*Be-, ge-, er-, ver-, ent-, emp-* nunca se separam (*besuchen, verstehen, bekommen, erklären, empfehlen*). *Bekommen* = receber.
 
 **Já consigo?**
 
 Conto a minha rotina com verbos separáveis.
 
-Faço um convite com *Kommst du mit?* Sei quando não devo separar o verbo.
+Faço um convite com *Kommst du mit?* e sei quando não devo separar o verbo.
 :::::
 
 ## Glossário do capítulo 17
 
-| Alemão                | Português        |
-|-----------------------|------------------|
-| anrufen (ruft an)     | ligar, telefonar |
-| ankommen (kommt an)   | chegar           |
-| aufstehen (steht auf) | levantar-se      |
+| Alemão                      | Português                     |
+|-----------------------------|-------------------------------|
+| anrufen (ruft an)           | ligar, telefonar              |
+| ankommen (kommt an)         | chegar                        |
+| aufstehen (steht auf)       | levantar-se                   |
 | aufräumen (räumt auf)       | arrumar                       |
 | aussteigen (steigt aus)     | descer, sair (do transporte)  |
 | einsteigen (steigt ein)     | entrar, subir (no transporte) |
@@ -292,9 +312,19 @@ Faço um convite com *Kommst du mit?* Sei quando não devo separar o verbo.
 ::::: gabarito
 **Degrau 1.** 1 (b). 2 fährt. 3 Kommst. 4 (b). 5 (b). 6 aufstehen. 7 verstehe.
 
-**Degrau 2.** ich rufe … an, du rufst … an, er ruft … an, wir rufen … an, ihr ruft … an. Er ruft mich später an. Wir kaufen heute ein. Du siehst viel fern. Der Bus fährt um zehn Uhr ab. Ich muss früh aufstehen. Wir wollen heute einkaufen. Kannst du mitkommen? Steh auf! Steht auf! Stehen Sie auf! Komm mit! Räum auf!
+**Degrau 2.** 1 ich rufe … an, du rufst … an, er ruft … an, wir rufen … an, ihr ruft … an. 2 Er ruft mich heute Abend an. Wir kaufen im Supermarkt ein. 3 Du siehst abends gern fern. Der Zug fährt um acht Uhr ab. Wann fängt der Kurs an? 4 verstehe, erklärt. 5 Ich muss früh aufstehen. Wir wollen heute einkaufen. Kannst du mitkommen? 6 Steh auf! Steht auf! Stehen Sie auf! Komm mit! Räum auf!
 
-**Degrau 3.** Respostas pessoais. Confira o verbo na posição 2 e o prefixo no fim.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich stehe jeden Tag um sieben Uhr auf. Um acht Uhr fahre ich mit dem Bus ab. Um halb neun komme ich im Büro an. Am Nachmittag kaufe ich im Supermarkt ein und komme um neunzehn Uhr zurück.*
+
+2.  *Mach bitte das Fenster zu! Räum bitte dein Zimmer auf! Nimm bitte deinen Regenschirm mit!*
+
+3.  Modelo de diálogo:
+    *— Hallo Jonas! Ich gehe jetzt ins Kino. Kommst du mit?*
+    *— Ja, sehr gern! Wann fängt der Film an?*
+    *— Er fängt um zwanzig Uhr an. Wir fahren um halb acht mit der U-Bahn ab.*
+    *— Super, ich nehme meine Jacke mit!*
 
 **Degrau 4.**
 

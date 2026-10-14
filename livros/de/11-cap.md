@@ -134,6 +134,15 @@ Se você notou que *mein* tem os mesmos finais de *ein* e *kein*, descobriu a re
 
 **Etwas, nichts, alles.** *Ich brauche etwas. Ich habe nichts. Das ist alles.*
 
+**Quando o substantivo some: *einer, keins, meiner* (Pronomes Substitutos).** Quando você usa *ein*, *kein* ou um possessivo (*mein, dein…*) **sozinho**, sem repetir o substantivo (ex.: *“— Você tem um carro? — Não, não tenho nenhum”* ou *“— De quem é a chave? — É a minha!”*), as três casas que não tinham terminação antes do substantivo ganham a marca do artigo (*der → -er*, *das → -s*):
+
+| Gênero e Caso | Antes do substantivo (Artigo) | Sozinho, sem substantivo (Pronome!) | Exemplo Real de Diálogo |
+|---|---|---|---|
+| **Masculino Nom.** (*der*) | **ein / kein / mein** Tisch | **ein**er / **kein**er / **mein**er | *— Ist das dein Stift? — Ja, das ist **meiner**!* (É o meu!) |
+| **Neutro Nom. e Akk.** (*das*) | **ein / kein / mein** Auto | **ein**s / **kein**s / **mein**s | *— Hast du **ein** Auto? — Nein, ich habe **keins**!* (Não tenho nenhum!) |
+| **Masculino Akk.** (*den*) | **einen / keinen / meinen** | **einen / keinen / meinen** (igual!) | *— Brauchst du **einen** Stift? — Ja, ich brauche **einen**!* |
+| **Feminino e Plural** (*die*) | **eine / keine / meine** | **eine / keine / meine** (igual!) | *— Hast du **eine** Tasche? — Ja, hier ist **meine**!* |
+
 **Parentes.** *Die Eltern* (pais, plural), *die Großeltern* (avós), *der Onkel* (tio), *die Tante* (tia), *der Mann* (homem ou marido), *die Frau* (mulher ou esposa).
 
 ## 6. Frases de ouro
@@ -166,19 +175,37 @@ Se você notou que *mein* tem os mesmos finais de *ein* e *kein*, descobriu a re
 
 7.  \_\_\_\_ Frau ist meine Tante. (Dieser, Diese)
 
+8.  — Hast du ein Auto (n.)? — Nein, ich habe \_\_\_\_. (kein, keins)
+
 **Degrau 2. Complete.**
 
-Possessivos: ich \_\_\_\_ Auto, du \_\_\_\_ Lampe, wir \_\_\_\_ Haus, ihr \_\_\_\_ Kinder, Sie \_\_\_\_ Name.
+Coloque o possessivo correto no Nominativo conforme o dono indicado:
 
-Casos: Ich suche \_\_\_\_ Schlüssel (mein, m.). Ich gebe \_\_\_\_ Mutter ein Buch (mein). Wir besuchen \_\_\_\_ Eltern (unser). Er hilft \_\_\_\_ Kind (sein).
+1.  ich → \_\_\_\_ Auto (n.) · du → \_\_\_\_ Lampe (f.) · wir → \_\_\_\_ Haus (n.) · ihr → \_\_\_\_ Kinder (pl.) · Sie → \_\_\_\_ Name (m.)
 
-Dieser: \_\_\_\_ Tisch (nominativo). Ich kaufe \_\_\_\_ Tisch (acusativo). \_\_\_\_ Lampe (nominativo). Ich helfe \_\_\_\_ Mann (dativo).
+Decline o possessivo no caso exigido pelo verbo:
+
+2.  Ich suche \_\_\_\_ Schlüssel (mein, m., Acusativo).
+
+3.  Ich gebe \_\_\_\_ Mutter (mein, f., Dativo) ein Buch.
+
+4.  Wir besuchen \_\_\_\_ Eltern (unser, pl., Acusativo).
+
+5.  Er hilft \_\_\_\_ Kind (sein, n., Dativo).
+
+Complete com **dieser** no caso certo e com os **pronomes substitutos** (*einer/einen, eins/keins, meiner/meins*):
+
+6.  \_\_\_\_ Tisch (Nom.) ist schön. Ich kaufe \_\_\_\_ Tisch (Akk.). \_\_\_\_ Lampe (Nom.) ist neu. Ich helfe \_\_\_\_ Mann (Dat.).
+
+7.  — Ist das dein Schlüssel (m.)? — Ja, das ist \_\_\_\_! / — Hast du ein Fahrrad (n.)? — Nein, ich habe \_\_\_\_!
 
 **Degrau 3. Produza.**
 
-Escreva seis frases sobre a sua família, cada uma com um possessivo diferente.
+1.  Escreva seis frases sobre a sua família usando pelo menos quatro possessivos diferentes (*mein, meine, sein, ihr, unser*).
 
-Escreva três perguntas com *Welcher/Welche/Welches*: *Welches Buch gefällt dir?* Escreva três frases com *jeder* ou *alle*: *Jeden Tag …, Alle Kinder …* Escreva um mini-diálogo diante de uma foto, no estilo da Cena.
+2.  Escreva três perguntas com **Welcher / Welche / Welches** e três frases com **jeder** ou **alle**.
+
+3.  Escreva um mini-diálogo de cinco falas mostrando uma foto de família no celular, no estilo da Cena.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -199,12 +226,22 @@ Escreva três perguntas com *Welcher/Welche/Welches*: *Welches Buch gefällt dir
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **trocar dono e coisa**. Como o português concorda só com a coisa, você tende a escrever *sein* para “dela”: *Lena und sein Vater*. O certo é *ihr Vater*, porque a dona é Lena.
+O erro que mais custa caro é **trocar dono e coisa** (*Lena und sein Vater* em vez de *ihr Vater*) ou **colocar artigo antes do possessivo** (*der mein Bruder*, hábito do português “o meu irmão” que é proibido em alemão).
 
-::: atencao
-primeiro pergunte “de quem é?” (raiz). Depois pergunte “que gênero tem a coisa e em que caso está?” (final).
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Das ist der mein Bruder.~~ | Das ist **mein** Bruder. | Em alemão, nunca se usa artigo antes de possessivo. |
+| ~~Lena und sein Vater.~~ | Lena und **ihr** Vater. | A dona é *Lena* (ela → raiz **ihr**); *Vater* é masculino (sem final no Nom.). |
+| ~~Tom und sein Mutter.~~ | Tom und **seine** Mutter. | O dono é *Tom* (ele → **sein**), mas *Mutter* é feminino (**-e** → **seine**). |
+| ~~Ich suche mein Schlüssel.~~ | Ich suche **meinen** Schlüssel. | *Schlüssel* é masculino e objeto direto (Acusativo → **meinen**). |
+| ~~Ihr wohnt bei eueren Eltern.~~ | Ihr wohnt bei **euren** Eltern. | Quando *euer* ganha terminação, o *e* interno cai (**eure, euren, eurem**). |
+| ~~— Hast du ein Auto? — Nein, ich habe kein.~~ | — Nein, ich habe **keins**. | Sem o substantivo neutro depois, *ein/kein/mein* ganham **-s** (**eins, keins, meins**). |
 :::
 
+::: atencao
+primeiro pergunte “de quem é?” (raiz: *sein* = dele, *ihr* = dela). Depois pergunte “que gênero tem a coisa e em que caso está?” (final).
+:::
 
 ## 9. Retorno
 
@@ -228,23 +265,17 @@ primeiro pergunte “de quem é?” (raiz). Depois pergunte “que gênero tem a
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Possessivo = raiz do dono + final da coisa: *mein, dein, sein, ihr, unser, euer, Ihr*.
+Possessivo = raiz do dono (*mein, dein, sein, ihr, unser, euer, Ihr*) + final da coisa possuída (iguais aos de *ein/kein*).
 
-Os finais são os de *ein/kein*.
+Sem substantivo depois, o masculino nominativo ganha **-er** (*einer, keiner, meiner*) e o neutro ganha **-s** (*eins, keins, meins*).
 
-*Dieser, welcher, jeder* usam os finais de *der*.
-
-Sem artigo antes do possessivo.
-
-*Man, jemand, niemand, etwas, nichts, alles* são os indefinidos básicos.
+*Dieser, welcher, jeder* usam os finais de *der*. *Man, jemand, niemand, etwas, nichts, alles* são os indefinidos básicos.
 
 **Já consigo?**
 
-Apresento minha família com *mein/meine*.
+Apresento minha família com *mein/meine* e distingo *sein* (dele) de *ihr* (dela) pelo dono.
 
-Distingo *sein* de *ihr* pelo dono.
-
-Pergunto *Welcher/Welche/Welches …?*
+Pergunto *Welcher/Welche/Welches …?* e respondo *Das ist meiner / keins*.
 :::::
 
 ## Glossário do capítulo 11
@@ -270,16 +301,27 @@ Pergunto *Welcher/Welche/Welches …?*
 | man                                     | a gente, se                                               |
 | jemand, niemand                         | alguém, ninguém                                           |
 | etwas, nichts, alles                    | algo, nada, tudo                                          |
-| der Schlüssel                           | chave                                                     |
+| der Schlüssel, der Stift                | chave, caneta                                             |
 
 ## Chave comentada do capítulo 11
 
 ::::: gabarito
-**Degrau 1.** 1 mein (masculino). 2 seine (dono Tom, coisa feminina). 3 ihr (dona Lena, coisa masculina). 4 ihr (dona Camila). 5 meinen (acusativo masculino). 6 meiner (dativo feminino). 7 Diese (feminino).
+**Degrau 1.** 1 mein (masculino). 2 seine (dono Tom, coisa feminina). 3 ihr (dona Lena, coisa masculina). 4 ihr (dona Camila). 5 meinen (acusativo masculino). 6 meiner (dativo feminino). 7 Diese (feminino). 8 keins (pronome substituto neutro sem substantivo).
 
-**Degrau 2.** mein Auto, deine Lampe, unser Haus, eure Kinder, Ihr Name. meinen Schlüssel, meiner Mutter, unsere Eltern, seinem Kind. dieser Tisch, diesen Tisch, diese Lampe, diesem Mann.
+**Degrau 2.** 1 mein Auto, deine Lampe, unser Haus, eure Kinder, Ihr Name. 2 meinen Schlüssel. 3 meiner Mutter. 4 unsere Eltern. 5 seinem Kind. 6 Dieser Tisch, diesen Tisch, Diese Lampe, diesem Mann. 7 meiner / keins.
 
-**Degrau 3.** Respostas pessoais. Confira a raiz (dono) e o final (gênero e caso da coisa).
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Mein Vater heißt Carlos und meine Mutter heißt Ana. Ich habe eine Schwester: ihr Mann arbeitet in Curitiba. Ich habe auch einen Bruder: seine Frau ist Ärztin. Unsere Großeltern wohnen in Minas Gerais.*
+
+2.  *Welcher Kurs beginnt heute? / Welche Tasche kaufst du? / Welches Buch liest du? / Jeden Tag trinke ich Kaffee. Jede Woche rufe ich meine Mutter an. Alle Freunde kommen heute Abend.*
+
+3.  Modelo de diálogo:
+    *— Wer ist das auf dem Foto?*
+    *— Das ist meine Schwester Julia und das ist ihr Mann.*
+    *— Und wer ist dieses Kind?*
+    *— Das ist ihr Sohn Leo. Er ist vier Jahre alt.*
+    *— Ein sehr schönes Foto! Eure Familie ist sehr sympathisch.*
 
 **Degrau 4.**
 

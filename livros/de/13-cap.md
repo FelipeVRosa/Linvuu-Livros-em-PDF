@@ -134,37 +134,49 @@ Faça três perguntas, nesta ordem.
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
-**Degrau 1. Reconheça.** Complete o final.
+**Degrau 1. Reconheça.** Complete o final do adjetivo.
 
-1.  der groß\_\_ Tisch
+1.  der groß\_\_ Tisch (m., Nom., Grupo A)
 
-2.  ein groß\_\_ Tisch
+2.  ein groß\_\_ Tisch (m., Nom., Grupo B)
 
-3.  eine klein\_\_ Lampe
+3.  eine klein\_\_ Lampe (f., Nom., Grupo B)
 
-4.  ein klein\_\_ Bett
+4.  ein klein\_\_ Bett (n., Nom., Grupo B)
 
-5.  Ich kaufe den neu\_\_ Tisch.
+5.  Ich kaufe den neu\_\_ Tisch. (m., Akk., Grupo A)
 
-6.  Ich kaufe einen neu\_\_ Tisch.
+6.  Ich kaufe einen neu\_\_ Tisch. (m., Akk., Grupo B)
 
-7.  Mit dem alt\_\_ Auto.
+7.  Mit dem alt\_\_ Auto. (n., Dat., Grupo A)
 
-8.  Wir trinken kalt\_\_ Wasser.
+8.  Wir trinken kalt\_\_ Wasser. (n., Akk., Grupo C)
 
 **Degrau 2. Complete.**
 
-Das ist ein (schön) Haus. Ich habe eine (klein) Wohnung. Er hat einen (alt) Hund. Das ist der (neu) Lehrer.
+Complete os adjetivos no Nominativo e no Acusativo (Grupos A e B):
 
-Sie wohnt in einem (groß) Haus. Wir haben keine (gut) Ideen. Ich nehme die (rot) Lampe. Er trinkt (kalt) Milch.
+1.  Das ist ein \_\_\_\_ (schön) Haus. · Ich habe eine \_\_\_\_ (klein) Wohnung.
+
+2.  Er hat einen \_\_\_\_ (alt) Hund. · Das ist der \_\_\_\_ (neu) Lehrer.
+
+3.  Ich nehme den \_\_\_\_ (rot) Rucksack und die \_\_\_\_ (schwarz) Tasche.
+
+Complete os adjetivos no Dativo, Plural e sem artigo (Grupo C):
+
+4.  Sie wohnt in einem \_\_\_\_ (groß) Haus mit einem \_\_\_\_ (schön) Garten.
+
+5.  Wir haben keine \_\_\_\_ (gut) Ideen, aber viele \_\_\_\_ (neu) Bücher.
+
+6.  Er trinkt morgens \_\_\_\_ (heiß) Kaffee (m., Akk.) und \_\_\_\_ (kalt) Milch (f., Akk.).
 
 **Degrau 3. Produza.**
 
-Descreva seu quarto em seis frases, cada uma com um adjetivo antes do substantivo. Descreva uma foto de família em cinco frases, com adjetivos e possessivos (*mein jüngerer Bruder*).
+1.  Descreva o seu quarto ou escritório em cinco frases, usando em cada uma um adjetivo antes do substantivo (*ein großer Schreibtisch, ein bequemer Stuhl, eine helle Lampe...*).
 
-Escreva um diálogo de loja: *Ich suche einen … Tisch*, com cores.
+2.  Descreva uma foto de família em quatro frases combinando possessivos + adjetivos (*mein jüngerer Bruder, meine liebe Mutter, unser altes Haus...*).
 
-Escreva três frases com comparativo antes do substantivo: *Das ist die größere Wohnung.*
+3.  Escreva um diálogo curto de compras (4 falas) usando cores e tamanhos antes dos substantivos (*Ich suche einen blauen Mantel / eine schwarze Jacke...*).
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -185,12 +197,22 @@ Escreva três frases com comparativo antes do substantivo: *Das ist die größer
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **não dar final ao adjetivo** (*ein groß Tisch*) ou **dar final ao adjetivo depois de *sein*** (*Der Tisch ist große*). O primeiro vem de querer reaproveitar o português; o segundo vem do excesso de zelo.
+O erro que mais custa caro é **esquecer de dar a marca do gênero ao adjetivo depois de *ein/mein*** (*Das ist ein schöne Zimmer* em vez de *ein schönes Zimmer*), **esquecer o *-en* obrigatório no Masculino Acusativo e em todo o Dativo**, ou **colocar terminação no adjetivo depois de *sein*** (*Der Tisch ist große*).
 
-::: atencao
-antes do substantivo, final. Depois de *sein*, sem final. Dois lugares, duas regras.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Der Tisch ist große.~~ | Der Tisch ist **groß**. | Depois de *sein/werden/bleiben*, o adjetivo nunca recebe terminação. |
+| ~~Das ist ein schöne Zimmer.~~ | Das ist ein schön**es** Zimmer. | Como *ein* não mostra que *Zimmer* é neutro (*das*), o adjetivo precisa mostrar (**-es**). |
+| ~~Ich habe ein großer Tisch.~~ | Ich habe **einen großen** Tisch. | Objeto direto masculino (Acusativo) exige **-en** tanto no artigo quanto no adjetivo! |
+| ~~Ich kaufe den neue Tisch.~~ | Ich kaufe den neu**en** Tisch. | No Acusativo masculino, o adjetivo termina sempre em **-en**. |
+| ~~Mit dem alte Auto / einer nette Frau~~ | Mit dem alt**en** Auto / einer nett**en** Frau | No Dativo (com *dem, der, einem, einer, den*), o adjetivo termina **100% das vezes em -en**! |
+| ~~Ich trinke kaltes Kaffee.~~ | Ich trinke kalt**en** Kaffee. | *Der Kaffee* é masculino e objeto direto sem artigo → pede **-en** (como *den*). |
 :::
 
+::: atencao
+antes do substantivo, final. Depois de *sein*, sem final. E grave este atalho de ouro: entrou no **Dativo** ou no **Masculino Acusativo** após artigo? O adjetivo termina sempre em **-en**!
+:::
 
 ## 9. Retorno
 
@@ -216,17 +238,17 @@ antes do substantivo, final. Depois de *sein*, sem final. Dois lugares, duas reg
 ::::: resumo
 Antes do substantivo, o adjetivo leva final. Depois de *sein*, não leva.
 
-Três grupos: com *der/die/das* (A), com *ein/kein/mein* (B), sem artigo (C).
+Três grupos: com *der/die/das* (A), com *ein/kein/mein* (B), sem artigo \(C\).
 
-Grupo A: **-e** em cinco células, **-en** em todo o resto.
+Grupo A: **-e** em cinco células (Nom. singular e Akk. feminino/neutro), **-en** em todo o resto.
 
-Grupo B: igual a A, mas **-er, -es, -es** nas três células sem sinal. Grupo C: terminações do artigo, **-en** no dativo plural.
+Grupo B: igual a A, mas **-er** (Nom. masc.) e **-es** (Nom./Akk. neutro) nas três células em que *ein* não tem marca. Grupo C: copia as terminações do próprio artigo (*-er, -e, -es, -en, -em*).
 
 **Já consigo?**
 
 Digo *ein neuer Tisch*, *eine neue Lampe*, *ein neues Bett*.
 
-Digo *der neue Tisch* e *mit dem neuen Tisch*. Digo *kalter Kaffee* e *kalte Milch*.
+Digo *der neue Tisch* e *mit dem neuen Tisch*, além de *heißer Kaffee* e *kalte Milch*.
 :::::
 
 ## Glossário do capítulo 13
@@ -243,25 +265,32 @@ Digo *der neue Tisch* e *mit dem neuen Tisch*. Digo *kalter Kaffee* e *kalte Mil
 | hoch                       | alto                           |
 | der Garten                 | jardim                         |
 | die Blume                  | flor                           |
-
-| Alemão       | Português  |
-|--------------|------------|
-| der Berg     | montanha   |
-| der Rucksack | mochila    |
-| das Wasser   | água       |
-| die Milch    | leite      |
-| das Getränk  | bebida     |
-| der Freund   | amigo      |
-| sehr, ganz   | muito, bem |
+| der Berg                   | montanha                       |
+| der Rucksack               | mochila                        |
+| das Wasser                 | água                           |
+| die Milch                  | leite                          |
+| das Getränk                | bebida                         |
+| der Freund                 | amigo                          |
+| sehr, ganz                 | muito, bem                     |
 
 ## Chave comentada do capítulo 13
 
 ::::: gabarito
 **Degrau 1.** 1 -e (grupo A, nominativo masculino). 2 -er (grupo B, nominativo masculino). 3 -e (feminino). 4 -es (neutro, grupo B). 5 -en (grupo A, acusativo masculino). 6 -en (grupo B, acusativo masculino). 7 -en (dativo, grupo A). 8 -es (grupo C, neutro).
 
-**Degrau 2.** schönes, kleine, alten, neue. großen, guten, rote, kalte. (*Kalte Milch*: grupo C, feminino.)
+**Degrau 2.** 1 schönes, kleine. 2 alten, neue. 3 roten, schwarze. 4 großen, schönen. 5 guten, neue. 6 heißen, kalte (*kalte Milch*: grupo C, feminino).
 
-**Degrau 3.** Respostas pessoais. Confira primeiro o grupo (artigo), depois gênero e caso.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *In meinem Zimmer steht ein großer Tisch. Neben dem Tisch steht ein bequemer Stuhl. Ich habe auch ein breites Bett und einen weißen Schrank. An der Wand hängt ein schönes Bild.*
+
+2.  *Auf diesem Foto siehst du meine große Familie. Das ist mein jüngerer Bruder und das ist meine liebe Mutter. Wir stehen vor unserem alten Haus mit dem grünen Garten.*
+
+3.  Modelo de diálogo:
+    *— Guten Tag! Ich suche einen warmen Mantel für den Winter.*
+    *— Welche Farbe möchten Sie? Wir haben einen schwarzen Mantel und einen grauen Mantel.*
+    *— Ich nehme den schwarzen Mantel. Und ich brauche auch eine blaue Mütze.*
+    *— Sehr gern! Die blaue Mütze kostet zwölf Euro.*
 
 **Degrau 4.**
 

@@ -155,25 +155,37 @@ Se você notou que a ordem não muda, que o sujeito pode sumir e que *sondern* v
 
 **Degrau 2. Complete.**
 
-Complete com *aber, sondern, denn, oder* ou *und*: Ich bin nicht müde, \_\_\_\_ hungrig. / Ich möchte kommen, \_\_\_\_ ich habe keine Zeit. / Wir können essen gehen \_\_\_\_ zu Hause kochen. / Ich gehe nach Hause, \_\_\_\_ ich bin müde. / Er steht auf \_\_\_\_ frühstückt.
+Complete com **aber, sondern, denn, oder** ou **und**:
 
-Una as frases com *aber*: Ich bin müde. Ich komme mit.
+1.  Ich bin nicht müde, \_\_\_\_ hungrig.
 
-Reescreva sem repetir o sujeito: Ich stehe auf und ich gehe zur Arbeit.
+2.  Ich möchte gern kommen, \_\_\_\_ ich habe heute leider keine Zeit.
 
-Una com *sondern*: Ich trinke keinen Kaffee. Ich trinke Tee.
+3.  Wir können im Restaurant essen gehen \_\_\_\_ zu Hause kochen.
 
-Complete os pares: Ich esse \_\_\_\_ nur Pasta, \_\_\_\_ auch Pizza. / \_\_\_\_ Kaffee \_\_\_\_ Tee, bitte!
+4.  Ich gehe jetzt nach Hause, \_\_\_\_ es ist schon sehr spät.
+
+5.  Er steht um sieben Uhr auf \_\_\_\_ frühstückt in der Küche.
+
+Una as frases e complete os conectores duplos:
+
+6.  Una com **aber**: Ich bin müde. Ich komme mit. → \_\_\_\_
+
+7.  Una com **und** omitindo o sujeito repetido: Ich stehe auf. Ich gehe zur Arbeit. → \_\_\_\_
+
+8.  Una com **sondern**: Ich trinke keinen Kaffee. Ich trinke Tee. → \_\_\_\_
+
+9.  Conectores duplos: Ich esse \_\_\_\_ nur Pasta, \_\_\_\_ auch Pizza. · \_\_\_\_ heute \_\_\_\_ morgen!
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases sobre você com *aber* (*Ich bin …, aber …*).
+1.  Escreva quatro frases sobre você usando **aber** (*Ich wohne gern hier, aber …*).
 
-Escreva três frases com *denn*.
+2.  Escreva três frases explicando um motivo com **denn** (*, denn ich + verbo na Posição 2*).
 
-Escreva três frases com *nicht … sondern*.
+3.  Escreva três frases corrigindo uma negação com **nicht/kein … sondern**.
 
-Escreva um mini-diálogo para combinar um jantar, no estilo da Cena.
+4.  Escreva um diálogo curto de quatro falas combinando onde jantar hoje à noite, usando *oder, aber, sondern* e *denn*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -194,12 +206,20 @@ Escreva um mini-diálogo para combinar um jantar, no estilo da Cena.
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **trocar *aber* e *sondern***, por causa do “mas” do português. O segundo é **inverter a ordem depois do conector**: *aber komme ich*, *denn bin ich krank*. Depois desses cinco, a ordem não muda. O terceiro é **esquecer a vírgula** antes de *aber, denn* e *sondern*.
+O erro que mais custa caro é **trocar *aber* por *sondern* (e vice-versa)** por causa do “mas” do português, **inverter o sujeito e o verbo depois de *denn / aber / und*** (*denn bin ich krank* em vez de *denn ich bin krank*) ou **esquecer a vírgula obrigatória antes de *aber, denn* e *sondern***.
 
-::: atencao
-und, aber, oder, denn, sondern: sujeito, verbo, ordem de sempre. *Nicht … sondern*, *aber* para contrastar.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich trinke keinen Kaffee, aber Tee.~~ | Ich trinke keinen Kaffee, **sondern** Tee. | Após negação (*nicht/kein*), para corrigir dizendo "mas sim / e sim", é obrigatório usar **sondern**. |
+| ~~Ich bleibe zu Hause, denn bin ich krank.~~ | Ich bleibe zu Hause, **denn ich bin** krank. | *Und, aber, oder, denn, sondern* ocupam a Posição 0: vem primeiro o **sujeito** e depois o **verbo**! |
+| ~~Ich bin müde, aber komme ich mit.~~ | Ich bin müde, **aber ich komme** mit. | *Aber* não inverte a ordem sujeito + verbo. |
+| ~~Ich lerne Deutsch und lerne ich Englisch.~~ | Ich lerne Deutsch **und (ich) lerne** Englisch. | Se repetir o sujeito após *und*, ele vem antes do verbo; se omitir, fica apenas *und lerne Englisch*. |
 :::
 
+::: atencao
+*und, aber, oder, denn, sondern*: sujeito, verbo, ordem de sempre. *Nicht … sondern* para corrigir; *aber* para contrastar.
+:::
 
 ## 9. Retorno
 
@@ -223,19 +243,19 @@ und, aber, oder, denn, sondern: sujeito, verbo, ordem de sempre. *Nicht … sond
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-*Und, aber, oder, denn, sondern*: a ordem das palavras não muda.
+*Und, aber, oder, denn, sondern*: ocupam a **posição zero** e não mudam a ordem das palavras.
 
-*Aber* contrasta. *Sondern* corrige uma negativa.
+*Aber* contrasta. *Sondern* corrige uma negativa (*nicht/kein … sondern*).
 
-Sujeito repetido pode sumir; o verbo vem logo depois.
+Sujeito repetido pode sumir depois de *und, aber, oder*; o verbo vem logo depois.
 
-Vírgula obrigatória antes de *aber, denn, sondern*. *Denn* não manda o verbo para o fim.
+Vírgula obrigatória antes de *aber, denn, sondern*. *Denn* mantém o verbo na posição 2.
 
 **Já consigo?**
 
-Ligo duas ideias sem mexer na ordem.
+Ligo duas ideias sem mexer na ordem das palavras.
 
-Sei quando usar *aber* e quando usar *sondern*. Combino planos com *oder* e *und*.
+Sei quando usar *aber* e quando usar *sondern* e combino planos com *oder* e *und*.
 :::::
 
 ## Glossário do capítulo 23
@@ -273,9 +293,21 @@ Sei quando usar *aber* e quando usar *sondern*. Combino planos com *oder* e *und
 ::::: gabarito
 **Degrau 1.** 1 aber. 2 sondern. 3 oder. 4 denn. 5 (b). 6 (a). 7 (b).
 
-**Degrau 2.** sondern, aber, oder, denn, und. Ich bin müde, aber ich komme mit. Ich stehe auf und gehe zur Arbeit. Ich trinke keinen Kaffee, sondern Tee. nicht, sondern. Entweder, oder.
+**Degrau 2.** 1 sondern. 2 aber. 3 oder. 4 denn. 5 und. 6 Ich bin müde, aber ich komme mit. 7 Ich stehe auf und gehe zur Arbeit. 8 Ich trinke keinen Kaffee, sondern Tee. 9 nicht … sondern / Entweder … oder.
 
-**Degrau 3.** Respostas pessoais. Confira a ordem normal depois do conector e a vírgula antes de *aber, denn, sondern*.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Die Wohnung ist klein, aber sie ist sehr hell. Ich habe wenig Zeit, aber ich lerne jeden Tag Deutsch. Das Buch ist lang, aber es ist sehr interessant. Ich möchte reisen, aber ich muss arbeiten.*
+
+2.  *Ich kaufe Brot und Käse, denn ich habe großen Hunger. Wir nehmen ein Taxi, denn es regnet stark. Sie lernt intensiv Deutsch, denn sie möchte in München arbeiten.*
+
+3.  *Ich komme nicht aus Spanien, sondern aus Brasilien. Wir fahren nicht am Montag, sondern am Mittwoch. Das ist kein Hotel, sondern ein Krankenhaus.*
+
+4.  Modelo de diálogo:
+    *— Gehen wir heute Abend ins Kino oder bleiben wir zu Hause?*
+    *— Ich möchte nicht ins Kino gehen, sondern lieber etwas essen.*
+    *— Gute Idee, denn ich habe auch großen Hunger!*
+    *— Super, das Restaurant an der Ecke ist klein, aber das Essen dort ist sehr gut.*
 
 **Degrau 4.**
 

@@ -187,11 +187,11 @@ Traduza para o alemão, com uma partícula:
 
 **Degrau 3. Produza.**
 
-Reescreva quatro frases secas com uma partícula (*Komm mit! Zeig das! Wie heißt du? Das ist teuer.*).
+1.  Reescreva quatro frases secas com uma partícula (*Komm mit! Zeig das! Wie heißt du? Das ist teuer.*).
 
-Escreva três frases em que você tranquiliza um amigo com *schon*.
+2.  Escreva três frases em que você tranquiliza um amigo com *schon*.
 
-Escreva um mini-diálogo de seis falas em que alguém espera algo (um ônibus, uma resposta, uma pessoa), com pelo menos quatro partículas diferentes.
+3.  Escreva um mini-diálogo de seis falas em que alguém espera algo (um ônibus, uma resposta, uma pessoa), com pelo menos quatro partículas diferentes.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -305,7 +305,19 @@ Reconheço *denn, ja, aber* e *schon* numa conversa.
 
 **Degrau 2.** 1 denn. 2 mal. 3 doch. 4 aber (também é possível *ja*, com um tom de quem constata). 5 halt ou eben. 6 schon. 7 ja (também é possível *doch*). 8 Warte mal! (ou: Moment mal!) 9 Komm doch mit! 10 Was machst du denn hier?
 
-**Degrau 3.** Respostas pessoais. Confira: a partícula está no meio da frase, depois do verbo e dos pronomes; a gramática da frase não mudou; o efeito faz sentido.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Komm doch mit! / Zeig mir das mal! / Wie heißt du denn? / Das ist aber teuer!*
+
+2.  *Keine Sorge, das klappt schon! Der Bus kommt schon gleich. Du bestehst die Prüfung schon!*
+
+3.  Modelo de diálogo:
+    *— Wo bleibt denn Jonas? Wir warten schon zwanzig Minuten!*
+    *— Du kennst ihn ja, er kommt oft ein bisschen zu spät.*
+    *— Ruf ihn doch mal an!*
+    *— Moment mal, er schreibt gerade eine Nachricht: Die U-Bahn stand halt im Tunnel.*
+    *— Ach so! Na gut, dann trinken wir eben noch einen Espresso.*
+    *— Siehst du, da kommt er ja schon!*
 
 **Degrau 4.**
 

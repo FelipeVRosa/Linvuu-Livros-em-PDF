@@ -185,19 +185,31 @@ Se você notou que a vogal muda só em *du* e *er*, que o imperativo de *du* per
 
 **Degrau 2. Complete.**
 
-Conjugue *nehmen* (ich, du, er, wir, ihr), *fahren* (du, er) e *essen* (du, er).
+Conjugue os verbos fortes nas pessoas indicadas:
 
-Complete: Er \_\_\_\_ (geben) mir das Salz. Du \_\_\_\_ (sehen) das Haus. Sie \_\_\_\_ (schlafen) lange.
+1.  **nehmen:** ich \_\_\_\_, du \_\_\_\_, er \_\_\_\_, wir \_\_\_\_, ihr \_\_\_\_
 
-Escreva o imperativo de *du*, *ihr* e *Sie* para: kommen, warten, essen, geben. Negue o imperativo: Komm! / Iss das!
+2.  **fahren:** du \_\_\_\_, er \_\_\_\_, wir \_\_\_\_ · **essen:** du \_\_\_\_, er \_\_\_\_, ihr \_\_\_\_
+
+Complete as frases no presente:
+
+3.  Er \_\_\_\_ (geben) mir das Salz. · Du \_\_\_\_ (sehen) den Film. · Sie (ela) \_\_\_\_ (schlafen) am Sonntag lange. · Ich \_\_\_\_ (wissen) das nicht.
+
+Escreva o imperativo nas três formas (**du**, **ihr**, **Sie**):
+
+4.  **kommen:** \_\_\_\_! / \_\_\_\_! / \_\_\_\_! · **warten:** \_\_\_\_! / \_\_\_\_! / \_\_\_\_!
+
+5.  **essen:** \_\_\_\_! / \_\_\_\_! / \_\_\_\_! · **geben:** \_\_\_\_! / \_\_\_\_! / \_\_\_\_! · **sein:** \_\_\_\_! / \_\_\_\_! / \_\_\_\_!
+
+6.  Negue o imperativo: Komm! → \_\_\_\_! / Iss das! → \_\_\_\_!
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases com o que você faz de manhã (*Ich esse …, ich lese …*).
+1.  Escreva quatro frases sobre a sua manhã e a de um familiar contrastando *ich* (sem troca de vogal) e *er/sie* (com troca de vogal) usando *essen, lesen, fahren, nehmen*.
 
-Escreva cinco ordens de uma receita simples (*Nimm …! Schneide …!*).
+2.  Escreva quatro instruções de uma receita simples para um amigo (*du*) usando *Nimm …! Schneide …! Gib …! Koch …!*.
 
-Escreva três regras para os colegas de casa com *Seid …!* Escreva um diálogo curto de cozinha, no estilo da Cena.
+3.  Escreva um mini-diálogo na cozinha (4 falas) pedindo ajuda e ingredientes com o imperativo e *bitte*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -218,12 +230,22 @@ Escreva três regras para os colegas de casa com *Seid …!* Escreva um diálogo
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **conjugar *du* e *er* sem a mudança**: *du sprechst, er nehmt, du lest*. O segundo é **aplicar a mudança nas pessoas erradas**: *ich fahre* e *wir fahren* estão certos; *ich fähre* e *wir fähren* não existem. O terceiro é **esquecer que o imperativo de *du* perde o *-st***: *Du kommst!* quando se quer dizer *Komm!*
+O erro que mais custa caro é **conjugar *du* e *er/sie/es* sem mudar a vogal** (*du sprechst, er nehmt*), **mudar a vogal em *ich, wir, ihr*** (*ich fähre, ihr sprecht → sprechet*) ou **deixar o *-st* ou *-t* no imperativo de *du*** (*Gibst / Gibt mir!* em vez de **Gib mir!**).
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Du sprechst / Er nehmt~~ | Du **sprichst** / Er **nimmt** | Nos verbos fortes, a vogal muda obrigatoriamente em **du** e **er/sie/es**. |
+| ~~Ich fähre / Wir fähren~~ | Ich **fahre** / Wir **fahren** | A mudança de vogal **nunca** acontece em *ich, wir, ihr, sie/Sie*. |
+| ~~Gibt mir das Salz! / Nimmst den Bus!~~ | **Gib** mir das Salz! / **Nimm** den Bus! | O imperativo para *du* perde a terminação *-st/-t* e o pronome *du*. |
+| ~~Helf mir! / Nehm Platz!~~ | **Hilf** mir! / **Nimm** Platz! | Verbos com troca *e → i / ie* mantêm o **i/ie** no imperativo de *du*. |
+| ~~Fähr langsam!~~ | **Fahr** langsam! | Verbos com troca *a → ä* perdem o trema no imperativo de *du*. |
+| ~~Sprich Sie langsam!~~ | **Sprechen Sie** langsam! | O imperativo formal com *Sie* usa sempre a forma do infinitivo + *Sie*. |
+:::
 
 ::: atencao
 vogal que muda só em *du* e *er/sie/es*. No imperativo de *du*, *e → i* fica e *a → ä* volta.
 :::
-
 
 ## 9. Retorno
 
@@ -249,19 +271,19 @@ vogal que muda só em *du* e *er/sie/es*. No imperativo de *du*, *e → i* fica 
 ::::: resumo
 A vogal muda só em **du** e **er/sie/es**.
 
-Três desenhos: *e → i, e → ie, a → ä*.
+Três desenhos: **e → i** (*sprechen, essen, geben, nehmen, helfen*), **e → ie** (*sehen, lesen*), **a → ä** (*fahren, schlafen, laufen, tragen*).
 
-Imperativo de *du*: sem *-st*. *e → i* fica, *a → ä* volta.
+Imperativo de *du*: sem *-st* (*Komm! Hilf! Nimm! Gib! Iss! Lies! Fahr!*).
 
-Imperativo de *ihr*: *Kommt!* Imperativo de *Sie*: *Kommen Sie!*
+Imperativo de *ihr*: *Kommt! Nehmt!* Imperativo de *Sie*: *Kommen Sie! Nehmen Sie!*
 
 *Sein*: *Sei! Seid! Seien Sie!*
 
 **Já consigo?**
 
-Conjugo *sprechen, nehmen, essen, fahren* sem errar o *du*.
+Conjugo *sprechen, nehmen, essen, fahren* sem errar o *du* e o *er*.
 
-Dá para dar uma instrução simples a um amigo, a um grupo e a um desconhecido. Sei trocar uma ordem seca por um pedido com *bitte*.
+Dou uma instrução simples a um amigo (*du*), a um grupo (*ihr*) e a um desconhecido (*Sie*).
 :::::
 
 ## Glossário do capítulo 16
@@ -306,9 +328,19 @@ Dá para dar uma instrução simples a um amigo, a um grupo e a um desconhecido.
 ::::: gabarito
 **Degrau 1.** 1 sprichst. 2 nimmt. 3 fahren (*wir* não muda). 4 Hilf. 5 Sprechen. 6 sprecht (*ihr* não muda). 7 (b).
 
-**Degrau 2.** nehme, nimmst, nimmt, nehmen, nehmt; fährst, fährt; isst, isst. Er gibt mir das Salz. Du siehst das Haus. Sie schläft lange (ou *schlafen*, se for *sie* plural ou *Sie*). Komm! Kommt! Kommen Sie! / Warte! Wartet! Warten Sie! / Iss! Esst! Essen Sie! / Gib! Gebt! Geben Sie! / Komm nicht! / Iss das nicht!
+**Degrau 2.** 1 nehme, nimmst, nimmt, nehmen, nehmt. 2 fährst, fährt, fahren; isst, isst, esst. 3 gibt, siehst, schläft, weiß. 4 Komm! Kommt! Kommen Sie! / Warte! Wartet! Warten Sie! 5 Iss! Esst! Essen Sie! / Gib! Gebt! Geben Sie! / Sei! Seid! Seien Sie! 6 Komm nicht! / Iss das nicht!
 
-**Degrau 3.** Respostas pessoais. Confira a vogal em *du* e *er*, o verbo na posição 1 no imperativo e o *Sie* depois do verbo.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Am Morgen esse ich Brot, und mein Bruder isst Obst. Ich lese die Zeitung, und er liest seine E-Mails. Ich nehme den Bus, und meine Schwester fährt mit dem Fahrrad zur Arbeit.*
+
+2.  *Nimm drei Tomaten und eine Zwiebel! Schneide die Zwiebel klein! Gib ein bisschen Öl und Salz dazu! Koch die Soße zehn Minuten!*
+
+3.  Modelo de diálogo:
+    *— Jonas, hilf mir bitte kurz in der Küche!*
+    *— Klar! Was soll ich machen?*
+    *— Nimm bitte das Messer und schneide das Brot! Und gib mir bitte das Salz!*
+    *— Hier, bitte schön!*
 
 **Degrau 4.**
 

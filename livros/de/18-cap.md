@@ -123,7 +123,7 @@ Se você notou a moldura, o *ge-* no meio dos separáveis, a falta do *ge-* em *
 
 8.  **Inseparáveis e verbos em *-ieren*:** **sem *ge-***. *besuchen → besucht, verstehen → verstanden, bezahlen → bezahlt, bekommen → bekommen, vergessen → vergessen, studieren → studiert, telefonieren → telefoniert.*
 
-9.  **Sein ou haben:** use **sein** para (a) mudar de lugar (*gehen, fahren, kommen, fliegen, laufen, ankommen, abfahren*), (b) mudar de estado (*aufstehen, einschlafen*) e (c) *sein, bleiben, werden*. **Todos os outros** pedem *haben*.
+9.  **Sein ou haben:** use **sein** para (a) mudar de lugar (*gehen, fahren, kommen, fliegen, laufen, ankommen, abfahren*), (b) mudar de estado (*aufstehen, einschlafen*) e \(c\) *sein, bleiben, werden*. **Todos os outros** pedem *haben*.
 
 10. **Teste rápido:** há objeto no acusativo (*Kaffee, Pedro, ein Buch*)? → *haben*. Há movimento ou mudança, sem objeto? → *sein*.
 :::::
@@ -178,21 +178,37 @@ Se você notou a moldura, o *ge-* no meio dos separáveis, a falta do *ge-* em *
 
 **Degrau 2. Complete.**
 
-Escreva o particípio: lernen, arbeiten, sehen, schlafen, einkaufen, verstehen, studieren, bleiben.
+Escreva o Partizip II de cada verbo:
 
-Passe para o Perfekt: Ich koche Pasta. / Du isst einen Apfel. / Wir fahren nach Berlin. / Er steht um sieben Uhr auf. / Sie ruft mich an.
+1.  **lernen** → \_\_\_\_ · **arbeiten** → \_\_\_\_ · **sehen** → \_\_\_\_ · **schlafen** → \_\_\_\_
 
-Complete com *haben* ou *sein*: Ich \_\_\_\_ gestern viel gelesen. Sie \_\_\_\_ in die Stadt gefahren. Wir \_\_\_\_ in Berlin geblieben. Ihr \_\_\_\_ Pizza gegessen.
+2.  **einkaufen** → \_\_\_\_ · **verstehen** → \_\_\_\_ · **studieren** → \_\_\_\_ · **bleiben** → \_\_\_\_
 
-Passe a pergunta para o Perfekt: Was machst du? / Wohin fährst du?
+Passe as frases do presente para o **Perfekt**:
+
+3.  Ich koche Pasta. → \_\_\_\_
+
+4.  Du isst einen Apfel. → \_\_\_\_
+
+5.  Wir fahren nach Berlin. → \_\_\_\_
+
+6.  Er steht um sieben Uhr auf. → \_\_\_\_
+
+7.  Sie ruft mich an. → \_\_\_\_
+
+Complete com o auxiliar correto (**haben** ou **sein**) e passe as perguntas para o Perfekt:
+
+8.  Ich \_\_\_\_ gestern viel gelesen. · Sie (ela) \_\_\_\_ in die Stadt gefahren. · Wir \_\_\_\_ zu Hause geblieben. · Ihr \_\_\_\_ Pizza gegessen.
+
+9.  Was machst du? → \_\_\_\_? / Wohin fährst du? → \_\_\_\_?
 
 **Degrau 3. Produza.**
 
-Conte o seu dia de ontem em cinco frases no Perfekt (três com *haben*, duas com *sein*).
+1.  Conte o seu dia de ontem em cinco frases no Perfekt: três com **haben** (*gearbeitet, gekocht, angerufen...*) e duas com **sein** (*aufgestanden, gefahren, gegangen...*).
 
-Escreva três frases sobre o último fim de semana.
+2.  Escreva três frases sobre o que você fez no último fim de semana (*Am Wochenende bin ich … / habe ich …*).
 
-Escreva três perguntas a um colega (*Was hast du … gemacht?*). Escreva um diálogo curto, no estilo da Cena.
+3.  Escreva um diálogo curto de quatro falas perguntando a um amigo como foi o fim de semana dele.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -213,12 +229,21 @@ Escreva três perguntas a um colega (*Was hast du … gemacht?*). Escreva um di�
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar *haben* com verbo de movimento**: *Ich habe gegangen.* O segundo é **colocar o particípio logo depois do auxiliar** e esquecer a moldura: *Ich habe gegessen Pizza.* O terceiro é **errar o *ge-***: *gebesucht* (não existe) ou *geanrufen* (o *ge-* vai para o meio: *angerufen*).
+O erro que mais custa caro é **usar *haben* com verbos de deslocamento ou mudança de estado** (*Ich habe gegangen / Er hat gefahren* em vez de *Ich bin gegangen / Er ist gefahren*), **esquecer de mandar o particípio para o fim da frase** ou **colocar *ge-* no lugar errado nos verbos separáveis e inseparáveis**.
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich habe nach Hause gegangen.~~ | Ich **bin** nach Hause **gegangen**. | Verbos de deslocamento (*gehen, fahren, kommen, fliegen*) e mudança (*aufstehen, bleiben*) exigem **sein**! |
+| ~~Ich habe gegessen Pizza.~~ | Ich **habe** Pizza **gegessen**. | O auxiliar fica na Posição 2 e o Partizip II vai para o **final absoluto** da frase. |
+| ~~Ich habe Pedro geanrufen.~~ | Ich habe Pedro **angerufen**. | Nos verbos separáveis, o **-ge-** entra no meio, entre o prefixo e a raiz. |
+| ~~Sie hat ihre Oma gebesucht / gestudiert.~~ | Sie hat ihre Oma **besucht** / **studiert**. | Verbos inseparáveis (*be-, ver-, er-, ent-*) e verbos em **-ieren** nunca levam *ge-*. |
+| ~~Wir haben das Buch gelest.~~ | Wir haben das Buch **gelesen**. | Verbos fortes formam o particípio com **-en** (*gelesen, gesehen, gegessen, getrunken*). |
+:::
 
 ::: atencao
 movimento ou mudança = *sein*. Inseparável e *-ieren* não têm *ge-*. Separável tem o *ge-* no meio.
 :::
-
 
 ## 9. Retorno
 
@@ -242,19 +267,19 @@ movimento ou mudança = *sein*. Inseparável e *-ieren* não têm *ge-*. Separá
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Auxiliar na posição 2, particípio no fim.
+Auxiliar (*haben* ou *sein*) na posição 2, particípio no fim.
 
-Regulares: *ge-* + radical + *-t*. Irregulares: *ge-* + radical + *-en*.
+Regulares: **ge- + radical + -t** (*gemacht, gekauft*). Irregulares: **ge- + radical + -en** (*gegessen, getrunken, geschrieben*).
 
-Separável: *ge-* no meio. Inseparável e *-ieren*: sem *ge-*.
+Separável: **-ge-** no meio (*angerufen, aufgestanden*). Inseparável e *-ieren*: **sem ge-** (*besucht, verstanden, studiert*).
 
-*Sein* para movimento, mudança, *sein, bleiben, werden*. O resto, *haben*. Aprenda o trio: infinitivo, 3ª pessoa, particípio com o auxiliar.
+**Sein** para movimento, mudança de estado e *sein, bleiben, werden*. O resto usa **haben**.
 
 **Já consigo?**
 
-Conto o que fiz ontem.
+Conto o que fiz ontem usando *haben* e *sein* na moldura verbal.
 
-Pergunto a um colega o que ele fez. Escolho *haben* ou *sein* sem pensar.
+Pergunto a um colega o que ele fez e escolho o auxiliar certo sem hesitar.
 :::::
 
 ## Glossário do capítulo 18
@@ -304,9 +329,19 @@ Pergunto a um colega o que ele fez. Escolho *haben* ou *sein* sem pensar.
 ::::: gabarito
 **Degrau 1.** 1 (b). 2 haben. 3 ist. 4 gemacht. 5 besucht. 6 angerufen. 7 gegessen.
 
-**Degrau 2.** gelernt, gearbeitet, gesehen, geschlafen, eingekauft, verstanden, studiert, geblieben. Ich habe Pasta gekocht. Du hast einen Apfel gegessen. Wir sind nach Berlin gefahren. Er ist um sieben Uhr aufgestanden. Sie hat mich angerufen. habe, ist (ou *sind*, se for *sie* plural ou *Sie*), sind, habt. Was hast du gemacht? Wohin bist du gefahren?
+**Degrau 2.** 1 gelernt, gearbeitet, gesehen, geschlafen. 2 eingekauft, verstanden, studiert, geblieben. 3 Ich habe Pasta gekocht. 4 Du hast einen Apfel gegessen. 5 Wir sind nach Berlin gefahren. 6 Er ist um sieben Uhr aufgestanden. 7 Sie hat mich angerufen. 8 habe, ist, sind, habt. 9 Was hast du gemacht? / Wohin bist du gefahren?
 
-**Degrau 3.** Respostas pessoais. Confira o auxiliar na posição 2, o particípio no fim e o auxiliar certo.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Gestern bin ich um sieben Uhr aufgestanden. Ich habe Kaffee getrunken und im Büro gearbeitet. Am Nachmittag habe ich meine Mutter angerufen. Um achtzehn Uhr bin ich nach Hause gefahren und habe ein Buch gelesen.*
+
+2.  *Am Wochenende bin ich mit Freunden ins Kino gegangen. Am Sonntag sind wir zu Hause geblieben und haben zusammen gekocht.*
+
+3.  Modelo de diálogo:
+    *— Hallo Lena! Was hast du am Wochenende gemacht?*
+    *— Ich bin nach Hamburg gefahren und habe meinen Bruder besucht. Und du?*
+    *— Ich bin in München geblieben. Ich habe eingekauft und einen Film gesehen.*
+    *— Schön! Hat dir der Film gefallen?*
 
 **Degrau 4.**
 

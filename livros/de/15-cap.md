@@ -174,23 +174,35 @@ Se você notou a moldura, o *ich = er* e a diferença de sentido, descobriu a re
 
 **Degrau 2. Complete.**
 
-Conjugue: können (ich, du, er, wir), müssen (ich, du, wir), wollen (ich, ihr).
+Conjugue os verbos modais nas pessoas pedidas:
 
-Complete: Ich \_\_\_\_ (möchten) einen Tee. Sie \_\_\_\_ (wollen) nach Berlin fahren. Wir \_\_\_\_ (müssen) lernen.
+1.  **können:** ich \_\_\_\_, du \_\_\_\_, er \_\_\_\_, wir \_\_\_\_
 
-Reescreva com modal: Tom kommt heute. (können) / Wir gehen ins Kino. (wollen) / Du hilfst mir. (können, pergunta)
+2.  **müssen:** ich \_\_\_\_, du \_\_\_\_, wir \_\_\_\_ · **wollen:** ich \_\_\_\_, er \_\_\_\_, ihr \_\_\_\_
 
-Negue: Ich muss heute lernen. (não preciso)
+Complete as frases com o modal indicado:
+
+3.  Ich \_\_\_\_ (möchten) einen Tee trinken. · Sie \_\_\_\_ (wollen) am Wochenende nach Berlin fahren. · Wir \_\_\_\_ (müssen) für die Prüfung lernen.
+
+Reescreva cada frase acrescentando o verbo modal entre parênteses (lembre-se de mandar o verbo principal no infinitivo para o fim!):
+
+4.  Tom kommt heute Abend. (**können**) → \_\_\_\_
+
+5.  Wir gehen morgen ins Kino. (**wollen**) → \_\_\_\_
+
+6.  Du hilfst mir bei der Arbeit. (**können**, em forma de pergunta) → \_\_\_\_
+
+7.  Negue dizendo “não preciso”: Ich muss heute arbeiten. → \_\_\_\_
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases sobre o que você pode e não pode fazer.
+1.  Escreva quatro frases sobre o que você sabe/pode e não pode fazer (*Ich kann gut …, aber ich kann nicht …*).
 
-Escreva três frases sobre o que você precisa fazer esta semana.
+2.  Escreva três frases sobre o que você precisa fazer nesta semana (*Diese Woche muss ich …*).
 
-Escreva um diálogo de café, no estilo da Cena.
+3.  Escreva três regras de convivência ou de trânsito usando *Man darf hier nicht … / Du darfst nicht …*.
 
-Escreva três regras de uma casa com *Du darfst nicht …*
+4.  Escreva um diálogo de café de cinco falas entre você e o garçom usando *möchten, können, müssen* e *dürfen*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -211,12 +223,20 @@ Escreva três regras de uma casa com *Du darfst nicht …*
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **colocar o infinitivo logo depois do modal**: *Ich kann sprechen Deutsch.* O infinitivo vai para o fim. O segundo erro é **trocar *nicht müssen* e *nicht dürfen***: dizer *Du musst hier nicht parken* quando se quer dizer “proibido”.
+O erro que mais custa caro é **colocar o infinitivo logo depois do modal** (*Ich kann sprechen Deutsch* em vez de *Ich kann Deutsch sprechen*), **colocar *-t* na 3ª pessoa do singular do modal** (*er kannt* em vez de *er kann*) e **trocar *nicht müssen* (não precisa) por *nicht dürfen* (proibido)**.
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich kann sprechen Deutsch.~~ | Ich **kann** Deutsch **sprechen**. | O modal fica na Posição 2 e o infinitivo fecha a moldura no **fim da frase**. |
+| ~~Er kannt / er musst / er willt~~ | Er **kann** / er **muss** / er **will** | Nos verbos modais, **ich = er/sie/es** (sem terminação *-t*!). |
+| ~~Ich möchte zu essen einen Kuchen.~~ | Ich **möchte** einen Kuchen **essen**. | Verbos modais nunca usam a preposição *zu* antes do infinitivo. |
+| ~~Du musst hier nicht rauchen!~~ (proibido) | Du **darfst** hier **nicht** rauchen! | Proibição ("não pode / é proibido") é **nicht dürfen**; *nicht müssen* significa apenas "não precisa". |
+:::
 
 ::: atencao
 modal na posição 2, infinitivo no fim. E *nicht müssen* não é proibição.
 :::
-
 
 ## 9. Retorno
 
@@ -244,15 +264,15 @@ Modal na posição 2, infinitivo no fim. **ich = er/sie/es**, sem *-t*.
 
 *Nicht müssen* = não precisa. *Nicht dürfen* = proibido.
 
-*Möchte* para pedir com educação. *Wollen* para dizer o que você quer. *Lassen* = deixar ou mandar fazer.
+*Möchte* para pedir com educação. *Wollen* para dizer o que você quer. *Lassen* = deixar ou mandar fazer (*Ich lasse mein Auto reparieren*).
 
 **Já consigo?**
 
 Peço algo com *Ich möchte …, bitte.*
 
-Digo o que preciso, posso e quero fazer.
+Digo o que preciso, posso e quero fazer respeitando a moldura verbal.
 
-Sei quando não devo dizer *Du musst nicht*.
+Sei quando usar *nicht dürfen* (proibido) e *nicht müssen* (opcional).
 :::::
 
 ## Glossário do capítulo 15
@@ -272,6 +292,7 @@ Sei quando não devo dizer *Du musst nicht*.
 | empfehlen   | recomendar            |
 | reparieren  | consertar             |
 | parken      | estacionar            |
+| rauchen     | fumar                 |
 | warten      | esperar               |
 | bar         | em dinheiro           |
 | der Kuchen  | bolo                  |
@@ -285,9 +306,22 @@ Sei quando não devo dizer *Du musst nicht*.
 ::::: gabarito
 **Degrau 1.** 1 muss. 2 musst. 3 kann. 4 wollen. 5 dürft. 6 (b). 7 (b).
 
-**Degrau 2.** kann, kannst, kann, können; muss, musst, müssen; will, wollt. Ich möchte, wollen (ou *will*, se *Sie* for “ela”), müssen. Tom kann heute kommen. Wir wollen ins Kino gehen. Kannst du mir helfen? Ich muss heute nicht lernen.
+**Degrau 2.** 1 kann, kannst, kann, können. 2 muss, musst, müssen; will, will, wollt. 3 möchte, wollen (ou *will*, se *Sie* for “ela”), müssen. 4 Tom kann heute Abend kommen. 5 Wir wollen morgen ins Kino gehen. 6 Kannst du mir bei der Arbeit helfen? 7 Ich muss heute nicht arbeiten.
 
-**Degrau 3.** Respostas pessoais. Confira o modal na posição 2 e o infinitivo no fim.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich kann gut kochen und schwimmen. Ich kann schon ein bisschen Deutsch sprechen, aber ich kann noch nicht perfekt schreiben. Morgen kann ich leider nicht zum Kurs kommen.*
+
+2.  *Diese Woche muss ich viel arbeiten. Am Mittwoch muss ich zum Arzt gehen. Am Freitag muss ich meine Wohnung putzen.*
+
+3.  *Hier darf man nicht rauchen. Du darfst vor der Bank nicht parken. Im Museum darf man nicht fotografieren.*
+
+4.  Modelo de diálogo:
+    *— Guten Tag! Was möchten Sie bestellen?*
+    *— Ich möchte einen Kaffee und ein Stück Apfelkuchen, bitte.*
+    *— Gern! Möchten Sie den Kaffee mit Milch?*
+    *— Ja, bitte. Kann ich hier mit Karte bezahlen?*
+    *— Ja, natürlich, Sie können mit Karte bezahlen.*
 
 **Degrau 4.**
 

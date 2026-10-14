@@ -135,23 +135,36 @@ Se você viu que o verbo abre a pergunta de sim ou não e fica em segundo lugar 
 
 5.  \_\_\_\_ machst du heute? (Wer, Was)
 
-6.  Qual das três é pergunta de sim ou não? (a) Wo wohnst du? (b) Wohnst du hier? (c) Woher kommt Tom?
+6.  Qual das três é pergunta de sim ou não? (a) Wo wohnst du? (b) Wohnst du hier? \(c\) Woher kommt Tom?
 
 **Degrau 2. Complete.**
 
-Conjugue: \_\_\_\_ du Deutsch? (lernen) Wo \_\_\_\_ Camila? (wohnen) Woher \_\_\_\_ ihr? (kommen) \_\_\_\_ Sie in München? (wohnen)
+Complete as perguntas conjugando o verbo:
 
-Transforme em pergunta de sim ou não: Tom arbeitet heute. / Du trinkst Kaffee. / Sie wohnen in Berlin.
+1.  \_\_\_\_ du Deutsch? (lernen) · Wo \_\_\_\_ Camila? (wohnen)
 
-Ligue: (1) Wer ist das? (2) Was machst du? (3) Wie alt bist du? (4) Woher kommst du? (5) Wo wohnst du? com (a) In Schwabing. (b) Ich bin 28 Jahre alt. (c) Das ist Jonas. (d) Aus Brasilien. (e) Ich lerne Deutsch.
+2.  Woher \_\_\_\_ ihr? (kommen) · \_\_\_\_ Sie in München? (wohnen)
+
+Transforme cada frase afirmativa em uma pergunta de sim ou não (verbo na Posição 1):
+
+3.  Tom arbeitet heute. → \_\_\_\_
+
+4.  Du trinkst gern Kaffee. → \_\_\_\_
+
+5.  Sie wohnen in Berlin. → \_\_\_\_
+
+Relacione a pergunta com a resposta adequada:
+
+6.  (1) Wer ist das? · (2) Was machst du? · (3) Wie alt bist du? · (4) Woher kommst du? · (5) Wo wohnst du?
+    Respostas: (a) In Schwabing. · (b) Ich bin 28 Jahre alt. · \(c\) Das ist Jonas. · (d) Aus Brasilien. · (e) Ich lerne Deutsch.
 
 **Degrau 3. Produza.**
 
-Escreva quatro perguntas para Tom com *du*: *wie*, *woher*, *wo*, *was*.
+1.  Escreva quatro perguntas para um novo colega usando *du*: uma com **wie**, uma com **woher**, uma com **wo** e uma com **was**.
 
-Responda às quatro por você mesmo.
+2.  Escreva as suas próprias respostas completas para essas quatro perguntas.
 
-Escreva um diálogo de seis falas entre você e um colega novo de curso.
+3.  Escreva um diálogo de seis falas entre você e um colega no primeiro dia de curso de alemão.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -170,16 +183,25 @@ Escreva um diálogo de seis falas entre você e um colega novo de curso.
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar *wo* para tudo**. Com um verbo de movimento, *Wo gehst du?* pede o lugar onde você está, não o destino, e na escrita é considerado erro. O certo é *Wohin gehst du?*
+O erro que mais custa caro é **usar *wo* para tudo** (esquecendo que destino pede **wohin** e origem pede **woher**) ou **deixar o sujeito antes do verbo na pergunta** (*Wo du wohnst?* em vez de *Wo wohnst du?*).
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Wo du wohnst?~~ | Wo **wohnst du**? | Nas perguntas *W-*, o verbo fica obrigatoriamente na Posição 2. |
+| ~~Woher du kommst?~~ | Woher **kommst du**? | Palavra interrogativa na Posição 1 → verbo na Posição 2. |
+| ~~Wo gehst du heute?~~ | **Wohin** gehst du heute? | Movimento para um destino exige **wohin** ("para onde"). |
+| ~~Wohnen du in Berlin?~~ | **Wohnst** du in Berlin? | Mesmo na Posição 1, o verbo concorda com *du* (**-st**). |
+| ~~Was ist Tom?~~ (pessoa) | **Wer** ist Tom? | Para perguntar a identidade de uma pessoa, usa-se **wer** ("quem"). |
+:::
 
 ::: atencao
 verbo de movimento pede *wohin*. Verbo de origem pede *woher*. Verbo de lugar parado pede *wo*.
 :::
 
-
 ## 9. Retorno
 
-**Do capítulo 3.** Reordene em frases afirmativas, começando pela primeira palavra: (a) Heute / lernen / wir / Deutsch. (b) Dann / Camila / trinkt / Kaffee. (c) Hier / Tom / wohnt.
+**Do capítulo 3.** Reordene em frases afirmativas, começando pela primeira palavra: (a) Heute / lernen / wir / Deutsch. (b) Dann / Camila / trinkt / Kaffee. \(c\) Hier / Tom / wohnt.
 
 **Do capítulo 2.** Escreva a forma certa: du (wohnen), er (kommen), ihr (lernen), Sie (arbeiten).
 
@@ -187,7 +209,7 @@ verbo de movimento pede *wohin*. Verbo de origem pede *woher*. Verbo de lugar pa
 
 | Quando | O que fazer                                                            |
 |--------|------------------------------------------------------------------------|
-| Dia 1  | Leia a Cena em voz alta com dois colegas.                              |
+| Dia 1  | Leia a Cena em voz alta.                                               |
 | Dia 3  | Reescreva as perguntas dos Degraus 2 e 3 de cabeça.                    |
 | Dia 7  | Refaça o Degrau 4 sem olhar a chave.                                   |
 | Dia 14 | Faça cinco perguntas diferentes sobre a vida de um amigo, em voz alta. |
@@ -195,9 +217,9 @@ verbo de movimento pede *wohin*. Verbo de origem pede *woher*. Verbo de lugar pa
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Pergunta de sim ou não: verbo primeiro.
+Pergunta de sim ou não: verbo primeiro (Posição 1).
 
-Pergunta com palavra interrogativa: palavra interrogativa, depois o verbo.
+Pergunta com palavra interrogativa: palavra interrogativa na Posição 1, verbo na Posição 2.
 
 *Wo*, *wohin* e *woher* são três perguntas diferentes para o “onde” do português. Resposta completa: *Ja/Nein* + frase com sujeito e verbo na posição 2.
 
@@ -243,9 +265,21 @@ Transformo afirmações em perguntas de sim ou não.
 ::::: gabarito
 **Degrau 1.** 1 Wo. 2 Wohin. 3 Woher. 4 Wer (pessoa). 5 Was (coisa/atividade). 6 (b), o verbo abre a frase.
 
-**Degrau 2.** lernst, wohnt, kommt, Wohnen. Tom arbeitet heute → Arbeitet Tom heute? Du trinkst Kaffee → Trinkst du Kaffee? Sie wohnen in Berlin → Wohnen Sie in Berlin? Ligações: 1c, 2e, 3b, 4d, 5a.
+**Degrau 2.** 1 Lernst, wohnt. 2 kommt, Wohnen. 3 Arbeitet Tom heute? 4 Trinkst du gern Kaffee? 5 Wohnen Sie in Berlin? 6 Ligações: 1c, 2e, 3b, 4d, 5a.
 
-**Degrau 3.** Respostas pessoais. Confira o verbo na posição 2 em perguntas com palavra interrogativa e na posição 1 nas de sim ou não.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Wie heißt du? / Woher kommst du? / Wo wohnst du jetzt? / Was machst du hier in München?*
+
+2.  *Ich heiße Lucas. / Ich komme aus Brasilien. / Ich wohne jetzt in München. / Ich lerne Deutsch und arbeite hier.*
+
+3.  Modelo de diálogo:
+    *— Hallo! Ich bin Lucas. Wie heißt du?*
+    *— Hallo Lucas! Ich heiße Anna. Woher kommst du?*
+    *— Ich komme aus Brasilien. Und du, kommst du aus Deutschland?*
+    *— Nein, ich komme aus Österreich, aber ich wohne jetzt hier.*
+    *— Cool! Trinken wir nachher zusammen Kaffee?*
+    *— Ja, sehr gern!*
 
 **Degrau 4.**
 
@@ -261,5 +295,5 @@ Transformo afirmações em perguntas de sim ou não.
 
 6.  Wer ist Tom?
 
-**Retorno.** Capítulo 3: Heute lernen wir Deutsch. Dann trinkt Camila Kaffee. Hier wohnt Tom. Capítulo 2: wohnst, kommt, lernt, arbeiten. Capítulo 1: *w* soa v e *ie* soa i longo.
+**Retorno.** Capítulo 3: (a) Heute lernen wir Deutsch. (b) Dann trinkt Camila Kaffee. \(c\) Hier wohnt Tom. Capítulo 2: wohnst, kommt, lernt, arbeiten. Capítulo 1: *w* soa v e *ie* soa i longo.
 :::::

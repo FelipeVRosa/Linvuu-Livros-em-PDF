@@ -234,13 +234,13 @@ Escolha o falso amigo:
 
 **Degrau 3. Produza.**
 
-Crie cinco palavras compostas com as palavras que você já conhece (*Haus, Tür, Tisch, Zimmer, Küche, Kaffee, Tasse, Arbeit*), com o artigo e o significado.
+1.  Crie cinco palavras compostas com as palavras que você já conhece (*Haus, Tür, Tisch, Zimmer, Küche, Kaffee, Tasse, Arbeit*), com o artigo e o significado.
 
-Descreva a sua casa em cinco frases, usando pelo menos quatro palavras compostas (*Ich wohne in einer 3-Zimmer-Wohnung. Ich habe eine …*).
+2.  Descreva a sua casa em cinco frases, usando pelo menos quatro palavras compostas (*Ich wohne in einer 3-Zimmer-Wohnung. Ich habe eine …*).
 
-Escreva uma frase com cada um destes falsos amigos: *bekommen, Gift, Rock, Dose*.
+3.  Escreva uma frase com cada um destes falsos amigos: *bekommen, Gift, Rock, Dose*.
 
-Escreva uma conversa curta, no estilo da Cena, para perguntar sobre um aluguel (preço, *Kaution*, visita).
+4.  Escreva uma conversa curta, no estilo da Cena, para perguntar sobre um aluguel (preço, *Kaution*, visita).
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -356,7 +356,19 @@ Evito cinco falsos amigos nas minhas frases.
 
 **Degrau 2.** 1 die Handtasche. 2 die Winterjacke. 3 die Arbeitszeit. 4 das Geburtstagsgeschenk. 5 der Küchentisch. 6 der Zahnarzt. 7 Wohnung. 8 Verkäufer, Verkäuferin. 9 Krankheit. 10 arbeitslos. 11 bekomme (*werde* seria “tornar-se”). 12 Dose (a lata). 13 Gift.
 
-**Degrau 3.** Respostas pessoais. Confira: artigo da última parte; palavra composta escrita junta; os quatro falsos amigos com o sentido certo.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *die Küchentür (porta da cozinha), das Arbeitszimmer (escritório/quarto de trabalho), der Kaffeetisch (mesa de café), der Hausschlüssel (chave de casa), die Teetasse (xícara de chá).*
+
+2.  *Ich wohne in einer hellen 3-Zimmer-Wohnung im Stadtzentrum. In meinem Arbeitszimmer steht ein großer Schreibtisch. In der Küche haben wir einen neuen Kühlschrank und eine Kaffeemaschine. Im Keller gibt es auch einen Fahrradraum.*
+
+3.  *Wann bekommst du deinen neuen Pass? / Vorsicht, diese Pflanze ist Gift für Katzen! / Im Sommer trägt sie gern einen leichten Rock. / Ich kaufe im Supermarkt eine Dose Suppe.*
+
+4.  Modelo de diálogo:
+    *— Guten Tag! Ich rufe wegen der Wohnungsanzeige im Internet an.*
+    *— Guten Tag! Ja, die Zweizimmerwohnung ist noch frei. Die Monatsmiete beträgt 700 Euro.*
+    *— Und wie hoch ist die Mietkaution?*
+    *— Zwei Monatsmieten. Kommen Sie doch morgen um sechzehn Uhr zur Wohnungsbesichtigung!*
 
 **Degrau 4.**
 

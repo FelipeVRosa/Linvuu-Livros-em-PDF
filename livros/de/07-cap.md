@@ -146,9 +146,9 @@ Perguntas: Em que ordem aparecem as partes de *einundzwanzig*? O que *halb* faz 
 ::::: exercicio
 **Degrau 1. Reconheça.**
 
-1.  *einundzwanzig* é (a) 12 (b) 21 (c) 121.
+1.  *einundzwanzig* é (a) 12 (b) 21 \(c\) 121.
 
-2.  *dreißig* é (a) 13 (b) 30 (c) 33.
+2.  *dreißig* é (a) 13 (b) 30 \(c\) 33.
 
 3.  *halb vier* é (a) 3h30 (b) 4h30.
 
@@ -160,19 +160,29 @@ Perguntas: Em que ordem aparecem as partes de *einundzwanzig*? O que *halb* faz 
 
 **Degrau 2. Complete.**
 
-Escreva por extenso: 14, 16, 17, 32, 58, 99, 125, 1000.
+Escreva os números por extenso em alemão:
 
-Escreva as horas: 4h15, 6h30, 8h45, 9h10, 12h00. Depois escreva 18h20 em horário oficial.
+1.  **14** → \_\_\_\_ · **16** → \_\_\_\_ · **17** → \_\_\_\_ · **32** → \_\_\_\_
 
-Escreva as datas, começando por *Am*: 1. Januar, 3. Oktober, 12. Mai, 24. Dezember.
+2.  **58** → \_\_\_\_ · **99** → \_\_\_\_ · **125** → \_\_\_\_ · **1000** → \_\_\_\_
+
+Escreva as horas na fala cotidiana (*Viertel / halb*) e no horário oficial:
+
+3.  **4h15** → Es ist \_\_\_\_ · **6h30** → Es ist \_\_\_\_ · **8h45** → Es ist \_\_\_\_
+
+4.  **9h10** → Es ist \_\_\_\_ · **12h00** → Es ist \_\_\_\_ · **18h20 (oficial)** → Es ist \_\_\_\_
+
+Escreva as datas começando por **Am** (lembre-se da terminação **-ten / -sten**):
+
+5.  **1. Januar** → Am \_\_\_\_ · **3. Oktober** → Am \_\_\_\_ · **12. Mai** → Am \_\_\_\_ · **24. Dezember** → Am \_\_\_\_
 
 **Degrau 3. Produza.**
 
-Escreva seus três compromissos da semana, com dia, hora e atividade: *Am Montag um 18 Uhr habe ich Kurs.*
+1.  Escreva três compromissos da sua semana com dia (*Am ...*), hora (*um ... Uhr*) e atividade: *Am Montag um 18 Uhr habe ich Deutschkurs.*
 
-Escreva seu aniversário e sua idade por extenso.
+2.  Escreva a data do seu aniversário (*Ich habe am ... Geburtstag*) e a sua idade por extenso.
 
-Escreva cinco preços com *Euro* e *Cent*, em palavras. Diga em voz alta a data e a hora de agora.
+3.  Escreva por extenso estes três preços: **4,50 €**, **19,90 €** e **350 €**.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -195,12 +205,21 @@ Escreva cinco preços com *Euro* e *Cent*, em palavras. Diga em voz alta a data 
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **ler *halb drei* como 3h30**. Você chega uma hora atrasado, ou uma hora adiantado. Os outros dois erros são inverter a ordem de *einundzwanzig* e escrever dias e meses com minúscula.
+O erro que mais custa caro é **ler *halb drei* como 3h30** (chegando uma hora atrasado!) e **trocar as preposições de tempo** (**um** para horas, **am** para dias e datas, **im** para meses e estações).
 
-::: atencao
-quando ouvir *halb*, pense na hora que vem depois e volte meia hora. *Halb acht*: sete e meia.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~halb drei = 3h30~~ | **halb vier** = 3h30 (*halb drei* = 2h30) | **halb** aponta sempre para a hora seguinte ("meia para as quatro"). |
+| ~~ein und zwanzig / einsundzwanzig~~ | **einundzwanzig** (21) | Escreve-se numa palavra só, e *eins* perde o *-s* antes de *und*. |
+| ~~dreizig / sechszehn / siebenzehn~~ | **dreißig** (30) / **sechzehn** (16) / **siebzehn** (17) | 30 escreve-se com **ß**; 16 e 17 encurtam a raiz. |
+| ~~am vier Uhr / im Montag / am Mai~~ | **um** vier Uhr / **am** Montag / **im** Mai | Horas usam **um**; dias e datas usam **am**; meses e estações usam **im**. |
+| ~~am drei Oktober~~ | am **dritten** Oktober | Datas em alemão exigem sempre números ordinais (**-ten / -sten**). |
 :::
 
+::: atencao
+quando ouvir *halb*, pense na hora que vem depois e volte meia hora. *Halb acht*: sete e meia (7h30).
+:::
 
 ## 9. Retorno
 
@@ -224,23 +243,17 @@ quando ouvir *halb*, pense na hora que vem depois e volte meia hora. *Halb acht*
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-21 a 99: unidade + *und* + dezena, tudo junto.
+21 a 99: unidade + *und* + dezena, tudo junto (*einundzwanzig*).
 
 *Halb drei* = 2h30. A hora que vem é a referência.
 
-Dias e meses são masculinos e levam maiúscula.
-
-Datas pedem ordinal: *am dritten Oktober*.
-
-Na linguagem do dinheiro, vírgula separa decimais e ponto separa milhares, como no Brasil.
+Preposições do relógio e calendário: **um** + hora (*um vier Uhr*), **am** + dia/data (*am Montag, am dritten Mai*), **im** + mês/estação (*im Mai, im Sommer*).
 
 **Já consigo?**
 
-Conto até 100 sem olhar.
+Conto até 100 sem olhar e leio qualquer hora no relógio sem cair na armadilha do *halb*.
 
-Leio qualquer hora no relógio.
-
-Digo minha data de aniversário e minha idade. Pergunto quanto algo custa.
+Digo minha data de aniversário e minha idade e pergunto quanto algo custa.
 :::::
 
 ## Glossário do capítulo 7
@@ -281,9 +294,15 @@ Digo minha data de aniversário e minha idade. Pergunto quanto algo custa.
 ::::: gabarito
 **Degrau 1.** 1 (b). 2 (b). 3 (a): 3h30. 4 (a): 5h45. 5 (b). 6 (b).
 
-**Degrau 2.** vierzehn, sechzehn, siebzehn, zweiunddreißig, achtundfünfzig, neunundneunzig, hundertfünfundzwanzig, tausend. Horas: Viertel nach vier, halb sieben, Viertel vor neun, zehn nach neun, zwölf Uhr; 18h20 = achtzehn Uhr zwanzig. Datas: am ersten Januar, am dritten Oktober, am zwölften Mai, am vierundzwanzigsten Dezember.
+**Degrau 2.** 1 vierzehn, sechzehn, siebzehn, zweiunddreißig. 2 achtundfünfzig, neunundneunzig, hundertfünfundzwanzig, tausend. 3 Viertel nach vier, halb sieben, Viertel vor neun. 4 zehn nach neun, zwölf Uhr, achtzehn Uhr zwanzig. 5 Am ersten Januar, Am dritten Oktober, Am zwölften Mai, Am vierundzwanzigsten Dezember.
 
-**Degrau 3.** Respostas pessoais. Confira a ordem *unidade-und-dezena*, o *-n* depois de *am* nas datas e as maiúsculas nos dias e meses.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Am Montag um achtzehn Uhr habe ich Deutschkurs. Am Mittwoch um halb neun arbeite ich im Büro. Am Freitag um zwanzig Uhr koche ich mit Freunden.*
+
+2.  *Ich habe am fünfzehnten August Geburtstag. Ich bin dreißig Jahre alt.*
+
+3.  **4,50 €** = *vier Euro fünfzig*. **19,90 €** = *neunzehn Euro neunzig*. **350 €** = *dreihundertfünfzig Euro*.
 
 **Degrau 4.**
 
@@ -293,13 +312,13 @@ Digo minha data de aniversário e minha idade. Pergunto quanto algo custa.
 
 3.  Heute ist Montag.
 
-4.  Im Mai habe ich Geburtstag.
+4.  Im Mai habe ich Geburtstag. (meses usam *im*)
 
 5.  Ich bin achtundzwanzig Jahre alt.
 
 6.  dreißig, com ß.
 
-7.  Der Kurs beginnt um vier Uhr.
+7.  Der Kurs beginnt um vier Uhr. (horas usam *um*)
 
 8.  Está certa.
 

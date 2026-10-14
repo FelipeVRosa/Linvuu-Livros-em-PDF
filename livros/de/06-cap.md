@@ -136,17 +136,37 @@ Se você notou que *nicht* fica no fim da frase, ou antes do adjetivo e do lugar
 
 **Degrau 2. Complete.**
 
-Negue: Ich habe ein Auto. / Das ist eine Lampe. / Tom kommt heute. / Ich wohne in Berlin. / Das Zimmer ist neu. / Ich habe Zeit. / Ich bin Lehrer.
+Passe as frases para a forma negativa usando **kein / keine** ou **nicht**:
 
-Responda com *Doch* ou *Nein*: Kommst du nicht? (você vem) / Wohnst du nicht in Berlin? (você não mora).
+1.  Ich habe ein Auto. → \_\_\_\_
+
+2.  Das ist eine Wohnung. → \_\_\_\_
+
+3.  Tom kommt heute. → \_\_\_\_
+
+4.  Ich wohne in Berlin. → \_\_\_\_
+
+5.  Das Zimmer ist neu. → \_\_\_\_
+
+6.  Ich habe Zeit. → \_\_\_\_
+
+7.  Ich bin Lehrer. → \_\_\_\_
+
+Responda com **Doch** (contradizendo a pergunta negativa) ou **Nein** (confirmando a negativa):
+
+8.  Kommst du nicht? (você vai, sim!) → \_\_\_\_, ich komme!
+
+9.  Wohnst du nicht in Berlin? (você realmente não mora lá) → \_\_\_\_, ich wohne in München.
+
+10. Hast du keine Zeit? (você tem tempo, sim!) → \_\_\_\_, ich habe Zeit!
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases negativas sobre você, usando *kein/keine*, *nicht* e *nie*.
+1.  Escreva cinco frases negativas verdadeiras sobre você: duas com **kein / keine**, duas com **nicht** e uma com **nie** ("nunca").
 
-Responda às perguntas: Hast du kein Auto? / Lernst du nicht Deutsch? / Hast du keine Zeit?
+2.  Responda às três perguntas negativas: *Hast du kein Auto?* / *Lernst du nicht Deutsch?* / *Hast du heute keine Zeit?*
 
-Escreva um diálogo curto em que você recusa um convite e propõe outro dia.
+3.  Escreva um diálogo de quatro falas recusando um convite para hoje à noite (*Leider habe ich heute keine Zeit...*) e propondo amanhã.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -167,12 +187,21 @@ Escreva um diálogo curto em que você recusa um convite e propõe outro dia.
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **copiar o “não” antes do verbo**: *Ich nicht wohne.* O *nicht* alemão fica depois, no fim da frase ou antes do trecho que nega. O segundo erro é usar *nicht ein*: *Das ist nicht ein Tisch*. O certo é *kein*.
+O erro que mais custa caro é **copiar o “não” antes do verbo** (*Ich nicht wohne*) ou dizer **nicht ein** em vez de **kein** (*Das ist nicht ein Tisch*).
+
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich nicht wohne in Berlin.~~ | Ich **wohne nicht** in Berlin. | O verbo fica na Posição 2; *nicht* vem depois do verbo. |
+| ~~Ich habe nicht Auto.~~ | Ich habe **kein** Auto. | Substantivo sem artigo ou com *ein* nega-se com **kein**. |
+| ~~Ich habe kein Zeit.~~ | Ich habe **keine** Zeit. | *Die Zeit* é feminino, logo exige **keine**. |
+| ~~Ich trinke nicht nie Kaffee.~~ | Ich trinke **nie** Kaffee. | O alemão não faz dupla negação (*nie, nichts, niemand* vão sozinhos). |
+| ~~— Kommst du nicht? — Ja, ich komme!~~ | — **Doch**, ich komme! | Para rebater uma pergunta negativa dizendo "vou sim!", usa-se **Doch**. |
+:::
 
 ::: atencao
 numa frase simples, o *nicht* nunca fica entre o sujeito e o verbo. O verbo está na posição 2, e o *nicht* vem depois.
 :::
-
 
 ## 9. Retorno
 
@@ -204,7 +233,7 @@ numa frase simples, o *nicht* nunca fica entre o sujeito e o verbo. O verbo est�
 
 Digo *Ich habe keine Zeit* e *Ich verstehe nicht*.
 
-Escolho *kein* ou *nicht* olhando para a frase afirmativa. Respondo *Doch* quando discordo da negação.
+Escolho *kein* ou *nicht* olhando para a frase afirmativa e respondo *Doch* quando discordo da negação.
 :::::
 
 ## Glossário do capítulo 6
@@ -234,9 +263,19 @@ Escolho *kein* ou *nicht* olhando para a frase afirmativa. Respondo *Doch* quand
 ::::: gabarito
 **Degrau 1.** 1 kein (neutro). 2 keine (feminino). 3 nicht (lugar). 4 keine (plural). 5 nicht (adjetivo). 6 keine (profissão).
 
-**Degrau 2.** Ich habe kein Auto. Das ist keine Lampe. Tom kommt heute nicht. Ich wohne nicht in Berlin. Das Zimmer ist nicht neu. Ich habe keine Zeit. Ich bin kein Lehrer. Respostas: Doch, ich komme. / Nein, ich wohne nicht in Berlin.
+**Degrau 2.** 1 Ich habe kein Auto. 2 Das ist keine Wohnung. 3 Tom kommt heute nicht. 4 Ich wohne nicht in Berlin. 5 Das Zimmer ist nicht neu. 6 Ich habe keine Zeit. 7 Ich bin kein Lehrer. 8 Doch. 9 Nein. 10 Doch.
 
-**Degrau 3.** Respostas pessoais. Confira *kein/keine* antes de substantivo e *nicht* no fim ou antes do adjetivo e do lugar.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich habe kein Fahrrad. Ich habe heute keine Zeit. Ich wohne nicht in Hamburg. Meine Wohnung ist nicht groß. Ich trinke nie Bier.*
+
+2.  *— Hast du kein Auto? — Doch, ich habe ein Auto! (ou: Nein, ich habe kein Auto.) / — Lernst du nicht Deutsch? — Doch, ich lerne jeden Tag Deutsch! / — Hast du heute keine Zeit? — Nein, heute habe ich leider keine Zeit.*
+
+3.  Modelo de diálogo:
+    *— Hallo Anna! Hast du heute Abend Zeit? Gehen wir ins Kino?*
+    *— Leider nicht! Heute habe ich keine Zeit, ich arbeite noch.*
+    *— Schade! Und morgen Abend?*
+    *— Morgen arbeite ich nicht. Morgen habe ich Zeit!*
 
 **Degrau 4.**
 

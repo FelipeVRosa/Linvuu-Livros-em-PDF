@@ -120,19 +120,35 @@ Se você notou que o verbo fica em segundo lugar e o sujeito troca de lado, desc
 
 5.  Quantos blocos vêm antes do verbo em *Heute Abend kocht Tom*?
 
+6.  Onde entra a palavra *gern* para dizer “Eu gosto de beber chá”? (a) Ich gern trinke Tee. (b) Ich trinke gern Tee.
+
 **Degrau 2. Complete.**
 
-Monte a frase começando pela primeira palavra: (a) Heute / ich / Kaffee / trinke. (b) Dort / Tom / arbeitet. (c) Dann / wir / zusammen / lernen. (d) Hier / Camila / wohnt / gern.
+Monte a frase afirmativa começando pela primeira palavra destacada:
 
-Conjugue o verbo: Heute \_\_\_\_ (spielen) Tom Fußball. Jetzt \_\_\_\_ (hören) wir Musik.
+1.  **Heute** / ich / Kaffee / trinke. → \_\_\_\_
+
+2.  **Dort** / Tom / arbeitet. → \_\_\_\_
+
+3.  **Dann** / wir / zusammen / lernen. → \_\_\_\_
+
+4.  **Hier** / Camila / wohnt / gern. → \_\_\_\_
+
+5.  **Am Abend** / ich / Musik / höre. → \_\_\_\_
+
+6.  **Morgen** / wir / nach Berlin / fahren. → \_\_\_\_
+
+Conjugue o verbo mantendo a Posição 2:
+
+7.  Heute \_\_\_\_ (spielen) Tom Fußball. · Jetzt \_\_\_\_ (hören) wir Musik. · Später \_\_\_\_ (kochen) du.
 
 **Degrau 3. Produza.**
 
-Escreva *Ich wohne in Recife* de três modos, começando por *Heute*, *Jetzt* e *Hier*.
+1.  Escreva a frase *Ich wohne in Recife* de três modos diferentes, começando por **Heute**, **Jetzt** e **Hier**.
 
-Escreva cinco frases sobre o seu dia, cada uma começando por um bloco diferente: *Heute*, *Jetzt*, *Dann*, *Hier*, *Dort*.
+2.  Escreva cinco frases sobre o seu dia, cada uma começando por um bloco diferente: **Heute**, **Jetzt**, **Dann**, **Hier** e **Dort**.
 
-Reescreva a Cena do capítulo 2 em três frases que começam por *Heute*.
+3.  Reescreva três informações da Cena do capítulo 2 começando por **Heute**, **Jetzt** e **In München**.
 
 **Degrau 4. Corrija o erro típico.** Uma das frases está certa.
 
@@ -151,22 +167,26 @@ Reescreva a Cena do capítulo 2 em três frases que começam por *Heute*.
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **deixar o sujeito colado no começo** depois de um advérbio: *Heute ich lerne.* Parece natural porque o português faz assim, mas em alemão o verbo para na segunda posição e o sujeito vem depois.
+O erro que mais custa caro é **deixar o sujeito colado no começo** depois de um advérbio de tempo ou lugar: *Heute ich lerne.* Parece natural porque o português faz assim, mas em alemão o verbo é um imã fixo na **Posição 2** e o sujeito vai para depois dele (inversão).
 
-::: atencao
-se a frase começar por *heute*, *jetzt*, *dann*, *hier* ou *dort*, o próximo item é o verbo.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Heute ich lerne Deutsch.~~ | Heute **lerne ich** Deutsch. | *Heute* ocupa a Posição 1; o verbo tem de vir na Posição 2. |
+| ~~Dann wir kochen zusammen.~~ | Dann **kochen wir** zusammen. | Depois de *dann*, o verbo vem imediatamente antes do sujeito. |
+| ~~Hier Tom wohnt.~~ | Hier **wohnt Tom**. | Lugar na Posição 1 exige o verbo na Posição 2. |
+| ~~Ich gern trinke Kaffee.~~ | Ich **trinke gern** Kaffee. | Nada pode empurrar o verbo para a Posição 3; *gern* vem depois do verbo. |
 :::
 
+::: atencao
+se a frase começar por *heute*, *jetzt*, *dann*, *morgen*, *hier* ou *dort*, a próxima palavra é obrigatoriamente o verbo!
+:::
 
 ## 9. Retorno
 
 **Do capítulo 2.** Complete com o verbo na forma certa dentro de frases maiores:
 
-Heute \_\_\_\_ (arbeiten) er in München.
-
-Jetzt \_\_\_\_ (wohnen) ihr in Berlin.
-
-Dann \_\_\_\_ (haben) wir Hunger. Hier \_\_\_\_ (sein) du richtig.
+Heute \_\_\_\_ (arbeiten) er in München. · Jetzt \_\_\_\_ (wohnen) ihr in Berlin. · Dann \_\_\_\_ (haben) wir Hunger. · Hier \_\_\_\_ (sein) du richtig.
 
 **Do capítulo 1.** Diga em voz alta o som da primeira letra: *Wasser*, *Zeit*, *Sonne*.
 
@@ -180,17 +200,17 @@ Dann \_\_\_\_ (haben) wir Hunger. Hier \_\_\_\_ (sein) du richtig.
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-O verbo conjugado fica na posição 2.
+O verbo conjugado fica sempre na **posição 2** nas frases afirmativas.
 
-A posição 1 pode ser o sujeito ou outro bloco.
+A posição 1 pode ser o sujeito ou outro bloco (tempo, lugar).
 
-Se outro bloco abre a frase, o sujeito vem depois do verbo. A posição 1 pode ter várias palavras, mas é um bloco só.
+Se outro bloco abre a frase, o sujeito vem logo depois do verbo. A posição 1 pode ter várias palavras, mas forma um bloco só (*Heute Abend*, *Tom und Camila*).
 
 **Já consigo?**
 
 Começo uma frase por *Heute* e coloco o verbo logo depois.
 
-Reconheço o bloco da posição 1 em *Tom und Camila kochen*. Percebo que *Dann wir kochen* está errado.
+Reconheço o bloco da posição 1 em *Tom und Camila kochen*. Percebo na hora que *Dann wir kochen* está errado.
 :::::
 
 ## Glossário do capítulo 3
@@ -205,7 +225,7 @@ Reconheço o bloco da posição 1 em *Tom und Camila kochen*. Percebo que *Dann 
 | dort    | lá                    |
 | später  | mais tarde            |
 | Abend   | noite, tardinha       |
-| gern    | com prazer            |
+| gern    | com prazer, gostar de |
 | noch    | ainda                 |
 | oder    | ou                    |
 | trinken | beber                 |
@@ -221,11 +241,17 @@ Também aparecem na Cena: *man* (impessoal, como o “se” do português), *abe
 ## Chave comentada do capítulo 3
 
 ::::: gabarito
-**Degrau 1.** 1 (b). 2 (b). 3 (b). Em todos, o verbo está na posição 2. 4 *Tom und Camila*, um bloco só com três palavras. 5 Um bloco, *Heute Abend*.
+**Degrau 1.** 1 (b). 2 (b). 3 (b). Em todos, o verbo está na posição 2. 4 *Tom und Camila*, um bloco só com três palavras. 5 Um bloco, *Heute Abend*. 6 (b) *Ich trinke gern Tee*.
 
-**Degrau 2.** (a) Heute trinke ich Kaffee. (b) Dort arbeitet Tom. (c) Dann lernen wir zusammen. (d) Hier wohnt Camila gern. Verbos: Heute spielt Tom Fußball. Jetzt hören wir Musik.
+**Degrau 2.** 1 Heute trinke ich Kaffee. 2 Dort arbeitet Tom. 3 Dann lernen wir zusammen. 4 Hier wohnt Camila gern. 5 Am Abend höre ich Musik. 6 Morgen fahren wir nach Berlin. 7 spielt, hören, kochst.
 
-**Degrau 3.** Modelos: *Heute wohne ich in Recife. Jetzt wohne ich in Recife. Hier wohne ich in Recife.* As demais respostas são pessoais; confira que o verbo está sempre na posição 2.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Heute wohne ich in Recife. / Jetzt wohne ich in Recife. / Hier wohne ich in Recife.*
+
+2.  *Heute arbeite ich viel. Jetzt lerne ich Deutsch. Dann trinke ich gern Kaffee. Hier wohne ich sehr gern. Dort spielt Tom Fußball.*
+
+3.  *Heute kochen Tom und Camila zusammen. Jetzt lernt Camila Deutsch. In München wohnt Tom gern.*
 
 **Degrau 4.**
 

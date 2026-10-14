@@ -157,21 +157,29 @@ Se você notou *des* + final **-s/-es** no masculino e no neutro, *der* no femin
 
 **Degrau 2. Complete.**
 
-Genitivo: das Auto (mein Vater), die Tasche (meine Mutter), das Haus (die Eltern), das Zimmer (der Student), wegen (das Wetter), trotz (der Regen), innerhalb (die Stadt).
+Passe o possuidor ou complemento entre parênteses para o **Genitivo**:
 
-Nomes: Tom → \_\_\_\_ Haus. Lena → \_\_\_\_ Tasche. Max → das Auto \_\_\_\_ Max.
+1.  das Auto \_\_\_\_ (mein Vater) · die Tasche \_\_\_\_ (meine Mutter)
 
-Masculinos fracos: Ich helfe dem \_\_\_\_ (Kunde). Ich kenne den \_\_\_\_ (Kunde). Das ist die Bedeutung des \_\_\_\_ (Name).
+2.  das Haus \_\_\_\_ (die Eltern) · das Zimmer \_\_\_\_ (der Student)
+
+3.  wegen \_\_\_\_ (das Wetter) · trotz \_\_\_\_ (der Regen) · innerhalb \_\_\_\_ (die Stadt)
+
+Forme a posse com nomes próprios (**-s** antes ou **von** depois):
+
+4.  Tom → \_\_\_\_ Haus · Lena → \_\_\_\_ Tasche · Max → das Auto \_\_\_\_ Max
+
+Complete com os substantivos masculinos fracos (**n-Deklination**):
+
+5.  Ich helfe dem \_\_\_\_ (Kunde). · Ich kenne den \_\_\_\_ (Kollege) und den \_\_\_\_ (Nachbar). · Das ist die Bedeutung des \_\_\_\_ (Name).
 
 **Degrau 3. Produza.**
 
-Diga de quem são cinco objetos do seu quarto: *Das ist das Fahrrad meines Bruders.*
+1.  Diga de quem são quatro objetos usando o Genitivo (*Das ist das Auto meines Bruders / die Tasche meiner Schwester...*) e dois usando nomes próprios com **-s** (*Toms Fahrrad...*).
 
-Escreva três frases com *wegen* ou *trotz*: *Wegen der Arbeit …*
+2.  Escreva três frases usando as preposições de genitivo **wegen**, **trotz** e **während**.
 
-Escreva três frases com masculinos fracos: *Ich kenne den Studenten.*
-
-Escreva cinco frases com *von* e nomes: *Der Freund von Lena …*
+3.  Escreva três frases usando substantivos da *n-Deklination* (*der Student, der Kunde, der Kollege, der Nachbar*) no Acusativo ou no Dativo.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -192,12 +200,21 @@ Escreva cinco frases com *von* e nomes: *Der Freund von Lena …*
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **copiar a ordem do português** e escrever *das Auto Tom* ou *das Haus der Mann*. O segundo erro é esquecer o **-n** dos masculinos fracos: *Ich helfe dem Student* em vez de *dem Studenten*.
+O erro que mais custa caro é **colocar apóstrofo no nome próprio** (*Tom's Auto*, copiando o inglês, quando em alemão é **Toms Auto** sem apóstrofo), **esquecer o *-s/-es* no próprio substantivo masculino/neutro no genitivo** (*des Mann* em vez de **des Mannes**) e **esquecer o *-n/-en* da n-Deklination** (*den Student* em vez de **den Studenten**).
 
-::: atencao
-nome próprio vem antes e leva -s. Substantivo comum vem depois e leva *des/der*.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Das ist das Haus der Mann / des Mann.~~ | Das ist das Haus **des Mannes**. | No Genitivo masculino/neutro, usa-se **des** E o substantivo ganha **-s / -es**! |
+| ~~Das ist Tom's Auto.~~ | Das ist **Toms** Auto. | Em alemão, o *-s* de posse em nomes próprios nunca leva apóstrofo (exceto após *s, ß, x, z*: *Max'*). |
+| ~~Die Tasche von Lenas.~~ | Die Tasche **von Lena** (ou **Lenas** Tasche). | Ou usa-se **Lenas Tasche** (com *-s*), ou **die Tasche von Lena** (sem *-s*). |
+| ~~Ich sehe den Student / helfe dem Kunde.~~ | Ich sehe den **Studenten** / helfe dem **Kunden**. | Masculinos fracos (*n-Deklination*) recebem **-n/-en** no Acusativo, Dativo e Genitivo! |
+| ~~Wegen das Wetter / Trotz der Regen~~ | Wegen **des Wetters** / Trotz **des Regens** | *Wegen, trotz, während* exigem o caso Genitivo na língua padrão. |
 :::
 
+::: atencao
+nome próprio vem antes e leva -s (*Toms Auto*). Substantivo comum vem depois e leva *des/der* (*das Auto des Nachbarn*).
+:::
 
 ## 9. Retorno
 
@@ -223,19 +240,19 @@ nome próprio vem antes e leva -s. Substantivo comum vem depois e leva *des/der*
 ::::: resumo
 Genitivo = “de quem”, com o dono depois: *das Haus des Mannes*.
 
-*Des/eines* + -s/-es no masculino e no neutro. *Der/einer* no feminino e no plural.
+*Des/eines* + **-s/-es** no masculino e no neutro. *Der/einer* no feminino e no plural. Adjetivo no genitivo com artigo termina sempre em **-en** (*des neuen Autos*).
 
-Nome próprio: *Toms Auto*. Na fala: *von* + dativo.
+Nome próprio: *Toms Auto* (sem apóstrofo!). Na fala cotidiana: *von* + dativo (*das Auto von meinem Bruder*).
 
-Masculinos fracos: *-n/-en* fora do nominativo.
+Masculinos fracos (*n-Deklination*: *der Student, der Kunde, der Kollege, der Junge, der Nachbar, der Mensch, der Herr*): ganham **-n/-en** em todos os casos fora do nominativo.
 
 *Wegen, trotz, während, innerhalb, außerhalb* pedem genitivo.
 
 **Já consigo?**
 
-Pergunto *Wessen …?* e respondo com *Toms …* ou *… von …*.
+Pergunto *Wessen …?* e respondo com *Toms …*, *… meines Vaters* ou *… von …*.
 
-Digo *wegen des Wetters* e *trotz des Regens*. Declino *der Student* nos quatro casos.
+Digo *wegen des Wetters* e *trotz des Regens* e declino *der Student* nos quatro casos.
 :::::
 
 ## Glossário do capítulo 14
@@ -247,14 +264,14 @@ Digo *wegen des Wetters* e *trotz des Regens*. Declino *der Student* nos quatro 
 | trotz                | apesar de             |
 | während              | durante               |
 | innerhalb, außerhalb | dentro de, fora de    |
-| der Nachbar          | vizinho               |
-| der Student          | estudante (faculdade) |
-| der Kunde            | cliente               |
-| der Kollege          | colega                |
-| der Junge            | menino                |
-| der Mensch           | ser humano, pessoa    |
-| der Herr             | senhor                |
-| der Name             | nome                  |
+| der Nachbar, -n      | vizinho               |
+| der Student, -en     | estudante (faculdade) |
+| der Kunde, -n        | cliente               |
+| der Kollege, -n      | colega                |
+| der Junge, -n        | menino                |
+| der Mensch, -en      | ser humano, pessoa    |
+| der Herr, -n         | senhor                |
+| der Name, -ns        | nome                  |
 | der Regen            | chuva                 |
 | das Wetter           | tempo, clima          |
 | die Jacke            | jaqueta               |
@@ -272,9 +289,15 @@ Também aparecem no capítulo: *die Bedeutung* (significado), no Degrau 2, e *da
 ::::: gabarito
 **Degrau 1.** 1 des. 2 der. 3 des. 4 der. 5 Toms. 6 des. 7 Studenten.
 
-**Degrau 2.** meines Vaters, meiner Mutter, der Eltern, des Studenten, des Wetters, des Regens, der Stadt. Toms Haus, Lenas Tasche, das Auto von Max. dem Kunden, den Kunden, des Namens.
+**Degrau 2.** 1 meines Vaters, meiner Mutter. 2 der Eltern, des Studenten. 3 des Wetters, des Regens, der Stadt. 4 Toms Haus, Lenas Tasche, das Auto von Max. 5 dem Kunden, den Kollegen, den Nachbarn, des Namens.
 
-**Degrau 3.** Respostas pessoais. Confira *des/der* e o final do substantivo.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Das ist das Auto meines Bruders. Hier liegt die Tasche meiner Schwester. Das ist das Büro der Chefin. Dort steht das Haus unserer Großeltern. Das ist Camilas Laptop und Jonas' Fahrrad.*
+
+2.  *Wegen des Regens bleiben wir heute zu Hause. Trotz der Kälte gehen wir spazieren. Während des Deutschkurses sprechen wir nur Deutsch.*
+
+3.  *Ich treffe heute meinen neuen Kollegen. Die Verkäuferin hilft dem Kunden sofort. Kennst du den neuen Studenten aus Brasilien?*
 
 **Degrau 4.**
 

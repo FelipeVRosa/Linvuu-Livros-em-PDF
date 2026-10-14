@@ -127,7 +127,7 @@ Se você notou que o pronome acompanha o sujeito, que ele fica antes do infiniti
 | Angst haben vor        | dativo    | ter medo de                     |
 | teilnehmen an          | dativo    | participar de                   |
 
-8.  **Para coisas:** pergunta com *wo(r)* + preposição. Resposta com *da(r)* + preposição. *Worauf wartest du? Ich warte darauf.*
+8.  **Para coisas:** pergunta com *wo\(r\)* + preposição. Resposta com *da\(r\)* + preposição. *Worauf wartest du? Ich warte darauf.*
 
 9.  **Para pessoas:** preposição + *wen/wem* na pergunta; preposição + pronome na resposta. *Auf wen wartest du? Auf ihn.*
 :::::
@@ -182,25 +182,31 @@ Se você notou que o pronome acompanha o sujeito, que ele fica antes do infiniti
 
 **Degrau 2. Complete.**
 
-Complete com o pronome: Ihr freut \_\_\_\_. Sie setzt \_\_\_\_. Wir erinnern \_\_\_\_. Du ziehst \_\_\_\_ an.
+Complete com o pronome reflexivo correto (*mich, dich, sich, uns, euch*):
 
-Passe para o Perfekt: Ich freue mich. / Wir treffen uns. / Er beeilt sich.
+1.  Ihr freut \_\_\_\_. · Sie setzt \_\_\_\_. · Wir erinnern \_\_\_\_. · Du ziehst \_\_\_\_ schnell an. · Ich wasche \_\_\_\_ (Dativo!) die Hände.
 
-Escreva o imperativo: sich setzen (du, ihr, Sie), sich beeilen (du).
+Passe para o Perfekt (lembre-se de que verbos reflexivos usam sempre **haben**!) e escreva o imperativo:
 
-Complete com a preposição: Ich warte \_\_\_\_ meinen Bruder. Er denkt \_\_\_\_ seine Familie. Wir sprechen \_\_\_\_ das Wochenende. Sie fragt \_\_\_\_ dem Weg. Ich träume \_\_\_\_ einem Urlaub. Ich habe Angst \_\_\_\_ dem Hund.
+2.  Ich freue mich. → \_\_\_\_ · Wir treffen uns. → \_\_\_\_ · Er beeilt sich. → \_\_\_\_
 
-Troque a coisa por *da(r)* + preposição: Ich warte auf den Bus. / Ich denke an das Konzert. / Wir sprechen über das Wochenende.
+3.  Imperativo: **sich setzen** (du: \_\_\_\_! / ihr: \_\_\_\_! / Sie: \_\_\_\_!) · **sich beeilen** (du: \_\_\_\_!)
+
+Complete com a preposição exigida pelo verbo e depois substitua a coisa por **da\(r\) + preposição**:
+
+4.  Ich warte \_\_\_\_ meinen Bruder (Akk.). · Er denkt \_\_\_\_ seine Familie (Akk.). · Wir sprechen \_\_\_\_ das Wochenende (Akk.).
+
+5.  Sie fragt \_\_\_\_ dem Weg (Dat.). · Ich träume \_\_\_\_ einem Urlaub (Dat.). · Ich habe Angst \_\_\_\_ dem Hund (Dat.).
+
+6.  Ich warte auf den Bus. → Ich warte \_\_\_\_. · Ich denke an das Konzert. → Ich denke \_\_\_\_. · Wir sprechen über das Projekt. → Wir sprechen \_\_\_\_.
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases com *sich freuen auf* ou *sich interessieren für*.
+1.  Escreva quatro frases sobre você usando *sich freuen auf*, *sich freuen über*, *sich interessieren für* e *träumen von*.
 
-Escreva um convite para um encontro (*Wir treffen uns …*).
+2.  Escreva a sua rotina matinal usando três verbos reflexivos (*Ich stehe auf, ich wasche mich / putze mir die Zähne, ich ziehe mich an, ich beeile mich*).
 
-Escreva três perguntas com *Wor…* (*Worauf, Woran, Worüber*).
-
-Escreva a sua rotina de manhã com reflexivos (*Ich wasche mich, ich ziehe mich an …*).
+3.  Escreva três pares de pergunta e resposta usando **Worauf / Darauf**, **Woran / Daran** e **Worüber / Darüber**.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -221,12 +227,21 @@ Escreva a sua rotina de manhã com reflexivos (*Ich wasche mich, ich ziehe mich 
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar a preposição do português**: *Ich warte den Bus* (sem *auf*) ou *Ich denke in dich* (em vez de *an*). O segundo é **usar o pronome errado**: *Ich freue dich*. O terceiro é **usar *sein* no Perfekt reflexivo**: *Ich bin mich gefreut.* Reflexivos pedem sempre *haben*.
+O erro que mais custa caro é **traduzir a preposição do português** (*warten* sem *auf*, *denken in* em vez de *denken an*, *träumen mit* em vez de *träumen von*), **usar *sein* no Perfekt de verbos reflexivos** (*Ich bin mich gefreut*) ou **usar *darauf / worauf* para pessoas**.
 
-::: atencao
-verbo + preposição + caso, tudo junto. O pronome acompanha o sujeito.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich warte den Bus.~~ | Ich warte **auf den** Bus. | Em alemão, *warten* exige obrigatoriamente **auf + Acusativo**. |
+| ~~Ich denke in dich / träume mit dir.~~ | Ich denke **an** dich / träume **von** dir. | “Pensar em” é **denken an + Akk.**; “sonhar com” é **träumen von + Dat.**. |
+| ~~Ich bin mich gefreut / verspätet.~~ | Ich **habe** mich gefreut / verspätet. | Todos os verbos reflexivos formam o Perfekt com **haben**, sem exceção! |
+| ~~Wo wartest du auf?~~ | **Worauf** wartest du? | Para coisas, junta-se **wo\(r\) + preposição** numa palavra só (*worauf, woran, worüber*). |
+| ~~Ich warte auf Tom → Ich warte darauf.~~ | Ich warte **auf ihn**. | *Darauf / worauf* só servem para **coisas**; para pessoas, usa-se preposição + pronome (*auf ihn, an sie*). |
 :::
 
+::: atencao
+verbo + preposição + caso, tudo junto. O pronome reflexivo acompanha sempre o sujeito.
+:::
 
 ## 9. Retorno
 
@@ -250,71 +265,77 @@ verbo + preposição + caso, tudo junto. O pronome acompanha o sujeito.
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-O pronome reflexivo combina com o sujeito: *mich, dich, sich, uns, euch, sich*.
+O pronome reflexivo combina com o sujeito: **mich, dich, sich, uns, euch, sich** (no Dativo com objeto extra: **mir, dir**).
 
-Posição: logo após o verbo; antes do infinitivo na moldura.
+Posição: logo após o verbo conjugado; antes do infinitivo na moldura.
 
-Perfekt reflexivo: sempre *haben*.
+Perfekt reflexivo: sempre com **haben** (*Ich habe mich gefreut*).
 
-Verbo + preposição + caso: aprenda como bloco.
+Verbo + preposição + caso: aprenda como bloco (*warten auf + Akk., denken an + Akk., sprechen über + Akk., sich interessieren für + Akk., träumen von + Dat., fragen nach + Dat.*).
 
-Coisas: *darauf, worüber*. Pessoas: preposição + pronome.
+Coisas: **darauf, daran, darüber / worauf, woran, worüber**. Pessoas: **auf ihn, an sie / auf wen, an wen**.
 
 **Já consigo?**
 
-Combino um encontro com *Wir treffen uns …* Digo do que gosto e pelo que me interesso.
+Combino um encontro com *Wir treffen uns …* e digo do que gosto e pelo que me interesso.
 
-Faço uma pergunta com *Worauf, Woran, Worüber*.
+Faço uma pergunta com *Worauf, Woran, Worüber* e respondo com *darauf, daran, darüber*.
 :::::
 
 ## Glossário do capítulo 20
 
-| Alemão                  | Português                 |
-|-------------------------|---------------------------|
-| sich freuen (auf, über) | alegrar-se, estar animado |
-| sich treffen            | encontrar-se              |
-| sich setzen             | sentar-se                 |
-| sich fühlen             | sentir-se                 |
-| sich beeilen            | apressar-se               |
-| sich ausruhen           | descansar                 |
-| sich entschuldigen           | desculpar-se       |
-| sich anziehen (zieht an)     | vestir-se          |
-| sich waschen (wäscht)        | lavar-se           |
-| sich vorstellen (stellt vor) | apresentar-se      |
-| sich verspäten               | atrasar-se         |
-| sich interessieren für       | interessar-se por  |
-| sich erinnern an             | lembrar-se de      |
-| sich ärgern über             | irritar-se com     |
-| sich kümmern um              | cuidar de          |
-| warten auf                   | esperar            |
-| denken an                    | pensar em          |
-| sprechen über                | falar sobre        |
-| aufpassen auf                | prestar atenção em |
-| fragen nach                  | perguntar por      |
-| träumen von                  | sonhar com         |
-| erzählen von                 | contar sobre       |
-| teilnehmen an (nimmt teil)   | participar de      |
-| Angst haben vor              | ter medo de        |
-| das Wochenende               | fim de semana      |
-| die Ausstellung              | exposição          |
-| der Bahnhof                  | estação            |
-| die Jacke                    | jaqueta            |
-| kalt                         | frio               |
-| oft                          | muitas vezes       |
-| der Urlaub                   | férias             |
-| der Weg                      | caminho            |
-| die Hand (die Hände)         | mão                |
-| die Familie                  | família            |
-| das Konzert                  | show               |
+| Alemão                       | Português                 |
+|------------------------------|---------------------------|
+| sich freuen (auf, über)      | alegrar-se, estar animado |
+| sich treffen                 | encontrar-se              |
+| sich setzen                  | sentar-se                 |
+| sich fühlen                  | sentir-se                 |
+| sich beeilen                 | apressar-se               |
+| sich ausruhen                | descansar                 |
+| sich entschuldigen           | desculpar-se              |
+| sich anziehen (zieht an)     | vestir-se                 |
+| sich waschen (wäscht)        | lavar-se                  |
+| sich vorstellen (stellt vor) | apresentar-se             |
+| sich verspäten               | atrasar-se                |
+| sich interessieren für       | interessar-se por         |
+| sich erinnern an             | lembrar-se de             |
+| sich ärgern über             | irritar-se com            |
+| sich kümmern um              | cuidar de                 |
+| warten auf                   | esperar                   |
+| denken an                    | pensar em                 |
+| sprechen über                | falar sobre               |
+| aufpassen auf                | prestar atenção em        |
+| fragen nach                  | perguntar por             |
+| träumen von                  | sonhar com                |
+| erzählen von                 | contar sobre              |
+| teilnehmen an (nimmt teil)   | participar de             |
+| Angst haben vor              | ter medo de               |
+| das Wochenende               | fim de semana             |
+| die Ausstellung              | exposição                 |
+| der Bahnhof                  | estação                   |
+| die Jacke                    | jaqueta                   |
+| kalt                         | frio                      |
+| oft                          | muitas vezes              |
+| der Urlaub                   | férias                    |
+| der Weg                      | caminho                   |
+| die Hand (die Hände)         | mão                       |
+| die Familie                  | família                   |
+| das Konzert                  | show                      |
 
 ## Chave comentada do capítulo 20
 
 ::::: gabarito
 **Degrau 1.** 1 mich. 2 dich. 3 uns. 4 sich. 5 auf. 6 an. 7 Worauf.
 
-**Degrau 2.** euch, sich, uns, dich. Ich habe mich gefreut. Wir haben uns getroffen. Er hat sich beeilt. Setz dich! Setzt euch! Setzen Sie sich! Beeil dich! auf, an, über, nach, von, vor. Ich warte darauf. Ich denke daran. Wir sprechen darüber.
+**Degrau 2.** 1 euch, sich, uns, dich, mir. 2 Ich habe mich gefreut. Wir haben uns getroffen. Er hat sich beeilt. 3 Setz dich! Setzt euch! Setzen Sie sich! Beeil dich! 4 auf, an, über. 5 nach, von, vor. 6 darauf, daran, darüber.
 
-**Degrau 3.** Respostas pessoais. Confira o pronome com o sujeito, a preposição certa e o caso.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich freue mich schon sehr auf meinen Urlaub. Ich freue mich über das schöne Wetter heute. Ich interessiere mich für deutsche Literatur und Geschichte. Ich träume von einer Reise nach Wien.*
+
+2.  *Am Morgen stehe ich um sieben Uhr auf. Ich wasche mich schnell und putze mir die Zähne. Dann ziehe ich mich an und beeile mich, denn der Bus fährt um halb acht.*
+
+3.  *— Worauf wartest du? — Ich warte auf das Paket. Ja, ich warte schon lange darauf! / — Woran denkst du? — Ich denke an meine Prüfung. Ich denke jeden Tag daran. / — Worüber sprecht ihr? — Wir sprechen über den neuen Film. Wir sprechen sehr gern darüber.*
 
 **Degrau 4.**
 

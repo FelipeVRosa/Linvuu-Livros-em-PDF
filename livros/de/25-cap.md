@@ -188,15 +188,23 @@ Una as frases com um pronome relativo:
 
 12. Wie heißt die Frau? Du hast sie gestern gesehen.
 
+Complete as orações relativas no **Dativo** (*dem, der, denen*) e **com preposição** (*mit dem, in der, auf den*):
+
+13. Das ist der Nachbar, \_\_\_\_ ich gestern geholfen habe. (*helfen* pede Dativo!)
+
+14. Das sind die Freunde, **mit** \_\_\_\_ (Dat. pl.) wir in den Urlaub fahren.
+
+15. Das ist die Firma, **in** \_\_\_\_ (Dat. fem., *wo?*) mein Bruder arbeitet, und da kommt der Bus, **auf** \_\_\_\_ (Akk. masc., *warten auf*) ich warte.
+
 **Degrau 3. Produza.**
 
-Descreva três coisas que você tem em casa com uma oração relativa (*Ich habe ein Sofa, das …*).
+1.  Descreva três coisas que você tem em casa com uma oração relativa (*Ich habe ein Sofa, das …*).
 
-Descreva três pessoas que você conhece (*Ich habe eine Freundin, die …*, *Ich kenne einen Mann, den …*).
+2.  Descreva três pessoas que você conhece (*Ich habe eine Freundin, die …*, *Ich kenne einen Mann, den …*).
 
-Complete com uma frase sua: *Das ist alles, was …*
+3.  Complete com uma frase sua: *Das ist alles, was …*
 
-Escreva um pequeno diálogo para descrever um objeto perdido, no estilo da Cena, com pelo menos quatro orações relativas.
+4.  Escreva um pequeno diálogo para descrever um objeto perdido, no estilo da Cena, com pelo menos quatro orações relativas.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -309,9 +317,21 @@ Ponho as vírgulas e o verbo no fim.
 ::::: gabarito
 **Degrau 1.** 1 der (o homem mora: sujeito). 2 den (o homem é conhecido: objeto, masculino). 3 die (feminino não muda). 4 das (pronome relativo, um só *s*). 5 die (plural, sujeito). 6 (a) (as vírgulas fecham a oração). 7 (b) (o verbo conjugado fica por último).
 
-**Degrau 2.** 1 den. 2 die. 3 das. 4 der. 5 die. 6 die. 7 was. 8 Ich habe einen Freund, der in Wien wohnt. 9 Das ist der Tisch, den ich gekauft habe. 10 Das ist die Lampe, die billig war. 11 Wo ist das Buch, das ich lesen muss? 12 Wie heißt die Frau, die du gestern gesehen hast?
+**Degrau 2.** 1 den. 2 die. 3 das. 4 der. 5 die. 6 die. 7 was. 8 Ich habe einen Freund, der in Wien wohnt. 9 Das ist der Tisch, den ich gekauft habe. 10 Das ist die Lampe, die billig war. 11 Wo ist das Buch, das ich lesen muss? 12 Wie heißt die Frau, die du gestern gesehen hast? 13 dem. 14 denen. 15 der / den.
 
-**Degrau 3.** Respostas pessoais. Confira: gênero da palavra anterior, caso pela função, vírgula, verbo conjugado no fim.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich habe ein Sofa, das sehr bequem ist. Hier liegt ein Buch, das ich letzte Woche gekauft habe. Das ist die Kaffeemaschine, die jeden Morgen frischen Kaffee macht.*
+
+2.  *Ich habe eine Freundin, die in Wien Medizin studiert. Ich kenne einen Kollegen, den alle im Büro sehr mögen. Das ist der Nachbar, dem ich oft im Garten helfe.*
+
+3.  *Das ist alles, was ich für meine Reise brauche.*
+
+4.  Modelo de diálogo:
+    *— Guten Tag! Ich suche eine Tasche, die ich heute Morgen im Bus vergessen habe.*
+    *— Wie sieht die Tasche aus, die Sie suchen?*
+    *— Es ist eine braune Ledertasche, in der mein Laptop und ein Kalender sind.*
+    *— Moment! Ist das der Kalender, den der Busfahrer hier abgegeben hat?*
 
 **Degrau 4.**
 

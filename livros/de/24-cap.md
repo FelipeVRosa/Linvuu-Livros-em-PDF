@@ -127,7 +127,13 @@ Quando o fato é um estado do passado, *als* continua valendo: *Als ich klein wa
 
 Repare que a pergunta indireta só tem ponto de interrogação quando a frase principal é uma pergunta (*Weißt du, …?*, *Kannst du mir sagen, …?*). Com *Ich weiß nicht, …*, termina em ponto.
 
-**Mais conectores do mesmo tipo.** *Obwohl* (embora) e *bevor* (antes que) funcionam do mesmo jeito: *Ich gehe spazieren, obwohl es regnet. Ruf mich an, bevor du losfährst.* Não precisam de regra nova, só do verbo no fim.
+**Mais conectores do mesmo tipo (*obwohl, bevor*) e como dizer “para fazer algo” (*um … zu* vs. *damit*).** *Obwohl* (embora) e *bevor* (antes que) funcionam exatamente do mesmo jeito, mandando o verbo conjugado para o fim: *Ich gehe spazieren, obwohl es regnet. Ruf mich an, bevor du losfährst.*
+E atenção a uma das perguntas mais importantes do exame A2 (**Wozu? = Para quê?**): em português usamos *“para + infinitivo”* (*“Vou à Alemanha para estudar alemão”*), e o brasileiro tenta dizer ~~*für lernen*~~ (que é proibido em alemão!). Em alemão, finalidade usa **`um … zu + Infinitiv`** (quando o sujeito das duas partes é o mesmo) ou a conjunção subordinativa **`damit + verbo conjugado no fim`** ("para que", quando os sujeitos são diferentes):
+
+| Situação (Wozu? = Para quê?) | Estrutura Alemã | Exemplo Real |
+|---|---|---|
+| **Mesmo sujeito** nas duas partes ("para fazer") | **um … zu + Infinitiv** no fim<br/>(separável: **-zu-** no meio!) | *Ich fahre nach Deutschland, **um** Deutsch **zu lernen**.*<br/>*Ich stehe früh auf, **um** pünktlich **anzukommen**.* |
+| **Sujeitos diferentes** ("para que outra pessoa faça") | **damit + sujeito + … + verbo conjugado no fim** | *Ich helfe dir, **damit du** schneller fertig **bist**.*<br/>*Er spricht langsam, **damit wir** alles **verstehen**.* |
 
 **Qual parte vai na frente?** Escolha pela ênfase: *Weil ich müde bin, gehe ich nach Hause* põe a razão em primeiro plano; *Ich gehe nach Hause, weil ich müde bin* põe a decisão.
 
@@ -199,15 +205,21 @@ Coloque as palavras na ordem certa:
 
 13. Ich bin nicht hungrig, / weil / ich / schon / gegessen / habe.
 
+Complete as frases de finalidade com **um … zu + Infinitiv** (mesmo sujeito) ou **damit** (sujeitos diferentes):
+
+14. Ich lerne intensiv Deutsch, \_\_\_\_ in München \_\_\_\_ (arbeiten).
+
+15. Die Lehrerin spricht langsam, \_\_\_\_ alle Studenten sie gut \_\_\_\_ (verstehen).
+
 **Degrau 3. Produza.**
 
-Escreva três frases com *weil* sobre o que você faz e por quê (*Ich lerne Deutsch, weil …*).
+1.  Escreva três frases com *weil* sobre o que você faz e por quê (*Ich lerne Deutsch, weil …*).
 
-Escreva duas frases com *wenn* sobre o que você faz quando chove ou quando está cansado.
+2.  Escreva duas frases com *wenn* sobre o que você faz quando chove ou quando está cansado.
 
-Escreva duas frases com *als*, sobre um dia do seu passado (*Als ich …*).
+3.  Escreva duas frases com *als*, sobre um dia do seu passado (*Als ich …*).
 
-Faça três perguntas indiretas a um colega, começando por *Weißt du, …* ou *Kannst du mir sagen, …*.
+4.  Faça três perguntas indiretas a um colega, começando por *Weißt du, …* ou *Kannst du mir sagen, …*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -321,9 +333,17 @@ Transformo *Wo wohnt er?* em *Ich weiß nicht, wo er wohnt.*
 ::::: gabarito
 **Degrau 1.** 1 ob (dúvida de sim ou não). 2 dass (*glauben* + fato). 3 Als (uma vez, no passado). 4 Wenn (“se” de condição). 5 (b). 6 (a). 7 (b).
 
-**Degrau 2.** 1 weil. 2 dass. 3 Wenn (*morgen* é futuro, “se”). 4 Als (aconteceu uma vez). 5 ob. 6 wann. 7 wenn (repetição, mesmo no passado). 8 Ich bleibe zu Hause, weil ich krank bin. 9 Weil ich müde bin, gehe ich nach Hause. 10 Ich weiß nicht, wo Tom wohnt. 11 Ich weiß nicht, ob Lena heute kommt. 12 Ich glaube, dass er früh aufsteht. 13 Ich bin nicht hungrig, weil ich schon gegessen habe.
+**Degrau 2.** 1 weil. 2 dass. 3 Wenn (*morgen* é futuro, “se”). 4 Als (aconteceu uma vez). 5 ob. 6 wann. 7 wenn (repetição, mesmo no passado). 8 Ich bleibe zu Hause, weil ich krank bin. 9 Weil ich müde bin, gehe ich nach Hause. 10 Ich weiß nicht, wo Tom wohnt. 11 Ich weiß nicht, ob Lena heute kommt. 12 Ich glaube, dass er früh aufsteht. 13 Ich bin nicht hungrig, weil ich schon gegessen habe. 14 um … zu arbeiten. 15 damit … verstehen.
 
-**Degrau 3.** Respostas pessoais. Confira: verbo conjugado no fim depois de *weil, wenn, als, ob*; inversão quando a subordinada abre a frase; vírgula entre as duas partes; *als* só para fatos únicos no passado.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich lerne Deutsch, weil ich in Deutschland studieren möchte. Ich trinke morgens Kaffee, weil ich sonst müde bin. Ich fahre mit dem Zug, weil das Auto kaputt ist.*
+
+2.  *Wenn es am Wochenende regnet, bleibe ich zu Hause und lese ein Buch. Wenn ich abends müde bin, gehe ich früh ins Bett.*
+
+3.  *Als ich achtzehn Jahre alt war, machte ich meine erste Reise allein. Als ich gestern im Büro ankam, wartete mein Chef schon auf mich.*
+
+4.  *Weißt du, wann der Deutschkurs heute beginnt? Kannst du mir sagen, wo hier ein Geldautomat ist? Weißt du, ob Lena heute Abend zur Party mitkommt?*
 
 **Degrau 4.**
 

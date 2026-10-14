@@ -161,17 +161,29 @@ Com dois substantivos, vem primeiro a pessoa (dativo): *Ich gebe dem Kind das Bu
 
 **Degrau 2. Complete.**
 
-Pronomes: Wir danken \_\_\_\_ (er). Ich schenke \_\_\_\_ (sie, feminino) ein Buch. Das Buch gefällt \_\_\_\_ (wir). Ich antworte \_\_\_\_ (Sie). Der Lehrer hilft \_\_\_\_ (sie, plural).
+Complete com o pronome pessoal no dativo (*mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen*):
 
-Artigos: Ich schenke \_\_\_\_ Frau eine Blume. Ich zeige \_\_\_\_ Kind den Park. Wir geben \_\_\_\_ Kindern Wasser. Das Auto gehört \_\_\_\_ Lehrer.
+1.  Wir danken \_\_\_\_ (er). · Ich schenke \_\_\_\_ (sie, ela) ein Buch.
+
+2.  Die Wohnung gefällt \_\_\_\_ (wir) sehr. · Ich antworte \_\_\_\_ (Sie, formal) sofort.
+
+3.  Der Lehrer hilft \_\_\_\_ (sie, eles). · Wie geht es \_\_\_\_ (ihr, vocês)?
+
+Complete com o artigo definido no dativo (**dem, der, den**):
+
+4.  Ich schenke \_\_\_\_ Frau (f.) eine Blume. · Ich zeige \_\_\_\_ Kind (n.) den Park.
+
+5.  Wir geben \_\_\_\_ Kindern (pl.) Wasser. · Das Auto gehört \_\_\_\_ Lehrer (m.).
+
+6.  Ich schicke \_\_\_\_ Chef (m.) die E-Mail und antworte \_\_\_\_ Kollegin (f.).
 
 **Degrau 3. Produza.**
 
-Escreva cinco presentes: *Ich schenke … einen/eine/ein …* para Tom, Jonas, Lena, a professora e as crianças.
+1.  Escreva cinco frases contando o que você vai dar de presente (*Ich schenke … einen/eine/ein …*) para **dem Bruder**, **der Mutter**, **dem Kind**, **den Eltern** e **dir**.
 
-Escreva um mini-diálogo pedindo ajuda: *Kannst du mir helfen?* e a resposta.
+2.  Escreva um mini-diálogo de quatro falas pedindo ajuda (*Kannst du mir bitte helfen?*) e perguntando como a pessoa está (*Wie geht es dir?*).
 
-Escreva três pares de pergunta e resposta com *Wem gehört …?* Escreva três frases com *gefallen* ou *schmecken*.
+3.  Escreva duas perguntas e respostas com *Wem gehört …?* e três frases com *gefallen*, *schmecken* e *passen*.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -192,12 +204,21 @@ Escreva três pares de pergunta e resposta com *Wem gehört …?* Escreva três 
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **usar o acusativo com *helfen***: *Ich helfe dich.* Em português “ajudar” pede objeto direto, e isso engana. O segundo erro é esquecer que a pessoa vem antes da coisa: *Ich gebe das Buch dem Mann* funciona, mas soa menos natural.
+O erro que mais custa caro é **usar o acusativo com verbos que exigem dativo em alemão** (*Ich helfe dich / Ich danke dich* em vez de *Ich helfe dir / Ich danke dir*) ou **inverter a lógica de *gefallen* e *gehören*** (*Ich gehöre das Buch* em vez de *Das Buch gehört mir*).
 
-::: atencao
-*helfen, danken, gehören, gefallen, antworten*: dativo. Sempre.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich helfe dich / Ich danke dich.~~ | Ich helfe **dir** / Ich danke **dir**. | *Helfen, danken, antworten, gratulieren* exigem sempre o Dativo! |
+| ~~Das Buch gefällt ich / mich.~~ | Das Buch gefällt **mir**. | O livro agrada "a mim" (Dativo **mir**). |
+| ~~Ich gehöre das Auto.~~ | Das Auto gehört **mir**. | O carro pertence "a mim" (*Das Auto* é o sujeito; *mir* é o Dativo). |
+| ~~Ich gebe der Mann / dem Frau~~ | Ich gebe **dem** Mann / **der** Frau | No Dativo, masculino/neutro viram **dem** e feminino vira **der**. |
+| ~~Ich helfe den Kinder.~~ | Ich helfe **den Kindern**. | No Dativo Plural (**den**), o substantivo também ganha um **-n** final! |
 :::
 
+::: atencao
+*helfen, danken, gehören, gefallen, schmecken, passen, antworten*: dativo. Sempre.
+:::
 
 ## 9. Retorno
 
@@ -221,21 +242,19 @@ O erro que mais custa caro é **usar o acusativo com *helfen***: *Ich helfe dich
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Dativo = objeto indireto e verbos como *helfen, danken, gehören, gefallen*.
+Dativo = objeto indireto ("a quem / para quem") e verbos como *helfen, danken, gehören, gefallen, schmecken, passen, antworten*.
 
-Masculino e neutro: *dem / einem*. Feminino: *der / einer*. Plural: *den* + *-n*.
+Masculino e neutro: **dem / einem**. Feminino: **der / einer**. Plural: **den + -n** no substantivo.
 
-Pronomes: *mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen*.
+Pronomes: **mir, dir, ihm, ihr, uns, euch, ihnen, Ihnen**.
 
-Pessoa antes da coisa quando os dois são substantivos. *Wem?* pergunta pelo dativo.
+Pessoa (Dativo) antes da coisa (Acusativo) quando os dois são substantivos (*Ich gebe dem Mann das Buch*). **Wem?** pergunta pelo dativo.
 
 **Já consigo?**
 
-Digo *Ich helfe dir* e *Das gehört mir*.
+Digo *Ich helfe dir*, *Das gehört mir* e *Das gefällt mir*.
 
-Respondo *Mir geht es gut*.
-
-Escolho entre *dem, der, den* sem recorrer à tabela.
+Respondo *Mir geht es gut* e escolho entre *dem, der, den* sem recorrer à tabela.
 :::::
 
 ## Glossário do capítulo 9
@@ -269,9 +288,19 @@ Escolho entre *dem, der, den* sem recorrer à tabela.
 ::::: gabarito
 **Degrau 1.** 1 dem. 2 der. 3 dem. 4 den. 5 dir. 6 mir. 7 Wem.
 
-**Degrau 2.** ihm, ihr, uns, Ihnen, ihnen. Artigos: der Frau, dem Kind, den Kindern, dem Lehrer.
+**Degrau 2.** 1 ihm, ihr. 2 uns, Ihnen. 3 ihnen, euch. 4 der Frau, dem Kind. 5 den Kindern, dem Lehrer. 6 dem Chef, der Kollegin.
 
-**Degrau 3.** Respostas pessoais. Confira que a pessoa está no dativo e a coisa no acusativo (*einen* só no masculino).
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich schenke dem Bruder einen Rucksack. Ich schenke der Mutter eine Tasche. Ich schenke dem Kind ein Spielzeug. Ich schenke den Eltern eine Reise. Ich schenke dir ein Buch.*
+
+2.  Modelo de diálogo:
+    *— Hallo Jonas! Wie geht es dir heute?*
+    *— Hallo Camila! Mir geht es gut, danke. Und dir?*
+    *— Auch gut! Aber der Tisch ist schwer. Kannst du mir bitte helfen?*
+    *— Ja, klar! Ich helfe dir gern.*
+
+3.  *— Wem gehört der Schlüssel? — Er gehört mir. / — Wem gehört die Tasche? — Sie gehört der Lehrerin. / Die Stadt München gefällt mir sehr gut. Die Pizza schmeckt uns super. Die Jacke passt dir perfekt!*
 
 **Degrau 4.**
 

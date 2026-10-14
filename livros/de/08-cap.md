@@ -142,33 +142,45 @@ Se você viu que só o masculino ganha *-en* (*den*, *einen*), descobriu a regra
 
 2.  \_\_\_\_ Tisch ist neu. (Der, Den)
 
-3.  Ich suche \_\_\_\_ Lampe. (die, den)
+3.  Ich suche \_\_\_\_ Schlüssel (m.). (der, den)
 
-4.  Wir brauchen \_\_\_\_ Auto. (ein, einen)
+4.  Wir brauchen \_\_\_\_ Auto (n.). (ein, einen)
 
-5.  Er hat \_\_\_\_ Hund. (ein, einen)
+5.  Er hat \_\_\_\_ Hund (m.). (ein, einen)
 
-6.  Das ist \_\_\_\_ Stuhl. (ein, einen)
+6.  Das ist \_\_\_\_ Stuhl (m.). (ein, einen)
 
-7.  \_\_\_\_ besuchst du? (Wer, Wen)
+7.  \_\_\_\_ besuchst du am Wochenende? (Wer, Wen)
 
 **Degrau 2. Complete.**
 
-Pronomes: Ich liebe \_\_\_\_ (du). Tom sucht \_\_\_\_ (ich). Camila kennt \_\_\_\_ (er). Wir besuchen \_\_\_\_ (sie, plural).
+Complete com o pronome pessoal no acusativo (*mich, dich, ihn, sie, es, uns, euch*):
 
-Troque o objeto por pronome: Ich kaufe den Tisch. / Ich kaufe die Lampe. / Ich kaufe das Buch.
+1.  Ich liebe \_\_\_\_ (du). · Tom sucht \_\_\_\_ (ich).
 
-Artigo indefinido: Ich habe \_\_\_\_ Hund. Ich habe \_\_\_\_ Katze. Ich habe \_\_\_\_ Auto.
+2.  Camila kennt \_\_\_\_ (er). · Wir besuchen \_\_\_\_ (sie, plural). · Hörst du \_\_\_\_ (wir)?
+
+Substitua o objeto destacado pelo pronome correspondente (*ihn, sie, es*):
+
+3.  Ich kaufe **den Computer**. → Ich kaufe \_\_\_\_.
+
+4.  Ich bezahle **die Rechnung**. → Ich bezahle \_\_\_\_.
+
+5.  Ich lese **das Formular**. → Ich lese \_\_\_\_.
+
+Complete com **ein, eine, einen** ou **kein, keine, keinen**:
+
+6.  Ich habe \_\_\_\_ Hund (m.), \_\_\_\_ Katze (f.) und \_\_\_\_ Auto (n.).
+
+7.  Heute habe ich \_\_\_\_ Termin (m.) und \_\_\_\_ Zeit (f.).
 
 **Degrau 3. Produza.**
 
-Escreva cinco itens da sua lista de compras com *Ich brauche …*, usando um masculino, um feminino, um neutro e dois plurais.
+1.  Escreva cinco itens da sua lista de compras ou trabalho com *Ich brauche …*, usando dois masculinos (*einen Laptop, einen Schlüssel*), um feminino (*eine Tasche*), um neutro (*ein Buch*) e um plural (*Bücher*).
 
-Escreva uma conversa de brechó de seis falas, entre você e um vendedor.
+2.  Escreva uma conversa de brechó ou loja de seis falas entre você e um vendedor (*Ich suche einen/eine ... / Wie viel kostet ...? / Ich nehme den/die ...*).
 
-Escreva três perguntas com *Wen* ou *Was*: *Wen besuchst du? Was suchst du?*
-
-Diga o que você tem em casa: *Ich habe einen …, eine …, ein …*
+3.  Escreva três perguntas diretas: duas com **Wen** (pessoas) e uma com **Was** (coisa), com suas respectivas respostas.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
@@ -189,12 +201,22 @@ Diga o que você tem em casa: *Ich habe einen …, eine …, ein …*
 
 ## 8. O erro típico
 
-O erro que mais custa caro é **esquecer o *-en* do masculino**: *Ich habe ein Hund.* O ouvido brasileiro não sente a falta, porque o português não muda o artigo. O segundo erro é exagerar e aplicar *-en* em tudo: *Ich suche einen Lampe*.
+O erro que mais custa caro é **esquecer o *-en* do masculino no objeto direto** (*Ich habe ein Hund* em vez de *einen Hund*) ou **colocar acusativo depois do verbo *sein*** (*Das ist einen Tisch* em vez de *ein Tisch*).
 
-::: atencao
-antes de usar *ein*, pergunte qual é o gênero. Se for *der* e a palavra for objeto, *einen*.
+::: erros
+| Errado | Certo | Por quê |
+|---|---|---|
+| ~~Ich kaufe der Tisch.~~ | Ich kaufe **den** Tisch. | *Tisch* é masculino e recebe a ação (objeto direto = Acusativo **den**). |
+| ~~Ich habe ein Hund.~~ | Ich habe **einen** Hund. | Com *haben*, o objeto masculino exige **einen / keinen**. |
+| ~~Das ist einen Tisch.~~ | Das ist **ein** Tisch. | O verbo *sein* é um sinal de igual (`=`) e exige sempre Nominativo (**der/ein**). |
+| ~~Es gibt ein Supermarkt hier.~~ | Es gibt **einen** Supermarkt hier. | A expressão *es gibt* ("há/existe") exige sempre o Acusativo. |
+| ~~Ich suche den Lampe.~~ | Ich suche **die** Lampe. | Feminino (**die / eine**), neutro (**das / ein**) e plural nunca mudam no Acusativo. |
+| ~~Ich brauche er.~~ | Ich brauche **ihn**. | O pronome masculino *er* vira **ihn** no Acusativo. |
 :::
 
+::: atencao
+antes de usar *ein*, pergunte qual é o gênero. Se for *der* e a palavra for objeto, **einen**.
+:::
 
 ## 9. Retorno
 
@@ -218,23 +240,19 @@ antes de usar *ein*, pergunte qual é o gênero. Se for *der* e a palavra for ob
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Nominativo é o sujeito. Acusativo é o objeto direto.
+Nominativo é o sujeito (e o que vem depois de *sein*). Acusativo é o objeto direto (e o que vem depois de *es gibt*).
 
 Só o masculino muda: **der → den**, **ein → einen**, **kein → keinen**.
 
 Pronomes: **er → ihn**, **ich → mich**, **du → dich**, **wir → uns**, **ihr → euch**.
 
-Depois de *sein*, o nominativo fica.
-
-O objeto pode abrir a frase, mas o verbo continua na posição 2.
+O objeto pode abrir a frase para ganhar destaque (*Den Tisch kaufe ich*), mas o verbo continua na posição 2.
 
 **Já consigo?**
 
 Digo *Ich kaufe den Tisch* e *Ich habe einen Hund* sem pensar.
 
-Troco um objeto masculino por *ihn*.
-
-Pergunto por uma pessoa com *Wen*.
+Troco um objeto masculino por *ihn* e pergunto por uma pessoa-objeto com *Wen*.
 :::::
 
 ## Glossário do capítulo 8
@@ -249,8 +267,13 @@ Pergunto por uma pessoa com *Wen*.
 | besuchen                   | visitar                  |
 | lieben                     | amar                     |
 | kennen                     | conhecer (pessoa, lugar) |
+| bezahlen                   | pagar                    |
 | der Hund                   | cachorro                 |
 | die Katze                  | gato                     |
+| der Computer / der Laptop  | computador / notebook    |
+| die Rechnung               | conta, fatura            |
+| der Termin                 | compromisso, hora marcada|
+| das Formular               | formulário               |
 | der Stuhl                  | cadeira                  |
 | der Supermarkt             | supermercado             |
 | der Flohmarkt              | brechó, feira de pulgas  |
@@ -264,11 +287,23 @@ Pergunto por uma pessoa com *Wen*.
 ## Chave comentada do capítulo 8
 
 ::::: gabarito
-**Degrau 1.** 1 den. 2 Der (sujeito). 3 die (feminino não muda). 4 ein (neutro não muda). 5 einen. 6 ein (depois de *sein*, nominativo). 7 Wen.
+**Degrau 1.** 1 den. 2 Der (sujeito). 3 den (*Schlüssel* é masculino). 4 ein (neutro não muda). 5 einen. 6 ein (depois de *sein*, nominativo). 7 Wen.
 
-**Degrau 2.** dich, mich, ihn, sie. Ich kaufe ihn. Ich kaufe sie. Ich kaufe es. Ich habe einen Hund. Ich habe eine Katze. Ich habe ein Auto.
+**Degrau 2.** 1 dich, mich. 2 ihn, sie, uns. 3 Ich kaufe ihn. 4 Ich bezahle sie. 5 Ich lese es. 6 einen Hund, eine Katze, ein Auto. 7 keinen Termin, keine Zeit.
 
-**Degrau 3.** Respostas pessoais. Confira *einen* apenas nos masculinos.
+**Degrau 3 (Respostas-modelo).**
+
+1.  *Ich brauche einen Laptop, einen Schlüssel, eine Tasche, ein Buch und Bücher für den Kurs.*
+
+2.  Modelo de diálogo:
+    *— Guten Tag! Ich suche einen Rucksack und eine Jacke.*
+    *— Hier ist ein Rucksack. Er ist fast neu.*
+    *— Wie viel kostet der Rucksack?*
+    *— Er kostet fünfzehn Euro. Und die Jacke kostet zwanzig Euro.*
+    *— Super, ich nehme den Rucksack und die Jacke!*
+    *— Vielen Dank!*
+
+3.  *— Wen besuchst du morgen? — Ich besuche meinen Bruder. / — Wen kennst du hier in München? — Ich kenne Jonas und Lena. / — Was suchst du? — Ich suche meinen Schlüssel.*
 
 **Degrau 4.**
 
