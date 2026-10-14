@@ -308,7 +308,7 @@ O erro mais marcante de falantes de português, até mesmo em níveis mais altos
 
 ::::: gabarito
 
-**Degrau 1.** 1 some advice ({{advice}} é incontável, proibido {{an}}). 2 information, is ({{information}} não tem plural e exige verbo no singular {{is}}). 3 much, many ({{luggage}} é incontável; {{bags}} é contável no plural). 4 any (frase negativa). 5 some, a few (oferta de bebida: {{some tea}}; {{cookies}} é plural contável: {{a few cookies}}). 6 a few ({{questions}} é plural). 7 much, a little ({{traffic}} e {{time}} são incontáveis). 8 many ({{people}} é plural contável).
+**Degrau 1.** 1 some advice ({{advice}} é incontável e não leva {{an}}). 2 information, is ({{information}} não tem plural e exige verbo no singular {{is}}). 3 much, many ({{luggage}} é incontável; {{bags}} é contável no plural). 4 any (frase negativa). 5 some, a few (oferta de bebida: {{some tea}}; {{cookies}} é plural contável: {{a few cookies}}). 6 a few ({{questions}} é plural). 7 much, a little ({{traffic}} e {{time}} são incontáveis). 8 many ({{people}} é plural contável).
 
 **Degrau 2.** 1 any (ou much). 2 many, A lot. 3 piece, much (ou a lot of). 4 a few (ou some), a little (ou some). 5 glass, slices. 6 any, some. 7 much. 8 a few.
 

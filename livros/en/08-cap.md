@@ -287,7 +287,7 @@ O erro que mais entrega o falante brasileiro em reuniões em inglês é dizer **
 
 ::::: gabarito
 
-**Degrau 1.** 1 is raining ({{Look!}} + {{right now}} = ação acontecendo agora). 2 'm having ({{having a shower}} é atividade em andamento). 3 don't know, don't remember (verbos mentais de estado nunca usam -ing). 4 takes, is taking (1º = rotina com {{usually}}; 2º = exceção temporária {{today}}). 5 does... do, is looking (1º = profissão permanente; 2º = ação temporária {{right now}}). 6 is sleeping. 7 want, want ({{want}} é verbo de estado, proibido -ing). 8 is wearing (roupa no corpo hoje usa -ing).
+**Degrau 1.** 1 is raining ({{Look!}} + {{right now}} = ação acontecendo agora). 2 'm having ({{having a shower}} é atividade em andamento). 3 don't know, don't remember (verbos mentais de estado nunca usam -ing). 4 takes, is taking (1º = rotina com {{usually}}; 2º = exceção temporária {{today}}). 5 does... do, is looking (1º = profissão permanente; 2º = ação temporária {{right now}}). 6 is sleeping. 7 want, want ({{want}} é verbo de estado e não leva -ing). 8 is wearing (roupa no corpo hoje usa -ing).
 
 **Degrau 2.** 1 is sitting, having. 2 don't work, are relaxing. 3 need, Do, know. 4 are, writing, 'm writing. 5 lives, is staying. 6 is knocking. 7 has, is using. 8 are, running, is leaving.
 
