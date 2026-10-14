@@ -198,7 +198,7 @@ Além do discurso indireto, guarde estas combinações fixas (*collocations*) qu
 
 5.  **"Where is the main auditorium?"** → Oliver asked Marina where the main auditorium \_\_\_\_.
 
-6.  **"Do you speak German?"** → The interviewer asked me \_\_\_\_ I \_\_\_\_ German.
+6.  **"Do you speak German?"** → The interviewer asked me \_\_\_\_ I \_\_\_\_ German. (use *if*)
 
 7.  **"Please sign this document."** → The lawyer asked me \_\_\_\_ \_\_\_\_ the document.
 
@@ -319,7 +319,7 @@ Os três erros mais comuns neste capítulo são: **trocar say e tell ou colocar 
 
 **Degrau 1.** 1 told, was (há a pessoa {{me}} logo depois = {{told}}; após *told* no passado, *is* recua para {{was}}). 2 said, would (sem pessoa após o verbo = {{said}}; *will* recua para {{would}}). 3 if, could (pergunta relatada de Sim/Não usa {{if}}, e *can* recua para {{could}}). 4 I lived (pergunta relatada mantém ordem afirmativa Sujeito + Verbo no passado, sem *did*). 5 to wait ({{told + pessoa + to + verbo}}). 6 not to tell (negativa no infinitivo relatado é sempre {{not to + verbo}}). 7 tell (expressão fixa: {{tell the difference}}). 8 had finished (*the day before* = passado antes do passado → {{had finished}}).
 
-**Degrau 2.** 1 said, was. 2 told, would. 3 told, couldn't. 4 said, had, booked. 5 was. 6 if (ou whether), spoke. 7 to sign. 8 not to forget.
+**Degrau 2.** 1 said, was. 2 told, would. 3 told, couldn't. 4 said, had, booked. 5 was. 6 if, spoke. 7 to sign. 8 not to forget.
 
 **Degrau 3.** Modelo: 1. {{Yesterday my boss said that the meeting was canceled, and my wife told me that she would arrive home at seven.}} 2. {{A colleague asked me where I had bought my backpack, and he asked me if I could send him the link.}} 3. {{My doctor told me to exercise three times a week, and he asked me not to drink coffee after 6 p.m.}} 4. {{Always tell the truth, and don't forget to say goodbye before leaving!}}
 

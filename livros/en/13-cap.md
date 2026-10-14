@@ -189,7 +189,7 @@ Veja lado a lado como montar a afirmativa, a negativa e a pergunta das duas estr
 
 4.  — What are your plans for next year? — I \_\_\_\_ (start) an MBA in Finance. *(plano decidido antes)*
 
-5.  The forecast for Saturday is uncertain: it \_\_\_\_ (rain), so take an umbrella just in case. *(possibilidade)*
+5.  The forecast for Saturday is uncertain: it \_\_\_\_ (rain), so take an umbrella just in case. *(possibilidade, com might)*
 
 6.  I promise I \_\_\_\_ (not / be) late for dinner tonight! *(promessa)*
 
@@ -307,7 +307,7 @@ Os três erros mais comuns de brasileiros ao falar do futuro são **usar o prese
 
 **Degrau 1.** 1 'll bring (oferta espontânea feita na hora da fala). 2 is going to walk (evidência visual diante dos seus olhos agora). 3 am seeing (consulta já confirmada na agenda). 4 won't tell (promessa usa {{won't}}). 5 might (modal não aceita *to*). 6 leaves (horário oficial de trem usa *Present Simple*). 7 don't think (o inglês prefere negar em {{I don't think}} + *will*). 8 are... going to (pergunta sobre planos futuros).
 
-**Degrau 2.** 1 'll send (ou will send). 2 are flying (ou 're flying). 3 are going to be (ou 're going to be). 4 am going to start (ou 'm going to start). 5 might rain (ou may rain). 6 won't be. 7 will like (ou 'll like). 8 will probably arrive (ou 'll probably arrive).
+**Degrau 2.** 1 'll send (ou will send). 2 are flying (ou 're flying). 3 are going to be (ou 're going to be). 4 am going to start (ou 'm going to start). 5 might rain. 6 won't be. 7 will like (ou 'll like). 8 will probably arrive (ou 'll probably arrive).
 
 **Degrau 3.** Modelo: 1. {{This year I'm going to take an English exam and I'm going to save money, and I'm not going to buy a new car.}} 2. {{Tomorrow morning I'm having a call with my boss at ten, and on Saturday night I'm having dinner with my friends at eight.}} 3. (a) {{Don't worry, I'll pay for your lunch!}} (b) {{Wait, I'll help you carry them!}} 4. {{On my next vacation, I might travel to the south of Brazil, or I might visit Buenos Aires.}}
 

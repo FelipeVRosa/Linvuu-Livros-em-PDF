@@ -185,17 +185,17 @@ Além do pedido educado, {{could}} é o passado de {{can}} para falar de uma hab
 
 **Degrau 2. Complete.** Preencha as lacunas com {{can, can't, could, should, shouldn't, must, mustn't, have to, has to, don't have to, doesn't have to, Don't, Let's}}.
 
-1.  \_\_\_\_ you repeat that more slowly, please? I didn't catch the last word.
+1.  \_\_\_\_ you repeat that more slowly, please? (pedido bem educado) I didn't catch the last word.
 
 2.  You \_\_\_\_ drink so much coffee at night if you want to sleep well!
 
 3.  Tomorrow is a holiday, so we \_\_\_\_ go to the office!
 
-4.  Passengers \_\_\_\_ fasten their seat belts during takeoff.
+4.  Passengers \_\_\_\_ fasten their seat belts during takeoff. (obrigação, sem usar *have*)
 
 5.  Lucas \_\_\_\_ leave the meeting early today because he has a dentist appointment.
 
-6.  Keep this document secret: you \_\_\_\_ show it to our competitors!
+6.  Keep this document secret: you \_\_\_\_ show it to our competitors! (proibição, com *must*)
 
 7.  \_\_\_\_ take a five-minute break and grab some coffee!
 
@@ -317,7 +317,7 @@ Os dois erros mais perigosos deste capítulo são **colocar to depois de verbos 
 
 **Degrau 1.** 1 can speak, can drive (modais não levam -s; habilidade usa {{can}}, nunca {{know drive}}). 2 Could (pedido educado sem {{do}}). 3 don't have to (é grátis, logo "não precisa" pagar). 4 mustn't (é proibido fumar no hospital). 5 should (sem {{to}}). 6 has to (3ª pessoa {{Emma}} = {{she}}). 7 Do, don't ({{have to}} faz pergunta e resposta curta com {{do / don't}}). 8 Don't, let's (imperativo negativo = {{Don't}}; {{let's}} sem *to*).
 
-**Degrau 2.** 1 Could (ou Can). 2 shouldn't. 3 don't have to. 4 must (ou have to). 5 has to. 6 mustn't (ou can't). 7 Let's. 8 Don't.
+**Degrau 2.** 1 Could. 2 shouldn't. 3 don't have to. 4 must. 5 has to. 6 mustn't. 7 Let's. 8 Don't.
 
 **Degrau 3.** Modelo: 1. {{I can swim and I can cook Italian food, but I can't play the guitar. Could you send me the meeting link, please?}} 2. {{In our office, you mustn't share client data, you have to wear your badge, and you don't have to wear a suit on Fridays.}} 3. {{When you visit Rio, you should definitely go to Christ the Redeemer, and you shouldn't walk alone late at night.}} 4. {{Let's go to the Italian restaurant tonight, and let's not talk about work!}}
 

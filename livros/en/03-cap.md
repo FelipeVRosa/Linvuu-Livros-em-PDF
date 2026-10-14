@@ -173,7 +173,7 @@ Em inglês nunca juntamos {{a}} com {{my}} (~~a my friend~~). Quando quiser dize
 
 2.  David forgot \_\_\_\_ umbrella, so I gave him \_\_\_\_ (o meu).
 
-3.  — \_\_\_\_ jacket is that on the chair? — It's \_\_\_\_ (da Emma).
+3.  — \_\_\_\_ jacket is that on the chair? — It's \_\_\_\_ (da Emma, com *'s*).
 
 4.  We are in \_\_\_\_ meeting room. Where are the other teams? Are they in \_\_\_\_ (nas delas)?
 
@@ -292,7 +292,7 @@ O erro mais frequente deste capítulo é **escolher {{his}} ou {{her}} olhando p
 
 **Degrau 1.** 1 her, her (a dona é Sarah = {{she}}; ambos têm substantivo depois). 2 Whose, mine ({{Whose}} = de quem; {{mine}} fica sozinho sem substantivo). 3 my parents' (plural já terminado em -s leva só o apóstrofo no fim). 4 new engineers (adjetivo nunca tem plural). 5 its, it's (1º = posse da cidade; 2º = *it is*). 6 today's report (expressões de tempo usam {{'s}}). 7 a friend of mine. 8 the kitchen door (composto para objetos).
 
-**Degrau 2.** 1 her, her. 2 his, mine. 3 Whose, Emma's (ou hers). 4 our, theirs. 5 their. 6 its. 7 yours. 8 yesterday's report.
+**Degrau 2.** 1 her, her. 2 his, mine. 3 Whose, Emma's. 4 our, theirs. 5 their. 6 its. 7 yours. 8 yesterday's report.
 
 **Degrau 3.** Modelo: 1. {{My friend Carla loves her job, and her husband's name is Bruno. My friend Pedro lives in Rio, and his sister's husband is an architect.}} 2. {{Whose charger is that on the table? — It isn't mine; it's Sarah's (it's hers).}} 3. {{I have two great new laptops and three small black notebooks on my desk.}} 4. {{My parents live in São Paulo, and my relatives live in Minas Gerais.}}
 

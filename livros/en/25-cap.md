@@ -176,7 +176,7 @@ Este é um dos pontos em que a escrita e a fala nativa mais se distanciam. Em fi
 
 1.  You haven't eaten anything since breakfast! You \_\_\_\_ starving!
 
-2.  Don't buy that jacket without trying it on first; it \_\_\_\_ (talvez seja) too small for you.
+2.  Don't buy that jacket without trying it on first; it \_\_\_\_ (talvez seja, com might) too small for you.
 
 3.  They just moved into a mansion by the beach. They \_\_\_\_ broke! *(impossível que estejam sem dinheiro)*
 
@@ -186,7 +186,7 @@ Este é um dos pontos em que a escrita e a fala nativa mais se distanciam. Em fi
 
 6.  I'm so tired today! I \_\_\_\_ (stay) up watching series until 2 a.m. last night! *(arrependimento negativo)*
 
-7.  — Where did Kevin go? — I'm not sure; he \_\_\_\_ (go) to the cafeteria downstairs. *(possibilidade)*
+7.  — Where did Kevin go? — I'm not sure; he \_\_\_\_ (go) to the cafeteria downstairs. *(possibilidade, com might have)*
 
 8.  Why didn't you ask me for help? I \_\_\_\_ (help) you finish the spreadsheet in ten minutes! *(alternativa possível)*
 
@@ -308,7 +308,7 @@ Os três erros mais comuns com os modais de dedução e de passado são: **usar 
 
 **Degrau 1.** 1 must (o anel de diamante é enorme, logo *deve* custar uma fortuna). 2 can't (dedução negativa de impossibilidade: *não pode ser* o Lucas!). 3 might (possibilidade: *pode ser que* ela esteja dirigindo). 4 should have (arrependimento no passado: *deveríamos ter virado* à esquerda). 5 must have (dedução lógica sobre o passado: *devo ter deixado* no trem). 6 shouldn't have (arrependimento negativo: *eu não deveria ter comido*). 7 could have (alternativa possível que não foi usada: *você poderia ter pegado* o trem). 8 can't have (impossibilidade no passado: *ela não pode ter enviado* ontem porque estava sem internet).
 
-**Degrau 2.** 1 must be. 2 might be (ou may / could be). 3 can't be. 4 must have rained. 5 should have prepared. 6 shouldn't have stayed. 7 might have gone (ou may / could have gone). 8 could have helped.
+**Degrau 2.** 1 must be. 2 might be. 3 can't be. 4 must have rained. 5 should have prepared. 6 shouldn't have stayed. 7 might have gone. 8 could have helped.
 
 **Degrau 3.** Modelo: 1. {{You worked all day, so you must be tired; Sarah isn't here yet, so she might be in traffic; and that coat can't be mine because mine is black!}} 2. {{Last week I should have gone to the gym more often, and I shouldn't have spent so much money on delivery.}} 3. {{My cat must have jumped out of the window, and it might have gone into the neighbor's garden!}} 4. {{You could have booked the flight two months ago for half the price!}}
 

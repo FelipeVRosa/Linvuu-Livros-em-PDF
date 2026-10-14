@@ -189,7 +189,7 @@ Veja os números ordinais que você usa em todas as datas e andares de prédio:
 
 6.  Escreva o ano por extenso: 1985 = \_\_\_\_; 2026 = \_\_\_\_.
 
-7.  We work \_\_\_\_ nine \_\_\_\_ six \_\_\_\_ weekdays, and we relax \_\_\_\_ the weekend.
+7.  We work \_\_\_\_ nine \_\_\_\_ six \_\_\_\_ weekdays, and we relax \_\_\_\_ Sundays.
 
 8.  Look! Our flight is \_\_\_\_ Gate 18 (escreva por extenso: \_\_\_\_), not Gate 80 (\_\_\_\_).
 
@@ -306,7 +306,7 @@ O erro mais frequente de brasileiros ao agendar reuniões é **usar {{in}} antes
 
 **Degrau 1.** 1 on, at, in (dia = {{on}}; hora = {{at}}; parte do dia = {{in}}). 2 in, on, in (mês sozinho = {{in}}; data com dia = {{on}}; ano = {{in}}). 3 at, \[sem preposição\] ({{at night}}; antes de {{next}} não vai preposição). 4 to (4:45 = 15 para as 5). 5 past (8:30 = meia hora passada das 8). 6 forty (sem *u*). 7 May 12th (nos EUA o formato é mês/dia/ano). 8 in ("daqui a dez minutos").
 
-**Degrau 2.** 1 --, at. 2 in, on, on. 3 two fifteen, quarter past. 4 six fifty, to seven. 5 first, second, third, fifth, twenty-first. 6 nineteen eighty-five; twenty twenty-six. 7 from, to, on, on (ou at). 8 at, eighteen, eighty.
+**Degrau 2.** 1 --, at. 2 in, on, on. 3 two fifteen, quarter past. 4 six fifty, to seven. 5 first, second, third, fifth, twenty-first. 6 nineteen eighty-five; twenty twenty-six. 7 from, to, on, on. 8 at, eighteen, eighty.
 
 **Degrau 3.** Modelo: 1. {{My birthday is on August 22nd (twenty-second), and I was born in 1992 (nineteen ninety-two).}} 2. {{On Monday, I have a meeting at half past nine. On Wednesday, I have an English class at a quarter past seven. On Thursday, I have a dentist appointment at a quarter to four. On Friday, I finish work at five o'clock.}} 3. {{I'm free this evening, and I'm traveling to Chicago next week.}} 4. {{Excuse me, did you say fourteen dollars or forty dollars?}}
 

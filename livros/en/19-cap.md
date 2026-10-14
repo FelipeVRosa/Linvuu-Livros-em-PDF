@@ -321,7 +321,7 @@ Os quatro erros mais frequentes neste capítulo são: **usar which para pessoas*
 
 **Degrau 1.** 1 who (*architect* é pessoa; *which* não se usa para pessoas). 2 where (*hotel* é o lugar onde ficamos). 3 whose (posse = "cuja equipe"; *who's* = *who is*). 4 Although (seguido de frase com Sujeito + Verbo: *it was raining*). 5 Despite (seguido de substantivo: *the heavy rain*). 6 because of (seguido de substantivo: *the bad weather*). 7 Na frase **(b)** {{The email (that) you sent me}}, porque logo depois de *that* vem o novo sujeito {{you}}. 8 which (após vírgula, comentando a frase inteira = "o que foi um problema"). 9 though (no fim da frase, na fala, = "porém"; {{although}} abriria a frase).
 
-**Degrau 2.** 1 who (ou that). 2 where. 3 whose. 4 because (ou since / as). 5 because of (ou due to). 6 Although (ou Even though). 7 Despite (ou In spite of). 8 However, so. 9 so.
+**Degrau 2.** 1 who. 2 where. 3 whose. 4 because. 5 because of. 6 Although. 7 Despite. 8 However, so. 9 so.
 
 **Degrau 3.** Modelo: 1. {{My wife is the person who supports me every day, the laptop I use for work is very fast, and the café where we met is downtown.}} 2. {{I have a friend whose brother lives in Tokyo.}} 3. {{Although the traffic was terrible, we arrived on time.}} = {{Despite the terrible traffic, we arrived on time.}} 4. {{We canceled the picnic because it was raining.}} = {{We canceled the picnic because of the rain.}}
 

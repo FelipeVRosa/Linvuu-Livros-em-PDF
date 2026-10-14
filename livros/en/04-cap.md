@@ -191,7 +191,7 @@ Veja na tabela abaixo por que o inglês escolhe cada preposição nos pares que 
 
 **Degrau 2. Complete.** Preencha as lacunas com {{There's, There are, There isn't, There aren't, Is there, Are there, in, on, at, next to, across from, between}}.
 
-1.  — \_\_\_\_ a supermarket near your apartment? — Yes, \_\_\_\_ one right \_\_\_\_ the corner.
+1.  — \_\_\_\_ a supermarket near your apartment? — Yes, \_\_\_\_ one right \_\_\_\_ the bank.
 
 2.  \_\_\_\_ twenty people waiting \_\_\_\_ the reception desk.
 
@@ -319,7 +319,7 @@ O erro mais frequente deste capítulo é começar frases em inglês com **~~Has.
 
 **Degrau 1.** 1 Is there ("Tem...?" = existência). 2 There aren't, on (plural negativo; andar usa {{on}}). 3 on, in (ônibus usa {{on}}; táxi/carro usa {{in}}). 4 between (entre duas coisas claras). 5 across from (do outro lado da rua). 6 next to ({{next}} sozinho não funciona; a expressão é {{next to}}). 7 on, at (tela usa {{on}}; {{at home}}). 8 on ({{on your left / right}}).
 
-**Degrau 2.** 1 Is there, there's, on (ou at). 2 There are, at. 3 on, at, in. 4 Are there, on, there aren't. 5 on, between. 6 there's, across from. 7 There isn't. 8 on.
+**Degrau 2.** 1 Is there, there's, next to. 2 There are, at. 3 on, at, in. 4 Are there, on, there aren't. 5 on, between. 6 there's, across from. 7 There isn't. 8 on.
 
 **Degrau 3.** Modelo: 1. {{On my street, there's a great bakery and there are two pharmacies, but there isn't a subway station.}} 2. {{I live in São Paulo, on Paulista Avenue, on the eighth floor, and I'm at home right now.}} 3. {{My laptop is on the desk, between my monitor and my coffee mug, and my keys are in my backpack next to the chair.}} 4. {{Go straight ahead for two blocks and turn right at the traffic light. The pharmacy is on your left, right across from the bank.}}
 

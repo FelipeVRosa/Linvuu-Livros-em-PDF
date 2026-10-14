@@ -305,7 +305,7 @@ Os quatro erros mais comuns neste capítulo são: **esquecer o verbo to be na vo
 
 **Degrau 1.** 1 was built, by (a ponte *foi construída* no passado = {{was built}}; autor usa {{by}}). 2 are cleaned (rotina no presente passivo = {{are + 3ª coluna}}). 3 is being repaired (*right now* na passiva = {{is being + 3ª coluna}}). 4 been delivered (*Present Perfect* passivo = {{Have... been + 3ª coluna}}). 5 will be made (futuro passivo = {{will be + 3ª coluna}}). 6 get it cut (serviço no salão usa a causativa {{get + it + cut}}). 7 was stolen (a carteira sofreu o roubo = {{was stolen}}). 8 are supposed ({{be supposed to}} = é esperado / é a regra).
 
-**Degrau 2.** 1 is grown, is exported. 2 were hired. 3 is being cleaned. 4 has already been fixed. 5 be signed. 6 was, sent, was sent. 7 get it fixed (ou have it fixed). 8 had it painted (ou got it painted).
+**Degrau 2.** 1 is grown, is exported. 2 were hired. 3 is being cleaned. 4 has already been fixed. 5 be signed. 6 was, sent, was sent. 7 get it fixed. 8 had it painted.
 
 **Degrau 3.** Modelo: 1. {{In Brazil, Portuguese is spoken everywhere, and a lot of coffee and airplanes are produced here.}} 2. {{Brasília was designed by Oscar Niemeyer and Lúcio Costa, and the telephone was invented by Alexander Graham Bell.}} 3. {{The budget has already been approved today, and the contracts will be signed tomorrow morning.}} 4. {{I got my hair cut last week, and I need to get my car washed this weekend.}}
 

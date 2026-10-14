@@ -37,6 +37,8 @@ Todo capítulo tem a mesma forma, para que você não perca tempo procurando ond
 | 10. Resumo e "já consigo" | o que levar e como se testar |
 | Glossário e Chave comentada | o vocabulário do capítulo; a resposta de todos os itens, com o motivo |
 
+**Sobre as chaves.** Nos degraus 1 e 2, cada item tem uma resposta certa. A forma contraída e a completa valem igualmente ({{I'll}} = {{I will}}, {{she's}} = {{she is}}), e a chave mostra uma das duas. No degrau 3, as respostas são pessoais, e a chave traz um modelo. No degrau 4, o erro pode ser corrigido de mais de um jeito, e a chave mostra a correção principal e, entre parênteses, a alternativa.
+
 ## As duas camadas: "Em 30 segundos" e "Por dentro"
 
 **"Em 30 segundos"** é a camada curta. Traz a regra na forma mais útil para falar, em poucas linhas ou numa tabelinha. Se você só tem dez minutos, leia esta caixa e faça o primeiro degrau do Treino. Já dá para usar.

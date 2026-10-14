@@ -186,13 +186,13 @@ Algumas palavras mudam de significado dependendo de serem usadas como massa inco
 
 **Degrau 2. Complete.** Preencha as lacunas com {{some, any, much, many, a lot of, a few, a little, piece, slices, glass}}.
 
-1.  I don't have \_\_\_\_ cash with me. Is there an ATM near here?
+1.  I only have \_\_\_\_ cash with me. Is there an ATM near here?
 
 2.  — How \_\_\_\_ emails do you receive every day? — \_\_\_\_! Maybe a hundred a day.
 
-3.  Let me give you a \_\_\_\_ of advice: don't take \_\_\_\_ luggage on a short trip!
+3.  Let me give you a \_\_\_\_ of advice: don't take too \_\_\_\_ luggage on a short trip!
 
-4.  We only need \_\_\_\_ tomatoes and \_\_\_\_ olive oil for the salad.
+4.  We only need \_\_\_\_ tomatoes (poucos) and \_\_\_\_ olive oil (pouco) for the salad.
 
 5.  Could I have a \_\_\_\_ of water and two \_\_\_\_ of bread, please?
 
@@ -310,7 +310,7 @@ O erro mais marcante de falantes de português, até mesmo em níveis mais altos
 
 **Degrau 1.** 1 some advice ({{advice}} é incontável e não leva {{an}}). 2 information, is ({{information}} não tem plural e exige verbo no singular {{is}}). 3 much, many ({{luggage}} é incontável; {{bags}} é contável no plural). 4 any (frase negativa). 5 some, a few (oferta de bebida: {{some tea}}; {{cookies}} é plural contável: {{a few cookies}}). 6 a few ({{questions}} é plural). 7 much, a little ({{traffic}} e {{time}} são incontáveis). 8 many ({{people}} é plural contável).
 
-**Degrau 2.** 1 any (ou much). 2 many, A lot. 3 piece, much (ou a lot of). 4 a few (ou some), a little (ou some). 5 glass, slices. 6 any, some. 7 much. 8 a few.
+**Degrau 2.** 1 a little. 2 many, A lot. 3 piece, much. 4 a few, a little. 5 glass, slices. 6 any, some. 7 much. 8 a few.
 
 **Degrau 3.** Modelo: 1. {{In my fridge, there's some milk, a little butter, and a few eggs, but we don't have any cheese or vegetables.}} 2. {{I need some information about the flight. My boss gave me a great piece of advice. The news is very good today, and the office furniture is new.}} 3. {{How many people are coming to the barbecue, and how much meat should we buy?}} 4. {{Would you like some coffee? — Yes, just a little, please!}}
 
