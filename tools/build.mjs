@@ -25,6 +25,7 @@ const slug = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').rep
 
 // ---------- Markdown ----------
 const md = new MarkdownIt({ html: true, typographer: true, breaks: false });
+md.core.ruler.disable(["replacements"]);
 // {{texto}} = texto no idioma estudado (Literata)
 md.inline.ruler.before('emphasis', 'alvo', (state, silent) => {
   const s = state.src, i = state.pos;
