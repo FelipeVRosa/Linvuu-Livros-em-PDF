@@ -1,362 +1,358 @@
-# Capítulo 5. Gustar e verbos como gustar (A1)
+# Capítulo 5. Presente do indicativo (A1)
 
-**Meta do capítulo.** Ao final, você diz do que gosta e do que não gosta com *me gusta* e *me gustan*, concorda e discorda com *a mí también*, *a mí tampoco*, *a mí sí* e *a mí no*, e usa *encantar*, *interesar*, *molestar* e *parecer* com o mesmo molde.
+**Meta do capítulo.** Ao final, você conjuga os verbos regulares em *-ar*, *-er* e *-ir* e os irregulares mais comuns ({{ir, hacer, tener, poder, querer, pedir}}), sem dizer “quero” onde o espanhol pede {{quiero}}, e usa {{tener}} para idade e sensações.
 
-## 1. Cena: onde jantar
+## 1. Cena: dividindo o apartamento
 
-Camila, Lucía e Tomás saem do trabalho e discutem onde jantar.
+Camila mora em Medellín com Valentina, uma colega colombiana. É manhã de quarta-feira.
 
 ::: dialogo
-**Lucía:** ¿Qué tipo de comida les gusta? Hay un restaurante peruano y una taquería.
+**Valentina:** {{¿Qué haces hoy, Camila?}}
 
-**Tomás:** A mí me gustan los tacos, y hoy tengo ganas de comer algo rápido.
+**Camila:** {{Trabajo desde casa por la mañana. Empiezo a las nueve. Por la tarde voy al gimnasio.}}
 
-**Camila:** A mí me gusta la comida peruana. Me interesa probar el ceviche.
+**Valentina:** {{¿Puedes comprar pan? Yo no tengo tiempo, salgo temprano.}}
 
-**Lucía:** A mí no me gusta el pescado crudo.
+**Camila:** {{Claro. ¿Quieres algo más?}}
 
-**Tomás:** A mí tampoco. ¿Y a ti, Camila?
+**Valentina:** {{Sí. Esta noche pido una pizza, si no cocinamos. ¿Qué prefieres?}}
 
-**Camila:** A mí sí me gusta, pero no me gusta el picante.
+**Camila:** {{Prefiero la de verduras. Y ya tengo hambre.}}
 
-**Lucía:** Entonces la taquería. Los tacos de pollo no pican, y a Tomás le encantan.
+**Valentina:** {{Yo siempre desayuno fruta y café. ¿Y tú?}}
 
-**Tomás:** Me parece una buena idea.
+**Camila:** {{Hoy no desayuno, solo tomo un café. ¡Mi jefe es muy puntual!}}
 
-**Camila:** A mí también me parece perfecto. Vamos.
+**Valentina:** {{Tienes razón en no llegar tarde. Nos vemos en la noche.}}
 :::
 
-Em português: De que tipo de comida vocês gostam? Tem um restaurante peruano e uma taqueria. / Eu gosto de tacos, e hoje estou com vontade de comer algo rápido. / Eu gosto de comida peruana. Tenho interesse em provar o ceviche. / Eu não gosto de peixe cru. / Eu também não. E você, Camila? / Eu gosto, mas não gosto de pimenta. / Então a taqueria. Os tacos de frango não são picantes, e o Tomás adora. / Acho uma boa ideia. / Eu também acho ótimo. Vamos.
+Em português: O que você faz hoje, Camila? / Trabalho de casa de manhã. Começo às nove. À tarde vou à academia. / Pode comprar pão? Eu não tenho tempo, saio cedo. / Claro. Quer mais alguma coisa? / Quero. Hoje à noite peço uma pizza, se a gente não cozinhar. O que você prefere? / Prefiro a de verduras. E já estou com fome. / No café da manhã eu sempre como fruta e tomo café. E você? / Hoje não tomo café da manhã, só um café. Meu chefe é muito pontual! / Você tem razão em não se atrasar. A gente se vê à noite.
 
-Repare: ninguém disse "eu gosto". Disseram *me gusta*, *me gustan*, *me interesa*, *le encantan*, *me parece*. E as respostas foram *a mí también*, *a mí tampoco*, *a mí sí*, e não "eu também".
+Repare: {{empiezo}}, {{prefiero}}, {{quieres}} e {{puedes}} têm um ditongo ({{ie}}, {{ue}}) que não existe no infinitivo ({{empezar, preferir, querer, poder}}). E “estou com fome” virou {{tengo hambre}}, sem {{estar}}.
 
 ## 2. A armadilha do português
 
-Em português, o gosto tem um sujeito humano: **eu** gosto **de** café. A pessoa é o sujeito, o café vem depois da preposição "de". O espanhol vira a frase do avesso: o café **agrada** a mim. A coisa é o sujeito, a pessoa é quem recebe.
+O presente do indicativo do espanhol se parece tanto com o português que o erro se esconde na semelhança. Três hábitos atrapalham.
+
+**Armadilha 1. A raiz que muda de vogal.** Em português, a raiz quase nunca troca de vogal (“eu quero”, “nós queremos”, “eu posso”, “nós podemos”). Em espanhol, ela troca em quatro das seis pessoas:
 
 | Português | Espanhol (errado) | Espanhol (certo) |
 |---|---|---|
-| Eu gosto de café. | ~~Yo gusto el café.~~ | **Me gusta** el café. |
-| Eu gosto de cachorros. | ~~Yo gusto los perros.~~ | **Me gustan** los perros. |
-| Ele gosta de dançar. | ~~Él gusta de bailar.~~ | **Le gusta** bailar. |
-| Nós gostamos do filme. | ~~Nosotros gustamos el filme.~~ | **Nos gusta** la película. |
+| eu quero | {{~~yo quero~~}} | {{yo **quiero**}} |
+| eu posso | {{~~yo poso~~}} | {{yo **puedo**}} |
+| eu penso | {{~~yo penso~~}} | {{yo **pienso**}} |
+| eu peço | {{~~yo peço~~}} | {{yo **pido**}} |
 
-(*Gustar de* + algo existe, mas é construção de registro escrito; na fala, use o molde *le gusta*.)
+**Armadilha 2. Sensações com {{tener}}, não com {{estar}}.** O português usa “estar com” para fome, sede, sono, medo, frio e calor. O espanhol usa **tener**.
 
-Pense assim: *me gusta el café* = "o café me agrada". A coisa decide se o verbo é *gusta* (singular) ou *gustan* (plural). A pessoa decide só o pronome (*me, te, le, nos, os, les*).
+| Português | Espanhol (certo) |
+|---|---|
+| Estou com fome. | {{Tengo hambre.}} |
+| Estou com sede. | {{Tengo sed.}} |
+| Estou com sono. | {{Tengo sueño.}} |
+| Estou com frio. | {{Tengo frío.}} |
+| Estou com pressa. | {{Tengo prisa.}} |
+| Você tem razão. | {{Tienes razón.}} |
 
-Há uma segunda armadilha, nas respostas curtas. Em português dizemos "eu também" e "eu também não" para tudo. Em espanhol, com *gustar* a resposta natural é **a mí también** e **a mí tampoco**, porque o "eu" aqui não é o sujeito da frase anterior.
+**Armadilha 3. {{Pedir}} e {{preguntar}} têm lugares diferentes.** Em português, “pedir” cobre quase tudo que é solicitação, e “perguntar” é para fazer uma pergunta. Em espanhol a divisão é a mesma, mas o aluno costuma trocar quando traduz palavra por palavra:
 
-| Frase | Resposta em português | Resposta em espanhol |
-|---|---|---|
-| Me gusta el café. | Eu também. | **A mí también.** |
-| No me gusta el calor. | Eu também não. | **A mí tampoco.** |
-| Me gusta el café. | Eu não. | **A mí no.** |
-| No me gusta el calor. | Eu gosto. | **A mí sí.** |
+- {{pedir}} = solicitar algo: {{Pido un café.}} {{Pedimos la cuenta.}}
+- {{preguntar}} = fazer uma pergunta: {{Pregunto la hora.}} {{Le pregunto a mi jefe.}}
 
-Em frases com outros verbos, o *yo* continua valendo: *Soy brasileña. — Yo también.* *Trabajo hoy. — Yo no.*
+Quem diz {{pregunto un café}} usa o verbo errado: o verbo certo para um café é {{pedir}}. E {{pido la hora}} soa como se você estivesse solicitando formalmente a hora, em vez de perguntá-la.
 
 ## 3. Descubra você mesmo
 
-Observe as frases.
+Compare os dois verbos nas seis pessoas.
 
-| Frase | Quem sente | O que causa o gosto |
+|  | {{pensar}} | {{comer}} |
 |---|---|---|
-| Me gusta el café. | eu | o café |
-| Me gustan los tacos. | eu | os tacos |
-| Te gusta bailar. | você | dançar |
-| A Tomás le gusta el fútbol. | Tomás | o futebol |
-| A Lucía le gustan las películas. | Lucía | os filmes |
-| Nos gusta viajar y conocer gente. | nós | viajar e conhecer gente |
+| {{yo}} | {{pienso}} | {{como}} |
+| {{tú}} | {{piensas}} | {{comes}} |
+| {{él, ella, usted}} | {{piensa}} | {{come}} |
+| {{nosotros}} | {{pensamos}} | {{comemos}} |
+| {{vosotros}} | {{pensáis}} | {{coméis}} |
+| {{ellos, ellas, ustedes}} | {{piensan}} | {{comen}} |
 
 Perguntas:
 
-Quando o verbo é *gusta* e quando é *gustan*? Olhe para a coisa que agrada, e não para a pessoa.
+Em {{pensar}}, em quais pessoas a vogal da raiz muda de *e* para {{ie}}? E em {{comer}}?
 
-Em *Nos gusta viajar y conocer gente* há duas ações (viajar e conhecer gente). O verbo ficou em singular ou plural?
+Quais pessoas **não** mudam? Se você pintasse na tabela as formas que mudam, que desenho resultaria?
 
-Em *A Tomás le gusta el fútbol*, o pronome *le* é obrigatório ou opcional? Teste: dá para dizer *A Tomás gusta el fútbol*?
-
-Se você viu que o verbo concorda com a coisa, que um infinitivo é sempre singular e que o pronome *le* não some quando aparece o nome da pessoa, a regra apareceu.
+Se você notou que só {{yo, tú, él}} e {{ellos}} mudam, e que {{nosotros}} e {{vosotros}} ficam com a raiz do infinitivo, descobriu a regra da “bota”.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1. **Molde:** pronome átono + *gusta/gustan* + a coisa que agrada. *Me gusta el cine. Te gustan los gatos.*
-2. **Pronomes:** *me, te, le, nos, os, les* (para *yo, tú/vos, él/ella/usted, nosotros, vosotros, ellos/ustedes*).
-3. **Gusta** com coisa no singular ou com infinitivo. **Gustan** com coisa no plural.
-4. **Ênfase ou clareza:** *a mí, a ti, a él/ella/usted, a nosotros, a vosotros, a ellos/ustedes* vêm antes do pronome átono: *A mí me gusta, a ti no.* Com nome: *A Ana le gusta.* O pronome átono nunca some.
-5. **Concordar:** *a mí también* (positivo) e *a mí tampoco* (negativo). **Discordar:** *a mí sí* e *a mí no*.
-6. **Mesmo molde:** *encantar, interesar, molestar, importar, doler, faltar, parecer*.
+1. **Regulares.** Tire *-ar / -er / -ir* e ponha: *-o, -as, -a, -amos, -áis, -an* (verbos em *-ar*); *-o, -es, -e, -emos, -éis, -en* (verbos em *-er*); *-o, -es, -e, -imos, -ís, -en* (verbos em *-ir*).
+2. **Bota.** Muitos verbos mudam a vogal da raiz em {{yo, tú, él, ellos}} e não em {{nosotros, vosotros}}: {{e → ie}} ({{querer: quiero}}), {{o → ue}} ({{poder: puedo}}), {{e → i}} ({{pedir: pido}}).
+3. **{{Yo}} irregular.** {{hacer: hago}}, {{poner: pongo}}, {{salir: salgo}}, {{saber: sé}}, {{ver: veo}}, {{dar: doy}}.
+4. **Totalmente irregulares:** {{ir}} ({{voy, vas, va, vamos, vais, van}}), {{tener}} ({{tengo, tienes, tiene...}}), {{venir}}, {{decir}}.
+5. **Sensações:** {{tener}} + {{hambre, sed, sueño, frío, calor, miedo, prisa}}. **Idade:** {{tener 28 años}}.
 :::::
 
 ## 5. Por dentro
 
-### A estrutura completa
+### Verbos regulares
 
-(A + pronome tônico ou nome) + **pronome átono** + verbo + coisa
-
-| Quem sente | Com ênfase (opcional) | Átono (obrigatório) | gusta / gustan |
+|  | {{hablar}} | {{comer}} | {{vivir}} |
 |---|---|---|---|
-| yo | a mí | me | gusta / gustan |
-| tú, vos | a ti, a vos | te | gusta / gustan |
-| él, ella, usted | a él, a ella, a usted | le | gusta / gustan |
-| nosotros | a nosotros | nos | gusta / gustan |
-| vosotros | a vosotros | os | gusta / gustan |
-| ellos, ellas, ustedes | a ellos, a ellas, a ustedes | les | gusta / gustan |
+| {{yo}} | {{hablo}} | {{como}} | {{vivo}} |
+| {{tú}} | {{hablas}} | {{comes}} | {{vives}} |
+| {{él, ella, usted}} | {{habla}} | {{come}} | {{vive}} |
+| {{nosotros}} | {{hablamos}} | {{comemos}} | {{vivimos}} |
+| {{vosotros}} | {{habláis}} | {{coméis}} | {{vivís}} |
+| {{ellos, ellas, ustedes}} | {{hablan}} | {{comen}} | {{viven}} |
 
-**A mí, com acento.** O pronome tônico *mí* leva acento escrito; o possessivo *mi* (meu, minha) não. *A mí me gusta* (pronome, com acento) × *A mi hermano le gusta* (possessivo, sem acento). O acento só aparece em *mí*; *ti* nunca leva.
+**Voseo.** Com {{vos}} (Argentina, Uruguai e outras regiões), troca-se o *-r* do infinitivo por *-s*, com acento na última vogal: {{hablar → vos hablás}}, {{comer → vos comés}}, {{vivir → vos vivís}}. Nos verbos com mudança de vogal, o voseo mantém a raiz: {{vos querés}}, {{vos podés}}, {{vos pensás}}, {{vos pedís}}.
 
-**Ordem das palavras.** O pronome átono vem antes do verbo, e a coisa pode abrir a frase: *El café me gusta*; *Me gusta el café*. Os dois estão certos; o primeiro destaca o café.
+**O pronome sujeito.** O verbo já diz quem faz a ação, então o espanhol costuma omitir o pronome: {{Trabajo en un banco}}, e não “{{Yo trabajo en un banco}}”. O pronome entra para contrastar ou esclarecer: {{Yo trabajo, ella estudia}}.
 
-**Negação.** *No* vem antes do pronome átono: *No me gusta el picante.* *A Tomás no le gusta el pescado.*
+### A bota: mudanças de vogal
 
-**Intensidade.**
-
-| Quero dizer | Espanhol |
-|---|---|
-| gosto muito | Me gusta mucho. |
-| gosto bastante | Me gusta bastante. |
-| gosto um pouco | Me gusta un poco. |
-| não gosto nada | No me gusta nada. |
-
-*Mucho* fica depois do verbo: *Me gusta mucho*, e nunca "*me mucho gusta*".
-
-### Coisa singular, plural e infinitivo
-
-| A coisa é… | Verbo | Exemplo |
+| Mudança | Verbos frequentes | Exemplo |
 |---|---|---|
-| singular | gusta | Me gusta la música. |
-| plural | gustan | Me gustan las canciones. |
-| um infinitivo | gusta | Me gusta cocinar. |
-| dois infinitivos | gusta | Me gusta cocinar y comer. |
-| duas coisas singulares | gusta ou gustan | Me gusta el té y el café. / Me gustan el té y el café. |
+| e → ie | {{empezar, pensar, querer, preferir, entender, cerrar, perder, sentir}} | {{prefiero, quieres}} |
+| o → ue | {{poder, volver, dormir, encontrar, contar, costar, almorzar, recordar}} | {{puedo, vuelves}} |
+| u → ue | {{jugar}} (único) | {{juego, juegas}} |
+| e → i | {{pedir, servir, repetir, seguir}} | {{pido, sirves}} |
 
-Com duas coisas no singular, os dois verbos aparecem na fala; no A1, o mais simples é concordar com a primeira coisa citada (*Me gusta el té y el café*).
+Tabela de três verbos:
 
-### Quando o sujeito é uma pessoa
+|  | {{pensar}} (e→ie) | {{poder}} (o→ue) | {{pedir}} (e→i) |
+|---|---|---|---|
+| {{yo}} | {{pienso}} | {{puedo}} | {{pido}} |
+| {{tú}} | {{piensas}} | {{puedes}} | {{pides}} |
+| {{él, ella, usted}} | {{piensa}} | {{puede}} | {{pide}} |
+| {{nosotros}} | {{pensamos}} | {{podemos}} | {{pedimos}} |
+| {{vosotros}} | {{pensáis}} | {{podéis}} | {{pedís}} |
+| {{ellos, ellas, ustedes}} | {{piensan}} | {{pueden}} | {{piden}} |
 
-*Gustar* também aceita uma pessoa como sujeito, e então a frase muda de sentido: costuma indicar **atração**.
+As formas que mudam formam, na tabela, o desenho de uma bota; {{nosotros}} e {{vosotros}} ficam de fora. Em {{seguir}} a mudança é {{e → i}}, e o {{yo}} perde o *u*: {{sigo}}, {{sigues}}.
 
-| Frase | Sentido |
-|---|---|
-| Me gustas. | Você me atrai. (verbo na 2ª pessoa) |
-| Le gusto a Camila. | Camila se interessa por mim. |
-| Me gusta Ana. | Ana me atrai (na maioria dos contextos). |
-| Ana me cae bien. | Gosto da Ana, como pessoa. |
+::: atencao
+Nem todo verbo com *e* ou *o* na raiz muda. Verbos regulares como {{comer}}, {{beber}}, {{vender}}, {{aprender}} e {{correr}} mantêm a vogal: {{como}}, {{bebo}}, {{vendo}}, {{aprendo}}, {{corro}}. Para cada verbo novo, aprenda a forma do {{yo}} junto com o infinitivo.
+:::
 
-Para dizer que você gosta de uma pessoa como amiga ou colega, o mais natural é *caer bien* (ou *caer mal*, o contrário): *Mi jefe me cae bien. Los vecinos me caen mal.* O verbo concorda com a pessoa. Para amor de família ou de amigos, usa-se *querer*: *Quiero mucho a mi abuela.* (o *a* antes de pessoa é obrigatório quando ela é objeto direto.)
+### Verbos com yo irregular
 
-### Os verbos que imitam o gustar
+Alguns verbos são regulares em todas as pessoas, menos no {{yo}}.
 
-Os verbos abaixo usam o mesmo molde: pessoa afetada no pronome, coisa como sujeito.
-
-| Verbo | Sentido | Exemplo |
+| Infinitivo | Yo | Demais pessoas |
 |---|---|---|
-| encantar | adorar | Me encanta el chocolate. / Me encantan los museos. |
-| fascinar | fascinar | Le fascina la historia. |
-| interesar | interessar | Nos interesa el proyecto. / Me interesan los idiomas. |
-| molestar | incomodar | Me molesta el ruido. |
-| importar | importar | No me importa el precio. |
-| doler | doer | Me duele la cabeza. / Me duelen los pies. |
-| faltar | faltar | Me falta tiempo. |
-| parecer | parecer, achar | Me parece buena idea. / Me parecen caros. |
-| apetecer | dar vontade (comum na Espanha) | Me apetece un café. |
-| hacer falta | fazer falta, precisar | Me hace falta un descanso. |
+| {{hacer}} | {{hago}} | {{haces, hace, hacemos, hacéis, hacen}} |
+| {{poner}} | {{pongo}} | {{pones, pone, ponemos...}} |
+| {{salir}} | {{salgo}} | {{sales, sale, salimos...}} |
+| {{traer}} | {{traigo}} | {{traes, trae, traemos...}} |
+| {{saber}} | {{sé}} | {{sabes, sabe, sabemos...}} |
+| {{ver}} | {{veo}} | {{ves, ve, vemos...}} |
+| {{dar}} | {{doy}} | {{das, da, damos...}} |
+| {{conocer}} | {{conozco}} | {{conoces, conoce, conocemos...}} |
 
-**Doler** muda a vogal da raiz como *poder*: *me duele, me duelen* (o → ue). **Parecer** é a forma natural de dar opinião: *Me parece que tienes razón* (acho que você tem razão). **Apetecer** é muito usado na Espanha; na América Latina, costuma-se dizer *tengo ganas de* ou *se me antoja* (México).
+### Totalmente irregulares
 
-### Um pedido educado: me gustaría
+|  | {{ir}} | {{tener}} | {{venir}} | {{decir}} |
+|---|---|---|---|---|
+| {{yo}} | {{voy}} | {{tengo}} | {{vengo}} | {{digo}} |
+| {{tú}} | {{vas}} | {{tienes}} | {{vienes}} | {{dices}} |
+| {{él, ella, usted}} | {{va}} | {{tiene}} | {{viene}} | {{dice}} |
+| {{nosotros}} | {{vamos}} | {{tenemos}} | {{venimos}} | {{decimos}} |
+| {{vosotros}} | {{vais}} | {{tenéis}} | {{venís}} | {{decís}} |
+| {{ellos, ellas, ustedes}} | {{van}} | {{tienen}} | {{vienen}} | {{dicen}} |
 
-Para pedir ou desejar algo de forma educada, use o bloco pronto *me gustaría* + infinitivo ou substantivo: *Me gustaría un café. Me gustaría reservar una mesa.* É uma forma que este livro não detalha; por ora, decore a expressão.
+{{Tener}}, {{venir}} e {{decir}} combinam {{yo}} irregular e mudança de vogal, por isso têm o desenho da bota além do *-go* no {{yo}}. O verbo {{ir}} usa *a* para destino: {{voy a Medellín}}, {{voy al gimnasio}} (a + el = al).
+
+### Tener: idade, sensações e obrigação
+
+| Uso | Exemplo |
+|---|---|
+| Idade | {{Tengo veintiocho años. ¿Cuántos años tienes?}} |
+| Sensações | {{Tengo hambre, sed, sueño, frío, calor, miedo, prisa.}} |
+| Razão | {{Tienes razón.}} |
+| Obrigação | {{Tengo que trabajar hoy.}} ({{tener que}} + infinitivo) |
+| Vontade | {{Tengo ganas de ir a la playa.}} |
+
+Intensidade. Com {{hambre}}, {{sed}}, {{sueño}}, {{frío}}, {{calor}}, {{miedo}} e {{prisa}}, a intensidade vai com **{{mucho/mucha}}**, que concorda: {{tengo mucha hambre}}, {{tengo mucho frío}}. (O capítulo 8 volta a {{muy}} e {{mucho}}.)
+
+### Saber e conocer
+
+{{Saber}} é saber um fato ou uma habilidade: {{Sé español}}, {{Sé cocinar}}. {{Conocer}} é conhecer pessoas e lugares: {{Conozco a Valentina}}, {{Conozco Medellín}}. Em português usamos “conhecer” e “saber” de modo parecido, então o contraste não é grande, mas a forma do {{yo}} ({{sé}} e {{conozco}}) é irregular nos dois.
+
+### Pedir × preguntar
+
+{{Pedir}} muda a vogal ({{pido, pides}}) e pede o objeto pedido: {{Pido agua}}. {{Preguntar}} é regular e leva a pergunta: {{Pregunto cuánto cuesta}}. Quando alguém pede informação: {{Le pido la dirección}} (solicito o endereço) ou {{Le pregunto dónde está el hotel}} (faço a pergunta).
+
+### Os usos do presente
+
+O presente dá conta de:
+
+- **hábitos e rotinas:** {{Trabajo de lunes a viernes.}}
+- **o que acontece agora:** {{¿Qué haces? — Preparo la cena.}} Para destacar que a ação está em curso, usa-se {{estar}} + gerúndio ({{estoy preparando la cena}}), que se forma com *-ando* (verbos em *-ar*) e *-iendo* (verbos em *-er/-ir*).
+- **verdades gerais:** {{El sol sale por el este.}}
+- **futuro próximo:** {{Mañana viajo a Bogotá.}} (o capítulo 12 trata do futuro)
 
 ## 6. Frases de ouro
 
 | Espanhol | Português |
 |---|---|
-| Me gusta mucho esta ciudad. | Gosto muito desta cidade. |
-| No me gustan los lunes. | Não gosto de segundas-feiras. |
-| ¿Te gusta cocinar? | Você gosta de cozinhar? |
-| A mí me encanta el cine. | Eu adoro cinema. |
-| —Me gusta el mate. —A mí también. | —Eu gosto de chimarrão. —Eu também. |
-| —No me gusta el frío. —A mí tampoco. | —Não gosto de frio. —Eu também não. |
-| Me parece una buena idea. | Acho uma boa ideia. |
-| Me duele la cabeza. | Estou com dor de cabeça. |
+| {{¿Qué haces?}} | O que você está fazendo? / O que você faz? |
+| {{No puedo, tengo que trabajar.}} | Não posso, tenho que trabalhar. |
+| {{Quiero un café, por favor.}} | Quero um café, por favor. |
+| {{¿Cuántos años tienes?}} | Quantos anos você tem? |
+| {{Tengo mucha hambre.}} | Estou com muita fome. |
+| {{Voy al gimnasio los lunes.}} | Vou à academia às segundas. |
+| {{Pido la cuenta.}} | Peço a conta. |
+| {{Le pregunto la hora.}} | Pergunto a hora a ele. |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. \_\_\_\_ gusta el café. (Me, Yo)
+1. {{Yo \_\_\_\_ en Medellín.}} ({{vivo}}, {{vive}})
+2. {{Nosotros \_\_\_\_ a las nueve.}} ({{empezamos}}, {{empiezamos}})
+3. {{Ella \_\_\_\_ un café.}} ({{pide}}, {{pede}})
+4. {{Ellos \_\_\_\_ al gimnasio los lunes.}} ({{van}}, {{vamos}})
+5. {{Mi hermana \_\_\_\_ veinticinco años.}} ({{tiene}}, {{es}})
+6. {{Él \_\_\_\_ que sí.}} ({{dice}}, {{diz}})
+7. {{Camila \_\_\_\_ hambre.}} ({{tiene}}, {{está}})
+8. {{Le \_\_\_\_ la hora al camarero.}} ({{pido}}, {{pregunto}})
 
-2. Me \_\_\_\_ los perros. (gusta, gustan)
+**Degrau 2. Complete.** Use o verbo entre parênteses no presente.
 
-3. A Ana \_\_\_\_ gusta bailar. (le, la)
-
-4. A nosotros \_\_\_\_ encanta el cine. (nos, les)
-
-5. ¿\_\_\_\_ gusta la pizza, señor García? (Le, Lo)
-
-6. —Me gusta el cine. —\_\_\_\_. (A mí también, Yo también)
-
-7. —No me gusta el pescado. —\_\_\_\_. (A mí tampoco, A mí también)
-
-8. Me \_\_\_\_ viajar y conocer gente. (gusta, gustan)
-
-**Degrau 2. Complete.** Escreva o pronome átono e o verbo no presente.
-
-1. A mí \_\_\_\_ (gustar) el chocolate.
-
-2. ¿A ti \_\_\_\_ (gustar) las películas de terror?
-
-3. A Tomás \_\_\_\_ (encantar) los tacos.
-
-4. A nosotros \_\_\_\_ (interesar) la música.
-
-5. A mis padres \_\_\_\_ (gustar) viajar.
-
-6. A Lucía \_\_\_\_ (molestar) el ruido.
-
-7. A mí \_\_\_\_ (doler) los pies.
-
-8. ¿A ustedes \_\_\_\_ (gustar) la ciudad?
-
-9. ¿A vosotros \_\_\_\_ (parecer) bien el plan?
-
-10. A ella \_\_\_\_ (faltar) tiempo.
+1. {{Yo \_\_\_\_ la cena.}} ({{hacer}})
+2. {{¿Tú \_\_\_\_ un café?}} ({{querer}})
+3. {{Nosotros \_\_\_\_ llegar a las nueve.}} ({{poder}})
+4. {{Ellos \_\_\_\_ tarde.}} ({{volver}})
+5. {{Yo \_\_\_\_ en mis vacaciones.}} ({{pensar}})
+6. {{Nosotros \_\_\_\_ al cine.}} ({{ir}})
+7. {{Yo \_\_\_\_ temprano.}} ({{salir}})
+8. {{¿Usted \_\_\_\_ hermanos?}} ({{tener}})
+9. {{Yo \_\_\_\_ una pizza.}} ({{pedir}})
+10. {{¿Vosotros \_\_\_\_ té o café?}} ({{preferir}})
 
 **Degrau 3. Produza.**
 
-Escreva cinco frases sobre os seus gostos: duas com *me gusta*, duas com *me gustan* e uma com *no me gusta*.
+Descreva sua rotina de segunda-feira em seis frases, com pelo menos um verbo da bota e um verbo com {{yo}} irregular.
 
-Escreva três perguntas para um colega: uma com *gustar*, uma com *encantar* e uma com *interesar*.
+Escreva três perguntas para um colega de apartamento com {{tú}}, usando {{poder}}, {{querer}} e {{hacer}}.
 
-Responda a estas quatro frases com *a mí también*, *a mí tampoco*, *a mí sí* ou *a mí no*, conforme a sua opinião: *Me encanta madrugar. No me gusta el calor. Me interesan los idiomas. No me gustan las películas de miedo.*
+Escreva três frases com {{tener}} + sensação ou idade.
 
-Escreva um diálogo de seis falas entre você e dois amigos escolhendo um restaurante, usando *me parece*.
+Reescreva três das suas frases com {{vos}} no lugar de {{tú}}.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1. Yo gusto el café.
-
-2. Me gusta los perros.
-
-3. A Ana gusta bailar.
-
-4. Me gusta de viajar.
-
-5. A mí me gusta el té.
-
-6. —No me gusta el calor. —Yo tampoco.
-
-7. A mi me gusta el cine.
+1. {{Yo quero un café.}}
+2. {{Puedemos llegar a las ocho.}}
+3. {{Estoy con hambre.}}
+4. {{Yo hazo la cena.}}
+5. {{Ella pregunta una pizza.}}
+6. {{Ellos vuelven tarde.}}
+7. {{Soy treinta años.}}
 :::::
 
 ## 8. O erro típico
 
-O erro que mais se vê é a **tradução direta de "eu gosto"**: *yo gusto*, *yo me gusta*. O português coloca a pessoa como sujeito, e o aluno copia. O segundo erro é **não concordar o verbo com a coisa**: *me gusta los perros*, em vez de *me gustan*. O terceiro é **perder o pronome átono** quando aparece o nome da pessoa: *a Ana gusta*. E há o clássico de responder **yo también** onde se espera *a mí también*.
+O erro mais frequente é **conjugar como o português, sem trocar a vogal**: {{quero, poso, penso}}. O segundo é **traduzir “estar com” por {{estar con}}**: {{~~estoy con hambre~~}}. O terceiro é **regularizar o {{yo}}**: {{~~hazo, pongo, salo~~}}, quando o certo é {{hago, pongo, salgo}}.
 
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~Yo gusto el café.~~ | *Me gusta el café.* | A coisa é o sujeito; a pessoa vem no pronome. |
-| ~~Me gusta los perros.~~ | *Me gustan los perros.* | O verbo concorda com a coisa. |
-| ~~A Ana gusta bailar.~~ | *A Ana le gusta bailar.* | O pronome *le* é obrigatório. |
-| ~~Me gusta de viajar.~~ | *Me gusta viajar.* | Sem *de*; o infinitivo é o sujeito. |
-| ~~—Me gusta. —Yo también.~~ | *—Me gusta. —A mí también.* | O "eu" que concorda é o que sente o gosto. |
-| ~~A mi me gusta.~~ | *A mí me gusta.* | O pronome tônico leva acento. |
+| {{~~yo quero~~}} | {{yo quiero}} | A vogal da raiz muda em {{yo, tú, él, ellos}}. |
+| {{~~yo poso~~}} | {{yo puedo}} | {{Poder}}: o → ue. |
+| {{~~estoy con hambre~~}} | {{tengo hambre}} | Sensações com {{tener}}. |
+| {{~~soy treinta años~~}} | {{tengo treinta años}} | Idade com {{tener}}. |
+| {{~~yo hazo~~}} | {{yo hago}} | {{Hacer}} tem {{yo}} irregular. |
+| {{~~pregunto un café~~}} | {{pido un café}} | Solicitar é {{pedir}}; {{preguntar}} é para perguntas. |
 :::
 
 ## 9. Retorno
 
-**Do capítulo 4.** Conjugue no presente, em *yo* e em *nosotros*: *querer, pedir, poder*. Como se diz "estou com fome" e "tenho 30 anos"?
+**Do capítulo 4.** Faça as perguntas {{¿\_\_\_\_ vives?}} (onde) e {{¿\_\_\_\_ años tienes?}} (quantos) e negue: {{Siempre desayuno.}} → {{\_\_\_\_ desayuno.}}
 
-**Do capítulo 3.** Qual é o artigo de *leche* e de *color*? Diga o plural de *examen* e de *canción*. Qual é a diferença entre *un gran amigo* e *un amigo grande*?
+**Do capítulo 3.** Diga o artigo e o plural: {{\_\_\_\_ leche}}, {{\_\_\_\_ color}}, {{\_\_\_\_ examen}}.
 
-**Do capítulo 2.** Complete: *Mi jefe \_\_\_\_ aburrido (característica). Hoy yo \_\_\_\_ aburrida (estado). El café \_\_\_\_ caliente.*
+**Do capítulo 2.** Complete com {{ser}} ou {{estar}}: {{Mi hermano \_\_\_\_ médico. Mis padres \_\_\_\_ en Lima.}}
+
+**Do capítulo 1.** Por que {{está}} leva acento e {{piensa}} não? Onde cai a tônica de {{hablan}}?
 
 | Quando | O que fazer |
 |---|---|
-| Dia 1 | Leia a Cena em voz alta e troque os gostos pelos seus. |
-| Dia 3 | Escreva dez frases com *me gusta* ou *me gustan*, sobre comida, música e lugares. |
+| Dia 1 | Leia a Cena em voz alta, trocando os nomes pelos seus. |
+| Dia 3 | Conjugue de memória {{querer, poder, pedir, ir, tener, hacer}} nas seis pessoas. |
 | Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Faça uma enquete com três pessoas: "¿Qué te gusta?" Anote as respostas e escreva três frases com *le gusta* ou *les gusta*. |
+| Dia 14 | Escreva um parágrafo de dez linhas sobre um dia comum da sua semana. |
 
-## 10. Resumo e "já consigo"
+## 10. Resumo e “já consigo”
 
 ::::: resumo
-*Gustar* funciona às avessas: a coisa é o sujeito e a pessoa é o pronome. *Me gusta el café* = "o café me agrada".
+Regulares: *-ar* ({{hablo, hablas, habla, hablamos, habláis, hablan}}), *-er* ({{como, comes...}}), *-ir* ({{vivo, vives, vive, vivimos, vivís, viven}}).
 
-*Gusta* com coisa no singular ou infinitivo; *gustan* com coisa no plural. Pronomes: *me, te, le, nos, os, les*.
+Bota: {{e → ie}} ({{quiero}}), {{o → ue}} ({{puedo}}), {{e → i}} ({{pido}}), {{u → ue}} ({{juego}}); {{nosotros}} e {{vosotros}} mantêm a raiz.
 
-*A mí, a ti, a él...* dão ênfase; com nome, o pronome átono continua: *A Ana le gusta*.
+{{Yo}} irregular: {{hago, pongo, salgo, traigo, sé, veo, doy, conozco}}.
 
-Concordar: *a mí también* / *a mí tampoco*. Discordar: *a mí sí* / *a mí no*.
+Irregulares: {{voy, vas, va, vamos, vais, van}}; {{tengo, tienes...}}; {{vengo, vienes...}}; {{digo, dices...}}.
 
-*Encantar, interesar, molestar, importar, doler, faltar, parecer* usam o mesmo molde. Para gostar de uma pessoa como pessoa, use *caer bien*.
+{{Tener}} para idade e sensações: {{tengo hambre, tengo veinte años}}. {{Pedir}} é solicitar; {{preguntar}} é perguntar.
 
 **Já consigo?**
 
-Digo "gosto de café" e "gosto de cachorros" sem usar *yo gusto*.
+Conjugo {{querer}} e {{poder}} nas seis pessoas, sem dizer “quero” ou “poso”.
 
-Respondo "eu também" e "eu também não" com *a mí también* e *a mí tampoco*.
+Digo “estou com fome” e “tenho 28 anos” sem usar {{estar}} nem {{ser}}.
 
-Dou opinião com *me parece* e falo de dor com *me duele(n)*.
+Distingo {{pedir un café}} de {{preguntar la hora}}.
 :::::
 
 ## Glossário do capítulo 5
 
 | Espanhol | Português |
 |---|---|
-| gustar | agradar, gostar (molde invertido) |
-| encantar | adorar |
-| interesar | interessar |
-| molestar | incomodar |
-| importar | importar |
-| doler | doer |
-| faltar | faltar |
-| parecer | parecer, achar |
-| caer bien, caer mal | cair bem, cair mal (gostar ou não de alguém) |
-| también | também |
-| tampoco | também não |
-| mucho, bastante, un poco | muito, bastante, um pouco |
-| el picante | o picante, a pimenta |
-| el pescado | o peixe (como comida) |
-| el pollo | o frango |
-| la película | o filme |
-| el ruido | o barulho |
-| la cabeza | a cabeça |
-| el pie | o pé |
-| el tiempo | o tempo |
-| la idea | a ideia |
-| la taquería | taqueria |
-| probar | provar, experimentar |
+| {{trabajar}} | trabalhar |
+| {{empezar (empiezo)}} | começar |
+| {{querer (quiero)}} | querer |
+| {{poder (puedo)}} | poder |
+| {{preferir (prefiero)}} | preferir |
+| {{pensar (pienso)}} | pensar |
+| {{volver (vuelvo)}} | voltar |
+| {{pedir (pido)}} | pedir, solicitar |
+| {{preguntar}} | perguntar |
+| {{hacer (hago)}} | fazer |
+| {{salir (salgo)}} | sair |
+| {{ir (voy)}} | ir |
+| {{tener (tengo)}} | ter |
+| {{decir (digo)}} | dizer |
+| {{venir (vengo)}} | vir |
+| {{saber (sé)}} | saber |
+| {{conocer (conozco)}} | conhecer |
+| {{desayunar}} | tomar café da manhã |
+| {{tener hambre}} | estar com fome |
+| {{tener razón}} | ter razão |
+| {{temprano}} | cedo |
+| {{tarde}} | tarde |
+| {{el pan}} | pão |
 
 ## Chave comentada do capítulo 5
 
 ::::: gabarito
-**Degrau 1.** 1 Me (a coisa é o sujeito, não *yo*). 2 gustan (*los perros*, plural). 3 le (indireto, não *la*). 4 nos (*nosotros*). 5 Le (*usted*). 6 A mí también. 7 A mí tampoco. 8 gusta (infinitivos, singular).
+**Degrau 1.** 1 {{vivo}} ({{yo}}). 2 {{empezamos}} ({{nosotros}} mantém a raiz do infinitivo). 3 {{pide}} ({{pedir}}: e → i). 4 {{van}} ({{ir}}). 5 {{tiene}} (idade com {{tener}}). 6 {{dice}} ({{decir}}: e → i). 7 {{tiene}} (sensação com {{tener}}). 8 {{pregunto}} (a hora é uma pergunta).
 
-**Degrau 2.** 1 me gusta. 2 te gustan. 3 le encantan. 4 nos interesa. 5 les gusta (infinitivo, singular). 6 le molesta. 7 me duelen. 8 les gusta. 9 os parece. 10 le falta.
+**Degrau 2.** 1 {{hago}}. 2 {{quieres}}. 3 {{podemos}}. 4 {{vuelven}}. 5 {{pienso}}. 6 {{vamos}}. 7 {{salgo}}. 8 {{tiene}} ({{usted}}, 3ª pessoa). 9 {{pido}}. 10 {{preferís}} ({{vosotros}} mantém a raiz).
 
-**Degrau 3.** Respostas pessoais. Confira: verbo concordando com a coisa, pronome átono em todas as frases, respostas com *a mí*, ausência de *yo gusto* e de *de* depois de *gustar*.
+**Degrau 3.** Respostas pessoais. Confira as formas da bota ({{pienso, puedo, pido}}) e {{yo}} irregulares ({{hago, salgo}}), a ausência de {{estar con}} e as formas de {{vos}} ({{querés, podés, hacés}}).
 
 **Degrau 4.**
 
-1. Me gusta el café. (a coisa é o sujeito)
+1. {{Yo quiero un café.}} (e → ie)
+2. {{Podemos llegar a las ocho.}} ({{nosotros}} mantém a raiz *pod-*)
+3. {{Tengo hambre.}} (sensação com {{tener}})
+4. {{Yo hago la cena.}} ({{hacer}}: {{yo}} irregular)
+5. {{Ella pide una pizza.}} (solicitar é {{pedir}})
+6. Está certa.
+7. {{Tengo treinta años.}} (idade com {{tener}})
 
-2. Me gustan los perros. (plural)
-
-3. A Ana le gusta bailar. (pronome obrigatório)
-
-4. Me gusta viajar. (sem *de*)
-
-5. Está certa.
-
-6. A mí tampoco. (o "eu" de *gustar* é *a mí*)
-
-7. A mí me gusta el cine. (o pronome tônico leva acento)
-
-**Retorno.** Capítulo 4: quiero / queremos, pido / pedimos, puedo / podemos; *tengo hambre*, *tengo treinta años*. Capítulo 3: la leche, el color; los exámenes, las canciones; *un gran amigo* é um amigo notável, *un amigo grande* é um amigo de tamanho grande. Capítulo 2: es, estoy, está.
+**Retorno.** Capítulo 4: {{Dónde}}, {{Cuántos}}, {{Nunca}}. Capítulo 3: {{la leche (las leches), el color (los colores), el examen (los exámenes)}}. Capítulo 2: {{es (profissão), están (lugar)}}. Capítulo 1: {{está}} leva acento porque termina em vogal e a tônica é a última; {{piensa}} termina em vogal e a tônica é a penúltima (regra normal), então não leva acento. {{Hablan}} termina em *n*, então a tônica é a penúltima: HA-blan.
 :::::

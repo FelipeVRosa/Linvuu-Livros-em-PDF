@@ -1,400 +1,334 @@
-# Capítulo 6. Perguntas, negação e interrogativos (A1)
+# Capítulo 6. Gustar e verbos como gustar (A1)
 
-**Meta do capítulo.** Ao final, você faz perguntas com *qué, cuál, quién, cuánto, cómo, dónde, adónde, cuándo* e *por qué* com o acento e a ordem certos, escolhe entre *qué* e *cuál*, e nega frases com *no, nada, nadie, nunca* e *tampoco* sem tropeçar na posição.
+**Meta do capítulo.** Ao final, você diz do que gosta e do que não gosta com {{me gusta}} e {{me gustan}}, concorda e discorda com {{a mí también}}, {{a mí tampoco}}, {{a mí sí}} e {{a mí no}}, e usa {{encantar}}, {{interesar}}, {{molestar}} e {{parecer}} com o mesmo molde.
 
-## 1. Cena: no balcão do albergue
+## 1. Cena: onde jantar
 
-Lucas chega a um albergue em Lima. Marta trabalha na recepção.
+Camila, Lucía e Tomás saem do trabalho e discutem onde jantar.
 
 ::: dialogo
-**Marta:** Buenas tardes. ¿Qué desea?
+**Lucía:** {{¿Qué tipo de comida les gusta? Hay un restaurante peruano y una taquería.}}
 
-**Lucas:** Buenas tardes. Tengo una reserva.
+**Tomás:** {{A mí me gustan los tacos, y hoy tengo ganas de comer algo rápido.}}
 
-**Marta:** ¿A nombre de quién?
+**Camila:** {{A mí me gusta la comida peruana. Me interesa probar el ceviche.}}
 
-**Lucas:** De Lucas Ferreira.
+**Lucía:** {{A mí no me gusta el pescado crudo.}}
 
-**Marta:** Aquí está. ¿De dónde es usted?
+**Tomás:** {{A mí tampoco. ¿Y a ti, Camila?}}
 
-**Lucas:** De Brasil. ¿Cuánto cuesta el desayuno?
+**Camila:** {{A mí sí me gusta, pero no me gusta el picante.}}
 
-**Marta:** Cuesta poco, pero hoy no tenemos nada de fruta fresca.
+**Lucía:** {{Entonces la taquería. Los tacos de pollo no pican, y a Tomás le encantan.}}
 
-**Lucas:** No importa. ¿Cuál es la contraseña del wifi?
+**Tomás:** {{Me parece una buena idea.}}
 
-**Marta:** Está en la pared, junto a la puerta.
-
-**Lucas:** ¿Dónde está la cocina?
-
-**Marta:** Al final del pasillo. Está vacía.
-
-**Lucas:** ¿Por qué está vacía?
-
-**Marta:** Porque el grupo llega mañana. Hoy no viene nadie más.
-
-**Lucas:** Perfecto. Nunca duermo bien con ruido.
-
-**Marta:** Aquí duerme tranquilo. ¿Adónde va ahora?
-
-**Lucas:** Al mercado. ¿Cuál recomienda?
+**Camila:** {{A mí también me parece perfecto. Vamos.}}
 :::
 
-Em português: Boa tarde. O que o senhor deseja? / Boa tarde. Tenho uma reserva. / Em nome de quem? / De Lucas Ferreira. / Aqui está. De onde o senhor é? / Do Brasil. Quanto custa o café da manhã? / Custa pouco, mas hoje não temos nenhuma fruta fresca. / Tudo bem. Qual é a senha do wifi? / Está na parede, ao lado da porta. / Onde fica a cozinha? / No fim do corredor. Está vazia. / Por que está vazia? / Porque o grupo chega amanhã. Hoje não vem mais ninguém. / Perfeito. Eu nunca durmo bem com barulho. / Aqui o senhor dorme tranquilo. Aonde vai agora? / Ao mercado. Qual a senhora recomenda?
+Em português: De que tipo de comida vocês gostam? Tem um restaurante peruano e uma taqueria. / Eu gosto de tacos, e hoje estou com vontade de comer algo rápido. / Eu gosto de comida peruana. Tenho interesse em provar o ceviche. / Eu não gosto de peixe cru. / Eu também não. E você, Camila? / Eu gosto, mas não gosto de pimenta. / Então a taqueria. Os tacos de frango não são picantes, e o Tomás adora. / Acho uma boa ideia. / Eu também acho ótimo. Vamos.
 
-Repare em três coisas: toda pergunta tem **¿ … ?** e uma palavra com acento (*qué, cuánto, cuál, dónde, quién, adónde*); *Por qué* e *porque* aparecem lado a lado, um na pergunta e outro na resposta; e *Hoy no viene nadie* nega duas vezes, com *no* antes do verbo e *nadie* depois.
+Repare: ninguém disse “eu gosto”. Disseram {{me gusta}}, {{me gustan}}, {{me interesa}}, {{le encantan}}, {{me parece}}. E as respostas foram {{a mí también}}, {{a mí tampoco}}, {{a mí sí}}, e não “eu também”.
 
 ## 2. A armadilha do português
 
-Aqui o português ajuda mais do que atrapalha, e vale começar pelo que **não** é problema. A dupla negação, que muita gente teme, você já faz: “não tenho nada”, “não vi ninguém”, “não vou nunca”. O espanhol funciona igual. O que pega são cinco detalhes pequenos.
+Em português, o gosto tem um sujeito humano: **eu** gosto **de** café. A pessoa é o sujeito, o café vem depois da preposição “de”. O espanhol vira a frase do avesso: o café **agrada** a mim. A coisa é o sujeito, a pessoa é quem recebe.
 
-1.  **Acento nos interrogativos.** O português escreve *que, quem, onde, quanto* sempre sem acento. O espanhol acentua a palavra toda vez que ela pergunta (ou exclama), até em pergunta indireta: {{No sé dónde vive}}. Sem acento, é outra palavra: {{que}} (“que”, conjunção), {{como}} (“como”, de comer ou “como”, de comparação).
-
-2.  **“O que” vira *qué*, sem artigo.** O brasileiro diz “o que você quer?”. Quem traduz palavra por palavra escreve ~~¿Lo que quieres?~~. O certo é {{¿Qué quieres?}}.
-
-3.  **Ordem.** Depois da palavra interrogativa, o verbo vem logo, e o sujeito, se aparecer, vem depois: {{¿Dónde vive Marta?}}. No português “Onde a Marta mora?” é comum; em espanhol padrão, ~~¿Dónde Marta vive?~~ soa errado.
-
-4.  **“Qual” e “que” não se dividem como *cuál* e *qué*.** O português diz “que livro você quer?” e “qual livro você quer?” sem diferença. O espanhol separa com mais cuidado: antes de substantivo, *qué*.
-
-5.  **“Também não” é uma palavra só:** *tampoco*. Não existe ~~también no~~.
-
-| Português | Espanhol | O que muda |
+| Português | Espanhol (errado) | Espanhol (certo) |
 |---|---|---|
-| O que você quer? | ¿Qué quieres? | sem artigo; acento no *qué* |
-| Onde você mora? | ¿Dónde vives? | acento |
-| Aonde você vai? | ¿Adónde vas? | *adónde* é uma palavra |
-| Por que você não vem? | ¿Por qué no vienes? | duas palavras, acento |
-| Porque está doente. | Porque está enfermo. | uma palavra, sem acento |
-| Eu também não. | Yo tampoco. | uma palavra |
-| Não vejo ninguém. | No veo a nadie. | veja a nota sobre *a* mais adiante |
+| Eu gosto de café. | {{~~Yo gusto el café.~~}} | {{**Me gusta** el café.}} |
+| Eu gosto de cachorros. | {{~~Yo gusto los perros.~~}} | {{**Me gustan** los perros.}} |
+| Ele gosta de dançar. | {{~~Él gusta de bailar.~~}} | {{**Le gusta** bailar.}} |
+| Nós gostamos do filme. | {{~~Nosotros gustamos el filme.~~}} | {{**Nos gusta** la película.}} |
 
-::: atencao
-Na tabela, a última linha traz um *a* que você ainda não estudou: {{No veo a nadie}}. Por ora, guarde só a ideia de *no + verbo + nadie*; o *a* aparece no capítulo 13.
-:::
+({{Gustar de}} + algo existe, mas é construção de registro escrito; na fala, use o molde {{le gusta}}.)
+
+Pense assim: {{me gusta el café}} = “o café me agrada”. A coisa decide se o verbo é {{gusta}} (singular) ou {{gustan}} (plural). A pessoa decide só o pronome ({{me, te, le, nos, os, les}}).
+
+Há uma segunda armadilha, nas respostas curtas. Em português dizemos “eu também” e “eu também não” para tudo. Em espanhol, com {{gustar}} a resposta natural é **{{a mí también}}** e **a mí tampoco**, porque o “eu” aqui não é o sujeito da frase anterior.
+
+| Frase | Resposta em português | Resposta em espanhol |
+|---|---|---|
+| {{Me gusta el café.}} | Eu também. | {{**A mí también.**}} |
+| {{No me gusta el calor.}} | Eu também não. | **{{A mí tampoco}}.** |
+| {{Me gusta el café.}} | Eu não. | **{{A mí no}}.** |
+| {{No me gusta el calor.}} | Eu gosto. | {{**A mí sí.**}} |
+
+Em frases com outros verbos, o {{yo}} continua valendo: {{Soy brasileña. — Yo también.}} {{Trabajo hoy. — Yo no.}}
 
 ## 3. Descubra você mesmo
 
-Compare.
+Observe as frases.
 
-| Pergunta | Resposta |
-|---|---|
-| ¿Dónde está la cocina? | Al final del pasillo. |
-| ¿Adónde va ahora? | Al mercado. |
-| ¿Por qué está vacía? | Porque el grupo llega mañana. |
-| ¿Qué es un albergue? | Es un alojamiento barato. |
-| ¿Cuál es la contraseña? | Está en la pared. |
-| Hoy no viene nadie. | Nadie viene hoy. |
+| Frase | Quem sente | O que causa o gosto |
+|---|---|---|
+| {{Me gusta el café.}} | eu | o café |
+| {{Me gustan los tacos.}} | eu | os tacos |
+| {{Te gusta bailar.}} | você | dançar |
+| {{A Tomás le gusta el fútbol.}} | Tomás | o futebol |
+| {{A Lucía le gustan las películas.}} | Lucía | os filmes |
+| {{Nos gusta viajar y conocer gente.}} | nós | viajar e conhecer gente |
 
 Perguntas:
 
-Que diferença você vê entre *dónde* e *adónde* nas duas primeiras linhas (olhe o verbo)?
+Quando o verbo é {{gusta}} e quando é {{gustan}}? Olhe para a coisa que agrada, e não para a pessoa.
 
-*Por qué* e *porque* se escrevem igual? O que cada um faz?
+Em {{Nos gusta viajar y conocer gente}} há duas ações (viajar e conhecer gente). O verbo ficou em singular ou plural?
 
-Em *Hoy no viene nadie* e em *Nadie viene hoy*, onde está o *no*? E quando a palavra negativa vem antes do verbo, ainda é preciso *no*?
+Em {{A Tomás le gusta el fútbol}}, o pronome {{le}} é obrigatório ou opcional? Teste: dá para dizer {{A Tomás gusta el fútbol}}?
 
-Se você notou que *adónde* acompanha movimento (*va*), que a pergunta escreve *por qué* e a resposta *porque*, e que o *no* só aparece quando a palavra negativa vem **depois** do verbo, já tem a regra.
+Se você viu que o verbo concorda com a coisa, que um infinitivo é sempre singular e que o pronome {{le}} não some quando aparece o nome da pessoa, a regra apareceu.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1.  Toda pergunta abre com **¿** e fecha com **?**. Toda palavra interrogativa leva **acento**: *qué, quién, cuál, cuánto, cómo, dónde, adónde, cuándo*.
-
-2.  **Por qué** (duas palavras, com acento) pergunta. **Porque** (uma palavra, sem acento) responde.
-
-3.  Ordem: palavra interrogativa + **verbo** + sujeito. {{¿Cuándo llega el grupo?}}
-
-4.  **Qué** pergunta o que é uma coisa ou acompanha um substantivo: {{¿Qué es esto?}} {{¿Qué habitación quiere?}} **Cuál** pede uma escolha ou uma identificação: {{¿Cuál es la contraseña?}}
-
-5.  Negação: **no** antes do verbo. Se a palavra negativa vem depois do verbo, o **no** é obrigatório: {{No tengo nada.}} Se vem antes, não há *no*: {{Nunca duermo bien.}}
-
-6.  Palavras negativas: **nada, nadie, nunca, jamás, ningún/ninguna, tampoco**.
+1. **Molde:** pronome átono + {{gusta/gustan}} + a coisa que agrada. {{Me gusta el cine. Te gustan los gatos.}}
+2. **Pronomes:** {{me, te, le, nos, os, les}} (para {{yo, tú/vos, él/ella/usted, nosotros, vosotros, ellos/ustedes}}).
+3. **{{Gusta}}** com coisa no singular ou com infinitivo. **{{Gustan}}** com coisa no plural.
+4. **Ênfase ou clareza:** {{a mí, a ti, a él/ella/usted, a nosotros, a vosotros, a ellos/ustedes}} vêm antes do pronome átono: {{A mí me gusta, a ti no.}} Com nome: {{A Ana le gusta.}} O pronome átono nunca some.
+5. **Concordar:** {{a mí también}} (positivo) e {{a mí tampoco}} (negativo). **Discordar:** {{a mí sí}} e {{a mí no}}.
+6. **Mesmo molde:** {{encantar, interesar, molestar, importar, doler, faltar, parecer}}.
 :::::
 
 ## 5. Por dentro
 
-**As palavras interrogativas.** Todas as formas abaixo trazem acento.
+### A estrutura completa
 
-| Espanhol | Português | Exemplo |
+(A + pronome tônico ou nome) + **pronome átono** + verbo + coisa
+
+| Quem sente | Com ênfase (opcional) | Átono (obrigatório) | gusta / gustan |
+|---|---|---|---|
+| {{yo}} | {{a mí}} | {{me}} | {{gusta / gustan}} |
+| {{tú, vos}} | {{a ti, a vos}} | {{te}} | {{gusta / gustan}} |
+| {{él, ella, usted}} | {{a él, a ella, a usted}} | {{le}} | {{gusta / gustan}} |
+| {{nosotros}} | {{a nosotros}} | {{nos}} | {{gusta / gustan}} |
+| {{vosotros}} | {{a vosotros}} | {{os}} | {{gusta / gustan}} |
+| {{ellos, ellas, ustedes}} | {{a ellos, a ellas, a ustedes}} | {{les}} | {{gusta / gustan}} |
+
+**A mí, com acento.** O pronome tônico {{mí}} leva acento escrito; o possessivo {{mi}} (meu, minha) não. {{A mí me gusta}} (pronome, com acento) × {{A mi hermano le gusta}} (possessivo, sem acento). O acento só aparece em {{mí}}; {{ti}} nunca leva.
+
+**Ordem das palavras.** O pronome átono vem antes do verbo, e a coisa pode abrir a frase: {{El café me gusta}}; {{Me gusta el café}}. Os dois estão certos; o primeiro destaca o café.
+
+**Negação.** {{No}} vem antes do pronome átono: {{No me gusta el picante.}} {{A Tomás no le gusta el pescado.}}
+
+**Intensidade.**
+
+| Quero dizer | Espanhol |
+|---|---|
+| gosto muito | {{Me gusta mucho.}} |
+| gosto bastante | {{Me gusta bastante.}} |
+| gosto um pouco | {{Me gusta un poco.}} |
+| não gosto nada | {{No me gusta nada.}} |
+
+{{Mucho}} fica depois do verbo: {{Me gusta mucho}}, e nunca “{{me mucho gusta}}”.
+
+### Coisa singular, plural e infinitivo
+
+| A coisa é… | Verbo | Exemplo |
 |---|---|---|
-| qué | o que, que | ¿Qué quieres? |
-| cuál, cuáles | qual, quais | ¿Cuál es la llave? |
-| quién, quiénes | quem | ¿Quiénes son ellos? |
-| cuánto, cuánta, cuántos, cuántas | quanto(s), quanta(s) | ¿Cuántos días se queda? |
-| cómo | como | ¿Cómo está usted? |
-| dónde | onde | ¿Dónde está la cocina? |
-| adónde | aonde | ¿Adónde va ahora? |
-| cuándo | quando | ¿Cuándo llega el grupo? |
-| por qué | por que (pergunta) | ¿Por qué no viene? |
+| singular | {{gusta}} | {{Me gusta la música.}} |
+| plural | {{gustan}} | {{Me gustan las canciones.}} |
+| um infinitivo | {{gusta}} | {{Me gusta cocinar.}} |
+| dois infinitivos | {{gusta}} | {{Me gusta cocinar y comer.}} |
+| duas coisas singulares | {{gusta}} ou {{gustan}} | {{Me gusta el té y el café. / Me gustan el té y el café.}} |
 
-*Cuánto* concorda com o substantivo que vem depois: {{¿Cuántas camas tiene la habitación?}}. Quando acompanha só o verbo, não muda: {{¿Cuánto cuesta?}} {{¿Cuánto trabajas?}}
+Com duas coisas no singular, os dois verbos aparecem na fala; no A1, o mais simples é concordar com a primeira coisa citada ({{Me gusta el té y el café}}).
 
-*Quién* tem plural, e o verbo acompanha: {{¿Quién es?}} {{¿Quiénes son?}}
+### Quando o sujeito é uma pessoa
 
-**Preposição antes da palavra interrogativa.** A preposição fica na frente, e a pergunta não termina nela: {{¿De dónde eres?}} {{¿Con quién viajas?}} {{¿De qué hablas?}} {{¿Para qué sirve?}} O português faz igual (“com quem você viaja?”), então aqui não há surpresa.
+{{Gustar}} também aceita uma pessoa como sujeito, e então a frase muda de sentido: costuma indicar **atração**.
 
-**Dónde × adónde.** *Dónde* pergunta o lugar onde algo está: {{¿Dónde está la cocina?}} *Adónde* pergunta o destino de um movimento: {{¿Adónde vas?}} Na fala descontraída, muita gente diz também {{¿Dónde vas?}}, mas na escrita cuidada use *adónde*. Também se encontra a grafia em duas palavras, *a dónde*, com o mesmo sentido.
+| Frase | Sentido |
+|---|---|
+| {{Me gustas.}} | Você me atrai. (verbo na 2ª pessoa) |
+| {{Le gusto a Camila.}} | Camila se interessa por mim. |
+| {{Me gusta Ana.}} | Ana me atrai (na maioria dos contextos). |
+| {{Ana me cae bien.}} | Gosto da Ana, como pessoa. |
 
-**Qué × cuál.** Os dois traduzem “qual” em algum contexto. Três situações cobrem quase tudo.
+Para dizer que você gosta de uma pessoa como amiga ou colega, o mais natural é {{caer bien}} (ou {{caer mal}}, o contrário): {{Mi jefe me cae bien. Los vecinos me caen mal.}} O verbo concorda com a pessoa. Para amor de família ou de amigos, usa-se {{querer}}: {{Quiero mucho a mi abuela.}} (o *a* antes de pessoa é obrigatório quando ela é objeto direto.)
 
-| Situação | Use | Exemplo |
+### Os verbos que imitam o gustar
+
+Os verbos abaixo usam o mesmo molde: pessoa afetada no pronome, coisa como sujeito.
+
+| Verbo | Sentido | Exemplo |
 |---|---|---|
-| Definição: “o que é...?” | *qué* + ser | ¿Qué es un hostal? |
-| Antes de um substantivo | *qué* + substantivo | ¿Qué habitación prefiere? |
-| Escolha entre coisas conhecidas ou identificação | *cuál* | ¿Cuál es el número de la habitación? |
+| {{encantar}} | adorar | {{Me encanta el chocolate. / Me encantan los museos.}} |
+| {{fascinar}} | fascinar | {{Le fascina la historia.}} |
+| {{interesar}} | interessar | {{Nos interesa el proyecto. / Me interesan los idiomas.}} |
+| {{molestar}} | incomodar | {{Me molesta el ruido.}} |
+| {{importar}} | importar | {{No me importa el precio.}} |
+| {{doler}} | doer | {{Me duele la cabeza. / Me duelen los pies.}} |
+| {{faltar}} | faltar | {{Me falta tiempo.}} |
+| {{parecer}} | parecer, achar | {{Me parece buena idea. / Me parecen caros.}} |
+| {{apetecer}} | dar vontade (comum na Espanha) | {{Me apetece un café.}} |
+| {{hacer falta}} | fazer falta, precisar | {{Me hace falta un descanso.}} |
 
-Antes de substantivo, a forma segura é *qué*. Você pode ouvir *cuál* antes de substantivo em algumas regiões da América, em fala informal (¿Cuál habitación prefiere?), mas não escreva assim num texto formal. Antes de *de*, *cuál* é a escolha certa: {{¿Cuál de las camas es mía?}} (*mía* é do capítulo 8; trate como bloco pronto).
+**{{Doler}}** muda a vogal da raiz como {{poder}}: {{me duele, me duelen}} (o → ue). **{{Parecer}}** é a forma natural de dar opinião: {{Me parece que tienes razón}} (acho que você tem razão). **{{Apetecer}}** é muito usado na Espanha; na América Latina, costuma-se dizer {{tengo ganas de}} ou {{se me antoja}} (México).
 
-**Pergunta de sim ou não.** Não há partícula especial. A frase pode ficar igual à afirmativa, só com a entonação subindo e os sinais ¿ ?: {{¿Usted tiene la llave?}} Ou o verbo vem antes do sujeito: {{¿Tiene usted la llave?}} Os dois estão certos.
+### Um pedido educado: me gustaría
 
-**Exclamação.** O mesmo *qué* serve para admirar, com ¡ !: {{¡Qué rico!}} {{¡Qué bonito!}} {{¡Cuánto ruido!}}
-
-**Por qué, porque e outros dois parentes.**
-
-| Forma | Função | Exemplo |
-|---|---|---|
-| por qué | pergunta “por quê?” | ¿Por qué estás aquí? |
-| porque | resposta “porque” | Porque trabajo aquí. |
-| porqué | substantivo: “o motivo” | No entiendo el porqué. |
-| por que | preposição + “que” (raro) | Es la razón por que vengo. |
-
-As duas últimas você vai encontrar na leitura, mas raramente precisará escrever. Fique com as duas primeiras e acerte.
-
-**Como negar.** O espanhol coloca **no** diante do verbo conjugado: {{No hablo quechua.}} {{Lucas no trabaja hoy.}} Não existe auxiliar como o *do/don't* do inglês nem o “não” depois do verbo.
-
-**As palavras negativas.**
-
-| Palavra | Português | Exemplo |
-|---|---|---|
-| nada | nada | No tengo nada. |
-| nadie | ninguém | No viene nadie. |
-| nunca | nunca | Nunca llego tarde. |
-| jamás | jamais, nunca (mais enfático) | Jamás vuelvo a ese lugar. |
-| ningún, ninguna | nenhum, nenhuma | No tengo ningún problema. |
-| tampoco | também não | Yo tampoco. |
-
-*Ninguno* perde o *o* antes de substantivo masculino singular: {{ningún problema}}, mas {{ninguna llave}}. É o mesmo mecanismo de *buen* e *gran*, do capítulo 3.
-
-**Onde fica o *no*.** Esta é a regra que vale decorar.
-
-| Palavra negativa | Posição | Exemplo |
-|---|---|---|
-| depois do verbo | *no* antes do verbo | No veo nada. |
-| antes do verbo | sem *no* | Nadie viene. / Nunca llego tarde. |
-
-Dizer ~~Nadie no viene~~ está errado. Mas {{No viene nadie}} e {{Nadie viene}} significam o mesmo. A segunda é mais enfática. A primeira é a mais comum com *nada*, *nadie* e *nunca*. Em frases com mais de uma palavra negativa, todas as que vêm depois do verbo se acumulam: {{No digo nada a nadie.}}
-
-**Tampoco.** Dá a resposta curta quando você concorda com uma frase negativa.
-
-| Frase de alguém | Sua resposta | Sentido |
-|---|---|---|
-| Yo no fumo. | Yo tampoco. | eu também não |
-| Yo no fumo. | Yo sí. | eu fumo |
-| No me gusta el ruido. | A mí tampoco. | eu também não gosto |
-| No me gusta el ruido. | A mí sí. | eu gosto |
-
-Observe a ligação com o capítulo 5: com *gustar* a resposta usa *a mí*, porque a pessoa é o objeto indireto. Com um verbo comum, usa *yo*. Em frase afirmativa, a concordância é *también*: {{Yo trabajo aquí. – Yo también.}}
-
-Como *tampoco* já contém a ideia de negação, ele funciona como as outras palavras negativas. Depois do verbo exige *no*: {{No como carne y Marta tampoco.}} Pode vir também antes do verbo: {{Marta tampoco come carne.}}
-
-**Perguntas que pedem “algo”, “alguien”.** Em pergunta, o contrário de *nada* e *nadie* é *algo* e *alguien*: {{¿Necesita algo?}} {{¿Hay alguien en la cocina?}}. Quem responde “não” usa *nada* ou *nadie*: {{No, nada.}} {{No, nadie.}}
-
-::: atencao
-**Vos e vosotros nas perguntas.** O espanhol padrão de livro e de aula usa *tú*: {{¿Qué quieres?}} {{¿De dónde eres?}} Em boa parte da América (a RAE registra o *vos* como forma geral de tratamento de confiança na Argentina, no Uruguai, no Paraguai, na Costa Rica, na Nicarágua e em outras áreas) as perguntas soam {{¿Qué querés?}} {{¿De dónde sos?}} {{¿Dónde vivís?}} Na Espanha, para falar com várias pessoas ao mesmo tempo, diz-se {{¿Qué queréis?}} {{¿De dónde sois?}} Em toda a América, ao falar com várias pessoas, usa-se *ustedes*: {{¿Qué quieren?}} A palavra interrogativa, o acento e a ordem não mudam em nenhuma dessas variantes.
-:::
+Para pedir ou desejar algo de forma educada, use o bloco pronto {{me gustaría}} + infinitivo ou substantivo: {{Me gustaría un café. Me gustaría reservar una mesa.}} É uma forma que este livro não detalha; por ora, decore a expressão.
 
 ## 6. Frases de ouro
 
 | Espanhol | Português |
 |---|---|
-| ¿De dónde eres? | De onde você é? |
-| ¿Cuánto cuesta? | Quanto custa? |
-| ¿Cuál es la contraseña del wifi? | Qual é a senha do wifi? |
-| ¿Qué quieres? | O que você quer? |
-| ¿Por qué no vienes? – Porque trabajo. | Por que você não vem? – Porque trabalho. |
-| No tengo nada. | Não tenho nada. |
-| Nunca duermo bien con ruido. | Eu nunca durmo bem com barulho. |
-| Yo tampoco. | Eu também não. |
+| {{Me gusta mucho esta ciudad.}} | Gosto muito desta cidade. |
+| {{No me gustan los lunes.}} | Não gosto de segundas-feiras. |
+| {{¿Te gusta cocinar?}} | Você gosta de cozinhar? |
+| {{A mí me encanta el cine.}} | Eu adoro cinema. |
+| {{—Me gusta el mate. —A mí también.}} | —Eu gosto de chimarrão. —Eu também. |
+| {{—No me gusta el frío. —A mí tampoco.}} | —Não gosto de frio. —Eu também não. |
+| {{Me parece una buena idea.}} | Acho uma boa ideia. |
+| {{Me duele la cabeza.}} | Estou com dor de cabeça. |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1.  ¿\_\_\_\_ cuesta el desayuno? (Qué, Cuánto)
+1. {{\_\_\_\_ gusta el café.}} ({{Me}}, {{Yo}})
+2. {{Me \_\_\_\_ los perros.}} ({{gusta}}, {{gustan}})
+3. {{A Ana \_\_\_\_ gusta bailar.}} ({{le}}, {{la}})
+4. {{A nosotros \_\_\_\_ encanta el cine.}} ({{nos}}, {{les}})
+5. {{¿\_\_\_\_ gusta la pizza, señor García?}} ({{Le}}, {{Lo}})
+6. {{—Me gusta el cine. —\_\_\_\_.}} ({{A mí también}}, {{Yo también}})
+7. {{—No me gusta el pescado. —\_\_\_\_.}} ({{A mí tampoco}}, {{A mí también}})
+8. {{Me \_\_\_\_ viajar y conocer gente.}} ({{gusta}}, {{gustan}})
 
-2.  ¿\_\_\_\_ es la contraseña del wifi? (Qué, Cuál)
+**Degrau 2. Complete.** Escreva o pronome átono e o verbo no presente.
 
-3.  ¿\_\_\_\_ vas ahora, al mercado? (Dónde, Adónde)
-
-4.  ¿\_\_\_\_ no viene el grupo? (Por qué, Porque)
-
-5.  No tengo \_\_\_\_ en la mochila. (nada, algo)
-
-6.  Qual está errada? (a) Nunca como carne. (b) Nunca no como carne. (c) No como carne nunca.
-
-7.  Marta no come carne. Yo \_\_\_\_. (también, tampoco)
-
-8.  ¿\_\_\_\_ personas viajan en el grupo? (Cuántos, Cuántas)
-
-**Degrau 2. Complete.**
-
-1.  ¿\_\_\_\_ \_\_\_\_ eres? – Soy de Chile.
-
-2.  ¿\_\_\_\_ es un hostal? – Es un alojamiento barato.
-
-3.  ¿\_\_\_\_ \_\_\_\_ habla el recepcionista? – Con Lucas.
-
-4.  ¿\_\_\_\_ llega el grupo? – Mañana.
-
-5.  ¿\_\_\_\_ estás? – Muy bien, gracias.
-
-6.  ¿\_\_\_\_ camas tiene la habitación? – Cuatro.
-
-7.  No tengo \_\_\_\_ en la nevera.
-
-8.  Yo no fumo y Marta \_\_\_\_.
-
-9.  Nadie sabe la respuesta. = \_\_\_\_ sabe nadie la respuesta.
-
-10. ¿\_\_\_\_ es la capital de Perú? – Lima.
+1. {{A mí \_\_\_\_ (gustar) el chocolate.}}
+2. {{¿A ti \_\_\_\_ (gustar) las películas de terror?}}
+3. {{A Tomás \_\_\_\_ (encantar) los tacos.}}
+4. {{A nosotros \_\_\_\_ (interesar) la música.}}
+5. {{A mis padres \_\_\_\_ (gustar) viajar.}}
+6. {{A Lucía \_\_\_\_ (molestar) el ruido.}}
+7. {{A mí \_\_\_\_ (doler) los pies.}}
+8. {{¿A ustedes \_\_\_\_ (gustar) la ciudad?}}
+9. {{¿A vosotros \_\_\_\_ (parecer) bien el plan?}}
+10. {{A ella \_\_\_\_ (faltar) tiempo.}}
 
 **Degrau 3. Produza.**
 
-Escreva três perguntas que você faria numa recepção de albergue, com *cuánto, dónde* e *cuál*.
+Escreva cinco frases sobre os seus gostos: duas com {{me gusta}}, duas com {{me gustan}} e uma com {{no me gusta}}.
 
-Responda de forma negativa, com *no* e outra palavra negativa: ¿Necesitas algo? ¿Viene alguien hoy? ¿Viajas siempre en grupo?
+Escreva três perguntas para um colega: uma com {{gustar}}, uma com {{encantar}} e uma com {{interesar}}.
 
-Escreva uma frase com *nunca* antes do verbo e outra com *no ... nunca* depois do verbo, sobre um hábito seu.
+Responda a estas quatro frases com {{a mí también}}, {{a mí tampoco}}, {{a mí sí}} ou {{a mí no}}, conforme a sua opinião: {{Me encanta madrugar. No me gusta el calor. Me interesan los idiomas. No me gustan las películas de miedo.}}
 
-Uma pessoa diz “No me gusta el ruido” e outra diz “Yo no bebo café”. Escreva duas respostas curtas, uma de acordo e uma de desacordo para cada.
+Escreva um diálogo de seis falas entre você e dois amigos escolhendo um restaurante, usando {{me parece}}.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1.  ¿Qué es el número de la habitación?
-
-2.  Nadie no habla español aquí.
-
-3.  ¿Adónde vive Marta?
-
-4.  ¿Porque no vienes?
-
-5.  ¿Lo que quieres?
-
-6.  Lucas no come carne y yo también no.
-
-7.  ¿Cuántas habitaciones tiene el albergue?
+1. {{Yo gusto el café.}}
+2. {{Me gusta los perros.}}
+3. {{A Ana gusta bailar.}}
+4. {{Me gusta de viajar.}}
+5. {{A mí me gusta el té.}}
+6. {{—No me gusta el calor. —Yo tampoco.}}
+7. {{A mi me gusta el cine.}}
 :::::
 
 ## 8. O erro típico
 
-O deslize que mais aparece é **esquecer o acento do interrogativo**, porque o português não o tem: escrever ~~¿Donde vives?~~, ~~¿Como estas?~~. Sem acento, a pergunta vira outra palavra, e em prova ou em mensagem formal isso conta como erro de ortografia, não detalhe. O segundo é traduzir “o que” por *lo que*. O terceiro é a negação em dobro do tipo ~~Nadie no viene~~, que nasce do medo de “esquecer o *no*”: a regra é pôr *no* só quando a palavra negativa vem depois do verbo.
+O erro que mais se vê é a **tradução direta de “eu gosto”**: {{yo gusto}}, {{yo me gusta}}. O português coloca a pessoa como sujeito, e o aluno copia. O segundo erro é **não concordar o verbo com a coisa**: {{me gusta los perros}}, em vez de {{me gustan}}. O terceiro é **perder o pronome átono** quando aparece o nome da pessoa: {{a Ana gusta}}. E há o clássico de responder **{{yo también}}** onde se espera {{a mí también}}.
 
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~¿Donde vives?~~ | ¿Dónde vives? | interrogativo leva acento |
-| ~~¿Lo que quieres?~~ | ¿Qué quieres? | sem artigo |
-| ~~¿Porque no vienes?~~ | ¿Por qué no vienes? | pergunta usa *por qué* |
-| ~~Nadie no viene.~~ | Nadie viene. / No viene nadie. | *no* só antes do verbo se a negativa vem depois |
-| ~~Yo también no fumo.~~ | Yo tampoco fumo. | “também não” é *tampoco* |
-| ~~¿Qué es la contraseña?~~ | ¿Cuál es la contraseña? | identificação pede *cuál* |
+| {{~~Yo gusto el café.~~}} | {{Me gusta el café.}} | A coisa é o sujeito; a pessoa vem no pronome. |
+| {{~~Me gusta los perros.~~}} | {{Me gustan los perros.}} | O verbo concorda com a coisa. |
+| {{~~A Ana gusta bailar.~~}} | {{A Ana le gusta bailar.}} | O pronome {{le}} é obrigatório. |
+| {{~~Me gusta de viajar.~~}} | {{Me gusta viajar.}} | Sem {{de}}; o infinitivo é o sujeito. |
+| {{~~—Me gusta. —Yo también.~~}} | {{—Me gusta. —A mí también.}} | O “eu” que concorda é o que sente o gosto. |
+| {{~~A mi me gusta.~~}} | {{A mí me gusta.}} | O pronome tônico leva acento. |
 :::
 
 ## 9. Retorno
 
-**Do capítulo 1.** Escreva com a letra certa o som forte do *j* em {{ja-más}} e o som de {{gente}}. Em qual sílaba cai a força em {{cuál}}, {{cuándo}} e {{adónde}}? Explique para que serve o acento escrito nessas palavras.
+**Do capítulo 5.** Conjugue no presente, em {{yo}} e em {{nosotros}}: {{querer, pedir, poder}}. Como se diz “estou com fome” e “tenho 30 anos”?
 
-**Do capítulo 2.** Complete com *ser* ou *estar*: {{¿De dónde \_\_\_\_ usted?}} {{¿Dónde \_\_\_\_ la cocina?}}
+**Do capítulo 3.** Qual é o artigo de {{leche}} e de {{color}}? Diga o plural de {{examen}} e de {{canción}}. Qual é a diferença entre {{un gran amigo}} e {{un amigo grande}}?
 
-**Do capítulo 3.** Dê o plural: {{la llave}}, {{el pasajero}}, {{la habitación}}. Dê o plural de {{un buen viajero}}.
-
-**Do capítulo 4.** Conjugue em *tú*: {{¿Qué (querer) \_\_\_\_?}} {{¿A qué hora (poder) \_\_\_\_ venir?}} {{¿Cuántos años (tener) \_\_\_\_?}} (a hora aparece no capítulo 7; aqui, só a forma do verbo).
-
-**Do capítulo 5.** Responda de acordo: {{Me gusta el café.}} → {{A mí \_\_\_\_.}} {{No me gustan los ruidos.}} → {{A mí \_\_\_\_.}}
+**Do capítulo 2.** Complete: {{Mi jefe \_\_\_\_ aburrido (característica). Hoy yo \_\_\_\_ aburrida (estado). El café \_\_\_\_ caliente.}}
 
 | Quando | O que fazer |
 |---|---|
-| Dia 1 | Leia a Cena em voz alta, com a entonação das perguntas. |
-| Dia 3 | Escreva dez perguntas, uma com cada palavra interrogativa da tabela. |
-| Dia 7 | Refaça o Degrau 4 sem olhar a chave. |
-| Dia 14 | Escreva um diálogo de cinco falas numa recepção, com duas negações. |
+| Dia 1 | Leia a Cena em voz alta e troque os gostos pelos seus. |
+| Dia 3 | Escreva dez frases com {{me gusta}} ou {{me gustan}}, sobre comida, música e lugares. |
+| Dia 7 | Refaça o Degrau 4 sem a chave. |
+| Dia 14 | Faça uma enquete com três pessoas: “{{¿Qué te gusta?}}” Anote as respostas e escreva três frases com {{le gusta}} ou {{les gusta}}. |
 
 ## 10. Resumo e “já consigo”
 
 ::::: resumo
-Toda pergunta tem **¿ ?** e uma palavra com **acento**: *qué, cuál, quién, cuánto, cómo, dónde, adónde, cuándo, por qué*.
+{{Gustar}} funciona às avessas: a coisa é o sujeito e a pessoa é o pronome. {{Me gusta el café}} = “o café me agrada”.
 
-**Por qué** pergunta, **porque** responde. “O que você quer?” é **¿Qué quieres?**, sem artigo.
+{{Gusta}} com coisa no singular ou infinitivo; {{gustan}} com coisa no plural. Pronomes: {{me, te, le, nos, os, les}}.
 
-*Qué* para definir e antes de substantivo; *cuál* para escolher ou identificar.
+{{A mí, a ti, a él...}} dão ênfase; com nome, o pronome átono continua: {{A Ana le gusta}}.
 
-**No** vai antes do verbo. Palavra negativa **depois** do verbo exige *no*; **antes**, não: *No viene nadie / Nadie viene*.
+Concordar: {{a mí también}} / {{a mí tampoco}}. Discordar: {{a mí sí}} / {{a mí no}}.
 
-Negativas: *nada, nadie, nunca, jamás, ningún, tampoco*. “Também não” é **tampoco**.
+{{Encantar, interesar, molestar, importar, doler, faltar, parecer}} usam o mesmo molde. Para gostar de uma pessoa como pessoa, use {{caer bien}}.
 
 **Já consigo?**
 
-Faço uma pergunta de cinco palavras com acento e ¿ ? corretos.
+Digo “gosto de café” e “gosto de cachorros” sem usar {{yo gusto}}.
 
-Escolho entre *qué* e *cuál* num pedido de informação.
+Respondo “eu também” e “eu também não” com {{a mí también}} e {{a mí tampoco}}.
 
-Nego uma frase com *nada, nadie* ou *nunca* sem errar o *no*.
+Dou opinião com {{me parece}} e falo de dor com {{me duele(n)}}.
 :::::
 
 ## Glossário do capítulo 6
 
 | Espanhol | Português |
 |---|---|
-| qué | o que, que |
-| cuál, cuáles | qual, quais |
-| quién, quiénes | quem |
-| cuánto, cuánta, cuántos, cuántas | quanto, quanta, quantos, quantas |
-| cómo | como |
-| dónde | onde |
-| adónde | aonde |
-| cuándo | quando |
-| por qué | por quê (pergunta) |
-| porque | porque |
-| nada | nada |
-| nadie | ninguém |
-| nunca | nunca |
-| jamás | jamais |
-| ningún, ninguna | nenhum, nenhuma |
-| tampoco | também não |
-| algo | algo, alguma coisa |
-| alguien | alguém |
-| el albergue | albergue, hostel |
-| la contraseña | a senha |
-| la reserva | a reserva |
-| la cocina | a cozinha |
-| el pasillo | o corredor |
-| gratis | de graça |
+| {{gustar}} | agradar, gostar (molde invertido) |
+| {{encantar}} | adorar |
+| {{interesar}} | interessar |
+| {{molestar}} | incomodar |
+| {{importar}} | importar |
+| {{doler}} | doer |
+| {{faltar}} | faltar |
+| {{parecer}} | parecer, achar |
+| {{caer bien, caer mal}} | cair bem, cair mal (gostar ou não de alguém) |
+| {{también}} | também |
+| {{tampoco}} | também não |
+| {{mucho, bastante, un poco}} | muito, bastante, um pouco |
+| {{el picante}} | o picante, a pimenta |
+| {{el pescado}} | o peixe (como comida) |
+| {{el pollo}} | o frango |
+| {{la película}} | o filme |
+| {{el ruido}} | o barulho |
+| {{la cabeza}} | a cabeça |
+| {{el pie}} | o pé |
+| {{el tiempo}} | o tempo |
+| {{la idea}} | a ideia |
+| {{la taquería}} | taqueria |
+| {{probar}} | provar, experimentar |
 
 ## Chave comentada do capítulo 6
 
 ::::: gabarito
-**Degrau 1.** 1 Cuánto (*Qué cuesta* não pergunta o preço). 2 Cuál (identificação). 3 Adónde (há movimento: *vas*). 4 Por qué (pergunta). 5 nada (*algo* não combina com *no tengo*). 6 (b) *Nunca no como carne*: *nunca* antes do verbo dispensa o *no*; (a) e (c) estão certas. 7 tampoco. 8 Cuántas (concorda com *personas*).
+**Degrau 1.** 1 {{Me}} (a coisa é o sujeito, não {{yo}}). 2 {{gustan}} ({{los perros}}, plural). 3 {{le}} (indireto, não {{la}}). 4 {{nos}} ({{nosotros}}). 5 {{Le}} ({{usted}}). 6 {{A mí también}}. 7 {{A mí tampoco}}. 8 {{gusta}} (infinitivos, singular).
 
-**Degrau 2.** 1 De dónde. 2 Qué (definição). 3 Con quién. 4 Cuándo. 5 Cómo. 6 Cuántas. 7 nada. 8 tampoco. 9 No. 10 Cuál. Em 10, *qué* não serve: não é definição, é identificação.
+**Degrau 2.** 1 {{me gusta}}. 2 {{te gustan}}. 3 {{le encantan}}. 4 {{nos interesa}}. 5 {{les gusta}} (infinitivo, singular). 6 {{le molesta}}. 7 {{me duelen}}. 8 {{les gusta}}. 9 {{os parece}}. 10 {{le falta}}.
 
-**Degrau 3.** Respostas pessoais. Confira: acento nas interrogativas, ¿ ?; no item de respostas negativas, *No, nada. / No, nadie. / No, no siempre.* (ou *No, nunca*); *Nunca ...* sem *no*; *No ... nunca* com *no*. Respostas de acordo: *A mí tampoco* (com *gustar*) e *Yo tampoco* (com *beber*); de desacordo: *A mí sí* e *Yo sí*.
+**Degrau 3.** Respostas pessoais. Confira: verbo concordando com a coisa, pronome átono em todas as frases, respostas com {{a mí}}, ausência de {{yo gusto}} e de {{de}} depois de {{gustar}}.
 
 **Degrau 4.**
 
-1.  ¿Cuál es el número de la habitación? (identificação)
+1. {{Me gusta el café.}} (a coisa é o sujeito)
+2. {{Me gustan los perros.}} (plural)
+3. {{A Ana le gusta bailar.}} (pronome obrigatório)
+4. {{Me gusta viajar.}} (sem {{de}})
+5. Está certa.
+6. {{A mí tampoco.}} (o “eu” de {{gustar}} é {{a mí}})
+7. {{A mí me gusta el cine.}} (o pronome tônico leva acento)
 
-2.  Nadie habla español aquí. / No habla español nadie aquí.
-
-3.  ¿Dónde vive Marta? (não há movimento)
-
-4.  ¿Por qué no vienes?
-
-5.  ¿Qué quieres?
-
-6.  Lucas no come carne y yo tampoco.
-
-7.  Está certa.
-
-**Retorno.** Capítulo 1: *jamás* (j), *gente* (g antes de e); força em *cuál* (cuál), *cuándo* (cuán-), *adónde* (-dón-); aqui o acento não é exigido pela regra da tônica (*cuando* e *adonde* já seriam paroxítonas, e *cual* é monossílabo): é o acento diacrítico, que marca a palavra interrogativa. Capítulo 2: *es*, *está*. Capítulo 3: las llaves, los pasajeros, las habitaciones; unos buenos viajeros. Capítulo 4: quieres, puedes, tienes. Capítulo 5: A mí también; A mí tampoco.
+**Retorno.** Capítulo 5: {{quiero / queremos, pido / pedimos, puedo / podemos}}; {{tengo hambre}}, {{tengo treinta años}}. Capítulo 3: {{la leche, el color; los exámenes, las canciones}}; {{un gran amigo}} é um amigo notável, {{un amigo grande}} é um amigo de tamanho grande. Capítulo 2: {{es, estoy, está}}.
 :::::

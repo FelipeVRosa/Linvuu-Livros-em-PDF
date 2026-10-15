@@ -1,384 +1,363 @@
-# Capítulo 4. Presente do indicativo (A1)
+# Capítulo 4. Negação, perguntas e interrogativos (A1)
 
-**Meta do capítulo.** Ao final, você conjuga os verbos regulares em *-ar*, *-er* e *-ir* e os irregulares mais comuns (*ir, hacer, tener, poder, querer, pedir*), sem dizer "quero" onde o espanhol pede *quiero*, e usa *tener* para idade e sensações.
+**Meta do capítulo.** Ao final, você faz perguntas com {{qué, cuál, quién, cuánto, cómo, dónde, adónde, cuándo}} e {{por qué}} com o acento e a ordem certos, escolhe entre {{qué}} e {{cuál}}, e nega frases com {{no, nada, nadie, nunca}} e {{tampoco}} sem tropeçar na posição.
 
-## 1. Cena: dividindo o apartamento
+## 1. Cena: no balcão do albergue
 
-Camila mora em Medellín com Valentina, uma colega colombiana. É manhã de quarta-feira.
+Lucas chega a um albergue em Lima. Marta trabalha na recepção.
 
 ::: dialogo
-**Valentina:** ¿Qué haces hoy, Camila?
+**Marta:** {{Buenas tardes. ¿Qué desea?}}
 
-**Camila:** Trabajo desde casa por la mañana. Empiezo a las nueve. Por la tarde voy al gimnasio.
+**Lucas:** {{Buenas tardes. Tengo una reserva.}}
 
-**Valentina:** ¿Puedes comprar pan? Yo no tengo tiempo, salgo temprano.
+**Marta:** {{¿A nombre de quién?}}
 
-**Camila:** Claro. ¿Quieres algo más?
+**Lucas:** {{De Lucas Ferreira.}}
 
-**Valentina:** Sí. Esta noche pido una pizza, si no cocinamos. ¿Qué prefieres?
+**Marta:** {{Aquí está. ¿De dónde es usted?}}
 
-**Camila:** Prefiero la de verduras. Y ya tengo hambre.
+**Lucas:** {{De Brasil. ¿Cuánto cuesta el desayuno?}}
 
-**Valentina:** Yo siempre desayuno fruta y café. ¿Y tú?
+**Marta:** {{Cuesta poco, pero hoy no tenemos nada de fruta fresca.}}
 
-**Camila:** Hoy no desayuno, solo tomo un café. ¡Mi jefe es muy puntual!
+**Lucas:** {{No importa. ¿Cuál es la contraseña del wifi?}}
 
-**Valentina:** Tienes razón en no llegar tarde. Nos vemos en la noche.
+**Marta:** {{Está en la pared, junto a la puerta.}}
+
+**Lucas:** {{¿Dónde está la cocina?}}
+
+**Marta:** {{Al final del pasillo. Está vacía.}}
+
+**Lucas:** {{¿Por qué está vacía?}}
+
+**Marta:** {{Porque el grupo llega mañana. Hoy no viene nadie más.}}
+
+**Lucas:** {{Perfecto. Nunca duermo bien con ruido.}}
+
+**Marta:** {{Aquí duerme tranquilo. ¿Adónde va ahora?}}
+
+**Lucas:** {{Al mercado. ¿Cuál recomienda?}}
 :::
 
-Em português: O que você faz hoje, Camila? / Trabalho de casa de manhã. Começo às nove. À tarde vou à academia. / Pode comprar pão? Eu não tenho tempo, saio cedo. / Claro. Quer mais alguma coisa? / Quero. Hoje à noite peço uma pizza, se a gente não cozinhar. O que você prefere? / Prefiro a de verduras. E já estou com fome. / No café da manhã eu sempre como fruta e tomo café. E você? / Hoje não tomo café da manhã, só um café. Meu chefe é muito pontual! / Você tem razão em não se atrasar. A gente se vê à noite.
+Em português: Boa tarde. O que o senhor deseja? / Boa tarde. Tenho uma reserva. / Em nome de quem? / De Lucas Ferreira. / Aqui está. De onde o senhor é? / Do Brasil. Quanto custa o café da manhã? / Custa pouco, mas hoje não temos nenhuma fruta fresca. / Tudo bem. Qual é a senha do wifi? / Está na parede, ao lado da porta. / Onde fica a cozinha? / No fim do corredor. Está vazia. / Por que está vazia? / Porque o grupo chega amanhã. Hoje não vem mais ninguém. / Perfeito. Eu nunca durmo bem com barulho. / Aqui o senhor dorme tranquilo. Aonde vai agora? / Ao mercado. Qual a senhora recomenda?
 
-Repare: *empiezo*, *prefiero*, *quieres* e *puedes* têm um ditongo (*ie*, *ue*) que não existe no infinitivo (*empezar, preferir, querer, poder*). E "estou com fome" virou *tengo hambre*, sem *estar*.
+Repare em três coisas: toda pergunta tem **¿ … ?** e uma palavra com acento ({{qué, cuánto, cuál, dónde, quién, adónde}}); {{Por qué}} e {{porque}} aparecem lado a lado, um na pergunta e outro na resposta; e {{Hoy no viene nadie}} nega duas vezes, com {{no}} antes do verbo e {{nadie}} depois.
 
 ## 2. A armadilha do português
 
-O presente do indicativo do espanhol se parece tanto com o português que o erro se esconde na semelhança. Três hábitos atrapalham.
+Aqui o português ajuda mais do que atrapalha, e vale começar pelo que **não** é problema. A dupla negação, que muita gente teme, você já faz: “não tenho nada”, “não vi ninguém”, “não vou nunca”. O espanhol funciona igual. O que pega são cinco detalhes pequenos.
 
-**Armadilha 1. A raiz que muda de vogal.** Em português, a raiz quase nunca troca de vogal ("eu quero", "nós queremos", "eu posso", "nós podemos"). Em espanhol, ela troca em quatro das seis pessoas:
+1. **Acento nos interrogativos.** O português escreve *que, quem, onde, quanto* sempre sem acento. O espanhol acentua a palavra toda vez que ela pergunta (ou exclama), até em pergunta indireta: {{No sé dónde vive}}. Sem acento, é outra palavra: {{que}} (“que”, conjunção), {{como}} (“como”, de comer ou “como”, de comparação).
+2. **“O que” vira {{qué}}, sem artigo.** O brasileiro diz “o que você quer?”. Quem traduz palavra por palavra escreve {{~~¿Lo que quieres?~~}}. O certo é {{¿Qué quieres?}}.
+3. **Ordem.** Depois da palavra interrogativa, o verbo vem logo, e o sujeito, se aparecer, vem depois: {{¿Dónde vive Marta?}}. No português “Onde a Marta mora?” é comum; em espanhol padrão, {{~~¿Dónde Marta vive?~~}} soa errado.
+4. **“Qual” e “que” não se dividem como {{cuál}} e {{qué}}.** O português diz “que livro você quer?” e “qual livro você quer?” sem diferença. O espanhol separa com mais cuidado: antes de substantivo, {{qué}}.
+5. **“Também não” é uma palavra só:** {{tampoco}}. Não existe {{~~también no~~}}.
 
-| Português | Espanhol (errado) | Espanhol (certo) |
+| Português | Espanhol | O que muda |
 |---|---|---|
-| eu quero | ~~yo quero~~ | yo **quiero** |
-| eu posso | ~~yo poso~~ | yo **puedo** |
-| eu penso | ~~yo penso~~ | yo **pienso** |
-| eu peço | ~~yo peço~~ | yo **pido** |
+| O que você quer? | {{¿Qué quieres?}} | sem artigo; acento no {{qué}} |
+| Onde você mora? | {{¿Dónde vives?}} | acento |
+| Aonde você vai? | {{¿Adónde vas?}} | {{adónde}} é uma palavra |
+| Por que você não vem? | {{¿Por qué no vienes?}} | duas palavras, acento |
+| Porque está doente. | {{Porque está enfermo.}} | uma palavra, sem acento |
+| Eu também não. | {{Yo tampoco.}} | uma palavra |
+| Não vejo ninguém. | {{No veo a nadie.}} | veja a nota sobre *a* mais adiante |
 
-**Armadilha 2. Sensações com *tener*, não com *estar*.** O português usa "estar com" para fome, sede, sono, medo, frio e calor. O espanhol usa **tener**.
-
-| Português | Espanhol (certo) |
-|---|---|
-| Estou com fome. | Tengo hambre. |
-| Estou com sede. | Tengo sed. |
-| Estou com sono. | Tengo sueño. |
-| Estou com frio. | Tengo frío. |
-| Estou com pressa. | Tengo prisa. |
-| Você tem razão. | Tienes razón. |
-
-**Armadilha 3. *Pedir* e *preguntar* têm lugares diferentes.** Em português, "pedir" cobre quase tudo que é solicitação, e "perguntar" é para fazer uma pergunta. Em espanhol a divisão é a mesma, mas o aluno costuma trocar quando traduz palavra por palavra:
-
-- *pedir* = solicitar algo: *Pido un café.* *Pedimos la cuenta.*
-- *preguntar* = fazer uma pergunta: *Pregunto la hora.* *Le pregunto a mi jefe.*
-
-Quem diz *pregunto un café* usa o verbo errado: o que se faz com um café é *pedi-lo*. E *pido la hora* soa como se você estivesse solicitando formalmente a hora, em vez de perguntá-la.
+::: atencao
+Na tabela, a última linha traz um *a* que você ainda não estudou: {{No veo a nadie}}. Por ora, guarde só a ideia de {{no + verbo + nadie}}; o *a* aparece no capítulo 13.
+:::
 
 ## 3. Descubra você mesmo
 
-Compare os dois verbos nas seis pessoas.
+Compare.
 
-| | pensar | comer |
-|---|---|---|
-| yo | pienso | como |
-| tú | piensas | comes |
-| él, ella, usted | piensa | come |
-| nosotros | pensamos | comemos |
-| vosotros | pensáis | coméis |
-| ellos, ellas, ustedes | piensan | comen |
+| Pergunta | Resposta |
+|---|---|
+| {{¿Dónde está la cocina?}} | {{Al final del pasillo.}} |
+| {{¿Adónde va ahora?}} | {{Al mercado.}} |
+| {{¿Por qué está vacía?}} | {{Porque el grupo llega mañana.}} |
+| {{¿Qué es un albergue?}} | {{Es un alojamiento barato.}} |
+| {{¿Cuál es la contraseña?}} | {{Está en la pared.}} |
+| {{Hoy no viene nadie.}} | {{Nadie viene hoy.}} |
 
 Perguntas:
 
-Em *pensar*, em quais pessoas a vogal da raiz muda de *e* para *ie*? E em *comer*?
+Que diferença você vê entre {{dónde}} e {{adónde}} nas duas primeiras linhas (olhe o verbo)?
 
-Quais pessoas **não** mudam? Se você pintasse na tabela as formas que mudam, que desenho resultaria?
+{{Por qué}} e {{porque}} se escrevem igual? O que cada um faz?
 
-Se você notou que só *yo, tú, él* e *ellos* mudam, e que *nosotros* e *vosotros* ficam com a raiz do infinitivo, descobriu a regra da "bota".
+Em {{Hoy no viene nadie}} e em {{Nadie viene hoy}}, onde está o {{no}}? E quando a palavra negativa vem antes do verbo, ainda é preciso {{no}}?
+
+Se você notou que {{adónde}} acompanha movimento ({{va}}), que a pergunta escreve {{por qué}} e a resposta {{porque}}, e que o {{no}} só aparece quando a palavra negativa vem **depois** do verbo, já tem a regra.
 
 ## 4. Em 30 segundos
 
 ::::: dica
-1. **Regulares.** Tire *-ar / -er / -ir* e ponha: *-o, -as, -a, -amos, -áis, -an* (verbos em *-ar*); *-o, -es, -e, -emos, -éis, -en* (verbos em *-er*); *-o, -es, -e, -imos, -ís, -en* (verbos em *-ir*).
-2. **Bota.** Muitos verbos mudam a vogal da raiz em *yo, tú, él, ellos* e não em *nosotros, vosotros*: *e → ie* (*querer: quiero*), *o → ue* (*poder: puedo*), *e → i* (*pedir: pido*).
-3. **Yo irregular.** *hacer: hago*, *poner: pongo*, *salir: salgo*, *saber: sé*, *ver: veo*, *dar: doy*.
-4. **Totalmente irregulares:** *ir* (*voy, vas, va, vamos, vais, van*), *tener* (*tengo, tienes, tiene...*), *venir*, *decir*.
-5. **Sensações:** *tener* + *hambre, sed, sueño, frío, calor, miedo, prisa*. **Idade:** *tener 28 años*.
+1. Toda pergunta abre com **¿** e fecha com **?**. Toda palavra interrogativa leva **acento**: {{qué, quién, cuál, cuánto, cómo, dónde, adónde, cuándo}}.
+2. **{{Por qué}}** (duas palavras, com acento) pergunta. **Porque** (uma palavra, sem acento) responde.
+3. Ordem: palavra interrogativa + **verbo** + sujeito. {{¿Cuándo llega el grupo?}}
+4. **{{Qué}}** pergunta o que é uma coisa ou acompanha um substantivo: {{¿Qué es esto?}} {{¿Qué habitación quiere?}} **{{Cuál}}** pede uma escolha ou uma identificação: {{¿Cuál es la contraseña?}}
+5. Negação: **{{no}}** antes do verbo. Se a palavra negativa vem depois do verbo, o **{{no}}** é obrigatório: {{No tengo nada.}} Se vem antes, não há {{no}}: {{Nunca duermo bien.}}
+6. Palavras negativas: **{{nada, nadie, nunca, jamás, ningún/ninguna, tampoco}}**.
 :::::
 
 ## 5. Por dentro
 
-### Verbos regulares
+**As palavras interrogativas.** Todas as formas abaixo trazem acento.
 
-| | hablar | comer | vivir |
-|---|---|---|---|
-| yo | hablo | como | vivo |
-| tú | hablas | comes | vives |
-| él, ella, usted | habla | come | vive |
-| nosotros | hablamos | comemos | vivimos |
-| vosotros | habláis | coméis | vivís |
-| ellos, ellas, ustedes | hablan | comen | viven |
-
-**Voseo.** Com *vos* (Argentina, Uruguai e outras regiões), troca-se o *-r* do infinitivo por *-s*, com acento na última vogal: *hablar → vos hablás*, *comer → vos comés*, *vivir → vos vivís*. Nos verbos com mudança de vogal, o voseo mantém a raiz: *vos querés*, *vos podés*, *vos pensás*, *vos pedís*.
-
-**O pronome sujeito.** O verbo já diz quem faz a ação, então o espanhol costuma omitir o pronome: *Trabajo en un banco*, e não "*Yo trabajo en un banco*". O pronome entra para contrastar ou esclarecer: *Yo trabajo, ella estudia*.
-
-### A bota: mudanças de vogal
-
-| Mudança | Verbos frequentes | Exemplo |
+| Espanhol | Português | Exemplo |
 |---|---|---|
-| e → ie | empezar, pensar, querer, preferir, entender, cerrar, perder, sentir | prefiero, quieres |
-| o → ue | poder, volver, dormir, encontrar, contar, costar, almorzar, recordar | puedo, vuelves |
-| u → ue | jugar (único) | juego, juegas |
-| e → i | pedir, servir, repetir, seguir | pido, sirves |
+| {{qué}} | o que, que | {{¿Qué quieres?}} |
+| {{cuál, cuáles}} | qual, quais | {{¿Cuál es la llave?}} |
+| {{quién, quiénes}} | quem | {{¿Quiénes son ellos?}} |
+| {{cuánto, cuánta, cuántos, cuántas}} | quanto(s), quanta(s) | {{¿Cuántos días se queda?}} |
+| {{cómo}} | como | {{¿Cómo está usted?}} |
+| {{dónde}} | onde | {{¿Dónde está la cocina?}} |
+| {{adónde}} | aonde | {{¿Adónde va ahora?}} |
+| {{cuándo}} | quando | {{¿Cuándo llega el grupo?}} |
+| {{por qué}} | por que (pergunta) | {{¿Por qué no viene?}} |
 
-Tabela de três verbos:
+{{Cuánto}} concorda com o substantivo que vem depois: {{¿Cuántas camas tiene la habitación?}}. Quando acompanha só o verbo, não muda: {{¿Cuánto cuesta?}} {{¿Cuánto trabajas?}}
 
-| | pensar (e→ie) | poder (o→ue) | pedir (e→i) |
-|---|---|---|---|
-| yo | pienso | puedo | pido |
-| tú | piensas | puedes | pides |
-| él, ella, usted | piensa | puede | pide |
-| nosotros | pensamos | podemos | pedimos |
-| vosotros | pensáis | podéis | pedís |
-| ellos, ellas, ustedes | piensan | pueden | piden |
+{{Quién}} tem plural, e o verbo acompanha: {{¿Quién es?}} {{¿Quiénes son?}}
 
-As formas que mudam formam, na tabela, o desenho de uma bota; *nosotros* e *vosotros* ficam de fora. Em *seguir* a mudança é *e → i*, e o *yo* perde o *u*: *sigo*, *sigues*.
+**Preposição antes da palavra interrogativa.** A preposição fica na frente, e a pergunta não termina nela: {{¿De dónde eres?}} {{¿Con quién viajas?}} {{¿De qué hablas?}} {{¿Para qué sirve?}} O português faz igual (“com quem você viaja?”), então aqui não há surpresa.
+
+**{{Dónde × adónde}}.** {{Dónde}} pergunta o lugar onde algo está: {{¿Dónde está la cocina?}} {{Adónde}} pergunta o destino de um movimento: {{¿Adónde vas?}} Na fala descontraída, muita gente diz também {{¿Dónde vas?}}, mas na escrita cuidada use {{adónde}}. Também se encontra a grafia em duas palavras, {{a dónde}}, com o mesmo sentido.
+
+**{{Qué × cuál}}.** Os dois traduzem “qual” em algum contexto. Três situações cobrem quase tudo.
+
+| Situação | Use | Exemplo |
+|---|---|---|
+| Definição: “o que é...?” | {{qué}} + ser | {{¿Qué es un hostal?}} |
+| Antes de um substantivo | {{qué}} + substantivo | {{¿Qué habitación prefiere?}} |
+| Escolha entre coisas conhecidas ou identificação | {{cuál}} | {{¿Cuál es el número de la habitación?}} |
+
+Antes de substantivo, a forma segura é {{qué}}. Você pode ouvir {{cuál}} antes de substantivo em algumas regiões da América, em fala informal ({{¿Cuál habitación prefiere?}}), mas não escreva assim num texto formal. Antes de {{de}}, {{cuál}} é a escolha certa: {{¿Cuál de las camas es mía?}} ({{mía}} é do capítulo 8; trate como bloco pronto).
+
+**Pergunta de sim ou não.** Não há partícula especial. A frase pode ficar igual à afirmativa, só com a entonação subindo e os sinais ¿ ?: {{¿Usted tiene la llave?}} Ou o verbo vem antes do sujeito: {{¿Tiene usted la llave?}} Os dois estão certos.
+
+**Exclamação.** O mesmo {{qué}} serve para admirar, com ¡ !: {{¡Qué rico!}} {{¡Qué bonito!}} {{¡Cuánto ruido!}}
+
+**{{Por qué, porque e outros dois parentes}}.**
+
+| Forma | Função | Exemplo |
+|---|---|---|
+| {{por qué}} | pergunta “por quê?” | {{¿Por qué estás aquí?}} |
+| {{porque}} | resposta “porque” | {{Porque trabajo aquí.}} |
+| {{porqué}} | substantivo: “o motivo” | {{No entiendo el porqué.}} |
+| {{por que}} | preposição + “que” (raro) | {{Es la razón por que vengo.}} |
+
+As duas últimas você vai encontrar na leitura, mas raramente precisará escrever. Fique com as duas primeiras e acerte.
+
+**Como negar.** O espanhol coloca **{{no}}** diante do verbo conjugado: {{No hablo quechua.}} {{Lucas no trabaja hoy.}} Não existe auxiliar como o {{do/don't}} do inglês nem o “não” depois do verbo.
+
+**As palavras negativas.**
+
+| Palavra | Português | Exemplo |
+|---|---|---|
+| {{nada}} | nada | {{No tengo nada.}} |
+| {{nadie}} | ninguém | {{No viene nadie.}} |
+| {{nunca}} | nunca | {{Nunca llego tarde.}} |
+| {{jamás}} | jamais, nunca (mais enfático) | {{Jamás vuelvo a ese lugar.}} |
+| {{ningún, ninguna}} | nenhum, nenhuma | {{No tengo ningún problema.}} |
+| {{tampoco}} | também não | {{Yo tampoco.}} |
+
+{{Ninguno}} perde o *o* antes de substantivo masculino singular: {{ningún problema}}, mas {{ninguna llave}}. É o mesmo mecanismo de {{buen}} e {{gran}}, do capítulo 3.
+
+**Onde fica o {{no}}.** Esta é a regra que vale decorar.
+
+| Palavra negativa | Posição | Exemplo |
+|---|---|---|
+| depois do verbo | {{no}} antes do verbo | {{No veo nada.}} |
+| antes do verbo | sem {{no}} | {{Nadie viene. / Nunca llego tarde.}} |
+
+Dizer {{~~Nadie no viene~~}} está errado. Mas {{No viene nadie}} e {{Nadie viene}} significam o mesmo. A segunda é mais enfática. A primeira é a mais comum com {{nada}}, {{nadie}} e {{nunca}}. Em frases com mais de uma palavra negativa, todas as que vêm depois do verbo se acumulam: {{No digo nada a nadie.}}
+
+**{{Tampoco}}.** Dá a resposta curta quando você concorda com uma frase negativa.
+
+| Frase de alguém | Sua resposta | Sentido |
+|---|---|---|
+| {{Yo no fumo.}} | {{Yo tampoco.}} | eu também não |
+| {{Yo no fumo.}} | {{Yo sí.}} | eu fumo |
+| {{No me gusta el ruido.}} | {{A mí tampoco.}} | eu também não gosto |
+| {{No me gusta el ruido.}} | {{A mí sí.}} | eu gosto |
+
+Com um verbo comum, a resposta usa {{yo}}. Com {{gustar}}, que você vai ver no capítulo 6, usa-se {{a mí}}, porque a pessoa é o objeto indireto. Em frase afirmativa, a concordância é {{también}}: {{Yo trabajo aquí. – Yo también.}}
+
+Como {{tampoco}} já contém a ideia de negação, ele funciona como as outras palavras negativas. Depois do verbo exige {{no}}: {{No como carne y Marta tampoco.}} Pode vir também antes do verbo: {{Marta tampoco come carne.}}
+
+**Perguntas que pedem “algo”, “alguien”.** Em pergunta, o contrário de {{nada}} e {{nadie}} é {{algo}} e {{alguien}}: {{¿Necesita algo?}} {{¿Hay alguien en la cocina?}}. Quem responde “não” usa {{nada}} ou {{nadie}}: {{No, nada.}} {{No, nadie.}}
 
 ::: atencao
-Nem todo verbo com *e* ou *o* na raiz muda. Verbos regulares como *comer*, *beber*, *vender*, *aprender* e *correr* mantêm a vogal: *como*, *bebo*, *vendo*, *aprendo*, *corro*. Para cada verbo novo, aprenda a forma do *yo* junto com o infinitivo.
+**{{Vos}} e {{vosotros}} nas perguntas.** O espanhol padrão de livro e de aula usa {{tú}}: {{¿Qué quieres?}} {{¿De dónde eres?}} Em boa parte da América (a RAE registra o {{vos}} como forma geral de tratamento de confiança na Argentina, no Uruguai, no Paraguai, na Costa Rica, na Nicarágua e em outras áreas) as perguntas soam {{¿Qué querés?}} {{¿De dónde sos?}} {{¿Dónde vivís?}} Na Espanha, para falar com várias pessoas ao mesmo tempo, diz-se {{¿Qué queréis?}} {{¿De dónde sois?}} Em toda a América, ao falar com várias pessoas, usa-se {{ustedes}}: {{¿Qué quieren?}} A palavra interrogativa, o acento e a ordem não mudam em nenhuma dessas variantes.
 :::
-
-### Verbos com yo irregular
-
-Alguns verbos são regulares em todas as pessoas, menos no *yo*.
-
-| Infinitivo | Yo | Demais pessoas |
-|---|---|---|
-| hacer | hago | haces, hace, hacemos, hacéis, hacen |
-| poner | pongo | pones, pone, ponemos... |
-| salir | salgo | sales, sale, salimos... |
-| traer | traigo | traes, trae, traemos... |
-| saber | sé | sabes, sabe, sabemos... |
-| ver | veo | ves, ve, vemos... |
-| dar | doy | das, da, damos... |
-| conocer | conozco | conoces, conoce, conocemos... |
-
-### Totalmente irregulares
-
-| | ir | tener | venir | decir |
-|---|---|---|---|---|
-| yo | voy | tengo | vengo | digo |
-| tú | vas | tienes | vienes | dices |
-| él, ella, usted | va | tiene | viene | dice |
-| nosotros | vamos | tenemos | venimos | decimos |
-| vosotros | vais | tenéis | venís | decís |
-| ellos, ellas, ustedes | van | tienen | vienen | dicen |
-
-*Tener*, *venir* e *decir* combinam *yo* irregular e mudança de vogal, por isso têm o desenho da bota além do *-go* no *yo*. O verbo *ir* usa *a* para destino: *voy a Medellín*, *voy al gimnasio* (a + el = al).
-
-### Tener: idade, sensações e obrigação
-
-| Uso | Exemplo |
-|---|---|
-| Idade | Tengo veintiocho años. ¿Cuántos años tienes? |
-| Sensações | Tengo hambre, sed, sueño, frío, calor, miedo, prisa. |
-| Razão | Tienes razón. |
-| Obrigação | Tengo que trabajar hoy. (*tener que* + infinitivo) |
-| Vontade | Tengo ganas de ir a la playa. |
-
-Intensidade. Com *hambre*, *sed*, *sueño*, *frío*, *calor*, *miedo* e *prisa*, a intensidade vai com **mucho/mucha**, que concorda: *tengo mucha hambre*, *tengo mucho frío*. (O capítulo 8 volta a *muy* e *mucho*.)
-
-### Saber e conocer
-
-*Saber* é saber um fato ou uma habilidade: *Sé español*, *Sé cocinar*. *Conocer* é conhecer pessoas e lugares: *Conozco a Valentina*, *Conozco Medellín*. Em português usamos "conhecer" e "saber" de modo parecido, então o contraste não é grande, mas a forma do *yo* (*sé* e *conozco*) é irregular nos dois.
-
-### Pedir × preguntar
-
-*Pedir* muda a vogal (*pido, pides*) e pede o objeto pedido: *Pido agua*. *Preguntar* é regular e leva a pergunta: *Pregunto cuánto cuesta*. Quando alguém pede informação: *Le pido la dirección* (solicito o endereço) ou *Le pregunto dónde está el hotel* (faço a pergunta).
-
-### Os usos do presente
-
-O presente dá conta de:
-
-- **hábitos e rotinas:** *Trabajo de lunes a viernes.*
-- **o que acontece agora:** *¿Qué haces? — Preparo la cena.* Para destacar que a ação está em curso, usa-se *estar* + gerúndio (*estoy preparando la cena*), que se forma com *-ando* (verbos em *-ar*) e *-iendo* (verbos em *-er/-ir*).
-- **verdades gerais:** *El sol sale por el este.*
-- **futuro próximo:** *Mañana viajo a Bogotá.* (o capítulo 12 trata do futuro)
 
 ## 6. Frases de ouro
 
 | Espanhol | Português |
 |---|---|
-| ¿Qué haces? | O que você está fazendo? / O que você faz? |
-| No puedo, tengo que trabajar. | Não posso, tenho que trabalhar. |
-| Quiero un café, por favor. | Quero um café, por favor. |
-| ¿Cuántos años tienes? | Quantos anos você tem? |
-| Tengo mucha hambre. | Estou com muita fome. |
-| Voy al gimnasio los lunes. | Vou à academia às segundas. |
-| Pido la cuenta. | Peço a conta. |
-| Le pregunto la hora. | Pergunto a hora a ele. |
+| {{¿De dónde eres?}} | De onde você é? |
+| {{¿Cuánto cuesta?}} | Quanto custa? |
+| {{¿Cuál es la contraseña del wifi?}} | Qual é a senha do wifi? |
+| {{¿Qué quieres?}} | O que você quer? |
+| {{¿Por qué no vienes? – Porque trabajo.}} | Por que você não vem? – Porque trabalho. |
+| {{No tengo nada.}} | Não tenho nada. |
+| {{Nunca duermo bien con ruido.}} | Eu nunca durmo bem com barulho. |
+| {{Yo tampoco.}} | Eu também não. |
 
 ## 7. Treino em quatro degraus
 
 ::::: exercicio
 **Degrau 1. Reconheça.** Escolha a forma certa.
 
-1. Yo \_\_\_\_ en Medellín. (vivo, vive)
+1. {{¿\_\_\_\_ cuesta el desayuno?}} ({{Qué}}, {{Cuánto}})
+2. {{¿\_\_\_\_ es la contraseña del wifi?}} ({{Qué}}, {{Cuál}})
+3. {{¿\_\_\_\_ vas ahora, al mercado?}} ({{Dónde}}, {{Adónde}})
+4. {{¿\_\_\_\_ no viene el grupo?}} ({{Por qué}}, {{Porque}})
+5. {{No tengo \_\_\_\_ en la mochila.}} ({{nada}}, {{algo}})
+6. Qual está errada? \(a) {{Nunca como carne.}} \(b) {{Nunca no como carne.}} \(c) {{No como carne nunca.}}
+7. {{Marta no come carne. Yo \_\_\_\_.}} ({{también}}, {{tampoco}})
+8. {{¿\_\_\_\_ personas viajan en el grupo?}} ({{Cuántos}}, {{Cuántas}})
 
-2. Nosotros \_\_\_\_ a las nueve. (empezamos, empiezamos)
+**Degrau 2. Complete.**
 
-3. Ella \_\_\_\_ un café. (pide, pede)
-
-4. Ellos \_\_\_\_ al gimnasio los lunes. (van, vamos)
-
-5. Mi hermana \_\_\_\_ veinticinco años. (tiene, es)
-
-6. Él \_\_\_\_ que sí. (dice, diz)
-
-7. Camila \_\_\_\_ hambre. (tiene, está)
-
-8. Le \_\_\_\_ la hora al camarero. (pido, pregunto)
-
-**Degrau 2. Complete.** Use o verbo entre parênteses no presente.
-
-1. Yo \_\_\_\_ la cena. (hacer)
-
-2. ¿Tú \_\_\_\_ un café? (querer)
-
-3. Nosotros \_\_\_\_ llegar a las nueve. (poder)
-
-4. Ellos \_\_\_\_ tarde. (volver)
-
-5. Yo \_\_\_\_ en mis vacaciones. (pensar)
-
-6. Nosotros \_\_\_\_ al cine. (ir)
-
-7. Yo \_\_\_\_ temprano. (salir)
-
-8. ¿Usted \_\_\_\_ hermanos? (tener)
-
-9. Yo \_\_\_\_ una pizza. (pedir)
-
-10. ¿Vosotros \_\_\_\_ té o café? (preferir)
+1. {{¿\_\_\_\_ \_\_\_\_ eres? – Soy de Chile.}}
+2. {{¿\_\_\_\_ es un hostal? – Es un alojamiento barato.}}
+3. {{¿\_\_\_\_ \_\_\_\_ habla el recepcionista? – Con Lucas.}}
+4. {{¿\_\_\_\_ llega el grupo? – Mañana.}}
+5. {{¿\_\_\_\_ estás? – Muy bien, gracias.}}
+6. {{¿\_\_\_\_ camas tiene la habitación? – Cuatro.}}
+7. {{No tengo \_\_\_\_ en la nevera.}}
+8. {{Yo no fumo y Marta \_\_\_\_.}}
+9. {{Nadie sabe la respuesta. = \_\_\_\_ sabe nadie la respuesta.}}
+10. {{¿\_\_\_\_ es la capital de Perú? – Lima.}}
 
 **Degrau 3. Produza.**
 
-Descreva sua rotina de segunda-feira em seis frases, com pelo menos um verbo da bota e um verbo com *yo* irregular.
+Escreva três perguntas que você faria numa recepção de albergue, com {{cuánto, dónde}} e {{cuál}}.
 
-Escreva três perguntas para um colega de apartamento com *tú*, usando *poder*, *querer* e *hacer*.
+Responda de forma negativa, com {{no}} e outra palavra negativa: {{¿Necesitas algo? ¿Viene alguien hoy? ¿Viajas siempre en grupo?}}
 
-Escreva três frases com *tener* + sensação ou idade.
+Escreva uma frase com {{nunca}} antes do verbo e outra com {{no ... nunca}} depois do verbo, sobre um hábito seu.
 
-Reescreva três das suas frases com *vos* no lugar de *tú*.
+Uma pessoa diz “{{No me gusta el ruido}}” e outra diz “{{Yo no bebo café}}”. Escreva duas respostas curtas, uma de acordo e uma de desacordo para cada.
 
 **Degrau 4. Corrija o erro típico.** Uma delas está certa.
 
-1. Yo quero un café.
-
-2. Puedemos llegar a las ocho.
-
-3. Estoy con hambre.
-
-4. Yo hazo la cena.
-
-5. Ella pregunta una pizza.
-
-6. Ellos vuelven tarde.
-
-7. Soy treinta años.
+1. {{¿Qué es el número de la habitación?}}
+2. {{Nadie no habla español aquí.}}
+3. {{¿Adónde vive Marta?}}
+4. {{¿Porque no vienes?}}
+5. {{¿Lo que quieres?}}
+6. {{Lucas no come carne y yo también no.}}
+7. {{¿Cuántas habitaciones tiene el albergue?}}
 :::::
 
 ## 8. O erro típico
 
-O erro mais frequente é **conjugar como o português, sem trocar a vogal**: *quero, poso, penso*. O segundo é **traduzir "estar com" por *estar con***: *estoy con hambre*. O terceiro é **regularizar o *yo***: *hazo, ponho, salo*, quando o certo é *hago, pongo, salgo*.
+O deslize que mais aparece é **esquecer o acento do interrogativo**, porque o português não o tem: escrever {{~~¿Donde vives?~~}}, {{~~¿Como estas?~~}}. Sem acento, a pergunta vira outra palavra, e em prova ou em mensagem formal isso conta como erro de ortografia, não detalhe. O segundo é traduzir “o que” por {{lo que}}. O terceiro é a negação em dobro do tipo {{~~Nadie no viene~~}}, que nasce do medo de “esquecer o {{no}}”: a regra é pôr {{no}} só quando a palavra negativa vem depois do verbo.
 
 ::: erros
 | Errado | Certo | Por quê |
 |---|---|---|
-| ~~yo quero~~ | *yo quiero* | A vogal da raiz muda em *yo, tú, él, ellos*. |
-| ~~yo poso~~ | *yo puedo* | *Poder*: o → ue. |
-| ~~estoy con hambre~~ | *tengo hambre* | Sensações com *tener*. |
-| ~~soy treinta años~~ | *tengo treinta años* | Idade com *tener*. |
-| ~~yo hazo~~ | *yo hago* | *Hacer* tem *yo* irregular. |
-| ~~pregunto un café~~ | *pido un café* | Solicitar é *pedir*; *preguntar* é para perguntas. |
+| {{~~¿Donde vives?~~}} | {{¿Dónde vives?}} | interrogativo leva acento |
+| {{~~¿Lo que quieres?~~}} | {{¿Qué quieres?}} | sem artigo |
+| {{~~¿Porque no vienes?~~}} | {{¿Por qué no vienes?}} | pergunta usa {{por qué}} |
+| {{~~Nadie no viene.~~}} | {{Nadie viene. / No viene nadie.}} | {{no}} só antes do verbo se a negativa vem depois |
+| {{~~Yo también no fumo.~~}} | {{Yo tampoco fumo.}} | “também não” é {{tampoco}} |
+| {{~~¿Qué es la contraseña?~~}} | {{¿Cuál es la contraseña?}} | identificação pede {{cuál}} |
 :::
 
 ## 9. Retorno
 
-**Do capítulo 3.** Diga o artigo e o plural: *___ leche*, *___ color*, *___ examen*.
+**Do capítulo 1.** Escreva com a letra certa o som forte do *j* em {{ja-más}} e o som de {{gente}}. Em qual sílaba cai a força em {{cuál}}, {{cuándo}} e {{adónde}}? Explique para que serve o acento escrito nessas palavras.
 
-**Do capítulo 2.** Complete com *ser* ou *estar*: *Mi hermano \_\_\_\_ médico. Mis padres \_\_\_\_ en Lima.*
+**Do capítulo 2.** Complete com {{ser}} ou {{estar}}: {{¿De dónde \_\_\_\_ usted?}} {{¿Dónde \_\_\_\_ la cocina?}}
 
-**Do capítulo 1.** Por que *está* leva acento e *piensa* não? Onde cai a tônica de *hablan*?
+**Do capítulo 3.** Dê o plural: {{la llave}}, {{el pasajero}}, {{la habitación}}. Dê o plural de {{un buen viajero}}.
+
+**Do capítulo 3.** Complete com o artigo: {{\_\_\_\_ leche}}, {{\_\_\_\_ color}}, {{\_\_\_\_ viaje}}, {{\_\_\_\_ miel}}.
+
+**Do capítulo 2.** Por que se diz {{el agua fría}}, e não {{~~la agua fría~~}}?
 
 | Quando | O que fazer |
 |---|---|
-| Dia 1 | Leia a Cena em voz alta, trocando os nomes pelos seus. |
-| Dia 3 | Conjugue de memória *querer, poder, pedir, ir, tener, hacer* nas seis pessoas. |
-| Dia 7 | Refaça o Degrau 4 sem a chave. |
-| Dia 14 | Escreva um parágrafo de dez linhas sobre um dia comum da sua semana. |
+| Dia 1 | Leia a Cena em voz alta, com a entonação das perguntas. |
+| Dia 3 | Escreva dez perguntas, uma com cada palavra interrogativa da tabela. |
+| Dia 7 | Refaça o Degrau 4 sem olhar a chave. |
+| Dia 14 | Escreva um diálogo de cinco falas numa recepção, com duas negações. |
 
-## 10. Resumo e "já consigo"
+## 10. Resumo e “já consigo”
 
 ::::: resumo
-Regulares: *-ar* (*hablo, hablas, habla, hablamos, habláis, hablan*), *-er* (*como, comes...*), *-ir* (*vivo, vives, vive, vivimos, vivís, viven*).
+Toda pergunta tem **¿ ?** e uma palavra com **acento**: {{qué, cuál, quién, cuánto, cómo, dónde, adónde, cuándo, por qué}}.
 
-Bota: *e → ie* (*quiero*), *o → ue* (*puedo*), *e → i* (*pido*), *u → ue* (*juego*); *nosotros* e *vosotros* mantêm a raiz.
+**{{Por qué}}** pergunta, **porque** responde. “O que você quer?” é **{{¿Qué quieres}}?**, sem artigo.
 
-*Yo* irregular: *hago, pongo, salgo, traigo, sé, veo, doy, conozco*.
+{{Qué}} para definir e antes de substantivo; {{cuál}} para escolher ou identificar.
 
-Irregulares: *voy, vas, va, vamos, vais, van*; *tengo, tienes...*; *vengo, vienes...*; *digo, dices...*.
+**{{No}}** vai antes do verbo. Palavra negativa **depois** do verbo exige {{no}}; **antes**, não: {{No viene nadie / Nadie viene}}.
 
-*Tener* para idade e sensações: *tengo hambre, tengo veinte años*. *Pedir* é solicitar; *preguntar* é perguntar.
+Negativas: {{nada, nadie, nunca, jamás, ningún, tampoco}}. “Também não” é **{{tampoco}}**.
 
 **Já consigo?**
 
-Conjugo *querer* e *poder* nas seis pessoas, sem dizer "quero" ou "poso".
+Faço uma pergunta de cinco palavras com acento e ¿ ? corretos.
 
-Digo "estou com fome" e "tenho 28 anos" sem usar *estar* nem *ser*.
+Escolho entre {{qué}} e {{cuál}} num pedido de informação.
 
-Distingo *pedir un café* de *preguntar la hora*.
+Nego uma frase com {{nada, nadie}} ou {{nunca}} sem errar o {{no}}.
 :::::
 
 ## Glossário do capítulo 4
 
 | Espanhol | Português |
 |---|---|
-| trabajar | trabalhar |
-| empezar (empiezo) | começar |
-| querer (quiero) | querer |
-| poder (puedo) | poder |
-| preferir (prefiero) | preferir |
-| pensar (pienso) | pensar |
-| volver (vuelvo) | voltar |
-| pedir (pido) | pedir, solicitar |
-| preguntar | perguntar |
-| hacer (hago) | fazer |
-| salir (salgo) | sair |
-| ir (voy) | ir |
-| tener (tengo) | ter |
-| decir (digo) | dizer |
-| venir (vengo) | vir |
-| saber (sé) | saber |
-| conocer (conozco) | conhecer |
-| desayunar | tomar café da manhã |
-| tener hambre | estar com fome |
-| tener razón | ter razão |
-| temprano | cedo |
-| tarde | tarde |
-| el pan | pão |
+| {{qué}} | o que, que |
+| {{cuál, cuáles}} | qual, quais |
+| {{quién, quiénes}} | quem |
+| {{cuánto, cuánta, cuántos, cuántas}} | quanto, quanta, quantos, quantas |
+| {{cómo}} | como |
+| {{dónde}} | onde |
+| {{adónde}} | aonde |
+| {{cuándo}} | quando |
+| {{por qué}} | por quê (pergunta) |
+| {{porque}} | porque |
+| {{nada}} | nada |
+| {{nadie}} | ninguém |
+| {{nunca}} | nunca |
+| {{jamás}} | jamais |
+| {{ningún, ninguna}} | nenhum, nenhuma |
+| {{tampoco}} | também não |
+| {{algo}} | algo, alguma coisa |
+| {{alguien}} | alguém |
+| {{el albergue}} | albergue, hostel |
+| {{la contraseña}} | a senha |
+| {{la reserva}} | a reserva |
+| {{la cocina}} | a cozinha |
+| {{el pasillo}} | o corredor |
+| {{gratis}} | de graça |
 
 ## Chave comentada do capítulo 4
 
 ::::: gabarito
-**Degrau 1.** 1 vivo (*yo*). 2 empezamos (*nosotros* mantém a raiz do infinitivo). 3 pide (*pedir*: e → i). 4 van (*ir*). 5 tiene (idade com *tener*). 6 dice (*decir*: e → i). 7 tiene (sensação com *tener*). 8 pregunto (a hora é uma pergunta).
+**Degrau 1.** 1 {{Cuánto}} ({{Qué cuesta}} não pergunta o preço). 2 {{Cuál}} (identificação). 3 {{Adónde}} (há movimento: {{vas}}). 4 {{Por qué}} (pergunta). 5 {{nada}} ({{algo}} não combina com {{no tengo}}). 6 \(b) {{Nunca no como carne}}: {{nunca}} antes do verbo dispensa o {{no}}; \(a) e \(c) estão certas. 7 {{tampoco}}. 8 {{Cuántas}} (concorda com {{personas}}).
 
-**Degrau 2.** 1 hago. 2 quieres. 3 podemos. 4 vuelven. 5 pienso. 6 vamos. 7 salgo. 8 tiene (*usted*, 3ª pessoa). 9 pido. 10 preferís (*vosotros* mantém a raiz).
+**Degrau 2.** 1 {{De dónde}}. 2 {{Qué}} (definição). 3 {{Con quién}}. 4 {{Cuándo}}. 5 {{Cómo}}. 6 {{Cuántas}}. 7 {{nada}}. 8 {{tampoco}}. 9 {{No}}. 10 {{Cuál}}. Em 10, {{qué}} não serve: não é definição, é identificação.
 
-**Degrau 3.** Respostas pessoais. Confira as formas da bota (*pienso, puedo, pido*) e *yo* irregulares (*hago, salgo*), a ausência de *estar con* e as formas de *vos* (*querés, podés, hacés*).
+**Degrau 3.** Respostas pessoais. Confira: acento nas interrogativas, ¿ ?; no item de respostas negativas, {{No, nada. / No, nadie. / No, no siempre.}} (ou {{No, nunca}}); {{Nunca ...}} sem {{no}}; {{No ... nunca}} com {{no}}. Respostas de acordo: {{A mí tampoco}} (com {{gustar}}) e {{Yo tampoco}} (com {{beber}}); de desacordo: {{A mí sí}} e {{Yo sí}}.
 
 **Degrau 4.**
 
-1. Yo quiero un café. (e → ie)
+1. {{¿Cuál es el número de la habitación?}} (identificação)
+2. {{Nadie habla español aquí. / No habla español nadie aquí.}}
+3. {{¿Dónde vive Marta?}} (não há movimento)
+4. {{¿Por qué no vienes?}}
+5. {{¿Qué quieres?}}
+6. {{Lucas no come carne y yo tampoco.}}
+7. Está certa.
 
-2. Podemos llegar a las ocho. (*nosotros* mantém a raiz *pod-*)
-
-3. Tengo hambre. (sensação com *tener*)
-
-4. Yo hago la cena. (*hacer*: *yo* irregular)
-
-5. Ella pide una pizza. (solicitar é *pedir*)
-
-6. Está certa.
-
-7. Tengo treinta años. (idade com *tener*)
-
-**Retorno.** Capítulo 3: la leche (las leches), el color (los colores), el examen (los exámenes). Capítulo 2: es (profissão), están (lugar). Capítulo 1: *está* leva acento porque termina em vogal e a tônica é a última; *piensa* termina em vogal e a tônica é a penúltima (regra normal), então não leva acento. *Hablan* termina em *n*, então a tônica é a penúltima: HA-blan.
+**Retorno.** Capítulo 1: {{jamás}} (j), {{gente}} (g antes de e); o acento em {{cuál}}, {{cuándo}} e {{adónde}} não vem da regra da tônica ({{cuando}} e {{adonde}} já seriam paroxítonas, e {{cual}} é monossílabo): é o acento diacrítico, que marca a palavra interrogativa. Capítulo 2: {{es}}, {{está}}; {{agua}} começa com {{a}} tônica, e por isso leva {{el}}. Capítulo 3: {{las llaves, los pasajeros, las habitaciones; unos buenos viajeros}}; {{la leche, el color, el viaje, la miel}}.
 :::::
