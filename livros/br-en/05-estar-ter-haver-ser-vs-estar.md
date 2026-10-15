@@ -11,11 +11,17 @@ Laura has just arrived in Rio after a long flight. Marcos, who rents her the apa
 
 ::: dialogo
 **Laura:** {{Oi! Você é o Marcos?}}
+
 **Marcos:** {{Sou eu! Bem-vinda! Você está cansada da viagem?}}
+
 **Laura:** {{Um pouco. E estou com fome. Tem algum restaurante por aqui?}}
+
 **Marcos:** {{Tem, sim. Tem uma pizzaria na esquina e um restaurante japonês em frente à praça.}}
+
 **Laura:** {{Ótimo. E o banheiro? Onde fica?}}
+
 **Marcos:** {{Está ali, ao lado da cozinha. A internet tem senha. Está na parede, perto da porta.}}
+
 **Laura:** {{Perfeito. Muito obrigada!}}
 :::
 
@@ -127,6 +133,10 @@ Look at the contrast between the first two. People move, so {{estar}} fits: {{On
 | Where is the bank? | {{Onde fica o banco?}} (fixed place) |
 | Where is Pedro? | {{Onde está o Pedro?}} (a person, now) |
 | Where is the party? | {{Onde é a festa?}} (an event) |
+:::
+
+::: dica
+**Looking for something? Use {{cadê}}.** In everyday speech, when you cannot find something, a Brazilian does not say {{Onde está...?}} but {{Cadê...?}} `kah-DEH`: {{Cadê o meu celular?}} (Where is my phone?) {{Cadê a chave?}} (Where is the key?) {{Cadê a Clara?}} (Where is Clara?) There is no verb after it, and it is informal: do not use it in a formal e-mail.
 :::
 
 ## 5.5 Ter: to have, and much more

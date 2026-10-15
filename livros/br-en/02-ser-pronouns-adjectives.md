@@ -11,10 +11,15 @@ It is the first evening of a Portuguese course in Rio de Janeiro. Emma, a teache
 
 ::: dialogo
 **Camila:** {{Oi! Eu sou a Camila. E você?}}
+
 **Emma:** {{Oi, Camila! Eu sou a Emma. Sou do Canadá.}}
+
 **Camila:** {{Que legal! Eu sou de Recife, mas agora moro aqui. Esse é o Pedro. Ele é argentino.}}
+
 **Pedro:** {{Muito prazer! Sou engenheiro. E você, o que faz?}}
+
 **Emma:** {{Sou professora. Vocês são amigos?}}
+
 **Camila:** {{A gente é colega de trabalho. Nós somos muito diferentes, mas a gente se dá bem.}}
 :::
 

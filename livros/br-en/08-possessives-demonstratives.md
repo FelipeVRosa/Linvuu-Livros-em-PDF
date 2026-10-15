@@ -9,13 +9,21 @@ By the end of this lesson you can say whose something is without confusing "his"
 
 You share an apartment in Belo Horizonte with two Brazilians. On Saturday morning your phone is at 3% and you cannot find your charger. There are three chargers on the living-room table, and you have to ask about each of them.
 
-> **Emma:** {{Bruno, esse carregador é seu?}}
-> **Bruno:** {{Não, é da Clara. O meu está no quarto. Aquele ali, o preto, é o meu.}}
-> **Emma:** {{E esses óculos?}}
-> **Bruno:** {{São dele. Do Rafael. Ele deixa tudo aqui na sala.}}
-> **Emma:** {{E essa mochila azul? É sua?}}
-> **Bruno:** {{É minha, sim. Você gosta dela?}}
-> **Emma:** {{Gosto muito. Mas eu prefiro a verde.}}
+::: dialogo
+**Emma:** {{Bruno, esse carregador é seu?}}
+
+**Bruno:** {{Não, é da Clara. O meu está no quarto. Aquele ali, o preto, é o meu.}}
+
+**Emma:** {{E esses óculos?}}
+
+**Bruno:** {{São dele. Do Rafael. Ele deixa tudo aqui na sala.}}
+
+**Emma:** {{E essa mochila azul? É sua?}}
+
+**Bruno:** {{É minha, sim. Você gosta dela?}}
+
+**Emma:** {{Gosto muito. Mas eu prefiro a verde.}}
+:::
 
 Translation: *Bruno, is this charger yours? / No, it is Clara's. Mine is in the bedroom. That one over there, the black one, is mine. / And these glasses? / They are his. Rafael's. He leaves everything here in the living room. / And this blue backpack? Is it yours? / It is mine, yes. Do you like it? / I like it a lot. But I prefer the green one.*
 
@@ -365,6 +373,20 @@ Three more words of quantity, and when to use them:
 | {{nada}} | `NAH-dah` | not at all, nothing | {{Não gosto nada.}} |
 
 {{Demais}} has two lives. In a negative or critical sentence it means "too much": {{Tem gente demais aqui}} (there are too many people here). In an enthusiastic sentence it means "really, so much": {{Esse bolo está bom demais}} (this cake is so good).
+
+### Tudo, todo, toda: everything and every
+
+English has *everything*, *every* and *the whole* for what Portuguese says with one word and three shapes. The difference is the article.
+
+| Portuguese | Meaning | Example |
+|---|---|---|
+| {{tudo}} `TOO-doo` | everything (never before a noun, never changes) | {{Comi tudo.}} (I ate everything.) {{Tudo bem.}} {{Isso tudo.}} (All of that.) |
+| {{todo}} / {{toda}} + noun, **no article** | every | {{todo dia}} (every day), {{toda semana}} (every week), {{toda vez}} (every time) |
+| {{todo o}} / {{toda a}} + noun, **with article** | the whole, all of the | {{todo o dia}} or {{o dia todo}} (the whole day), {{toda a casa}} or {{a casa toda}} (the whole house) |
+| {{todos os}} / {{todas as}} + plural noun | all the, every (plural) | {{todos os dias}}, {{todas as pessoas}}, {{todos nós}} (all of us) |
+| {{todo mundo}} `TOH-doo MOO~-doo` | everybody | {{Todo mundo gosta de férias.}} (Everybody likes holidays.) |
+
+Two traps to remember. First, {{tudo}} is the pronoun you use with {{que}}: {{tudo o que eu tenho}} (everything I have). Second, {{todo mundo}} takes the verb in the **singular** and has no article: {{Todo mundo chegou}}. With an article, {{todo o mundo}} means "the whole world", which is not what you want at a party.
 
 ## 8.10 Putting it all together
 

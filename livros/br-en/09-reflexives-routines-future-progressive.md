@@ -9,13 +9,21 @@ By the end of this lesson you can describe your day in order, say what you are g
 
 It is Sunday night. Clara, your Brazilian flatmate, sees your open backpack on the floor and asks about your week.
 
-> **Clara:** {{O que você está fazendo?}}
-> **Emma:** {{Estou arrumando a mochila. Amanhã eu começo no trabalho novo.}}
-> **Clara:** {{A que horas você se levanta?}}
-> **Emma:** {{Eu acordo às seis e meia, mas só me levanto às sete. Tomo banho, tomo café e saio às oito.}}
-> **Clara:** {{E vai de quê?}}
-> **Emma:** {{Vou pegar o ônibus. Depois, à noite, a gente se vê, né?}}
-> **Clara:** {{Claro! Eu vou chegar tarde. Boa sorte!}}
+::: dialogo
+**Clara:** {{O que você está fazendo?}}
+
+**Emma:** {{Estou arrumando a mochila. Amanhã eu começo no trabalho novo.}}
+
+**Clara:** {{A que horas você se levanta?}}
+
+**Emma:** {{Eu acordo às seis e meia, mas só me levanto às sete. Tomo banho, tomo café e saio às oito.}}
+
+**Clara:** {{E vai de quê?}}
+
+**Emma:** {{Vou pegar o ônibus. Depois, à noite, a gente se vê, né?}}
+
+**Clara:** {{Claro! Eu vou chegar tarde. Boa sorte!}}
+:::
 
 Translation: *What are you doing? / I am packing my backpack. Tomorrow I start at the new job. / What time do you get up? / I wake up at six thirty, but I only get up at seven. I take a shower, have coffee and leave at eight. / And how are you going? / I am going to take the bus. Then, in the evening, we will see each other, right? / Of course! I will be home late. Good luck!*
 
@@ -298,6 +306,36 @@ Here is a small contrast that Brazilians use all the time. {{Já estou indo}} (l
 :::
 
 In Portugal people use {{estar a}} + infinitive instead of the gerund. If you watch Portuguese films or talk with Portuguese friends, you will hear {{estou a fazer}} where a Brazilian says {{estou fazendo}}. Both are correct in their country.
+
+### Four ways to say "usually", "always" and "lately"
+
+Besides {{sempre}} and {{geralmente}}, Brazilians use verb combinations that sound natural and are easy to build.
+
+| Pattern | Meaning | Example |
+|---|---|---|
+| {{costumar}} + infinitive | to usually do | {{Eu costumo acordar às sete.}} (I usually wake up at seven.) |
+| {{ter o hábito de}} + infinitive | to be in the habit of (a little formal) | {{Tenho o hábito de ler antes de dormir.}} |
+| {{andar}} + gerund | to be doing something lately, for a while | {{Ando trabalhando muito.}} (I have been working a lot lately.) |
+| {{viver}} + gerund | to keep doing it, always doing it (often a complaint) | {{Ele vive perdendo a chave.}} (He is always losing his key.) |
+
+{{Andar}} + gerund also gives you the everyday question {{O que você anda fazendo?}} (What have you been up to?). With the habit of the past, use {{costumava}} (Lesson 11).
+
+### Portuguese on WhatsApp
+
+Brazilians write fast and short, and you will see these abbreviations in every chat. Use them with friends, never in a formal e-mail.
+
+| Written | Means | Example |
+|---|---|---|
+| {{vc}} | {{você}} | {{vc vem hoje?}} |
+| {{tb}} | {{também}} | {{eu tb!}} |
+| {{blz}} | {{beleza}} (OK, great) | {{Blz, combinado.}} |
+| {{fds}} | {{fim de semana}} | {{bom fds!}} |
+| {{pq}} | {{por que}} / {{porque}} | {{pq você não vem?}} |
+| {{obg}} | {{obrigado, obrigada}} | {{obg pela ajuda}} |
+| {{abç}}, {{bjs}} | {{abraço}}, {{beijos}} | at the end of a message |
+| {{né}} | {{não é}} (right?) | {{legal, né?}} |
+| {{tá}}, {{tô}} | {{está}}, {{estou}} | {{tá bom}}, {{tô indo}} |
+| {{zap}} | WhatsApp | {{Me passa seu zap?}} (Can you give me your WhatsApp number?) |
 
 ## 9.8 Putting it together
 

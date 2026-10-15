@@ -77,6 +77,7 @@ body.lv-livro { font-size: 16.5px; line-height: 1.58; color: var(--grafite); bac
 .lv-livro .lv-resumo ul { margin: 0; }
 .lv-livro .lv-resumo li { margin: .3em 0; }
 .lv-livro .lv-resumo ul li::marker { color: var(--ocre); }
+.lv-livro code.lv-longo { white-space: normal; }
 .lv-livro .lv-resumo code { background: rgba(245,241,232,.14); color: var(--papel); }
 .lv-livro .lv-resumo .lv-alvo { color: var(--papel); }
 .lv-livro .lv-dialogo { border-top: 1px solid var(--linha); border-bottom: 1px solid var(--linha); padding: 8px 0; margin: 1.1em 0; break-inside: auto; }

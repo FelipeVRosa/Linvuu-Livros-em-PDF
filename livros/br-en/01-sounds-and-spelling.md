@@ -30,6 +30,27 @@ Thousands of English words come from Latin, and so does Portuguese, so you start
 
 The second piece of good news is that Portuguese spelling is far more regular than English. English has "though", "through", "tough" and "cough". Portuguese has rules, and they nearly always work. Learn the rules once and you can read new words with confidence.
 
+### Ten endings that turn English into Portuguese
+
+Many English words change into Portuguese in a regular way. Learn the pattern and you can guess hundreds of words you have never studied.
+
+| English ending | Portuguese ending | Examples |
+|---|---|---|
+| -tion | -ção | {{informação}} (information), {{estação}} (station), {{situação}} (situation) |
+| -ty | -dade | {{cidade}} (city), {{universidade}} (university), {{possibilidade}} (possibility) |
+| -ous | -oso | {{famoso}} (famous), {{delicioso}} (delicious), {{nervoso}} (nervous) |
+| -ic, -ical | -ico | {{elétrico}} (electric), {{típico}} (typical), {{romântico}} (romantic) |
+| -ive | -ivo | {{ativo}} (active), {{criativo}} (creative), {{positivo}} (positive) |
+| -ist | -ista | {{turista}} (tourist), {{artista}} (artist), {{dentista}} (dentist) |
+| -ent, -ant | -ente, -ante | {{paciente}} (patient), {{inteligente}} (intelligent), {{importante}} (important) |
+| -ble | -vel | {{possível}} (possible), {{incrível}} (incredible), {{responsável}} (responsible) |
+| -ary | -ário | {{salário}} (salary), {{necessário}} (necessary), {{vocabulário}} (vocabulary) |
+| -ly | -mente | {{finalmente}} (finally), {{provavelmente}} (probably), {{normalmente}} (normally) |
+
+Two more habits help. Where English has *ph*, Portuguese has **f** ({{foto}}, {{telefone}}, {{farmácia}}); where English has *th*, Portuguese has **t** ({{teatro}}, {{teoria}}). Watch the accent on the stressed syllable, which English never writes.
+
+A few look-alikes are traps: {{pretender}} does not mean *to pretend*, and {{parentes}} does not mean *parents*. Appendix D lists the forty most dangerous.
+
 ::: dica
 **The only secret of pronunciation:** listen first, then repeat out loud. Reading silently teaches your eyes, not your mouth. Every example in this book has audio in the Linvuu course at linvuu.com.br. Use it.
 :::

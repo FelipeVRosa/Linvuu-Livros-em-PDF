@@ -11,11 +11,17 @@ It is breakfast at a hostel in Salvador. Jess, an Australian traveler, sits with
 
 ::: dialogo
 **Rafael:** {{Bom dia! Você mora aqui em Salvador?}}
+
 **Jess:** {{Não, não moro. Moro em Sydney, mas viajo muito. E você? Trabalha onde?}}
+
 **Rafael:** {{Trabalho num banco. Mas no fim de semana eu ensino capoeira.}}
+
 **Jess:** {{Que legal! Eu não falo muito bem, mas estudo português todo dia.}}
+
 **Rafael:** {{Você fala muito bem! Quer um café? A gente bebe café aqui o dia inteiro.}}
+
 **Jess:** {{Quero, sim. Eu adoro café. Quanto custa?}}
+
 **Rafael:** {{Nada. É de graça.}}
 :::
 
@@ -164,6 +170,10 @@ When you answer a yes-or-no question, Brazilians often repeat the verb, with or 
 | {{Vocês bebem café?}} | {{Bebemos, sim.}} | {{Não, não bebemos.}} |
 
 Note that "no" appears twice: the answer {{não}}, and then the {{não}} that belongs to the verb. A common reply is just {{Não}} or {{Não moro}}.
+
+::: dica
+**Short answers: repeat the verb, then say it again.** Brazilians confirm warmly by doubling the verb: {{Você vai? — Vou, vou.}} {{Tem açúcar? — Tem, tem.}} And they soften a refusal by closing it with {{não}}: {{Quer mais café? — Não quero, não.}} {{Sabe onde é? — Não sei, não.}} The final {{não}} does not make it a double negative. It makes it kinder.
+:::
 
 ### Negative words: Portuguese is fine with several
 

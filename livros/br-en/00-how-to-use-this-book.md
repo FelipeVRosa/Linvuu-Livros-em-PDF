@@ -3,7 +3,7 @@ eyebrow: Start here
 ---
 # How to use this book
 
-This book teaches you the Portuguese that Brazilians speak, from your first greeting to telling a story about last weekend. It is built for adults who speak English, who have little or no Portuguese, and who want to be understood in real situations: a café, a hostel, a job interview, a dinner with a Brazilian family. It is not a phrasebook. It explains why Portuguese works the way it does, using the habits of English as the starting point, so that you can build your own sentences instead of repeating someone else's.
+This book teaches you the Portuguese that Brazilians speak, from your first greeting to telling a story about last weekend and planning a trip for next month. It is built for adults who speak English, who have little or no Portuguese, and who want to be understood in real situations: a café, a hostel, a job interview, a dinner with a Brazilian family. It is not a phrasebook. It explains why Portuguese works the way it does, using the habits of English as the starting point, so that you can build your own sentences instead of repeating someone else's.
 
 ## 0.1 How to study with this book
 
@@ -39,17 +39,29 @@ Since the 2009 spelling reform, the two spellings are almost identical, with a f
 
 Brazil itself has many accents: the *sh*-like *s* of Rio, the open vowels of the Northeast, the clear *r* of the South. The pronunciation guides in this book describe the standard you hear in São Paulo and on national television, which is understood everywhere.
 
-## 0.3 What A1 and A2 mean
+## 0.3 What A1, A2 and the start of B1 mean
 
-Language levels follow the Common European Framework of Reference, known as the CEFR. You will see two of its levels here.
+Language levels follow the Common European Framework of Reference, known as the CEFR. You will meet two of its levels here, and the first step of a third.
 
 **A1, the beginner.** You can introduce yourself and others, ask and answer simple questions about where you live and what you have, use numbers, times and prices, and take part in a slow, friendly conversation. Lessons 1 to 8 give you this base.
 
 **A2, the elementary user.** You can describe your routine, talk about past events, shop, ask for directions, make polite requests and write short messages about familiar things. Lessons 9 to 13 take you there.
 
+**The start of B1, the independent user.** You can join ideas into longer sentences, talk about future plans and conditions, and follow the main points of a clear conversation. Lesson 14 opens this door with connectors, the future after {{quando}} and {{se}}, and the personal infinitive.
+
 These levels are modest, and that is the point. A1 and A2 are where learners most often stall, because the verbs, the pronouns and the two past tenses all arrive at once. This book slows down exactly there. When you finish, you will not speak like a native, but you will be able to live a normal day in Portuguese and keep learning on your own.
 
-## 0.4 How to read the pronunciation guides
+## 0.4 The five laws of Brazilian Portuguese
+
+Before the first lesson, here is the whole language in five ideas. Each one is explained in the lesson shown in brackets, and each one is the place where English speakers most often slip.
+
+1. **Portuguese is written the way it sounds, but not the way English sounds** (Lesson 1). Vowels can be open, closed or nasal; *t* and *d* before *i* become *tch* and *dj* ({{tia}}, {{dia}}); the initial *r* sounds like an English *h* ({{rua}}); and the stress falls where the accent or the ending tells you. Learn the sounds once and you can read anything.
+2. **Every noun has a gender, and everything around it agrees** (Lessons 2 and 3). There is no neutral *it*: a table is {{a mesa}}, a book is {{o livro}}, and the article and the adjective follow the noun: {{a mesa pequena}}, {{os livros novos}}.
+3. **There are two verbs "to be", and *there is* is {{tem}}** (Lessons 2 and 5). {{Ser}} says what something is; {{estar}} says how it is now and where it is. And Brazilians say {{Tem um banco aqui}} for *There is a bank here*.
+4. **Brazilians say {{você}} and {{a gente}}, and put the small pronouns before the verb** (Lessons 2 and 12). {{Você}} works for almost everyone, {{a gente}} means *we*, and you say {{Me ajuda}}, {{Eu vi ele}}, {{Vou te ligar}}.
+5. **There are two pasts, and the future is "go" + infinitive** (Lessons 9 to 11 and 14). The simple past says what happened ({{comi}}); the imperfect says how things were ({{comia}}); and you say {{Vou comer}} for what you will do. Only a future that depends on {{quando}} or {{se}} needs the special form of Lesson 14.
+
+## 0.5 How to read the pronunciation guides
 
 Next to new Portuguese words you will see a guide in backticks, like `bah-NAH-nah`. It is written with English sounds, so you do not need a special alphabet. Capital letters mark the stressed syllable. A tilde (`~`) marks a nasal vowel. The letters `tch` and `dj` stand for the sounds in *church* and *judge*, `zh` for the *s* in *measure*, `ly` and `ny` for the Portuguese *lh* and *nh*, and a plain `h` at the start of a word for the Brazilian *r*.
 
@@ -57,7 +69,7 @@ Lesson 1 explains the whole system in section 1.3 and teaches the sounds behind 
 
 For **o**, the guide writes the open sound as `aw` and the closed sound as `oh`. One honest limit: a guide cannot show the melody of a sentence or the difference between an open and a closed **e** (both are written `eh`). Use the audio for those.
 
-## 0.5 What you will find in each lesson
+## 0.6 What you will find in each lesson
 
 Every lesson has the same shape, so you always know where you are:
 
@@ -70,26 +82,31 @@ Every lesson has the same shape, so you always know where you are:
 - a **Return** section with three questions from earlier lessons
 - a **Pocket summary** you can photograph and keep on your phone
 
-## 0.6 The map of the book
+At the end of the book you will find nine **Appendices** for consulting: a map of the tenses, the irregular verbs, a pronoun chart, the false friends, tricky genders and plurals, the verbs and their prepositions, a "find your mistake" table, a glossary and a two-minute review map.
 
-| Lesson | Topic | Level |
-|---|---|---|
-| 1 | Sounds and spelling: how to read Portuguese out loud | A1 |
-| 2 | {{Ser}}, pronouns and adjectives: who you are | A1 |
-| 3 | Nouns, articles, gender and number | A1 |
-| 4 | The present tense, negation and questions | A1 |
-| 5 | {{Estar}}, {{ter}}, {{haver}}: where, how, what there is | A1 |
-| 6 | Numbers, time, dates and prices | A1 |
-| 7 | Irregular essentials and modals: {{ir}}, {{fazer}}, {{poder}}, {{querer}}, {{saber}} | A1 |
-| 8 | Possessives, demonstratives, {{gostar}}, {{preferir}} | A1 |
-| 9 | Routines, reflexive verbs, the near future and the progressive | A1–A2 |
-| 10 | The simple past: {{pretérito perfeito}} | A2 |
-| 11 | The imperfect, and choosing between the two pasts | A2 |
-| 12 | Object pronouns and how Brazilians place them | A2 |
-| 13 | Comparing, giving orders, polite requests, {{por}} and {{para}} | A2 |
+## 0.7 The map of the book
+
+The fourteen lessons form four blocks. Each block ends when you can do something real.
+
+| Block | Lesson | Topic | Level |
+|---|---|---|---|
+| **1. The base** | 1 | Sounds and spelling: how to read Portuguese out loud | A1 |
+| | 2 | {{Ser}}, pronouns and adjectives: who you are | A1 |
+| | 3 | Nouns, articles, gender and number | A1 |
+| **2. Present, places, wants** | 4 | The present tense, negation and questions | A1 |
+| | 5 | {{Estar}}, {{ter}}, {{haver}}: where, how, what there is | A1 |
+| | 6 | Numbers, time, dates and prices | A1 |
+| | 7 | Irregular essentials and modals: {{ir}}, {{fazer}}, {{poder}}, {{querer}}, {{saber}} | A1 |
+| | 8 | Possessives, demonstratives, {{gostar}}, {{preferir}} | A1 |
+| **3. Routine, future, past** | 9 | Routines, reflexive verbs, the near future and the progressive | A1–A2 |
+| | 10 | The simple past: {{pretérito perfeito}} | A2 |
+| | 11 | The imperfect, and choosing between the two pasts | A2 |
+| **4. Small words and longer sentences** | 12 | Object pronouns and how Brazilians place them | A2 |
+| | 13 | Comparing, giving orders, polite requests, {{por}} and {{para}} | A2 |
+| | 14 | Connecting ideas, the future with {{quando}} and {{se}}, the personal infinitive | A2–B1 |
 
 Begin with Lesson 1, even if you think you can read Portuguese. The sounds are the foundation, and an hour spent there will pay back in every other lesson.
 
-## 0.7 Before you start
+## 0.8 Before you start
 
 Decide three things now. When in the day will you study? A fixed time beats a good intention. Where can you speak aloud without feeling shy? And who can you greet in Portuguese this week? The sooner someone hears your first {{Bom dia}}, the sooner this book becomes real. Turn the page, and let us start with the sounds.

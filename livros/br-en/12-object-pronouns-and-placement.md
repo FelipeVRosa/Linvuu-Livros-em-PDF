@@ -9,11 +9,17 @@ By the end of this lesson you can say "he called me", "I will call you", "I saw 
 
 Saturday afternoon. You and Clara are organizing a small party and you are texting and talking at the same time.
 
-> **Clara:** {{Emma, você viu o Rafael?}}
-> **Emma:** {{Vi ele ontem. Ele me ligou, mas eu não atendi.}}
-> **Clara:** {{Me ajuda aqui? Eu preciso de alguém pra me dar uma mão.}}
-> **Emma:** {{Claro. Eu te ligo mais tarde. Você já chamou a Marina?}}
-> **Clara:** {{Chamei ela, sim. Ela me falou que vai trazer o bolo. Vou te mandar a lista.}}
+::: dialogo
+**Clara:** {{Emma, você viu o Rafael?}}
+
+**Emma:** {{Vi ele ontem. Ele me ligou, mas eu não atendi.}}
+
+**Clara:** {{Me ajuda aqui? Eu preciso de alguém pra me dar uma mão.}}
+
+**Emma:** {{Claro. Eu te ligo mais tarde. Você já chamou a Marina?}}
+
+**Clara:** {{Chamei ela, sim. Ela me falou que vai trazer o bolo. Vou te mandar a lista.}}
+:::
 
 Translation: *Emma, did you see Rafael? / I saw him yesterday. He called me, but I did not answer. / Can you help me here? I need someone to give me a hand. / Of course. I will call you later. Have you already invited Marina? / I did, yes. She told me she is going to bring the cake. I will send you the list.*
 
@@ -279,13 +285,21 @@ These imperatives come back in Lesson 13, where you will learn how to be more fo
 
 Read this exchange of messages aloud. Notice that each pronoun is placed before the verb it belongs to.
 
-> **Clara:** {{Oi, Emma! Te liguei ontem, mas você não atendeu.}}
-> **Emma:** {{Desculpa! Estava no ônibus e não ouvi o celular. Me liga agora?}}
-> **Clara:** {{Posso te ligar daqui a pouco? Estou esperando o Rafael.}}
-> **Emma:** {{Claro. Ele te ligou?}}
-> **Clara:** {{Ligou, sim. Ele me disse que não vai poder vir. Eu avisei a Marina e ela me falou que vai trazer o bolo mesmo assim.}}
-> **Emma:** {{Que bom! Eu te ajudo com a mesa.}}
-> **Clara:** {{Obrigada! Vou te mandar a lista de compras.}}
+::: dialogo
+**Clara:** {{Oi, Emma! Te liguei ontem, mas você não atendeu.}}
+
+**Emma:** {{Desculpa! Estava no ônibus e não ouvi o celular. Me liga agora?}}
+
+**Clara:** {{Posso te ligar daqui a pouco? Estou esperando o Rafael.}}
+
+**Emma:** {{Claro. Ele te ligou?}}
+
+**Clara:** {{Ligou, sim. Ele me disse que não vai poder vir. Eu avisei a Marina e ela me falou que vai trazer o bolo mesmo assim.}}
+
+**Emma:** {{Que bom! Eu te ajudo com a mesa.}}
+
+**Clara:** {{Obrigada! Vou te mandar a lista de compras.}}
+:::
 
 Translation: *Hi, Emma! I called you yesterday, but you did not answer. / Sorry! I was on the bus and did not hear the phone. Can you call me now? / Can I call you in a little while? I am waiting for Rafael. / Of course. Did he call you? / He did, yes. He told me he will not be able to come. I told Marina and she told me she is going to bring the cake anyway. / Great! I will help you with the table. / Thanks! I will send you the shopping list.*
 
@@ -419,4 +433,4 @@ Come back to Part A and Part E after one day, three days, a week and two weeks, 
 
 ## 12.14 What comes next
 
-In Lesson 13, the last one in this book, you put everything to use. You compare ({{mais alto do que}}), give instructions ({{fale}}, {{vem cá}}), ask politely ({{poderia}}, {{queria}}), choose between {{por}} and {{para}}, and join ideas with {{que}}. At the end there is a checkpoint, so that you can see what you can do in Portuguese now.
+In Lesson 13 you put everything to use. You compare ({{mais alto do que}}), give instructions ({{fale}}, {{vem cá}}), ask politely ({{poderia}}, {{queria}}), choose between {{por}} and {{para}}, and join ideas with {{que}}. Lesson 14 then opens the door to B1, and ends with a checkpoint so that you can see what you can do in Portuguese now.

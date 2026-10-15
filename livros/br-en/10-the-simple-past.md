@@ -9,12 +9,19 @@ By the end of this lesson you can tell what you did, where you went and what hap
 
 It is Monday morning in the office in Belo Horizonte. Paulo, a colleague, sees you at the coffee machine.
 
-> **Paulo:** {{Oi, Emma! Como foi o fim de semana?}}
-> **Emma:** {{Foi ótimo! No sábado eu fui a Ouro Preto com a Clara.}}
-> **Paulo:** {{Vocês foram de ônibus?}}
-> **Emma:** {{Fomos. Saímos às sete e chegamos às dez. Visitamos duas igrejas e almoçamos comida mineira.}}
-> **Paulo:** {{E no domingo?}}
-> **Emma:** {{Fiquei em casa. Dormi bastante, li um livro e não fiz mais nada.}}
+::: dialogo
+**Paulo:** {{Oi, Emma! Como foi o fim de semana?}}
+
+**Emma:** {{Foi ótimo! No sábado eu fui a Ouro Preto com a Clara.}}
+
+**Paulo:** {{Vocês foram de ônibus?}}
+
+**Emma:** {{Fomos. Saímos às sete e chegamos às dez. Visitamos duas igrejas e almoçamos comida mineira.}}
+
+**Paulo:** {{E no domingo?}}
+
+**Emma:** {{Fiquei em casa. Dormi bastante, li um livro e não fiz mais nada.}}
+:::
 
 Translation: *Hi, Emma! How was the weekend? / It was great! On Saturday I went to Ouro Preto with Clara. / Did you go by bus? / Yes, we did. We left at seven and arrived at ten. We visited two churches and had lunch, Minas style. / And on Sunday? / I stayed at home. I slept a lot, read a book and did nothing else.*
 
@@ -227,6 +234,30 @@ Three ways, all common:
 :::
 
 Look at the fifth row. This is a very common error for English speakers: when the situation is **still true now**, Portuguese uses the **present tense** plus {{há}} or {{faz}}: {{Estudo português há seis meses}} (I have been studying Portuguese for six months). When it is over, use the simple past.
+
+### Há or a? Past and future
+
+The little word {{há}} looks at the **past**; {{daqui a}} looks at the **future**; {{a}} measures a **distance**.
+
+| Portuguese | Meaning |
+|---|---|
+| {{Cheguei há dez dias.}} | I arrived ten days ago. |
+| {{Moro aqui há dois anos.}} | I have lived here for two years (and I still do). |
+| {{Saio daqui a dez minutos.}} | I leave in ten minutes. |
+| {{O curso começa daqui a uma semana.}} | The course begins in a week. |
+| {{O hotel fica a cinco minutos a pé.}} | The hotel is five minutes away on foot. |
+| {{Moro a duas quadras daqui.}} | I live two blocks from here. |
+
+### Just did it: acabar de
+
+To say that something has **just** happened, use {{acabar de}} + infinitive. In Brazil, {{acabar}} is normally in the simple past:
+
+- {{Acabei de chegar.}} (I have just arrived.)
+- {{O ônibus acabou de sair.}} (The bus has just left.)
+- {{A Clara acabou de ligar.}} (Clara has just called.)
+- {{Acabamos de almoçar.}} (We have just had lunch.)
+
+Do not translate *have just* with {{ter}}: ~~Tenho acabado de chegar~~. The verb {{acabar}} already contains the idea.
 
 ## 10.6 Questions, negatives and short answers
 

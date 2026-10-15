@@ -3,19 +3,27 @@ eyebrow: Lesson 13
 ---
 # Comparing, giving instructions, asking politely, por and para, and que
 
-By the end of this lesson you can compare two things, give and understand a command or a direction, ask for something politely, choose between {{por}} and {{para}}, and join two ideas with {{que}}. At the end of the lesson you will find a checkpoint of twelve "I can…" statements for the whole book.
+By the end of this lesson you can compare two things, give and understand a command or a direction, ask for something politely, choose between {{por}} and {{para}}, and join two ideas with {{que}}. Lesson 14 then takes you further, to the future and to longer sentences.
 
 ## 13.1 A scene you will live
 
 On your last evening in Belo Horizonte you invite Clara to dinner. You arrive at a small restaurant on a street full of bars.
 
-> **Garçom:** {{Boa noite! Querem sentar aqui dentro ou lá fora?}}
-> **Emma:** {{Aqui dentro, por favor. Eu queria uma mesa pra dois.}}
-> **Garçom:** {{Claro. Fiquem à vontade, podem sentar ali, na janela.}}
-> **Emma:** {{Obrigada. Você poderia me recomendar um prato?}}
-> **Garçom:** {{O peixe é melhor do que a carne hoje. É mais leve e é mais barato. É o prato que todo mundo pede.}}
-> **Emma:** {{Então vou querer o peixe. Obrigada pela dica!}}
-> **Garçom:** {{Imagina! Já trago o cardápio.}}
+::: dialogo
+**Garçom:** {{Boa noite! Querem sentar aqui dentro ou lá fora?}}
+
+**Emma:** {{Aqui dentro, por favor. Eu queria uma mesa pra dois.}}
+
+**Garçom:** {{Claro. Fiquem à vontade, podem sentar ali, na janela.}}
+
+**Emma:** {{Obrigada. Você poderia me recomendar um prato?}}
+
+**Garçom:** {{O peixe é melhor do que a carne hoje. É mais leve e é mais barato. É o prato que todo mundo pede.}}
+
+**Emma:** {{Então vou querer o peixe. Obrigada pela dica!}}
+
+**Garçom:** {{Imagina! Já trago o cardápio.}}
+:::
 
 Translation: *Good evening! Would you like to sit inside or outside? / Inside, please. I'd like a table for two. / Of course. Make yourselves comfortable, you can sit over there, by the window. / Thank you. Could you recommend a dish? / The fish is better than the meat today. It is lighter and it is cheaper. It is the dish that everybody orders. / Then I'll have the fish. Thank you for the tip! / Don't mention it! I'll bring the menu right away.*
 
@@ -93,6 +101,17 @@ Four common adjectives have their own comparative forms. Using {{mais}} with the
 ::: atencao
 **Never say** ~~mais bom~~, ~~mais ruim~~, ~~mais grande~~. Use {{melhor}}, {{pior}} and {{maior}}. One apparent exception: in speech you may hear {{mais ruim}}, but {{pior}} is the form to use and write.
 :::
+
+### Mau, má and mal
+
+Two words are easy to confuse, because the second one hides in the comparison {{pior}}. **{{Mau}}** and **{{má}}** are adjectives, the opposite of {{bom}} and {{boa}}. **{{Mal}}** is an adverb, the opposite of {{bem}}.
+
+| Word | Opposite of | Example |
+|---|---|---|
+| {{mau}} `MAH-oo`, {{má}} `mah` | {{bom}}, {{boa}} (adjective) | {{um mau dia}} (a bad day), {{uma má ideia}} (a bad idea) |
+| {{mal}} `MAH-oo` | {{bem}} (adverb) | {{Dormi mal.}} (I slept badly.) {{Ele fala mal.}} (He speaks badly.) {{Passo mal no calor.}} (I feel unwell in the heat.) |
+
+In Brazilian speech {{mau}} and {{mal}} sound the same, so the difference lives in writing. **Test:** replace the word by its opposite. If {{bom}} or {{boa}} fits, write {{mau}} or {{má}}; if {{bem}} fits, write {{mal}}.
 
 ### The most: the superlative
 
@@ -364,7 +383,7 @@ Read this e-mail aloud. It uses all five tools.
 
 Translation: *Hi, Clara! I got home safely. The trip was longer than I thought, but the flight was as calm as the bus in Belo Horizonte! Thank you for everything: for the hospitality, the food and the tips. The restaurant you recommended is the best in town, and I will never forget the fish we ate. When you can, send me a message. If you come here, let me know in advance: I will take you to see the places where I grew up. A hug, Emma.*
 
-Two verbs in this e-mail, {{puder}} and {{vier}}, are in a form (the future subjunctive) that this book does not teach. Treat {{Quando você puder}} (when you can) and {{Se vier}} (if you come) as ready-made chunks. Now find the comparisons ({{mais longa do que}}, {{tão tranquilo quanto}}, {{o melhor da cidade}}), the command ({{avise-me}}, formal and written), the pronouns ({{me manda}}, {{te levar}}), {{por}} ({{por tudo}}, {{pela hospedagem}}, {{pelas dicas}}), {{para}} ({{para cá}}, {{para conhecer}}) and {{que}}/{{onde}} ({{que você recomendou}}, {{que comemos}}, {{onde eu cresci}}).
+Two verbs in this e-mail, {{puder}} and {{vier}}, are in a form called the future subjunctive, which Lesson 14 explains. For now, treat {{Quando você puder}} (when you can) and {{Se vier}} (if you come) as ready-made chunks. Now find the comparisons ({{mais longa do que}}, {{tão tranquilo quanto}}, {{o melhor da cidade}}), the command ({{avise-me}}, formal and written), the pronouns ({{me manda}}, {{te levar}}), {{por}} ({{por tudo}}, {{pela hospedagem}}, {{pelas dicas}}), {{para}} ({{para cá}}, {{para conhecer}}) and {{que}}/{{onde}} ({{que você recomendou}}, {{que comemos}}, {{onde eu cresci}}).
 
 New words: {{o voo}} `oo VOH-oo` (the flight), {{a hospedagem}} `ah ohs-peh-DAH-zheh~ee` (the hospitality, lodging), {{antecedência}} `ah~-teh-seh-DEH~-see-ah` (advance notice), {{crescer}} `kreh-SER` (to grow up).
 
@@ -506,27 +525,6 @@ Come back to Part A, Part C and Part D after one day, three days, a week and two
 - **Que:** links clauses, never omitted: {{o livro que eu li}}. With a preposition: {{em que}} / {{onde}}, {{com quem}}. {{O que}}: what, and "which" for a whole idea.
 :::
 
-## 13.12 A2 checkpoint
+## 13.12 What comes next
 
-You have reached the end of the book. This checklist shows what you should be able to do in Portuguese now. Take it slowly, with a pen. For each statement, test yourself out loud or in writing. Tick a statement only when you can do it **without looking at the lesson**.
-
-1. **Sounds (Lesson 1).** I can read any Portuguese word aloud with the right stress, a nasal vowel ({{pão}}), the *tch* and *dj* sounds ({{dia}}, {{noite}}), and the "h" sound of the initial *r* ({{rua}}), and spell my name with the Portuguese letter names. *Test:* read the paragraph in Lesson 1.13 aloud, then spell your full name.
-2. **Who I am (Lesson 2).** I can say who I am, where I am from, my nationality and my job with {{ser}}, use {{eu, você, a gente, nós, vocês, eles}} correctly, and make adjectives agree. *Test:* introduce yourself and a friend in six sentences.
-3. **Things (Lesson 3).** I can choose {{o, a, os, as, um, uma}} correctly, guess gender from the ending, make plurals, and use {{no, na, do, da}}. *Test:* name ten objects in your room with the right article.
-4. **Habits and questions (Lesson 4).** I can use regular {{-ar}}, {{-er}} and {{-ir}} verbs in the present, make negatives with {{não}}, and ask with {{quem, o que, onde, quando, como}}. *Test:* write five things you do on Saturday and five questions to a friend.
-5. **Being, having and existing (Lesson 5).** I can choose between {{ser}} and {{estar}}, say where things are, and say that something exists with {{tem}} or {{há}}. *Test:* describe your bedroom in six sentences.
-6. **Numbers and time (Lesson 6).** I can say numbers up to a thousand, tell the time, say a date and ask and give a price. *Test:* say today's date, the time, and the price of a coffee.
-7. **Wanting and being able (Lesson 7).** I can use {{ir, ter, fazer, poder, querer, saber, vir, dizer, ver}} in the present, and distinguish {{saber}} from {{conhecer}}. *Test:* ask three polite questions with {{poder}} and say three things you want to do.
-8. **Mine, yours, this one (Lesson 8).** I can say whose something is with {{meu, seu, dele, dela}}, point with {{esse, aquele, aqui, ali}}, and say what I like and prefer with {{gostar de}} and {{preferir}}. *Test:* talk for thirty seconds about your family and what you like.
-9. **My day and my plans (Lesson 9).** I can describe my routine with reflexive verbs, say what I am going to do with {{ir}} + infinitive, and say what I am doing with {{estar}} + gerund. *Test:* describe a normal day, tomorrow's plan and what you are doing now.
-10. **The past (Lessons 10 and 11).** I can tell what happened with the simple past ({{fui, fiz, vi, comi}}), describe how things were with the imperfect ({{era, tinha, morava}}) and choose between them. *Test:* tell a ten-sentence story about last weekend, with at least three descriptions.
-11. **Small words (Lesson 12).** I can use {{me}} and {{te}} before the verb, say {{vi ele}} and {{dei pra ela}} as Brazilians do, use {{mim}}, {{comigo}} and {{para eu fazer}}, and ask {{Você pode me ajudar?}} *Test:* write five messages to a friend with {{me}} or {{te}}.
-12. **Asking, comparing, joining (Lesson 13).** I can compare things, give an instruction or a direction, make a request with {{queria}}, {{poderia}} or {{gostaria}}, choose {{por}} or {{para}}, and join ideas with {{que}}. *Test:* in a restaurant role-play, ask for a table, a recommendation and the bill.
-
-**How to read your result.** If you can tick **ten to twelve**, you work comfortably at the A2 level and are ready to move on to the next book. If you tick **seven to nine**, go back to the lessons you did not tick and redo their practice before moving on. If you tick **fewer than seven**, do not worry: go back to the first lesson you did not tick and work forward one lesson per week, saying every exercise aloud. In every case, spend ten minutes a day listening to Brazilian Portuguese: podcasts, music, WhatsApp voice messages from your friends. The grammar in this book is the skeleton; the listening will give it flesh.
-
-## 13.13 What comes next
-
-This is the last lesson of the book. You started by learning to read {{bom dia}} aloud. You can now tell a story, ask for things politely, find your way around a Brazilian city, and make a friend feel that you are speaking their language. The next step is to use it every day: with Clara's cake, Seu Antônio's stories, a WhatsApp group, a short trip. At the A2 level you will make mistakes. That is not a problem. Brazilians are generous with learners, and every mistake you correct brings you closer to a natural voice.
-
-{{Parabéns, e até logo!}}
+You can now compare, give instructions, ask politely, choose between {{por}} and {{para}}, and link two ideas with {{que}}. That is the end of the A2 grammar. Lesson 14 opens the door to B1: it teaches you to talk about the **future** with {{quando}} and {{se}}, to join longer sentences with connectors, and to use the personal infinitive that Brazilians use all day without noticing. It also holds the checkpoint for the whole book.

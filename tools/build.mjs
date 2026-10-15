@@ -26,6 +26,8 @@ const slug = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').rep
 // ---------- Markdown ----------
 const md = new MarkdownIt({ html: true, typographer: true, breaks: false });
 md.core.ruler.disable(["replacements"]);
+// guias de pronúncia longos precisam quebrar linha
+md.renderer.rules.code_inline = (tokens, idx) => { const c = tokens[idx].content; return `<code${c.length > 34 ? ' class="lv-longo"' : ''}>${esc(c)}</code>`; };
 // {{texto}} = texto no idioma estudado (Literata)
 md.inline.ruler.before('emphasis', 'alvo', (state, silent) => {
   const s = state.src, i = state.pos;
@@ -79,7 +81,7 @@ md.use(container, 'passo', {
     const t = tokens[idx];
     if (t.nesting === 1) {
       const m = t.info.trim().match(/^passo\s+(\S+)\s*(.*)$/);
-      return `<div class="lv-passo"><div class="lv-passo-num">${esc(m?.[1] ?? '')}</div><div class="lv-passo-corpo"><h4>${esc(m?.[2] ?? '')}</h4>\n`;
+      return `<div class="lv-passo"><div class="lv-passo-num">${esc(m?.[1] ?? '')}</div><div class="lv-passo-corpo"><h4>${md.renderInline(m?.[2] ?? '')}</h4>\n`;
     }
     return '</div></div>\n';
   },

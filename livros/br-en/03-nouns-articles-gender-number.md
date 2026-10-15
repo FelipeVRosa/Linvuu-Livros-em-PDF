@@ -11,11 +11,17 @@ It is Saturday morning at a street market in São Paulo. Tom, a visitor from Lee
 
 ::: dialogo
 **Feirante:** {{Bom dia! O que vai ser hoje, moço?}}
+
 **Tom:** {{Bom dia! Quero um abacaxi e uma melancia, por favor.}}
+
 **Feirante:** {{O abacaxi é bem doce. A melancia também. E as mangas? As mangas são ótimas hoje.}}
+
 **Tom:** {{Então quero duas mangas. E os limões? Os limões são grandes?}}
+
 **Feirante:** {{São, sim. São do interior.}}
+
 **Tom:** {{Perfeito. Quanto é tudo?}}
+
 **Feirante:** {{Fica trinta reais.}}
 :::
 
@@ -229,6 +235,21 @@ This is the one place where you must memorize. Almost all of these words take **
 
 Use the table as a reference, not as something to memorize in one sitting. The default is **-ões**; when a word is not on the -ães or -ãos list, use -ões.
 
+### A plural that changes the vowel sound
+
+A few very common nouns have a closed **o** in the singular and an open **o** in the plural. The spelling does not change; only the sound does. Your ear will notice the difference, your eye will not.
+
+| Singular | Plural | Meaning |
+|---|---|---|
+| {{o ovo}} `OH-voo` | {{os ovos}} `AW-vooss` | egg |
+| {{o olho}} `OH-lyoo` | {{os olhos}} `AW-lyooss` | eye |
+| {{o jogo}} `ZHOH-goo` | {{os jogos}} `ZHAW-gooss` | game |
+| {{o osso}} `OH-soo` | {{os ossos}} `AW-sooss` | bone |
+| {{o fogo}} `FOH-goo` | {{os fogos}} `FAW-gooss` | fire |
+| {{o almoço}} `ow-MOH-soo` | {{os almoços}} `ow-MAW-sooss` | lunch |
+
+Most nouns keep the same vowel in the plural, so learn these from the audio rather than from a rule.
+
 ### Agreement in the whole noun phrase
 
 Article, noun and adjective all agree: the noun sets the gender and number, and the others follow.
@@ -243,6 +264,33 @@ Article, noun and adjective all agree: the noun sets the gender and number, and 
 | {{um livro interessante}} | {{uns livros interessantes}} |
 
 Colors follow the same rule. {{Branco}} `BRAH~-koo`, {{preto}} `PREH-too`, {{vermelho}} `ver-MEH-lyoo`, {{amarelo}} `ah-mah-REH-loo` have four forms: {{branco, branca, brancos, brancas}}. {{Azul}} and {{verde}} `VER-djee` have two: {{azul / azuis}}, {{verde / verdes}}. So: {{a casa branca}}, {{os carros azuis}}.
+
+### The diminutive: small, kind and softer
+
+Brazilians add **-inho** (masculine) or **-inha** (feminine) to nouns, adjectives and even adverbs all day long. The ending does not only mean *small*. It also means affection, politeness, softening and "just".
+
+| Rule | Example |
+|---|---|
+| Ends in an unstressed **-o**, **-a** or **-e**: drop it and add -inho / -inha | {{livro}} → {{livrinho}} `lee-VREE-nyoo`; {{casa}} → {{casinha}} `kah-ZEE-nyah`; {{leite}} → {{leitinho}} |
+| Spelling keeps the sound: **c** → **qu**, **g** → **gu** | {{pouco}} → {{pouquinho}} `poh-KEE-nyoo`; {{amigo}} → {{amiguinho}} `ah-mee-GEE-nyoo` |
+| Ends in a stressed vowel, a nasal or a consonant: add -zinho / -zinha | {{café}} → {{cafezinho}} `kah-feh-ZEE-nyoo`; {{pão}} → {{pãozinho}} `pow~-ZEE-nyoo`; {{flor}} → {{florzinha}} `flor-ZEE-nyah` |
+| Plural of a diminutive in -zinho | {{pães}} → {{pãezinhos}}; {{cafés}} → {{cafezinhos}} |
+
+What it does in a sentence:
+
+| Meaning | Example |
+|---|---|
+| small | {{uma casinha no campo}} (a little house in the country) |
+| affection | {{Que bonitinho!}} (How cute!); {{Aninha}}, {{Paulinho}} (names with warmth) |
+| softening a request | {{Espera um minutinho.}} (Wait a little minute.) {{Me vê um cafezinho?}} |
+| "just", "only" | {{Só um pouquinho.}} (Just a little.) |
+| intensity | {{agorinha}} (right now), {{cedinho}} (very early), {{devagarinho}} (very slowly), {{tudinho}} (every bit) |
+
+The opposite ending, **-ão**, makes things bigger or more impressive, and nicknames too: {{carro}} → {{carrão}} (a great car), {{festa}} → {{festão}} (a huge party), {{Paulo}} → {{Paulão}}.
+
+::: atencao
+**Some words only look like diminutives.** {{Vizinho}} (neighbour), {{caminho}} (path), {{sobrinho}} (nephew), {{cozinha}} (kitchen) and {{carinho}} (affection) are ordinary words. And {{um cafezinho}} is the standard name for the small black coffee Brazilians offer everywhere. Do not add -inho to every word: use it to be kind, and let the audio show you which words take it.
+:::
 
 ## 3.7 Contractions: em, de, por and the article
 

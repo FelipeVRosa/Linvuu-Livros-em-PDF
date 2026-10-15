@@ -9,12 +9,19 @@ By the end of this lesson you can describe how things used to be, say what was h
 
 Your neighbor Seu Antônio, who is seventy-two, sits in front of the building every afternoon. Today you stop and ask him about his childhood.
 
-> **Emma:** {{Seu Antônio, como era a sua infância?}}
-> **Seu Antônio:** {{Ah, eu morava numa fazenda em Minas. A casa era pequena, mas tinha um quintal enorme. Todo dia eu acordava às cinco e ajudava meu pai.}}
-> **Emma:** {{E o senhor gostava?}}
-> **Seu Antônio:** {{Gostava! Mas um dia, eu tinha dez anos, caí do cavalo e quebrei o braço. Que susto!}}
-> **Emma:** {{Nossa! E o senhor estava com medo?}}
-> **Seu Antônio:** {{Estava, claro. Mas no dia seguinte eu já estava de novo no cavalo.}}
+::: dialogo
+**Emma:** {{Seu Antônio, como era a sua infância?}}
+
+**Seu Antônio:** {{Ah, eu morava numa fazenda em Minas. A casa era pequena, mas tinha um quintal enorme. Todo dia eu acordava às cinco e ajudava meu pai.}}
+
+**Emma:** {{E o senhor gostava?}}
+
+**Seu Antônio:** {{Gostava! Mas um dia, eu tinha dez anos, caí do cavalo e quebrei o braço. Que susto!}}
+
+**Emma:** {{Nossa! E o senhor estava com medo?}}
+
+**Seu Antônio:** {{Estava, claro. Mas no dia seguinte eu já estava de novo no cavalo.}}
+:::
 
 Translation: *Seu Antônio, what was your childhood like? / Ah, I lived on a farm in Minas. The house was small, but it had an enormous backyard. Every day I woke up at five and helped my father. / And did you like it? / I did! But one day, when I was ten, I fell off the horse and broke my arm. What a scare! / Wow! And were you afraid? / Yes, of course. But the next day I was already on the horse again.*
 
@@ -257,6 +264,29 @@ The participle is built from the stem + {{-ado}} for {{-ar}} verbs and {{-ido}} 
 | {{vir}} | {{vindo}} `VEE~-doo` |
 
 At this level, you only need to **recognize** {{tinha + participle}}. If you cannot use it yet, two simple pasts and {{já}} will get your meaning across.
+
+### Estar + participle: the result of an action
+
+The participle also works as an adjective to say that something **is now in the state that an action produced**. It agrees with its noun, like any adjective.
+
+- {{A loja está aberta.}} (The shop is open.) {{As lojas estão abertas.}}
+- {{A porta está fechada.}} (The door is closed.)
+- {{O jantar está feito.}} (Dinner is ready.)
+- {{A conta está paga.}} (The bill is paid.)
+
+With {{ser}}, the same participle makes the passive: {{A porta foi aberta}} (The door was opened).
+
+**Two participles for some verbs.** A handful of verbs have a regular participle in {{-ado/-ido}} and a short one. As a rule, the short form goes with {{estar}} and {{ser}}, and the regular form goes with {{ter}}.
+
+| Verb | With {{ter}} | With {{estar}} / {{ser}} |
+|---|---|---|
+| {{aceitar}} | {{Eu tinha aceitado.}} | {{O convite foi aceito.}} |
+| {{acender}} | {{Eu tinha acendido a luz.}} | {{A luz está acesa.}} |
+| {{entregar}} | {{Ele tinha entregado.}} | {{O pedido está entregue.}} |
+| {{pagar}} | {{Eu já tinha pagado.}} | {{A conta está paga.}} |
+| {{ganhar}}, {{gastar}} | {{Eu tinha ganhado.}} | {{O prêmio foi ganho.}} |
+
+In speech, Brazilians often use the short form of {{pagar}}, {{ganhar}} and {{gastar}} after {{ter}} too ({{Eu já tinha pago}}). Both are accepted; after {{estar}} and {{ser}}, only the short form is right.
 
 ## 11.7 Telling a story: a model
 

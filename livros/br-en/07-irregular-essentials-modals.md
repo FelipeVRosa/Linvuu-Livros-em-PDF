@@ -11,11 +11,17 @@ Sam, who works in São Paulo for a few months, is planning Saturday with two col
 
 ::: dialogo
 **Bruno:** {{E aí, Sam? O que você quer fazer no sábado?}}
+
 **Sam:** {{Quero conhecer o centro. Vocês podem ir comigo?}}
+
 **Ana:** {{Eu posso, mas só de tarde. De manhã tenho que trabalhar.}}
+
 **Bruno:** {{Eu vou também. Você sabe pegar o metrô?}}
+
 **Sam:** {{Sei, sim. Mas não sei onde fica a estação.}}
+
 **Bruno:** {{Sem problema. Eu vou com você.}}
+
 **Ana:** {{Combinado! Às duas na estação.}}
 :::
 
@@ -126,6 +132,18 @@ Look at the pattern in the {{eu}} forms: they end in **-go** ({{digo}}, {{trago}
 ::: dica
 A spelling reform note. The third-person plural of {{ler}}, {{ver}} and {{crer}} is {{leem}}, {{veem}}, {{creem}}, with no circumflex since 2009. Among these marks that distinguish words, the circumflex survives only in the pairs {{tem / têm}} and {{vem / vêm}} (and their compounds, like {{contém / contêm}}), in {{pôr}}, to separate it from the preposition {{por}}, and in {{pôde}} (past: *could*), to separate it from {{pode}}.
 :::
+
+### Verbs that change a vowel
+
+Three small families of {{-ir}} verbs change the vowel of the stem. The change happens in one place only, so each pattern is easy to learn.
+
+| Change | Verbs | {{eu}} | {{você}}, {{ele}} | {{nós}} |
+|---|---|---|---|---|
+| **e → i** in the {{eu}} form | {{preferir}}, {{sentir}}, {{vestir}}, {{servir}}, {{seguir}}, {{repetir}}, {{mentir}} | {{prefiro}}, {{sinto}} `SEE~-too`, {{visto}} `VEES-too`, {{sirvo}} `SEER-voo`, {{sigo}} `SEE-goo`, {{repito}}, {{minto}} | {{prefere}}, {{sente}}, {{veste}}, {{serve}}, {{segue}}, {{repete}}, {{mente}} | {{preferimos}}, {{sentimos}} |
+| **o → u** in the {{eu}} form | {{dormir}}, {{cobrir}}, {{tossir}} | {{durmo}}, {{cubro}} `KOO-broo`, {{tusso}} | {{dorme}}, {{cobre}}, {{tosse}} | {{dormimos}}, {{cobrimos}} |
+| **u → o** in {{você}}, {{ele}} and {{vocês}} | {{subir}}, {{fugir}}, {{sumir}}, {{engolir}} | {{subo}}, {{fujo}}, {{sumo}}, {{engulo}} | {{sobe}} `SOH-bee`, {{foge}} `FOH-zhee`, {{some}} `SOH-mee`, {{engole}} | {{subimos}}, {{fugimos}} |
+
+Three {{-ir}} verbs have a special {{eu}} form with a consonant change: {{pedir}} → {{peço}}, {{medir}} → {{meço}}, {{ouvir}} → {{ouço}}. In every family, {{nós}} returns to the vowel of the infinitive, so the change is easy to hear and easy to remember: **the stressed vowel changes, the unstressed one does not.**
 
 ## 7.7 The modal verbs: poder, querer, saber, dever, precisar
 

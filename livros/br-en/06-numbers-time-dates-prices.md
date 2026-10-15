@@ -11,13 +11,21 @@ Daniel stands at the ticket window of the bus station in São Paulo. He wants to
 
 ::: dialogo
 **Daniel:** {{Boa tarde. Tem ônibus para Curitiba hoje?}}
+
 **Atendente:** {{Tem, sim. Tem um às quatro e meia e outro às oito da noite.}}
+
 **Daniel:** {{Quanto custa a passagem?}}
+
 **Atendente:** {{Cento e vinte e cinco reais.}}
+
 **Daniel:** {{Posso pagar no cartão?}}
+
 **Atendente:** {{Pode, sim. Débito ou crédito?}}
+
 **Daniel:** {{Crédito. Que horas são agora?}}
+
 **Atendente:** {{São duas e quinze.}}
+
 **Daniel:** {{Então vou pegar o das quatro e meia. Obrigado!}}
 :::
 
